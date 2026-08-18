@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "ఎందుకంటే ⟨అది⟩ ఆలోచన లేని జాతి, వారిలో వివేకం లేదు.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "జాతి"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "నాశనమైన"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ఆలోచన"
+    },
+    {
+      "surface": "המה",
+      "gloss": "వారు"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "మరియు లేదు"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "వారిలో"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "వివేకం"
+    }
+  ],
+  "timestamp": "2026-08-17T21:36:41.709060211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 29,
+  "translation": "లాబాన్ ⟨את⟩ ఆ ఊరి మగవారందరినీ పిలిచి వింది చేసెను.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "పిలిచి చేర్చెను"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "లాబాన్"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఆ ఊరి మగవారందరినీ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "అందరినీ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "మగవారిని"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ఆ ఊరి"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "వింది"
+    }
+  ],
+  "timestamp": "2026-08-18T04:10:56.462274892Z",
+  "model": "glm-5.3"
+}

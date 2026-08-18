@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "యాహ్వే, మాకు ఎమైయెనో గుర్తుంచుకో; చూడు, ⟨את⟩ మా నిందను కనుగొను.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "గుర్తుంచుకో"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఎమి"
+    },
+    {
+      "surface": "היה",
+      "gloss": "జరిగెను"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "మాకు"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "చూడు"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "మరియు కనుగొను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "మా నింద"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "మా నింద"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:33.821384846Z",
+  "model": "glm-5.3"
+}

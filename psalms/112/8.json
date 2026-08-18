@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 112,
+  "translation": "అతని హృదయం ఆధారపడి ఉంది, అతడు భయపడడు — తన శత్రువులను చూసే వరకు.",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "ఆధారపడింది"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "అతని హృదయం"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "భయపడడు"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "చూసే"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "తన శత్రువులను"
+    }
+  ],
+  "timestamp": "2026-08-18T01:26:59.063071184Z",
+  "model": "glm-5.3"
+}

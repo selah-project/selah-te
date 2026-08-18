@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "నతీనీయులు — జీహా కుమారులు, ఖసూఫా కుమారులు, తబ్బావోతు కుమారులు.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "నతీనీయులు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "జీహా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "ఖసూఫా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "తబ్బావోతు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:24.702143678Z",
+  "model": "glm-5.3"
+}

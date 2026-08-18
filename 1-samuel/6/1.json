@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "యాహ్వే ఆలయపు పెట్టె పెలిష్తీయుల ⟨the⟩ దేశమున ఏడు నెలలు ఉండెను.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ఉండెను"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "పెట్టె"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "దేశమున"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "పెలిష్తీయుల"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "నెలలు"
+    }
+  ],
+  "timestamp": "2026-08-17T22:07:39.992452419Z",
+  "model": "glm-5.3"
+}

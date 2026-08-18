@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "కాలేబు ఉపపత్ని మాకా ⟨ఆమె⟩ షెబెర్‌ను ⟨את⟩ తిర్హానాను కనెను.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ఉపపత్ని"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "కాలేబు"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "మాకా"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "కనెను"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "షెబెర్"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "తిర్హానా"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "తిర్హానా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:20:56.231819339Z",
+  "model": "glm-5.3"
+}

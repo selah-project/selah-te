@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "లేవీ కుమారులు: గెర్షోను, కెహాతు, మరారీ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "లేవీ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "గెర్షోను"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "కెహాతు"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "మరారీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:23:36.789822502Z",
+  "model": "glm-5.3"
+}

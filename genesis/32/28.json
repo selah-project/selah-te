@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "అతడు అతనితో — నీ పేరు ఏమిటి? — అని అడిగెను; అతడు — యాకోవ్ — అని పలికెను.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "పలికెను"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "అతనితో"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఏమిటి"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "నీ పేరు"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "పలికెను"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "యాకోవ్"
+    }
+  ],
+  "timestamp": "2026-08-17T17:22:30.927444125Z",
+  "model": "glm-5.3"
+}

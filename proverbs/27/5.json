@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "బహిరంగ ఖండన ⟨ఉండెనని⟩ మంచిది, దానికంటె దాగిన ప్రేమ మేలైనది కాదు.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ఖండన"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "బహిరంగ"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "ప్రేమ కంటె"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "దాగిన"
+    }
+  ],
+  "timestamp": "2026-08-18T01:55:00.475838479Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "అతడు లేచి వెళ్ళగా, యిహోనాతాను నగరమునకు వచ్చెను.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "లేచి"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "వెళ్ళగా"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "యిహోనాతాను"
+    },
+    {
+      "surface": "בא",
+      "gloss": "వచ్చెను"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "నగరమునకు"
+    }
+  ],
+  "timestamp": "2026-08-17T22:16:52.286541188Z",
+  "model": "glm-5.3"
+}

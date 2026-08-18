@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "యాహ్వే కృపలు — కాబట్టి మనము అంతమొందలేదు; ఆయన కరుణలు తరిగిపోలేదు.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "కృపలు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "כי",
+      "gloss": "కాబట్టి"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "మనము అంతమొందలేదు"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుచేతనైనా"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "తరిగిపోలేదు"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "ఆయన కరుణలు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:52.988783267Z",
+  "model": "glm-5.3"
+}

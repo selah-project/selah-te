@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "శిబిరం బయట నీకు ఒక చోటు ⟨ఉండాలి⟩, నీవు అక్కడికి బయటకు వెళ్ళవలెను.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "మరియు ఒక చోటు"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ఉండాలి"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "బయట"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "శిబిరానికి"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "మరియు నీవు వెళ్ళవలెను"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "అక్కడికి"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "బయటకు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:25:19.509957729Z",
+  "model": "glm-5.3"
+}

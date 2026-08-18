@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "ఆ రాత్రియే జరిగెను; ఎలోహీం మాట నాతానునకు — ఈ విధముగా తెలియజేయుచున్నది.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "జరిగెను"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "రాత్రి"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "జరిగెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "אל",
+      "gloss": "నకు"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "నాతానునకు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "తెలియజేయుచున్నది"
+    }
+  ],
+  "timestamp": "2026-08-18T03:34:38.898823947Z",
+  "model": "glm-5.3"
+}

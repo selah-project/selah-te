@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 35,
+  "translation": "రాహేలు కుమారులు — యోసేపు మరియు బిన్యామీను.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "రాహేలు"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "యోసేపు"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "మరియు బిన్యామీను"
+    }
+  ],
+  "timestamp": "2026-08-17T17:24:48.773424405Z",
+  "model": "glm-5.3"
+}

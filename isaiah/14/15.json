@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "అయితే షెయోలుకు నిన్ను దింపబడతావు, గుంట అంచులకు.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "అయితే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కు"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "షెయోలుకు"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "నిన్ను దింపబడతావు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కు"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "అంచులకు"
+    },
+    {
+      "surface": "בור",
+      "gloss": "గుంట"
+    }
+  ],
+  "timestamp": "2026-08-17T23:11:07.009087911Z",
+  "model": "glm-5.3"
+}

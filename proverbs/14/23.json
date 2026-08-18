@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "సకల శ్రమ యందు లాభము ⟨ఉండును⟩; పెదవుల మాట మాత్రము కొరతకు కారణమగును.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "సకల...యందు"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "శ్రమ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ఉండును"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "లాభము"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "మరియు మాట"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "పెదవుల"
+    },
+    {
+      "surface": "אך",
+      "gloss": "మాత్రము"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "కొరతకు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:16:22.283833162Z",
+  "model": "glm-5.3"
+}

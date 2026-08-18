@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మెరారీ కుమారులు — మఖ్లీ, మూషీ; మఖ్లీ కుమారులు — ఎలాజార్, కిష్.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "మెరారీ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "మఖ్లీ"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "మూషీ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "మఖ్లీ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ఎలాజార్"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "కిష్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:37:52.183945993Z",
+  "model": "glm-5.3"
+}

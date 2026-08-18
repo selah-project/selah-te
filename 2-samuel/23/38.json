@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "ఇరా ⟨the⟩ యిత్రీయుడు, గారేబు ⟨the⟩ యిత్రీయుడు.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ఇరా"
+    },
+    {
+      "surface": "గרב היתרי היתרי",
+      "gloss": ""
+    },
+    {
+      "surface": "",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-17T22:33:34.226073061Z",
+  "model": "glm-5.3"
+}

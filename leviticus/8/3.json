@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు సమస్త సమాజమును ⟨את⟩ సమావేశ గొలుపుము మీటింగు గుడారము ద్వారము వద్దకు.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "సమస్త సమాజమును"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "సమాజము"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "సమావేశ గొలుపుము"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వద్దకు"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ద్వారము"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "గుడారము"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "మీటింగు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:07:47.283283984Z",
+  "model": "glm-5.3"
+}

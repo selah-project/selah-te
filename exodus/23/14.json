@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "సంవత్సరములో మూడు పర్వదినాలు నాకు ఆచరింపుడు.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "పర్వదినాలు"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "ఆచరింపుడు"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "సంవత్సరములో"
+    }
+  ],
+  "timestamp": "2026-08-18T04:17:21.233134674Z",
+  "model": "glm-5.3"
+}

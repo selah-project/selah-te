@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 36,
+  "translation": "మరియు ⟨ఇవి⟩ ఎసావు వంశావళి — అతడే ⟨అతడు⟩ ఎదోం.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "మరియు ⟨ఇవి⟩"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "వంశావళి"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ఎసావు"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అతడే ⟨అతడు⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ఎదోం"
+    }
+  ],
+  "timestamp": "2026-08-17T17:25:39.145869375Z",
+  "model": "glm-5.3"
+}

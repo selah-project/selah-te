@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 48,
+  "translation": "మరియు బిన్యామీను సీమ మీద తూర్పు అంచునుండి పడమటి అంచు వరకు: షిమ్యోను ఒకటి.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "మరియు మీద"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "సీమ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "బిన్యామీను"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "అంచునుండి"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "తూర్పు"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "అంచు"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "పడమటి"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "షిమ్యోను"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకటి"
+    }
+  ],
+  "timestamp": "2026-08-18T00:29:00.030145013Z",
+  "model": "glm-5.3"
+}

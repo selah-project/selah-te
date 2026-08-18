@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఇబ్హార్, ఎలీషామా, ఎలీఫెలెత్.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "మరియు ఇబ్హార్"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "మరియు ఎలీషామా"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "మరియు ఎలీఫెలెత్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:22:29.256059352Z",
+  "model": "glm-5.3"
+}

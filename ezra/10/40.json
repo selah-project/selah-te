@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మఖ్నద్బాయ్, షషాయ్, షారాయ్,",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "మఖ్నద్బాయ్"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "షషాయ్"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "షారాయ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:05:23.849806512Z",
+  "model": "glm-5.3"
+}

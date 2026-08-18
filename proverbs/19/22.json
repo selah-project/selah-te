@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "మనిషి యొక్క కోరిక ⟨అతని⟩ దయ; అసత్యవంతుడి కంటే పేదవాడు మేలు.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "కోరిక"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "అతని దయ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "మరియు మేలు"
+    },
+    {
+      "surface": "רש",
+      "gloss": "పేదవాడు"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "వ్యక్తి కంటే"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "అసత్యవంతుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:49:07.188783055Z",
+  "model": "glm-5.3"
+}

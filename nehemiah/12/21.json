@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "హిల్కియా తరపున ఖషబ్యాహు; యెదాయా తరపున నెతనేల్.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "హిల్కియా తరపున"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ఖషబ్యాహు"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "యెదాయా తరపున"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "నెతనేల్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:17:57.737421237Z",
+  "model": "glm-5.3"
+}

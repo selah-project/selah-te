@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "నీ తండ్రి సోదరి నగ్నత్వమును బయలుపరచవద్దు; ఆమె నీ తండ్రి మాంసము ⟨ఆమె⟩.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "నగ్నత్వము"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "సోదరి"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "నీ తండ్రి"
+    },
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "బయలుపరచవద్దు"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "మాంసము"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "నీ తండ్రి"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ఆమె"
+    }
+  ],
+  "timestamp": "2026-08-18T04:25:39.456230993Z",
+  "model": "glm-5.3"
+}

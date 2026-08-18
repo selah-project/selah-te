@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "ఏ విధవరాయినను, అనాథనైనను మీరు బాధింపకూడదు.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ఏ...అయినను"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "విధవ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "మరియు అనాథ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "మీరు బాధింపరు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:49:30.969495185Z",
+  "model": "glm-5.3"
+}

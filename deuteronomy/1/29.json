@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "నేను మీతో చెప్పితిని — భయపడకుడిరి, వారికి భీతులు కాకుడిరి.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "చెప్పితిని"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "మీతో"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాకుడిరి"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "భయపడకుడిరి"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు కాకుడిరి"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "భీతులు కాకుడిరి"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "వారికి"
+    }
+  ],
+  "timestamp": "2026-08-17T20:42:58.682139629Z",
+  "model": "glm-5.3"
+}

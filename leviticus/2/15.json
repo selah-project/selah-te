@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "దానిపై నూనెను పోయాలి, దానిపై లెబోనా (ధూపం) పెట్టాలి; అది ⟨ఒక⟩ మిన్హా.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "మరియు పోయాలి"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "దానిపై"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "నూనె"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "మరియు పెట్టాలి"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "దానిపై"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "లెబోనా"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "మిన్హా"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    }
+  ],
+  "timestamp": "2026-08-17T18:03:56.441725954Z",
+  "model": "glm-5.3"
+}

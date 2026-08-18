@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "మరియు యాహ్వే మాట నా యొద్దకు వచ్చెను, సెలవిచ్చెను —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు ఆగున్నది"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నా యొద్దకు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చెను"
+    }
+  ],
+  "timestamp": "2026-08-18T00:14:02.144414347Z",
+  "model": "glm-5.3"
+}

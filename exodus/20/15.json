@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "దొంగతనం చేయవద్దు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "దొంగతనం చేయ"
+    }
+  ],
+  "timestamp": "2026-08-17T17:46:30.301647799Z",
+  "model": "glm-5.3"
+}

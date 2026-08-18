@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "కొట్టువానికి తన కన్నం ఇచ్చును, నిందతో నిండి ఉండును.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ఇచ్చును"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "కొట్టువానికి"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "కన్నం"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "నిండి ఉండును"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "నిందతో"
+    }
+  ],
+  "timestamp": "2026-08-18T02:32:06.098262078Z",
+  "model": "glm-5.3"
+}

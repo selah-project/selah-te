@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 94,
+  "translation": "చెవిని నాటినవాడు వినడు గదా? కన్నును మలిచినవాడు చూచును గదా?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "నాటినవాడు"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "చెవిని"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "గదా"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "వినడు"
+    },
+    {
+      "surface": "אם",
+      "gloss": "లేదా"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "మలిచినవాడు"
+    },
+    {
+      "surface": "עין",
+      "gloss": "కన్నును"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "గదా"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "చూచును"
+    }
+  ],
+  "timestamp": "2026-08-18T01:19:57.293240553Z",
+  "model": "glm-5.3"
+}

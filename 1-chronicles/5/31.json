@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "అబీషువా ⟨את⟩ బుక్కీని జనింపజేసెను; బుక్కీ ⟨את⟩ ఉజ్జీని జనింపజేసెను.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "అబీషువా"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "జనింపజేసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "బుక్కీని"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "బుక్కీ"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "బుక్కీ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "జనింపజేసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఉజ్జీని"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ఉజ్జీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:22:54.456498372Z",
+  "model": "glm-5.3"
+}

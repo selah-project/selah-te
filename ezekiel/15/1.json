@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 15:1",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "యాహ్వే నుండి నా వద్దకు వాక్యము వచ్చెను, తద్దాప్యం —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ఆ నాడు సంభవించెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "వాక్యము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నా వద్దకు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "తద్దాప్యం"
+    }
+  ],
+  "timestamp": "2026-08-18T05:58:25.362903038Z",
+  "model": "glm-5.3"
+}

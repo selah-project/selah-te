@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "యాలా కుమారులు, దర్కోన్ కుమారులు, గిద్దేల్ కుమారులు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "యాలా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "దర్కోన్"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "గిద్దేల్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:23.286580380Z",
+  "model": "glm-5.3"
+}

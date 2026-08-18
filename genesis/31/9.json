@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "మరియు ఎలోహీం మీ తండ్రి ⟨את⟩ పశుసంపదను తీసికొని నాకు ఇచ్చెను.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "తీసికొనెను"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "పశుసంపదను"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "పశుసంపద"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "మీ తండ్రి"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ఇచ్చెను"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:22:52.207422246Z",
+  "model": "glm-5.3"
+}

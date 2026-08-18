@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "మరియు రాజ్యపు సింహాసనంపై షెలోమోహు కూర్చున్నాడు.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "మరియు"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "కూర్చున్నాడు"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "షెలోమోహు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "సింహాసనం"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "రాజ్యపు"
+    }
+  ],
+  "timestamp": "2026-08-17T22:35:24.796359508Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "ఎందుకంటే తుదిఫలం మాత్రం ఉంది, నీ నిరీక్షణ ఖండించబడదు.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "אם",
+      "gloss": "మాత్రం"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ఉంది"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "తుదిఫలం"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "మరియు నీ నిరీక్షణ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ఖండించబడదు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:52:43.888838511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "అమర్యా కుమారుడు, అజర్యా కుమారుడు, మెరాయోత్ కుమారుడు,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "అమర్యా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "అజర్యా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "మెరాయోత్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:04:24.546926604Z",
+  "model": "glm-5.3"
+}

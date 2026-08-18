@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "వయిఫ్తా, వఅష్నా, వనేత్సిబ్.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "వయిఫ్తా"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "వఅష్నా"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "వనేత్సిబ్"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:12.542340173Z",
+  "model": "glm-5.3"
+}

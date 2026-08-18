@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "గాననాయకునికి, తంత్రీవాద్యాలతో; దావీదు గీతము.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "గాననాయకునికి"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "తంత్రీవాద్యాలతో"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "గీతము"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదుకు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:52:42.249059613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "ఎద్దులు లేనిచో ⟨the⟩ తొట్టి ఖాళీగా ఉండును; ఎద్దు బలముచేత పంట విరివిగా ఉండును.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "లేనిచో"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ఎద్దులు"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "తొట్టి"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ఖాళీగా"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "మరియు విరివి"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "పంట"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "బలముచేత"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ఎద్దు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:46:01.091552002Z",
+  "model": "glm-5.3"
+}

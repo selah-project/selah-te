@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "దిగువ గుంటనుండి నీ నామమును, యాహ్వే, పిలిచితిని.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "పిలిచితిని"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "నీ నామమును"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "గుంటనుండి"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "దిగువ"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:43.875669967Z",
+  "model": "glm-5.3"
+}

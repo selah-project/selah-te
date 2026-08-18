@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "సెనాహ కుమారులు — మూడు వేల తొమ్మిది వందల ముప్పై మంది.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "సెనాహ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "వేల"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "తొమ్మిది"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "మరియు ముప్పై"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:00.526152555Z",
+  "model": "glm-5.3"
+}

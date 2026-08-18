@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "మరియు యాహ్వే మోషేతో ఇట్లు అనుగ్రహించెను —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అనుగ్రహించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇట్లు చెప్పుటకు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:55:52.194267932Z",
+  "model": "glm-5.3"
+}

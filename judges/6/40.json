@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఎలోహీం ఆ రాత్రి అలా చేసాడు; బొచ్చు మీద మాత్రమే పొడి ⟨was⟩ ఉండి, మొత్తం ⟨the⟩ భూమి మీద తడి ఉంది.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "మరియు చేసాడు"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "כן",
+      "gloss": "అలా"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ఆ రాత్రి"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు ఉంది"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "పొడి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "... మీద"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "బొచ్చు"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "మాత్రమే"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "మరియు ... మీద"
+    },
+    {
+      "surface": "כל",
+      "gloss": "మొత్తం"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ఉంది"
+    },
+    {
+      "surface": "טל",
+      "gloss": "తడి"
+    }
+  ],
+  "timestamp": "2026-08-17T21:54:19.621745943Z",
+  "model": "glm-5.3"
+}

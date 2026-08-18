@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "ఈ క్రియలు బెనాయా, యెహోయాదా కుమారుడు, చేసెను; ముగ్గురు బలవంతులలో అతనికి ఒక పేరు ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "బెనాయా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "యెహోయాదా"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "అతనికి"
+    },
+    {
+      "surface": "שם",
+      "gloss": "పేరు"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "ముగ్గురిలో"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "బలవంతుల"
+    }
+  ],
+  "timestamp": "2026-08-18T03:29:43.923681953Z",
+  "model": "glm-5.3"
+}

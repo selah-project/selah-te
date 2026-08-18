@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నేను ⟨the⟩ షారోను గుబులుపువ్వు, లోయల ⟨the⟩ కలువ.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "గుబులుపువ్వు"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "షారోను"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "కలువ"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "లోయల"
+    }
+  ],
+  "timestamp": "2026-08-18T02:24:37.080099662Z",
+  "model": "glm-5.3"
+}

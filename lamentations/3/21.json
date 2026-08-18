@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఈ సంగతి నా హృదయమునకు తిరిగి చేర్చుకొనుచున్నాను; అందుచేత నేను ఆశపడుచున్నాను.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ఈ సంగతి"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "తిరిగి చేర్చుకొనుచున్నాను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "నకు"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "నా హృదయము"
+    },
+    {
+      "surface": "על",
+      "gloss": "అందుచేత"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ఆ కారణముచే"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ఆశపడుచున్నాను"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:52.987798597Z",
+  "model": "glm-5.3"
+}

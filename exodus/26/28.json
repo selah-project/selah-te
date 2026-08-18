@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "మధ్య కీలు పలకల మధ్యనుండి ఒక కొననుండి మరొక కొన వరకు దూసుకెళ్లును.",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "మరియు కీలు"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "మధ్య"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "మధ్యనుండి"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "పలకల"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "దూసుకెళ్లును"
+    },
+    {
+      "surface": "מן",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "కొన"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "కొన"
+    }
+  ],
+  "timestamp": "2026-08-17T17:51:57.767233814Z",
+  "model": "glm-5.3"
+}

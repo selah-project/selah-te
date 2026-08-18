@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "తానాకు రాజు ఒకడు; మెగిద్దో రాజు ఒకడు.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "తానాకు"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "మెగిద్దో"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:44:17.708826161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "మిత్స్రయిమునకు చెయ్యి చాపితిమి, అష్షూరునకు — అప్పముతో తృప్తిపొందుటకు.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "మిత్స్రయిము"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "చాపితిమి"
+    },
+    {
+      "surface": "יד",
+      "gloss": "చెయ్యి"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "అష్షూరు"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "తృప్తిపొందుటకు"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "అప్పము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:41.154304090Z",
+  "model": "glm-5.3"
+}

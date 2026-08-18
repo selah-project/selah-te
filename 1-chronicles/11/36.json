@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "ఖేఫెర్ మెఖేరాతీయుడు, అఖియా పెలోనీయుడు,",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ఖేఫెర్"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "మెఖేరాతీయుడు"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "అఖియా"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "పెలోనీయుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:18.412086476Z",
+  "model": "glm-5.3"
+}

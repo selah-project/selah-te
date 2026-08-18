@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "బానీ కుమారులలో — మాఅదాయ్, అమ్రాం, వె-ఊఎల్.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "కుమారులలో"
+    },
+    {
+      "surface": "בני",
+      "gloss": "బానీ"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "మాఅదాయ్"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "అమ్రాం"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "మరియు ఊఎల్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:06:14.777498210Z",
+  "model": "glm-5.3"
+}

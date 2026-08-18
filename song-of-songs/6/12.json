@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "నేను గ్రహించలేదు — నా ప్రాణము నన్ను నా జనుల నదీబు రథములలో ఉంచెను.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "నేను గ్రహించలేదు"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "నా ప్రాణము"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "నన్ను ఉంచెను"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "రథములలో"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "నా జనుల"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "నదీబు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:24:10.708936617Z",
+  "model": "glm-5.3"
+}

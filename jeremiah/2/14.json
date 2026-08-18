@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఇశ్రాయేలు దాసుడా? గృహజాత దాసుడా? అయితే ఎందుకు అతడు బలిపశువు అయ్యాడు?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "దాసుడా"
+    },
+    {
+      "surface": "ఙשראל",
+      "gloss": "ఇశ్రాయేలు"
+    },
+    {
+      "surface": "אם",
+      "gloss": "లేదా"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "పుట్టిన"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ఇంటి"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అతడు"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "ఎందుకు"
+    },
+    {
+      "surface": "היה",
+      "gloss": "అయ్యాడు"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "బలిపశువుగా"
+    }
+  ],
+  "timestamp": "2026-08-17T23:33:33.154694386Z",
+  "model": "glm-5.3"
+}

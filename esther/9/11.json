@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "ఆ రోజున శూషాన్ కోటలో చంపబడినవారి సంఖ్య రాజు సన్నిధికి వచ్చెను.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ఆ రోజున"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "వచ్చెను"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "సంఖ్య"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "చంపబడినవారి"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "శూషాన్ లో"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "కోట"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "సన్నిధికి"
+    },
+    {
+      "surface": "హהמלచ",
+      "gloss": "రాజు"
+    }
+  ],
+  "timestamp": "2026-08-18T13:02:29.621681128Z",
+  "model": "glm-5.3"
+}

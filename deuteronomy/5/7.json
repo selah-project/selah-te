@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "నీకు మరియు దేవుడులు నా ముఖమునకు ఎదుట ఉండరు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יִהְיֶה",
+      "gloss": "ఉండు"
+    },
+    {
+      "surface": "לְךָ",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "אֱלֹהִים",
+      "gloss": "దేవుడులు"
+    },
+    {
+      "surface": "אֲחֵרִים",
+      "gloss": "మరియు"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "ఎదుట"
+    },
+    {
+      "surface": "פָּנָיַ",
+      "gloss": "ముఖమునకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:53:15.193565209Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మాకాహు కుమారుడు ⟨అయిన⟩ ఖానాన్, మరియు మిత్నీయుడు ⟨అయిన⟩ యోషాఫాత్;",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ఖానాన్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "మాకాహు"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "మరియు యోషాఫాత్"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "మిత్నీయుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:27:21.205141388Z",
+  "model": "glm-5.3"
+}

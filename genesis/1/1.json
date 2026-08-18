@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "ఆదియందు ఎలోహీం ⟨את⟩ ఆకాశమును ⟨את⟩ భూమిని సృజించెను.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "ఆదియందు"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "సృజించెను"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఆకాశమును"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ఆకాశమును"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "భూమిని"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమిని"
+    }
+  ],
+  "timestamp": "2026-08-17T17:02:36.125046604Z",
+  "model": "glm-5.3"
+}

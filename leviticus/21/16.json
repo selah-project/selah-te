@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "మరియు యాహ్వే మోషేతో ఇలా అని మాట్లాడెను.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా అని"
+    }
+  ],
+  "timestamp": "2026-08-18T04:26:40.858578631Z",
+  "model": "glm-5.3"
+}

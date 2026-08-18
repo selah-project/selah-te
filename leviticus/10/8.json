@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మరియు యాహ్వే అహరోనుతో పలికెను, సెలవిచ్చెను.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు పలికెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "అహరోను"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చెను"
+    }
+  ],
+  "timestamp": "2026-08-17T18:14:18.182843542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 38,
+  "translation": "యాహ్వే నుండి మాట నా దగ్గరకు వచ్చెను, తద్వారా చెప్పుచున్నాను.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు ఆగింది"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే యొక్క"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నా దగ్గరకు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "చెప్పుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:23:07.663745940Z",
+  "model": "glm-5.3"
+}

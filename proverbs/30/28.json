@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "సమామిత్‌ను చేతులతో పట్టుకోవచ్చు, అయినా అది రాజు భవనాలలో ఉండును.",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "సమామిత్‌ను"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "చేతులతో"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "పట్టుకోవచ్చు"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "భవనాలలో"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:55:45.812428744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మరియు ⟨అది⟩ తీయనిది, ఆ ⟨సూర్యుని⟩ చూచుట కళ్ళకు మంచిది.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "మరియు తీయనిది"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ఆ వెలుగు"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "మరియు మంచిది"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "కళ్ళకు"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "చూచుట"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "సూర్యుని"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ఆ సూర్యుని"
+    }
+  ],
+  "timestamp": "2026-08-18T06:21:08.455232703Z",
+  "model": "glm-5.3"
+}

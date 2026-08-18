@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "⟨మరియు⟩ నువ్వు దొంగతనం చేయవద్దు.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "మరియు...వద్దు"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "నువ్వు దొంగతనం చేయవద్దు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:53:01.561251291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "గెర్షోనీయులకు — లాదాన్ మరియు షిమ్‌యీ.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "గెర్షోనీయులకు"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "లాదాన్"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "మరియు షిమ్‌యీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:36:32.217405627Z",
+  "model": "glm-5.3"
+}

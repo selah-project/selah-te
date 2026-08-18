@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-samuel 14:32",
+  "book": "1-samuel",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "⟨and⟩ ⟨the⟩ ప్రజ లూటము మీదకు దూకిరి, గొఱ్ఱెలను గొడుగులను గొడుగు పిల్లలను పట్టుకొని, నేలమీద ⟨את⟩ ⟨them⟩ వధించిరి; ⟨and⟩ ⟨the⟩ ప్రజ ⟨on⟩ ⟨the⟩ రక్తముతో తినిరి.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "దూకిరి"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ ప్రజ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "మీదకు"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "లూటము"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "పట్టుకొని"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "గొఱ్ఱెలను"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "గొడుగులను"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "పిల్లలను"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "గొడుగు"
+    },
+    {
+      "surface": "וישחטו",
+      "gloss": "వధించిరి"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "నేలమీద"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "తినిరి"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ ప్రజ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨on⟩"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "రక్తముతో"
+    }
+  ],
+  "timestamp": "2026-08-17T22:10:48.350087675Z",
+  "model": "glm-5.3"
+}

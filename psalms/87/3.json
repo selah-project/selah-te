@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 87,
+  "translation": "మహిమగల విషయాలు ⟨నీ⟩ గురించి మాటలాయె — ఓ ఎలోహీం నగరమా. సెలా.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "మహిమగల విషయాలు"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "మాటలాయె"
+    },
+    {
+      "surface": "בך",
+      "gloss": "నీ గురించి"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "నగరమా"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "సెలా"
+    }
+  ],
+  "timestamp": "2026-08-18T01:18:28.029284445Z",
+  "model": "glm-5.3"
+}

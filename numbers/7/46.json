@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "పాప యజ్ఞమునకు మేకల మగపిల్ల ఒకటి.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "మేకల మగపిల్ల"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకల"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "పాప యజ్ఞమునకు"
+    }
+  ],
+  "timestamp": "2026-08-17T19:22:02.818132171Z",
+  "model": "glm-5.3"
+}

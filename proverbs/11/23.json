@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "నీతిమంతుల కోరిక మేలే; దుర్మార్గుల ఆశ క్రోధం.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "కోరిక"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "నీతిమంతుల"
+    },
+    {
+      "surface": "אך",
+      "gloss": "మాత్రమే"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మేలు"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ఆశ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "దుర్మార్గుల"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "క్రోధం"
+    }
+  ],
+  "timestamp": "2026-08-18T01:43:52.897959593Z",
+  "model": "glm-5.3"
+}

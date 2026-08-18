@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "అవి వ్యర్థము, మోసముల ⟨is⟩ క్రియ; వాటి దర్శన సమయమందు అవి నశించును.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "వ్యర్థము"
+    },
+    {
+      "surface": "המה",
+      "gloss": "అవి"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "క్రియ"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "మోసముల"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "సమయమందు"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "వాటి దర్శన"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "నశించును"
+    }
+  ],
+  "timestamp": "2026-08-17T23:38:43.973331003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఎందుకంటే ఆజ్ఞ ⟨is⟩ దీపము, తోరా ⟨is⟩ వెలుగు, మరియు శిక్షణ యొక్క తిరునివేదనలు ⟨are⟩ జీవమార్గము.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "נר",
+      "gloss": "దీపము"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ఆజ్ఞ"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "మరియు తోరా"
+    },
+    {
+      "surface": "אור",
+      "gloss": "వెలుగు"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "మరియు మార్గము"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "జీవము"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "తిరునివేదనలు"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "శిక్షణ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:40:48.054400930Z",
+  "model": "glm-5.3"
+}

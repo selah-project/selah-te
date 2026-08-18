@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 148,
+  "translation": "యువకులు మరియు కన్యలు కూడా; వృద్ధులు బాలురతో కలిసి,",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "యువకులు"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "మరియు కూడా"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "కన్యలు"
+    },
+    {
+      "surface": "ఖకెనిఝ",
+      "gloss": "వృద్ధులు"
+    },
+    {
+      "surface": "עם",
+      "gloss": "తో కలిసి"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "బాలురు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:37:07.570171122Z",
+  "model": "glm-5.3"
+}

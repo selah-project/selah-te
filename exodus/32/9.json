@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "యాహ్వే మోషేతో చెప్పెను — నేను ⟨את⟩ ఈ ప్రజను చూచితిని, ఇదిగో, గట్టి-మెడ గల ప్రజ ఇదియే.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "చెప్పెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషేతో"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "చూచితిని"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఈ ప్రజను"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ప్రజ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ఇదిగో"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ప్రజ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "గట్టి"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "మెడ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ఇదియే"
+    }
+  ],
+  "timestamp": "2026-08-18T07:16:11.780190208Z",
+  "model": "glm-5.3"
+}

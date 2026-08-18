@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "మూర్ఖుడి చేతిలో జ్ఞానము కొనుటకు ధర ⟨ఉండటకు⟩ ఎందుకు? అతనికి హృదయము ⟨ఉండటం⟩ లేదు కదా.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ఎందుకు"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ధర"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "చేతిలో"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "మూర్ఖుడి"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "కొనుటకు"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "జ్ఞానము"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "మరియు హృదయము"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేదు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:47:39.698759883Z",
+  "model": "glm-5.3"
+}

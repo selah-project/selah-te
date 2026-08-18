@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "హాము కుమారులు: కూషు, మిత్రాయిము, పూతు, కనాను.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חם",
+      "gloss": "హాము"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "కూషు"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "మిత్రాయిము"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "పూతు"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "కనాను"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:59.785194342Z",
+  "model": "glm-5.3"
+}

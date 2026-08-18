@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "హొర్మా రాజు ఒకడు; అరాదు రాజు ఒకడు;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "హొర్మా"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "అరాదు"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:44:09.708312960Z",
+  "model": "glm-5.3"
+}

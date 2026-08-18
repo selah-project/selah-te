@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "అపెక్ రాజు — ఒకడు; లష్షారోన్ రాజు — ఒకడు;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "אפק",
+      "gloss": "అపెక్"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "לשרון",
+      "gloss": "లష్షారోన్"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:44:20.118106587Z",
+  "model": "glm-5.3"
+}

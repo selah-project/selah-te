@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఒక ఆవిరి భూమినుండి పైకి లేచి ⟨את⟩ నేల యొక్క మొత్తం ముఖాన్ని తడిపెను.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "మరియు ఆవిరి"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "పైకి లేచెను"
+    },
+    {
+      "surface": "מן",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "మరియు తడిపెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "మొత్తం ముఖాన్ని"
+    },
+    {
+      "surface": "כל",
+      "gloss": "మొత్తం"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ముఖం"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "నేల"
+    }
+  ],
+  "timestamp": "2026-08-17T17:04:32.499014798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "మేకలలో ఒక్క మగ మేకపిల్ల, మీకు ప్రాయశ్చిత్తము చేయుటకు.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "మగ మేకపిల్ల"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకలలో"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక్క"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ప్రాయశ్చిత్తము చేయుటకు"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "మీకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:46:53.525169849Z",
+  "model": "glm-5.3"
+}

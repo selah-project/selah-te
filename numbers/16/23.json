@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 16:23",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "యాహ్వే మోషేతో ఇలా తెలియజేయుచున్నాడని మాటలాడెను:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా తెలియజేయుచున్నాడని"
+    }
+  ],
+  "timestamp": "2026-08-18T04:40:27.439115108Z",
+  "model": "glm-5.3"
+}

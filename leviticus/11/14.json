@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మరియు ⟨את⟩ దాయా, ⟨את⟩ అయ్యా — తన జాతి ప్రకారం.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "దాయా"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "దాయా"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "అయ్యా"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "అయ్యా"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "తన జాతి ప్రకారం"
+    }
+  ],
+  "timestamp": "2026-08-17T18:12:00.593167650Z",
+  "model": "glm-5.3"
+}

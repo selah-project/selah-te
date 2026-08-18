@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "అజ్మావెత్ బఖరుమీయుడు, ఎల్యాఖ్బా షాల్బోనీయుడు,",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "అజ్మావెత్"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "బఖరుమీయుడు"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "ఎల్యాఖ్బా"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "షాల్బోనీయుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:18.411526838Z",
+  "model": "glm-5.3"
+}

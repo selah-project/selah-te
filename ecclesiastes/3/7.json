@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "చించుటకు ఒక కాలం, కుట్టుటకు ఒక కాలం; మౌనించుటకు ఒక కాలం, మాట్లాడుటకు ఒక కాలం.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ఒక కాలం"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "చించుటకు"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "మరియు ఒక కాలం"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "కుట్టుటకు"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ఒక కాలం"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "మౌనించుటకు"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "మరియు ఒక కాలం"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "మాట్లాడుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:42.642706091Z",
+  "model": "glm-5.3"
+}

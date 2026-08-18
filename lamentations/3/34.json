@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "భూమి యొక్క సమస్త బందీలను తన పాదముల క్రింద నలిపి వేయుటకు ⟨అతడు చేయడు⟩.",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "నలిపి వేయుటకు"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "క్రింద"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "తన పాదముల"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "బందీలను"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "భూమి యొక్క"
+    }
+  ],
+  "timestamp": "2026-08-18T06:19:05.154136088Z",
+  "model": "glm-5.3"
+}

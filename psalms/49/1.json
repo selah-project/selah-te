@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 49,
+  "translation": "సంగీతగాన నాయకునికి; కోరాహు కుమారులకు; ఒక మజ్మోరు.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "సంగీతగాన నాయకునికి"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "కుమారులకు"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "కోరాహు"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "మజ్మోరు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:06:19.648253295Z",
+  "model": "glm-5.3"
+}

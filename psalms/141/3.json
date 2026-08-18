@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 141,
+  "translation": "యాహ్వే, నా నోటి కొరకు కావలి ఉంచుము; నా పెదవుల తలుపు కాపాడుము.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "ఉంచుము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "కావలి"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "నా నోటి కొరకు"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "కాపాడుము"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "דל",
+      "gloss": "తలుపు"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "నా పెదవుల"
+    }
+  ],
+  "timestamp": "2026-08-18T01:36:01.947946434Z",
+  "model": "glm-5.3"
+}

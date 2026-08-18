@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "సెనాహ్ కుమారులు — మూడు వేల ఆరు వందల ముప్పై.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "సెనాహ్"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "వేల"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "మరియు ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "మరియు ముప్పై"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:51.532396963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "రాము నకు — యెరహ్మెలు యొక్క ప్రథముడు — కుమారులుండిరి: మాత్సు, యామీను, ఏకెరు.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ఉండిరి"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "רם",
+      "gloss": "రాము"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ప్రథముడు"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "యెరహ్మెలు"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "మాత్సు"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "యామీను"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "ఏకెరు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:35:02.796373872Z",
+  "model": "glm-5.3"
+}

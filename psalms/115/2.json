@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 115,
+  "translation": "ఎందుకు జాతులు చెప్పాలి — \"వారి ఎలోహీం ఇప్పుడు ఎక్కడ?\" అని?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ఎందుకు"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "చెప్పాలి"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "జాతులు"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ఎక్కడ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ఇప్పుడు"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "వారి ఎలోహీం"
+    }
+  ],
+  "timestamp": "2026-08-18T01:27:30.247144120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "వినువు ఓ యిస్రాయేల్ — యాహ్వే మన ఎలోహీం, యాహ్వే ⟨is⟩ ఒకడే.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "వినువు"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ఓ యిస్రాయేల్"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "మన ఎలోహీం"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడే"
+    }
+  ],
+  "timestamp": "2026-08-18T04:53:31.263880163Z",
+  "model": "glm-5.3"
+}

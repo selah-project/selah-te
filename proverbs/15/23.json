@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "తన నోటి సమాధానము వలన మనిషికి సంతోషము; తగిన సమయమందు మాట — ఎంత మంచిది!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "సంతోషము"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "మనిషికి"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "సమాధానము వలన"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "తన నోటి"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "మరియు మాట"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "తగిన సమయమందు"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఎంత"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచిది"
+    }
+  ],
+  "timestamp": "2026-08-18T01:46:57.124926603Z",
+  "model": "glm-5.3"
+}

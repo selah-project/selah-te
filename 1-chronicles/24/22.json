@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "యిత్సహారీయులలో షెలోమోత్; షెలోమోత్ కుమారులలో యాఖత్.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "యిత్సహారీయులలో"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "షెలోమోత్"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "కుమారులలో"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "షెలోమోత్"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "యాఖత్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:36:23.887101220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 34:1",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 34,
+  "translation": "యాహ్వే మోషేతో మాట్లాడి ఇలా సెలవిచ్చెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడి"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా సెలవిచ్చెను"
+    }
+  ],
+  "timestamp": "2026-08-17T20:35:06.934378208Z",
+  "model": "glm-5.3"
+}

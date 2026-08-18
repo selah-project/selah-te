@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "యాహ్వే మోషేతో మరియు అహరోనుతో మాట్లాడి ⟨ఈలా⟩ చెప్పెను:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడి"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "మరియు ... తో"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "అహరోను"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "చెప్పుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:23:57.893076651Z",
+  "model": "glm-5.3"
+}

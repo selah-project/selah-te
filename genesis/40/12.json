@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 40,
+  "translation": "అతనితో యోసేఫు ⟨చెప్పెను⟩: దీని వ్యాఖ్య — మూడు రెమ్మలు మూడు దినములు ⟨అవి⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "మరియు అతడు అనెను"
+    },
+    {
+      "surface": "לו",
+      "gloss": "అతనితో"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "యోసేఫు"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "వ్యాఖ్య"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "రెమ్మలు"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "దినములు"
+    },
+    {
+      "surface": "הם",
+      "gloss": "అవి"
+    }
+  ],
+  "timestamp": "2026-08-18T04:13:05.123861277Z",
+  "model": "glm-5.3"
+}

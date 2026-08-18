@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "ఒబేద్-ఎదోముకు దక్షిణమునకు; అతని కుమారులకు ఆసుప్పీం గృహము.",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "ఒబేద్-కు"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ఎదోము"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "దక్షిణమునకు"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "అతని కుమారులకు"
+    },
+    {
+      "surface": "בית",
+      "gloss": "గృహము"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "ఆసుప్పీం"
+    }
+  ],
+  "timestamp": "2026-08-18T03:38:51.437401622Z",
+  "model": "glm-5.3"
+}

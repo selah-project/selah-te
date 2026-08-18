@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 8:11",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "బాల్-హామోన్ సమీపంలో షెలోమోహ్‌కు ఒక ద్రాక్షతోట ఉండెను; ⟨את⟩ ⟨తోటను⟩ కాపరులకు అప్పగించెను; ప్రతివాడు దాని ఫలముతో వెయ్యి వెండి తెచ్చెను.",
+  "tokens": [
+    {
+      "surface": "ఛరం",
+      "gloss": ""
+    },
+    {
+      "surface": "హయాహ్",
+      "gloss": ""
+    },
+    {
+      "surface": "లిష్లోమోహ్",
+      "gloss": ""
+    },
+    {
+      "surface": "బెవాఅల్",
+      "gloss": ""
+    },
+    {
+      "surface": "హామోన్",
+      "gloss": ""
+    },
+    {
+      "surface": "నాతాన్",
+      "gloss": ""
+    },
+    {
+      "surface": "ఎత్",
+      "gloss": "⟨את⟩",
+      "marks": "తోటను"
+    },
+    {
+      "surface": "హకెరెమ్",
+      "gloss": ""
+    },
+    {
+      "surface": "లినోతెరిమ్",
+      "gloss": ""
+    },
+    {
+      "surface": "ఇష్",
+      "gloss": ""
+    },
+    {
+      "surface": "యావో",
+      "gloss": ""
+    },
+    {
+      "surface": "బెపిర్యో",
+      "gloss": ""
+    },
+    {
+      "surface": "ఎలెఫ్",
+      "gloss": ""
+    },
+    {
+      "surface": "కెసెఫ్",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-18T02:27:30.541905055Z",
+  "model": "glm-5.3"
+}

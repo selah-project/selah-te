@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "మరియు మోషే కుమారుడైన గెర్షోమ్ కుమారుడు షెబూయేల్ భాండాగారాలపై అధినేత.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "మరియు షెబూయేల్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "గెర్షోమ్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడైన"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "అధినేత"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "భాండాగారాల"
+    }
+  ],
+  "timestamp": "2026-08-18T03:39:30.700307876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "విగ్రహాలు పూర్తిగా అదృశ్యమగును.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "విగ్రహాలు"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "పూర్తిగా"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "అదృశ్యమగును"
+    }
+  ],
+  "timestamp": "2026-08-17T23:06:11.290222564Z",
+  "model": "glm-5.3"
+}

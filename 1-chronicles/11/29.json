@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "సిబ్బెఖాయ్ ⟨ది⟩ హుషాతీ, ఇలాయ్ ⟨ది⟩ అహోహీ.",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "సిబ్బెఖాయ్"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "హుషాతీ"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "ఇలాయ్"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "అహోహీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:27:57.685940084Z",
+  "model": "glm-5.3"
+}

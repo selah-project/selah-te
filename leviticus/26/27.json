@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "మరియు ఇదంతటితో కూడ మీరు నాకు వినకపోయి, నాతో వైర భావంతో నడచినయెడల,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "మరియు ఒకవేళ"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ఇదంతటితో కూడ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "వినక"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "మీరు వినరు"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "మీరు నడచినయెడల"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "నాతో"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "వైర భావంతో"
+    }
+  ],
+  "timestamp": "2026-08-18T04:30:30.370409525Z",
+  "model": "glm-5.3"
+}

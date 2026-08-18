@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 36,
+  "translation": "మరియు ఏసావు సేయీరు పర్వతమందు నివసించెను; ఏసావే ⟨is⟩ ఎదోము.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "మరియు నివసించెను"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ఏసావు"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "పర్వతమందు"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "సేయీరు"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ఏసావు"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అతడే"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ఎదోము"
+    }
+  ],
+  "timestamp": "2026-08-17T17:25:13.710059095Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మరొక నెబో వారి మనుషులు — యాభై రెండు.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "మనుషులు"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "నెబో"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "మరొక"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "యాభై"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "రెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:48.297210308Z",
+  "model": "glm-5.3"
+}

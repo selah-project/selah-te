@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "యాహ్వే రక్షణ కొరకు ఆశపట్టి నిశ్శబ్దంగా ఎదురుచూయుట మంచిది.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "మరియు ఆశపడుట"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "మరియు నిశ్శబ్దంగా ఉండుట"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "రక్షణ కొరకు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే యొక్క"
+    }
+  ],
+  "timestamp": "2026-08-18T02:32:27.625397772Z",
+  "model": "glm-5.3"
+}

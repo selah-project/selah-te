@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "ఈ ఆజ్ఞ — నేను నీకు ఈ నాడు ఆజ్ఞాపించుచున్నది — నీకు అతీతమైనది ⟨is⟩ కాదు, దూరమైనది ⟨is⟩ కాదు.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ఆజ్ఞ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దానిని"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "నీకు ఆజ్ఞాపించుచున్న"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ఈ నాడు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "అతీతమైనది"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు కాదు"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "దూరమైనది"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    }
+  ],
+  "timestamp": "2026-08-17T21:34:18.751207662Z",
+  "model": "glm-5.3"
+}

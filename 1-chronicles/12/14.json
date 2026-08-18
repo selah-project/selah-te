@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "యిర్మెయాహు పదవవాడు, మఖ్బన్నాయ్ పదకొండవవాడు.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "యిర్మెయాహు"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "పదవవాడు"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "మఖ్బన్నాయ్"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "పదకొండ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…వవాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:31:22.755312532Z",
+  "model": "glm-5.3"
+}

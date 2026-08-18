@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "ఖాము కుమారులు: కూషు, మిత్స్రాయిము, పూతు, కనాను.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ఖాము"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "కూషు"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "మరియు మిత్స్రాయిము"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "మరియు పూతు"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "మరియు కనాను"
+    }
+  ],
+  "timestamp": "2026-08-18T04:08:31.367576819Z",
+  "model": "glm-5.3"
+}

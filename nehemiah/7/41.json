@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "పష్‌చూరు కుమారులు — వెయ్యి రెండు వందల నలభై ఏడు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "పష్‌చూరు"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వెయ్యి"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "రెండు వందల"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "నలభై"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ఏడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:40.880684098Z",
+  "model": "glm-5.3"
+}

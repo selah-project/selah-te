@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "కేదేషు రాజు ఒకడు; కర్మెలునకు ⟨ఉన్న⟩ యోక్నెయాము రాజు ఒకడు.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "కేదేషు"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "యోక్నెయాము"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "కర్మెలునకు ⟨ఉన్న⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:44:17.709056602Z",
+  "model": "glm-5.3"
+}

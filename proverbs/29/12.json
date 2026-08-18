@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 29,
+  "translation": "అబద్ధపు మాట వినేలా చెవినిచ్చే ఏలికకు — అతని సేవకులందరూ దుర్మార్గులు.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "ఏలిక"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "చెవినిచ్చే"
+    },
+    {
+      "surface": "על",
+      "gloss": "విషయమై"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "అబద్ధపు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "అందరూ"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "అతని సేవకుల"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "దుర్మార్గులు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:55:32.991074473Z",
+  "model": "glm-5.3"
+}

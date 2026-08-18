@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "యికన్యా బంధితుని కుమారులు — షెఅల్తీఎల్ అతని కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "యికన్యా"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "బంధితుడు"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "షెఅల్తీఎల్"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "అతని కుమారుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:23:01.746745505Z",
+  "model": "glm-5.3"
+}

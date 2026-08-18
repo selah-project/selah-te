@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "పదకొండవది ఎల్యాషీవుకు, పన్నెండవది యాకీముకు.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "ఎల్యాషీవుకు"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "పదకొండవ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…కొండు"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "యాకీముకు"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "పన్నెండవ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…నెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:36:05.530999535Z",
+  "model": "glm-5.3"
+}

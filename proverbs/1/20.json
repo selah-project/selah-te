@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "జ్ఞానం బయట కేకలు వేస్తుంది; వీధుల్లో తన స్వరాన్ని ఇస్తుంది.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "జ్ఞానం"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "బయట"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "కేకలు వేస్తుంది"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "వీధుల్లో"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ఇస్తుంది"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "తన స్వరాన్ని"
+    }
+  ],
+  "timestamp": "2026-08-18T01:38:05.988607242Z",
+  "model": "glm-5.3"
+}

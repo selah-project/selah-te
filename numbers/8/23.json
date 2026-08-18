@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 8:23",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "యాహ్వే మోషేతో ఇలా ఉట్టంకించడం కొరకు మాటలాడెను:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా ఉట్టంకించడం కొరకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:36:35.782465708Z",
+  "model": "glm-5.3"
+}

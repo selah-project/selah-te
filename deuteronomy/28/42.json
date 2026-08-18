@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "నీ మొత్తం చెట్లను మరియు నీ భూమి ఫలాన్ని దోమలు ఆక్రమించుకొనును.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "మొత్తం"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "నీ చెట్లను"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "మరియు ఫలాన్ని"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "నీ భూమి"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "అది ఆక్రమించుకొనును"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ఆ దోమ మూగలి"
+    }
+  ],
+  "timestamp": "2026-08-17T21:31:24.644939685Z",
+  "model": "glm-5.3"
+}

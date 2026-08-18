@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "కారణము — మీ కన్నులే ⟨את⟩ యాహ్వే యొక్క ⟨the⟩ గొప్ప క్రియను అంతటినీ ⟨he⟩ చేసినది చూసియున్నవి.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "కారణము"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "మీ కన్నులు"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "చూచుచున్నవి"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "అంతటినీ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "అంతటినీ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "క్రియ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "గొప్ప"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేనిని"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసెను"
+    }
+  ],
+  "timestamp": "2026-08-18T08:32:48.141070291Z",
+  "model": "glm-5.3"
+}

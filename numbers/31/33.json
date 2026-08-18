@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "మరియు పశువులు ఏబది వేల రెండు,",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "మరియు పశువులు"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "రెండు"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "మరియు ఏబది"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వేలు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:47:54.741086914Z",
+  "model": "glm-5.3"
+}

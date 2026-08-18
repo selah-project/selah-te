@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "మరియు ఒకవేళ నీ కానుక కుండలో వండినదైతే, నూనెతో చేనగపిండితో చేయబడాలి.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "మరియు ఒకవేళ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "కానుక"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "కుండ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "నీ కానుక"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "చేనగపిండి"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "నూనెతో"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "చేయబడాలి"
+    }
+  ],
+  "timestamp": "2026-08-17T18:04:28.685295824Z",
+  "model": "glm-5.3"
+}

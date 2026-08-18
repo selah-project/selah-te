@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "కన్ను బదులుగా కన్ను, పన్ను బదులుగా పన్ను, చెయ్యి బదులుగా చెయ్యి, కాలు బదులుగా కాలు.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "కన్ను"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "బదులుగా"
+    },
+    {
+      "surface": "עין",
+      "gloss": "కన్ను"
+    },
+    {
+      "surface": "שן",
+      "gloss": "పన్ను"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "బదులుగా"
+    },
+    {
+      "surface": "שן",
+      "gloss": "పన్ను"
+    },
+    {
+      "surface": "יד",
+      "gloss": "చెయ్యి"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "బదులుగా"
+    },
+    {
+      "surface": "יד",
+      "gloss": "చెయ్యి"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "కాలు"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "బదులుగా"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "కాలు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:49:26.104624076Z",
+  "model": "glm-5.3"
+}

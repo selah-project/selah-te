@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "సల్లాయ్ వంశమునకు కల్లాయ్; అమోక్ వంశమునకు ఏబెర్;",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "సల్లాయ్ వంశమునకు"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "కల్లాయ్"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "అమోక్ వంశమునకు"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ఏబెర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:16:40.794954248Z",
+  "model": "glm-5.3"
+}

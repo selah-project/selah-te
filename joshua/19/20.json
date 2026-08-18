@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "రబ్బీతు, కిష్యోను, ఏబెజు.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "మరియు రబ్బీతు"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "మరియు కిష్యోను"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "మరియు ఏబెజు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:47:54.368037355Z",
+  "model": "glm-5.3"
+}

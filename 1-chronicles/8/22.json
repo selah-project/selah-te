@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు యిష్పాన్, మరియు ఏవెర్, మరియు ఎలీయేల్.",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "మరియు యిష్పాన్"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "మరియు ఏవెర్"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "మరియు ఎలీయేల్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:49.007217688Z",
+  "model": "glm-5.3"
+}

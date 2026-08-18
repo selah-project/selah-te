@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 29,
+  "translation": "ఎనిమిదవ నాటికి మీకు సంగమం ఉండును; ఏ పని పనిని కూడా మీరు చేయరాదు.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "నాటికి"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ఎనిమిదవ"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "సంగమం"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ఉండును"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీకు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ఏ కూడా"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "పని"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "పనిని"
+    },
+    {
+      "surface": "לא",
+      "gloss": "రాదు"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "మీరు చేయ"
+    }
+  ],
+  "timestamp": "2026-08-17T20:24:46.912684686Z",
+  "model": "glm-5.3"
+}

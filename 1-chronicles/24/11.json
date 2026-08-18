@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "తొమ్మిదవది యేషువాకు, పదవది షెకన్యాహువుకు.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "యేషువాకు"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "తొమ్మిదవది"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "షెకన్యాహువుకు"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "పదవది"
+    }
+  ],
+  "timestamp": "2026-08-18T06:36:05.530784554Z",
+  "model": "glm-5.3"
+}

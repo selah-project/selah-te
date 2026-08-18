@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నా కన్ను నా ప్రాణానికి దుఃఖం కలిగించింది, నా పట్టణ కుమార్తెలందరి వలన.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "నా కన్ను"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "దుఃఖం కలిగించింది"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "నా ప్రాణానికి"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "…వలన-అందరి"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "కుమార్తెల"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "నా పట్టణ"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:57.433135791Z",
+  "model": "glm-5.3"
+}

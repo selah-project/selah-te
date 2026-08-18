@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు అబీషువా, మరియు నామాన్, మరియు అహోహా.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "మరియు అబీషువా"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "మరియు నామాన్"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "మరియు అహోహా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:26:07.337042484Z",
+  "model": "glm-5.3"
+}

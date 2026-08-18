@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "యాహ్వే మోషేతో మరియు అహరోనుతో మాటలాడెను — సెలవిచ్చుచు.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "మరియు తో"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "అహరోను"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:38:42.733152437Z",
+  "model": "glm-5.3"
+}

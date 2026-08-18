@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "మరియు దన్నా, మరియు కిర్యత్-సన్నా — అదే దేబీర్.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "మరియు దన్నా"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "మరియు కిర్యత్"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "సన్నా"
+    },
+    {
+      "surface": "היא",
+      "gloss": "అదే"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "దేబీర్"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:14.493855799Z",
+  "model": "glm-5.3"
+}

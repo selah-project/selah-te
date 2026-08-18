@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "మనిషి సమస్త శ్రమ అతని నోటికోసమే; అయినా ⟨దాహం⟩ నిండదు.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "శ్రమ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "మనిషి యొక్క"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "అతని నోటికోసమే"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "అయినా కూడా"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "దాహం"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "నిండదు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:27.831959523Z",
+  "model": "glm-5.3"
+}

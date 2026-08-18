@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మాఅజ్యా, బిల్గాయ్, షెమాయా — వీరు ⟨the⟩ యాజకులు.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "మాఅజ్యా"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "బిల్గాయ్"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "షెమాయా"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "వీరు"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "యాజకులు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:15:32.134460341Z",
+  "model": "glm-5.3"
+}

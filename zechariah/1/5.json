@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "మీ తండ్రులు ఎక్కడ ⟨they⟩? మరియు ⟨the⟩ ప్రవక్తలు నిత్యము బ్రతుకుదురా?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "మీ తండ్రులు"
+    },
+    {
+      "surface": "איה",
+      "gloss": "ఎక్కడ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨they⟩"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "మరియు ⟨the⟩ ప్రవక్తలు"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "నిత్యము"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "బ్రతుకుదురా"
+    }
+  ],
+  "timestamp": "2026-08-18T06:10:08.350109548Z",
+  "model": "glm-5.3"
+}

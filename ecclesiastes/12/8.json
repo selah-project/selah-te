@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "వ్యర్థత వ్యర్థతల, కహెలెత్ అన్నాడు, మొత్తం వ్యర్థత.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "వ్యర్థత"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "వ్యర్థతల"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "అన్నాడు"
+    },
+    {
+      "surface": "హకోహెలెత్",
+      "gloss": "కహెలెత్"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "మొత్తం"
+    },
+    {
+      "surface": "హబెల్",
+      "gloss": "వ్యర్థత"
+    }
+  ],
+  "timestamp": "2026-08-18T06:21:38.148430310Z",
+  "model": "glm-5.3"
+}

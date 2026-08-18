@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 116,
+  "translation": "యాహ్వే దృష్టికి విలువైనది ఆయన భక్తుల మరణం.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "విలువైనది"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "కళ్ళకు\/దృష్టికి"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "మరణం"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "ఆయన భక్తుల"
+    }
+  ],
+  "timestamp": "2026-08-18T01:28:10.064054470Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నా ⟨ప్రాణమును⟩ గుంటలో తుంచిరి, నాపై ఒక రాయి విసరిరి.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "తుంచిరి"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "గుంటలో"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "నా ప్రాణమును"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "మరియు విసరిరి"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ఒక రాయి"
+    },
+    {
+      "surface": "בי",
+      "gloss": "నాపై"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:43.875267779Z",
+  "model": "glm-5.3"
+}

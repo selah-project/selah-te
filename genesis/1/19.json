@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "సాయంత్రము ⟨అయెను⟩, ఉదయము ⟨అయెను⟩ — నాలుగవ దినము.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "అయెను"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "సాయంత్రము"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "అయెను"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ఉదయము"
+    },
+    {
+      "surface": "יום",
+      "gloss": "దినము"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "నాలుగవ"
+    }
+  ],
+  "timestamp": "2026-08-17T17:03:38.177184655Z",
+  "model": "glm-5.3"
+}

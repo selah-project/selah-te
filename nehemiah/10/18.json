@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "అతేర్, ఖిస్కియా, అజ్జూర్,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "అతేర్"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ఖిస్కియా"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "అజ్జూర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:16:28.913633107Z",
+  "model": "glm-5.3"
+}

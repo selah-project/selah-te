@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 40,
+  "translation": "సంగీత నాయకునికి, దావీదు కీర్తన.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "సంగీత నాయకునికి"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదునకు"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "కీర్తన"
+    }
+  ],
+  "timestamp": "2026-08-18T01:03:42.387411211Z",
+  "model": "glm-5.3"
+}

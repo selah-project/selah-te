@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "ఇదే మీరు తినవచ్చిన మృగం: ఎద్దు, గొర్రెపిల్ల, మేకపిల్ల.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ఇదే"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "మృగం"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏది"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "మీరు తినవచ్చిన"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ఎద్దు"
+    },
+    {
+      "surface": "שה",
+      "gloss": "పిల్ల"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "గొర్రెల"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "మరియు పిల్ల"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకల"
+    }
+  ],
+  "timestamp": "2026-08-17T21:09:15.229246736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "వారి చేతుల పనికి అనుగుణంగా ప్రతిఫలం వారికి తిరిగి ఇవ్వు యాహ్వే.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "తిరిగి ఇవ్వు"
+    },
+    {
+      "surface": "להם",
+      "gloss": "వారికి"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ప్రతిఫలం"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "అనుగుణంగా పనికి"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "వారి చేతుల"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:17.710333645Z",
+  "model": "glm-5.3"
+}

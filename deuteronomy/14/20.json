@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "ప్రతి పవిత్రమైన పక్షిని మీరు తినవచ్చు.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "పక్షి"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "పవిత్రమైన"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "మీరు తినండి"
+    }
+  ],
+  "timestamp": "2026-08-17T21:09:12.947193787Z",
+  "model": "glm-5.3"
+}

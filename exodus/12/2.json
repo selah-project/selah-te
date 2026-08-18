@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "ఈ నెల మీకు నెలలకు ⟨ప్రధానమైనది⟩ — అది సంవత్సరపు నెలలలో మీకు మొదటిది.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "ఈ-నెల"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీకు"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "తల"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "నెలలకు"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "మొదటిది"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీకు"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "నెలలలో"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "సంవత్సరపు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:43:28.037007819Z",
+  "model": "glm-5.3"
+}

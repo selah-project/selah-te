@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 49,
+  "translation": "స్తుతించబడిన నగరం ఎలా వదిలివేయనివ్వబడలేదు, నా ఆనందపు నగరం!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ఎలా"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "వదిలివేయబడింది"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "నగరం"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "స్తుతి"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "నగరం"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "నా ఆనందం"
+    }
+  ],
+  "timestamp": "2026-08-18T05:54:25.579214889Z",
+  "model": "glm-5.3"
+}

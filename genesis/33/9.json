@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "అతడు అనెను — నా సహోదరుడా, నాకు సమృద్ధి ⟨ఉంది⟩; నీకు ఉన్నది నీకే ఉండును గాక.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అతడు అనెను"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ఏసావ్"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ఉంది"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "רב",
+      "gloss": "సమృద్ధి"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "నా సహోదరుడా"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ఉండును గాక"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఉన్నది"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకే"
+    }
+  ],
+  "timestamp": "2026-08-18T04:11:36.178025215Z",
+  "model": "glm-5.3"
+}

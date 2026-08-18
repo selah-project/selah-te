@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 49:18",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 49,
+  "translation": "నీ రక్షణకై నేను ఎదురుచూచుచున్నాను, యాహ్వే.",
+  "tokens": [
+    {
+      "surface": "לישועתך",
+      "gloss": "నీ రక్షణకై"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "నేను ఎదురుచూచుచున్నాను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T17:35:58.145117420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "నీ అన్నమును నీళ్ల మీదకు పంపుము; ఎందుకంటే అనేక దినములలో దానిని నువ్వు కనుగొనుదువు.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "పంపుము"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "నీ అన్నమును"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీదకు"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ఉపరితలము"
+    },
+    {
+      "surface": "המים",
+      "gloss": "నీళ్ల"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "అనేక…లో"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "దినములలో"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "దానిని కనుగొనుదువు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:21:26.937906973Z",
+  "model": "glm-5.3"
+}

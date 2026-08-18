@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "ఒక మనిషి తన నోటి ఫలము నుండి మంచిని తినును, అయితే ద్రోహుల ప్రాణము — హింస.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "ఫలము నుండి"
+    },
+    {
+      "surface": "פי",
+      "gloss": "నోటి"
+    },
+    {
+      "surface": "איש",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "తినును"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచిని"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "అయితే ప్రాణము"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ద్రోహుల"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "హింస"
+    }
+  ],
+  "timestamp": "2026-08-18T01:45:49.157432313Z",
+  "model": "glm-5.3"
+}

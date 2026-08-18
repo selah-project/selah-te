@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "దర్శన లోయ భారం. నీకేమి జరిగింది ఇప్పుడు, నీవు మొత్తంగా ఇల్లాపైకి ఎక్కిపోయావు?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "భారం"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "లోయ"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "దర్శన"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఏమిటి"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "ఇప్పుడు"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకని"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "ఎక్కావు"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "నీ మొత్తం"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "ఇల్లాపైకి"
+    }
+  ],
+  "timestamp": "2026-08-17T23:14:06.922168743Z",
+  "model": "glm-5.3"
+}

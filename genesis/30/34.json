@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "మరియు లాబాను ఇట్లనెను — ఇదిగో, ఉండును గాక నీ మాట ప్రకారము.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "మరియు ఇట్లనెను"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "లాబాను"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ఇదిగో"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ఉండునుగాక"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ఆగునుగాక"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "నీ మాట ప్రకారము"
+    }
+  ],
+  "timestamp": "2026-08-18T04:11:00.962093459Z",
+  "model": "glm-5.3"
+}

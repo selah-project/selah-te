@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "యాహ్వే సమస్త భూమిపై రాజుగా ఉండును; ఆ దినమందు యాహ్వే ఒకడే ⟨అవును⟩, ఆయన నామము ఒకటే.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "మరియు ఉండును"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "రాజుగా"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ఆ దినమందు"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ఉండును"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడే"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "మరియు ఆయన నామము"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకటే"
+    }
+  ],
+  "timestamp": "2026-08-18T00:51:10.981903130Z",
+  "model": "glm-5.3"
+}

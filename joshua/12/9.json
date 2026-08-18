@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "యెరీహో రాజు ఒకడు; బేత్-ఏల్ ప్రక్కన ⟨ఉన్న⟩ హాయి రాజు ఒకడు;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "యెరీహో"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "העי",
+      "gloss": "హాయి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ఇది⟩"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ప్రక్కన"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:44:07.539316770Z",
+  "model": "glm-5.3"
+}

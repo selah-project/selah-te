@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "నా మాటలు చెవివినుము యాహ్వే, నా పెద్దనడక గ్రహించుము.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "నా మాటలు"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "చెవివినుము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "గ్రహించుము"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "నా పెద్దనడక"
+    }
+  ],
+  "timestamp": "2026-08-18T00:52:24.382804887Z",
+  "model": "glm-5.3"
+}

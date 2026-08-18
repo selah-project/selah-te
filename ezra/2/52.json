@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "బజ్లూత్ కుమారులు, మెహీదా కుమారులు, హర్షా కుమారులు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "బజ్లూత్"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "మెహీదా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "హర్షా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:01:53.758707768Z",
+  "model": "glm-5.3"
+}

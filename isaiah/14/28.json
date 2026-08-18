@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "రాజైన ఆహాజు మరణించిన సంవత్సరంలో ⟨ఈ⟩ భారం ⟨ఉండెను⟩.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "సంవత్సరంలో"
+    },
+    {
+      "surface": "מות",
+      "gloss": "మరణించిన"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజైన"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ఆహాజు"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ఉండెను"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "భారం (ప్రవచన గ్రంథం)"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    }
+  ],
+  "timestamp": "2026-08-17T23:11:48.567496342Z",
+  "model": "glm-5.3"
+}

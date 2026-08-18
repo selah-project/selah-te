@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "ఈ నలభై సంవత్సరములు నీ వస్త్రము నీ మీద పాతబడలేదు, నీ పాదము ఉబ్బలేదు.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "నీ వస్త్రము"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "పాతబడలేదు"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "నీ మీద"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "నీ పాదము"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "ఉబ్బలేదు"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "నలభై"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "సంవత్సరములు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:04:18.808478587Z",
+  "model": "glm-5.3"
+}

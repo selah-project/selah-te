@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "ఖరీఫ్, అనాతోత్, నోబయ్,",
+  "tokens": [
+    {
+      "surface": "గూడు",
+      "gloss": "ఖరీఫ్"
+    },
+    {
+      "surface": "స్థలం",
+      "gloss": "అనాతోత్"
+    },
+    {
+      "surface": "నోబీ",
+      "gloss": "నోబయ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:16:28.913886272Z",
+  "model": "glm-5.3"
+}

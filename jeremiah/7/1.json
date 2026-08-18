@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "యిర్మియాహుకు యాహ్వే దగ్గర ⟨את⟩ నుండి ఉన్న మాట, సెలవిస్తూ:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఉన్న"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ఉంది"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కు"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "యిర్మియాహు"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ నుండి",
+      "marks": "యాహ్వే"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిస్తూ"
+    }
+  ],
+  "timestamp": "2026-08-17T23:37:40.047459398Z",
+  "model": "glm-5.3"
+}

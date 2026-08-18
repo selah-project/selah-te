@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "కుండ కింద ⟨ముళ్ళ>> కరకర శబ్దము వలె మూర్ఖుని నవ్వు ⟨ఉంది⟩; ఇది కూడా హవేలు.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "…శబ్దము వలె"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "ముళ్ళ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "కింద"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "కుండ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "అలాగే"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "నవ్వు"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "మూర్ఖుని"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "హవేలు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:38:39.435935916Z",
+  "model": "glm-5.3"
+}

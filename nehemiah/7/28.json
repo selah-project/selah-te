@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బేత్-అజ్మావెతు మనుషులు నలభై రెండు మంది.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "మనుషులు"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్-"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "అజ్మావెతు"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "నలభై"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "రెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:58.600099275Z",
+  "model": "glm-5.3"
+}

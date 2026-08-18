@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 10:7",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "కూషు కుమారులు — సెబా, హవీలా, సబ్తా, రామా, సబ్తెఖా; రామా కుమారులు — షెబా, దెదాన్.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "కూషు"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "సెబా"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "హవీలా"
+    },
+    {
+      "surface": "וסבתה",
+      "gloss": "సబ్తా"
+    },
+    {
+      "surface": "ורעמה",
+      "gloss": "రామా"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "సబ్తెఖా"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "רעמה",
+      "gloss": "రామా"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "షెబా"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "దెదాన్"
+    }
+  ],
+  "timestamp": "2026-08-18T04:08:35.227300459Z",
+  "model": "glm-5.3"
+}

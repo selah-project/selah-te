@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బక్బూకు కుమారులు, చకూఫా కుమారులు, చర్చూరు కుమారులు,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "బక్బూకు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "చకూఫా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "చర్చూరు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:11.834167563Z",
+  "model": "glm-5.3"
+}

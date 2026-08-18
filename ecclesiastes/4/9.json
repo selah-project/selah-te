@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "ఇద్దరు ఒక్కని కంటే మేలు — ఎందుకంటే వారి కృషిలో వారికి మంచి ఫలం ⟨ఉంది⟩.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "మేలు"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ఇద్దరు"
+    },
+    {
+      "surface": "מן",
+      "gloss": "కంటే"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ఒక్కడు"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ఉంది"
+    },
+    {
+      "surface": "להם",
+      "gloss": "వారికి"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ఫలం"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచి"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "వారి కృషిలో"
+    }
+  ],
+  "timestamp": "2026-08-18T02:36:09.435545764Z",
+  "model": "glm-5.3"
+}

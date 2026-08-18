@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "అదోనాయ్ యాహ్వే ఇలా అన్నాడు: ఒక చెడు — ఏకైన చెడు — ఇదిగో, వచ్చేసింది.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ఇలా"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "అన్నాడు"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "అదోనాయ్"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "చెడు"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఏకైన"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "చెడు"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ఇదిగో"
+    },
+    {
+      "surface": "באה",
+      "gloss": "వచ్చేసింది"
+    }
+  ],
+  "timestamp": "2026-08-18T00:04:25.545121677Z",
+  "model": "glm-5.3"
+}

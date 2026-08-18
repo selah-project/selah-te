@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 42,
+  "translation": "ఉత్తర దిశను కొలిచెను — కొలత కర్రతో చుట్టుకొలత ఐదు వందల కర్రలు.",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "కొలిచెను"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "దిశను"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ఉత్తర"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ఐదు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "కర్రలు"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "కర్రతో"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "కొలత"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "చుట్టు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:25:18.687187777Z",
+  "model": "glm-5.3"
+}

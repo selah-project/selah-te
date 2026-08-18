@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 34,
+  "translation": "బిన్యామీన్ గోత్రమునకు — కిస్లోన్ కుమారుడైన ఎలిదాద్.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "గోత్రమునకు"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "బిన్యామీన్"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "ఎలిదాద్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "కిస్లోన్"
+    }
+  ],
+  "timestamp": "2026-08-17T20:34:32.954786381Z",
+  "model": "glm-5.3"
+}

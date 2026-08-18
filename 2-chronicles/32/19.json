@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 32:19",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "యెరూషలాయిం ఎలోహీం గురించి మాట్లాడిరి — భూమి ⟨the⟩ ప్రజల దేవుళ్ల వలె, మనుషుల చేతుల క్రియే.",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "మాట్లాడిరి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "గురించి"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "యెరూషలాయిం"
+    },
+    {
+      "surface": "כעל",
+      "gloss": "వలె"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "దేవుళ్ల"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ప్రజల"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "క్రియే"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "చేతుల"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "మనుషుల"
+    }
+  ],
+  "timestamp": "2026-08-18T04:04:06.612198361Z",
+  "model": "glm-5.3"
+}

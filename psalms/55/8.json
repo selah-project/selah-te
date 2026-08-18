@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 55,
+  "translation": "ఇదిగో, దూరముగా సంచరించుదును, అరణ్యమున బసచేయుదును. సెలా.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ఇదిగో"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "దూరముగా"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "సంచరించుదును"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "బసచేయుదును"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "అరణ్యమున"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "సెలా"
+    }
+  ],
+  "timestamp": "2026-08-18T01:07:14.298996523Z",
+  "model": "glm-5.3"
+}

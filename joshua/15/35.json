@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "యర్మూత్, అదుల్లామ్, సోకో, అజేకా.",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "యర్మూత్"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "అదుల్లామ్"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "సోకో"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "అజేకా"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:47.497665531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "యాహ్వే ఆకాశములనుండి వంగి చూచువరకు ⟨కార్చుకొనుచున్నది⟩.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "యష్కీఫ్",
+      "gloss": "వంగి చూచునది వరకు"
+    },
+    {
+      "surface": "వయిరా",
+      "gloss": "మరియు-చూచునది వరకు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ఆకాశములనుండి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:57.432707171Z",
+  "model": "glm-5.3"
+}

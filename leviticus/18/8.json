@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "నీ తండ్రి భార్య నగ్నత్వము బయలుపరచవద్దు; అది నీ తండ్రి నగ్నత్వము.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "నగ్నత్వము"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "భార్య"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "నీ తండ్రి"
+    },
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "బయలుపరచవద్దు"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "నగ్నత్వము"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "నీ తండ్రి"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    }
+  ],
+  "timestamp": "2026-08-18T04:25:03.123315635Z",
+  "model": "glm-5.3"
+}

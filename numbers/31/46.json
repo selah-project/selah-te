@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "మరియు మానవ ప్రాణులు పదహారు వేలు",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "మరియు ప్రాణులు"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మానవ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "పదహారు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వేలు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:47:55.582177334Z",
+  "model": "glm-5.3"
+}

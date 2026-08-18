@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 119,
+  "translation": "నేను భూమిమీద పరదేశిని; నీ ఆజ్ఞలను నామాటితో దాచకుము.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "పరదేశి"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "భూమిమీద"
+    },
+    {
+      "surface": "אל",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "దాచకుము"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "నామాటితో"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "నీ ఆజ్ఞలు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:27:59.589483353Z",
+  "model": "glm-5.3"
+}

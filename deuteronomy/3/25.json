@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నన్ను దయచేసి దాటించు, ⟨את⟩ ⟨the⟩ మంచి దేశమును చూచెదను — యర్దన్ అవతల ఉన్నది, ⟨the⟩ ఈ మంచి పర్వతము మరియు ⟨the⟩ లెబనోను.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "దాటించు"
+    },
+    {
+      "surface": "נא",
+      "gloss": "దయచేసి"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "మరియు చూచెదను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "మంచి దేశమును"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "దేశమును"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "మంచి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏదైతే"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "అవతల ఉన్నది"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "యర్దన్"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "పర్వతము"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "మంచి"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "మరియు లెబనోను"
+    }
+  ],
+  "timestamp": "2026-08-18T08:25:50.039059883Z",
+  "model": "glm-5.3"
+}

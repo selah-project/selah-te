@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "మరియు ఆయన కెరూబుపై స్వారీ చేసి ఎగిరెను, మరియు గాలి రెక్కలపై కనబడెను.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "స్వారీ చేసి"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "కెరూబు"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "ఎగిరెను"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "కనబడెను"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "రెక్కల"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "గాలి"
+    }
+  ],
+  "timestamp": "2026-08-17T22:31:20.993182062Z",
+  "model": "glm-5.3"
+}

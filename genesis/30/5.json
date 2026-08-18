@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "బిల్హా గర్భవతి అయ్యెను, యాకోవుకు ⟨את⟩ ఒక కుమారుని కనెను.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "గర్భవతి అయ్యెను"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "బిల్హా"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "కనెను"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "యాకోవుకు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:20:58.817504185Z",
+  "model": "glm-5.3"
+}

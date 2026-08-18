@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మేకలలో ఒక్క మేకపోతు ⟨the⟩ పాప కానుక కొరకు.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "మేకపోతు"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకలలో"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక్క"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "పాప కానుక కొరకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:34:28.304872832Z",
+  "model": "glm-5.3"
+}

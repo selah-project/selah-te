@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మోషే — ⟨ఆ⟩ ఎలోహీం మనిషి — అతని కుమారులు లేవీ గోత్రము మీద పేర్కొనబడిరి.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "మరియు మోషే"
+    },
+    {
+      "surface": "איש",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "అతని కుమారులు"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "పేర్కొనబడిరి"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "గోత్రము"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "లేవీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:37:05.184821981Z",
+  "model": "glm-5.3"
+}

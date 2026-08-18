@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "యెతెరు కుమారులు — యెఫున్నె, ఉపిస్పా, వఅరా.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు ... కుమారులు"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "యెతెరు"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "యెఫున్నె"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "మరియు పిస్పా"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "మరియు అరా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:26:09.053296230Z",
+  "model": "glm-5.3"
+}

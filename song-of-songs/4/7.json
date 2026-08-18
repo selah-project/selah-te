@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "నీవంతా అందమైనదానవు, నా ప్రియురాలా; నీలో ఏ లోపము ⟨is⟩ లేదు.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "నీవంతా"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "అందమైనదానవు"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "నా ప్రియురాళ్ళు"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "లోపము"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "בך",
+      "gloss": "నీలో"
+    }
+  ],
+  "timestamp": "2026-08-18T02:25:25.968241636Z",
+  "model": "glm-5.3"
+}

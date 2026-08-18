@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "హాషేమ్ గిజోనీయుని కుమారులు, యోనతాన్ షాగే హరారీయుని కుమారుడు,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "השם",
+      "gloss": "హాషేమ్"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "గిజోనీయుని"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "యోనతాన్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "షాగే"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "హరారీయుని"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:18.411786567Z",
+  "model": "glm-5.3"
+}

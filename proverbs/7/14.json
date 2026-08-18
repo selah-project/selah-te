@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "నా వద్ద శాంతిబలులు ఉన్నాయి; ఈ రోజు నేను నా నివాళులను సమర్పించాను.",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "బలులు"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "శాంతి"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "నా వద్ద"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ఈ రోజు"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "పూర్తిచేసితిని"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "నా నివాళులు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:41:55.247860171Z",
+  "model": "glm-5.3"
+}

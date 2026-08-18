@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "రాజు వద్దకు వెళ్ళి అతనితో ఈ మాటలు మాట్లాడు.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "వెళ్ళు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వద్దకు"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "మాట్లాడు"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "అతనితో"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ఈ మాటలు వలె"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "ఉంచెను"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "యోవావు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "మాటలను"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "మాటలను"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "ఆమె నోటిలో"
+    }
+  ],
+  "timestamp": "2026-08-17T22:27:40.274090256Z",
+  "model": "glm-5.3"
+}

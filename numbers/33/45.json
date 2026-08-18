@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "వారు ఈయీమ్ నుండి బయలుదేరి, దిబోన్-గాద్ వద్ద పడగవేసిరి.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "బయలుదేరిరి"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "ఈయీమ్ నుండి"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "పడగవేసిరి"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "దిబోన్ వద్ద"
+    },
+    {
+      "surface": "גד",
+      "gloss": "గాద్"
+    }
+  ],
+  "timestamp": "2026-08-17T20:33:47.562841933Z",
+  "model": "glm-5.3"
+}

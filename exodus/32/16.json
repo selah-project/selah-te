@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 32:16",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "ఆ పలకలు ఎలోహీం కృతి; ఆ వ్రాత ⟨ను⟩ ఎలోహీం వ్రాత — పలకలపై చెక్కబడినది.",
+  "tokens": [
+    {
+      "surface": "והלחת",
+      "gloss": "ఆ పలకలు"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "కృతి"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "המה",
+      "gloss": "అవి"
+    },
+    {
+      "surface": "והמכתב",
+      "gloss": "ఆ వ్రాత"
+    },
+    {
+      "surface": "מכתב",
+      "gloss": "వ్రాత"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "חרות",
+      "gloss": "చెక్కబడినది"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ను⟩ పై"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "పలకలపై"
+    }
+  ],
+  "timestamp": "2026-08-18T04:18:48.688866759Z",
+  "model": "glm-5.3"
+}

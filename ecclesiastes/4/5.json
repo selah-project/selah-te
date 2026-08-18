@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "మూర్ఖుడు ⟨את⟩ తన చేతులను కౌగలించుకొని ⟨את⟩ తన మాంసమును తినుచున్నాడు.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "మూర్ఖుడు"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "కౌగలించుకొని"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "తన చేతులను"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "తన చేతులను"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "మరియు తినుచున్నాడు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "తన మాంసమును"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "తన మాంసమును"
+    }
+  ],
+  "timestamp": "2026-08-18T02:37:26.760978337Z",
+  "model": "glm-5.3"
+}

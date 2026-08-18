@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "ఆరవ నెల ఇరవై నాలుగవ దినమున, దార్యవేషు రాజు రెండవ సంవత్సరమున.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "దినమున"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "నెలకు"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "ఆరవ నెలలో"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "సంవత్సరమున"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "రెండవ"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "దార్యవేషు"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:45:14.299201687Z",
+  "model": "glm-5.3"
+}

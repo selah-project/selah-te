@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "మరియు యాహ్వే మోషేతో ఇలా అని మాట్లాడెను:",
+  "tokens": [
+    {
+      "surface": "వియిదబర్",
+      "gloss": "మరియు మాట్లాడెను"
+    },
+    {
+      "surface": "యహ్వే",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "అల్",
+      "gloss": "తో"
+    },
+    {
+      "surface": "మోషే",
+      "gloss": "మోషేతో"
+    },
+    {
+      "surface": "లేమోర్",
+      "gloss": "ఇలా అని"
+    }
+  ],
+  "timestamp": "2026-08-18T04:26:25.961444152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "ఎందుకంటే మంచి బోధనను నేను మీకు ఇచ్చాను; నా తోరాను వదలకండి.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "బోధనను"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచి"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "నేను ఇచ్చాను"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీకు"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "నా తోరాను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వదలకండి"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "మీరు వదులుకోకుండా"
+    }
+  ],
+  "timestamp": "2026-08-18T01:40:32.964084510Z",
+  "model": "glm-5.3"
+}

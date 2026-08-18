@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "యెరీఖో వారి కుమారులు — మూడు వందల నలభై ఐదు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "యెరీఖో"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "నలభై"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ఐదు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:48.297649256Z",
+  "model": "glm-5.3"
+}

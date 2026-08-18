@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "మహిమ ⟨మరియు⟩ మేలు ఆయన సన్నిధిన; బలం ⟨మరియు⟩ సంతోషం ఆయన స్థలమున.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "మహిమ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "⟨మరియు⟩ మేలు"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "ఆయన సన్నిధిన"
+    },
+    {
+      "surface": "עז",
+      "gloss": "బలం"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "⟨మరియు⟩ సంతోషం"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "ఆయన స్థలమున"
+    }
+  ],
+  "timestamp": "2026-08-18T03:31:50.580387753Z",
+  "model": "glm-5.3"
+}

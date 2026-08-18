@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "నీ కుడిచేయి చాపితివి — భూమి వారిని మింగివేసెను.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "చాపితివి"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "నీ కుడిచేయి"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "వారిని మింగివేసెను"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "భూమి"
+    }
+  ],
+  "timestamp": "2026-08-17T17:44:08.973338401Z",
+  "model": "glm-5.3"
+}

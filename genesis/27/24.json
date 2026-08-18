@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "అతడు చెప్పెను — నీవేనా నా కుమారుడు ఏసావ్? అతడు చెప్పెను — నేనే.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అతడు చెప్పెను"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవేనా"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఈయనే"
+    },
+    {
+      "surface": "בני",
+      "gloss": "నా కుమారుడు"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ఏసావ్"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "అతడు చెప్పెను"
+    },
+    {
+      "surface": "אני",
+      "gloss": "నేనే"
+    }
+  ],
+  "timestamp": "2026-08-17T17:19:09.355858388Z",
+  "model": "glm-5.3"
+}

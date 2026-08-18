@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "దావీదు ఆ బలగంలో నివసించెను; కాబట్టి దానిని దావీదు పట్టణమని పిలిచిరి.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "నివసించెను"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "దావీదు"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "బలగంలో"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "כן",
+      "gloss": "అందుచేత"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "పిలిచిరి"
+    },
+    {
+      "surface": "לו",
+      "gloss": "దానిని"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "పట్టణమని"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "దావీదు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:27:56.853651677Z",
+  "model": "glm-5.3"
+}

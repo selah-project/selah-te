@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మరియు నోవాహు యాహ్వే తనకు ఆజ్ఞాపించిన సమస్తమును చేసెను.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "మరియు చేసెను"
+    },
+    {
+      "surface": "נח",
+      "gloss": "నోవాహు"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "సమస్తమును"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏది"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "తనకు ఆజ్ఞాపించిన"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T17:06:31.323815801Z",
+  "model": "glm-5.3"
+}

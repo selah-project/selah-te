@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "దుర్మార్గుడు మోసపు పని చేస్తాడు; నీతిని విత్తువాడికి నిజమైన కూలి.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "దుర్మార్గుడు"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేస్తాడు"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "పని"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "మోసపు"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "కానూ విత్తువాడికి"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "నీతిని"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "కూలి"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "నిజమైన"
+    }
+  ],
+  "timestamp": "2026-08-18T01:44:11.873360399Z",
+  "model": "glm-5.3"
+}

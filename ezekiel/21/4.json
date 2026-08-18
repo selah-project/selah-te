@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "మరియు సమస్త మాంసము — నేనే యాహ్వే దాని రగిలించితిని — అని చూచును; అది ఆర్పబడదు.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "చూచును"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "మాంసము"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "אני",
+      "gloss": "నేనే"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "రగిలించితిని"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ఆర్పబడ"
+    }
+  ],
+  "timestamp": "2026-08-18T00:13:10.465863784Z",
+  "model": "glm-5.3"
+}

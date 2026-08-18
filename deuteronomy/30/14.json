@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "ఎందుకంటే ⟨the⟩ మాట ⟨is⟩ నీకు చాలా సమీపముగా ఉంది — నీ నోటిలో మరియు నీ హృదయములో, దానిని చేయుటకు.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "సమీపముగా ఉన్నది"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ మాట"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "చాలా"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "నీ నోటిలో"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "మరియు నీ హృదయములో"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "దానిని చేయుటకు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:35:45.139679081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "మరియు యాహ్వే మోషేతో కలిసి ఇలా ఉటంకించెను.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు ఉటంకించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో కలిసి"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా"
+    }
+  ],
+  "timestamp": "2026-08-18T04:32:31.257320878Z",
+  "model": "glm-5.3"
+}

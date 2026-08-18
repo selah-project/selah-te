@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "అలా కాదు దుర్మార్గులు; కాక గాలి తరిమివేయు పొట్టు వంటివారు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "כן",
+      "gloss": "అలా"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "దుర్మార్గులు"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "אם",
+      "gloss": "కాక"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "పొట్టు వంటి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేని"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "తరిమివేయును"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "గాలి"
+    }
+  ],
+  "timestamp": "2026-08-18T06:11:57.316791153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "శపించబడు నీ గంప, మరియు నీ పిండిపాత్ర.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "శపించబడు"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "నీ గంప"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "మరియు నీ పిండిపాత్ర"
+    }
+  ],
+  "timestamp": "2026-08-17T21:35:29.358225482Z",
+  "model": "glm-5.3"
+}

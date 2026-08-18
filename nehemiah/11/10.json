@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "యాజకులలో యోయారీబ్ కుమారుడు యెదయా, యాఖీన్.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "లో"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "యాజకుల"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "యెదయా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "యోయారీబ్"
+    },
+    {
+      "surface": "యכిן",
+      "gloss": "యాఖీన్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:18:18.088311418Z",
+  "model": "glm-5.3"
+}

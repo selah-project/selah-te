@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "యాహ్వే మోషేతో ఇలా ఆజ్ఞాపించుచు ఉండెను:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా చెప్పుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:27:33.597020107Z",
+  "model": "glm-5.3"
+}

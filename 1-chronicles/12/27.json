@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "లేవీ కుమారులలో నాలుగు వేలు మరియు ఆరు వందలు.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "లో"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులలో"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "లేవీ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "వేలు"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "మరియు ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందలు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:34:56.660400591Z",
+  "model": "glm-5.3"
+}

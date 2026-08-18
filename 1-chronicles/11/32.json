@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "గాష్ నదుల నుండి ఖురాయ్, అబీయేల్ ⟨ది⟩ అర్బాతీ.",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "ఖురాయ్"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "నదుల నుండి"
+    },
+    {
+      "surface": "געש",
+      "gloss": "గాష్"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "అబీయేల్"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "అర్బాతీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:27:57.686417009Z",
+  "model": "glm-5.3"
+}

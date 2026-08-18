@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "నఫ్తాలీ తరపున — అఖీరా, ఏనాను కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "నఫ్తాలీ తరపున"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "అఖీరా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ఏనాను"
+    }
+  ],
+  "timestamp": "2026-08-17T18:55:13.566249314Z",
+  "model": "glm-5.3"
+}

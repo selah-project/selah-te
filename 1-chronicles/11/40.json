@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "ఇరా ⟨ది⟩ యిత్రీ, గారెబ్ ⟨ది⟩ యిత్రీ.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ఇరా"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "యిత్రీ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "గారెబ్"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "యిత్రీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:27:19.954212489Z",
+  "model": "glm-5.3"
+}

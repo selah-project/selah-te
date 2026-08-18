@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "మరియు అనాబ్, మరియు ఎష్తేమోహ్, మరియు అనీం.",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "మరియు అనాబ్"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "మరియు ఎష్తేమోహ్"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "మరియు అనీం"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:14.494050560Z",
+  "model": "glm-5.3"
+}

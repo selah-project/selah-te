@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "యానుం, బేత్-తప్పువాఖ్, అఫేకా",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "యానుం"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "బేత్"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "తప్పువాఖ్"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "అఫేకా"
+    }
+  ],
+  "timestamp": "2026-08-18T05:06:57.753530070Z",
+  "model": "glm-5.3"
+}

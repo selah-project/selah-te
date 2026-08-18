@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 41,
+  "translation": "మిత్రాయిం దేశంలో ఉన్న సమృద్ధి యొక్క ఏడు సంవత్సరాలు ముగిసెను.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "ముగిసెను"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "שני",
+      "gloss": "సంవత్సరాలు"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "సమృద్ధి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అది"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ఉన్న"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "దేశంలో"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "మిత్రాయిం"
+    }
+  ],
+  "timestamp": "2026-08-17T17:30:00.153258167Z",
+  "model": "glm-5.3"
+}

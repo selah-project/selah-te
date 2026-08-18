@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "మరియు యాహ్వే మోషేతో ఇట్లు ఆడెను —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ఆడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇట్లు"
+    }
+  ],
+  "timestamp": "2026-08-17T20:20:46.617665993Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "తేనె పుప్పొడి ⟨are⟩ చిమ్మని మాటలు; ప్రాణానికి తీపి, ఎముకలకు స్వస్థత.",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "పుప్పొడి"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "తేనె"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "మాటలు"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "చిమ్మని"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "తీపి"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ప్రాణానికి"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "మరియు స్వస్థత"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "ఎముకలకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:47:22.225564Z",
+  "model": "glm-5.3"
+}

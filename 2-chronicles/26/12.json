@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "వీరోత్తములైన పితృభూయాల యొక్క అధిపతుల సంఖ్య మొత్తం వెయ్యి ఆరువందలు.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "మొత్తం"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "సంఖ్య"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "అధిపతుల"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "పితృభూయాల"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "వీరోత్తములైన"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "బలవంతుల"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "వెయ్యి"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "మరియు ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందలు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:59:25.420871062Z",
+  "model": "glm-5.3"
+}

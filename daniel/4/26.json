@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "పన్నెండు నెలల అంతానికి అతడు బాబులు రాజభవనముపై నడుచుచు ⟨ఉండెను⟩.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "అంతానికి"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "నెలల"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "రెండు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "రాజభవనము"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "రాజ్య"
+    },
+    {
+      "surface": "די",
+      "gloss": "యొక్క"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "బాబులు"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "నడుచుచుండెను"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨ఉండెను⟩"
+    }
+  ],
+  "timestamp": "2026-08-18T06:26:38.161596834Z",
+  "model": "glm-5.3"
+}

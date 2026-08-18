@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మరియు అఖియా, ఖానాన్, అనాన్,",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "మరియు అఖియా"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ఖానాన్"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "అనాన్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:15:25.544238278Z",
+  "model": "glm-5.3"
+}

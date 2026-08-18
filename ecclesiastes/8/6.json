@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "ఎందుకంటే ప్రతి కోరికకు ఒక సమయం మరియు తీర్పు ⟨ఉన్నాయి⟩; ఎందుకంటే మానవుని చెడు అతనిపై గొప్పది.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "కోరిక"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ఉన్నాయి"
+    },
+    {
+      "surface": "עת",
+      "gloss": "సమయం"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "మరియు తీర్పు"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "చెడు"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "మానవుని"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "గొప్పది"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "అతనిపై"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:55.425672024Z",
+  "model": "glm-5.3"
+}

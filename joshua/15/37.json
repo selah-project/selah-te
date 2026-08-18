@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "త్సెనాన్, హదాషా, మిగ్దాల్-గాద్,",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "త్సెనాన్"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "మరియు హదాషా"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "మరియు మిగ్దాల్"
+    },
+    {
+      "surface": "גד",
+      "gloss": "గాద్"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:25.280504642Z",
+  "model": "glm-5.3"
+}

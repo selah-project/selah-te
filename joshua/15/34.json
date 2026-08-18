@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "జానోవాఖ్, ఎన్-గన్నిమ్, తప్పువాఖ్, ఎనామ్.",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "జానోవాఖ్"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ఎన్-"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "గన్నిమ్"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "తప్పువాఖ్"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "ఎనామ్"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:47.497539935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 38,
+  "translation": "కాను అతడు ⟨את⟩ కఱ్ఱలను వటగని కర్రతో చేసి ⟨את⟩ వాటిని కంచుతో పూసెను.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "కఱ్ఱలను"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "కఱ్ఱలను"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "కర్రతో"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "వటగని"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "పూసెను"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ వాటిని"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "కంచుతో"
+    }
+  ],
+  "timestamp": "2026-08-18T04:20:07.331019197Z",
+  "model": "glm-5.3"
+}

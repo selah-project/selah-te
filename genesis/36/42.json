@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 36,
+  "translation": "కెనాజ్ అధిపతి, తేమాన్ అధిపతి, మిబ్త్సార్ అధిపతి.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "అధిపతి"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "కెనాజ్"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "అధిపతి"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "తేమాన్"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "అధిపతి"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "మిబ్త్సార్"
+    }
+  ],
+  "timestamp": "2026-08-18T04:11:27.390120811Z",
+  "model": "glm-5.3"
+}

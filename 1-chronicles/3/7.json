@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నోగా, నెఫెగ్, యాఫియా.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "మరియు నోగా"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "మరియు నెఫెగ్"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "మరియు యాఫియా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:22:29.256184498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 3:16",
+  "book": "daniel",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "Shadrach, Meshach, Abed-Nego లు సమాధానమిచ్చి రాజు అయిన Nebuchadnezzar తో ⟨అన్నారు⟩ — ఈ మాటకు మేము ⟨నీకు⟩ సమాధానమివ్వవలసిన అవసరం ⟨లేదు⟩.",
+  "tokens": [
+    {
+      "surface": "ענו",
+      "gloss": "సమాధానమిచ్చి"
+    },
+    {
+      "surface": "שדרך",
+      "gloss": "Shadrach"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "Meshach"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "మరియు Abed"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "Nego"
+    },
+    {
+      "surface": "ואמרין",
+      "gloss": "మరియు ⟨అన్నారు⟩"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "రాజు తో"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Nebuchadnezzar"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "חשחין",
+      "gloss": "అవసరం"
+    },
+    {
+      "surface": "אנחנה",
+      "gloss": "మేము"
+    },
+    {
+      "surface": "על",
+      "gloss": "కు"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "להתבותך",
+      "gloss": "నీకు సమాధానమివ్వ"
+    }
+  ],
+  "timestamp": "2026-08-18T06:26:11.560941545Z",
+  "model": "glm-5.3"
+}

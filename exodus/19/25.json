@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "మోషే ⟨את⟩ జనము వద్దకు దిగెను, వారితో చెప్పెను.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "దిగెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వద్దకు"
+    },
+    {
+      "surface": "העם",
+      "gloss": "జనము"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "చెప్పెను"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "వారితో"
+    }
+  ],
+  "timestamp": "2026-08-17T17:46:08.194644764Z",
+  "model": "glm-5.3"
+}

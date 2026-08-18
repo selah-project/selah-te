@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "యహూదా కొరకు — అమ్మీనాదాబు కుమారుడు నాహ్షోను.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "యహూదా కొరకు"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "నాహ్షోను"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "అమ్మీనాదాబు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:55:21.661238299Z",
+  "model": "glm-5.3"
+}

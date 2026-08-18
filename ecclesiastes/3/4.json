@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఏడ్చుటకు సమయం, నవ్వుటకు సమయం; విలపనయ్యుటకు సమయం, నాట్యం చేయుటకు సమయం.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "సమయం"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "ఏడ్చుటకు"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "మరియు సమయం"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "నవ్వుటకు"
+    },
+    {
+      "surface": "עת",
+      "gloss": "సమయం"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "విలపన"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "మరియు సమయం"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "నాట్యం"
+    }
+  ],
+  "timestamp": "2026-08-18T02:36:02.742892201Z",
+  "model": "glm-5.3"
+}

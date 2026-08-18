@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "మరియు ప్రజలందరు విని, భయపడతారు, మరల దురహంకారం చేయరు.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "మరియు ప్రజలందరు"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ప్రజలందరు"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "వినతారు"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "మరియు భయపడతారు"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు కాదు"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "దురహంకారం చేయరు"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "మరల"
+    }
+  ],
+  "timestamp": "2026-08-18T04:56:26.124425734Z",
+  "model": "glm-5.3"
+}

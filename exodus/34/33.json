@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 34,
+  "translation": "మోషే ⟨את⟩ వారితో మాటలాడటం ముగించెను, తన ముఖముపై ముసుగు ఉంచెను.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ముగించెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "మాటలాడటం"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "వారితో"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ఉంచెను"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "తన ముఖము"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "ముసుగు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:58:40.925127772Z",
+  "model": "glm-5.3"
+}

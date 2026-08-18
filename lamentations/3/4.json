@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నా మాంసమును మరియు నా చర్మమును అతడు క్షీణింపజేసెను; నా ఎముకలను విరిచెను.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "క్షీణింపజేసెను"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "నా మాంసమును"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "మరియు నా చర్మమును"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "విరిచెను"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "నా ఎముకలను"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:30.478421734Z",
+  "model": "glm-5.3"
+}

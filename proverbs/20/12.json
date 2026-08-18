@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "విను చెవి, చూచు కన్ను — వాటి రెండింటినీ కూడా యాహ్వే చేసెను.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "చెవి"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "విను"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "కన్ను"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "చూచు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "వాటి రెండింటినీ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:49:44.194482537Z",
+  "model": "glm-5.3"
+}

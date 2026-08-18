@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "రెయువేలు కుమారులు — నాహతు, జెరాహు, షమ్మా, మిజ్జా.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "రెయువేలు"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "నాహతు"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "జెరాహు"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "షమ్మా"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "మరియు మిజ్జా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:32.103306040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 41:9",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 41,
+  "translation": "לదిక్కుల గోడ వెడల్పు ⟨the⟩ బయటి వైపున ఐదు మూలలు; మరియు ⟨that⟩ ఇంటికి చెందిన లదిక్కుల ఇంటి కోసం ⟨which⟩ మిగిలిన ⟨is⟩ స్థలం.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "వెడల్పు"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "ఆ గోడ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేనికి"
+    },
+    {
+      "surface": "לצלע",
+      "gloss": "దిక్కునకు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపునకు"
+    },
+    {
+      "surface": "החוץ",
+      "gloss": "ఆ బయటికి"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ఐదు"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "మూలలు"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "మరియు దానికి"
+    },
+    {
+      "surface": "מנח",
+      "gloss": "మిగిలినది"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ఇల్లు"
+    },
+    {
+      "surface": "צלעות",
+      "gloss": "దిక్కుల"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేనికి"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ఆ ఇంటికి"
+    }
+  ],
+  "timestamp": "2026-08-18T00:24:00.937365441Z",
+  "model": "glm-5.3"
+}

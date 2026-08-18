@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "ఖదద్, మరియు తేమా, యెతూర్, నాఫీష్, మరియు ఖేదేమా.",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "ఖదద్"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "మరియు తేమా"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "యెతూర్"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "నాఫీష్"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "మరియు ఖేదేమా"
+    }
+  ],
+  "timestamp": "2026-08-17T17:17:49.083236864Z",
+  "model": "glm-5.3"
+}

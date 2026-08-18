@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "అతని అరుపు ఏల్ వినునా, ఎప్పుడు అతనిపై ఆపద వచ్చును?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "అతని అరుపు"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "వినునా"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎప్పుడు"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "వచ్చును"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "అతనిపై"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ఆపద"
+    }
+  ],
+  "timestamp": "2026-08-18T02:12:51.229194914Z",
+  "model": "glm-5.3"
+}

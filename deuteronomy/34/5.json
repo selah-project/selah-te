@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 34,
+  "translation": "అప్పుడు అక్కడే యాహ్వే సేవకుడైన మోషే మోయాబు దేశములో యాహ్వే సెలవు ప్రకారము మరణించెను.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "మరణించెను"
+    },
+    {
+      "surface": "שם",
+      "gloss": "అక్కడ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "సేవకుడు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "దేశములో"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "మోయాబు"
+    },
+    {
+      "surface": "על",
+      "gloss": "ప్రకారము"
+    },
+    {
+      "surface": "פי",
+      "gloss": "సెలవు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T21:38:25.451651814Z",
+  "model": "glm-5.3"
+}

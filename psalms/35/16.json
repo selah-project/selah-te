@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 35:16",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 35,
+  "translation": "కపటులలో, భోజన విందుల అపహాసకులలో, వారు నాపై తమ పళ్లు ⟨with⟩ కొరికిరి.",
+  "tokens": [
+    {
+      "surface": "בחנפי",
+      "gloss": "కపటులలో"
+    },
+    {
+      "surface": "לעגי",
+      "gloss": "అపహాసకులలో"
+    },
+    {
+      "surface": "מעוג",
+      "gloss": "భోజన విందుల"
+    },
+    {
+      "surface": "חרק",
+      "gloss": "కొరికిరి"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "నాపై"
+    },
+    {
+      "surface": "שנימו",
+      "gloss": "వాని పళ్లు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:01:39.451766228Z",
+  "model": "glm-5.3"
+}

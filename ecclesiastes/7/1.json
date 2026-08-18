@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మంచి నామము మంచి సుగంధ తైలము కంటె మిన్న; మరణ దినము పుట్టిన దినము కంటె మిన్న.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మిన్న"
+    },
+    {
+      "surface": "שם",
+      "gloss": "నామము"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "సుగంధ తైలము కంటె"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచి"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "మరియు దినము"
+    },
+    {
+      "surface": "המות",
+      "gloss": "మరణ"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "దినము కంటె"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "పుట్టిన"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:22.381143914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "యిత్సారు కుమారులు — షెలోమిత్ ⟨ప్రధానుడు⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "యిత్సారు"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "షెలోమిత్"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ప్రధానుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:37:10.249841002Z",
+  "model": "glm-5.3"
+}

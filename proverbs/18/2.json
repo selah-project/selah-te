@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "మూర్ఖుడు బుద్ధిలో ఇష్టపడడు, కాని ⟨కేవలం⟩ తన హృదయం బయటపెట్టుటలోనే.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ఇష్టపడును"
+    },
+    {
+      "surface": "ఛסיל",
+      "gloss": "మూర్ఖుడు"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "బుద్ధిలో"
+    },
+    {
+      "surface": "כי",
+      "gloss": "కాని"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨కేవలం⟩"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "బయటపెట్టుటలో"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "తన హృదయం"
+    }
+  ],
+  "timestamp": "2026-08-18T01:48:50.506259111Z",
+  "model": "glm-5.3"
+}

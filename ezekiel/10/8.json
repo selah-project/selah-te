@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "కెరూబీము రెక్కల క్రింద మనుష్యుని చేతి రూపము కనబడెను.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "మరియు కనబడెను"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "కెరూబీములో"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "రూపము"
+    },
+    {
+      "surface": "יד",
+      "gloss": "చేతి"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మనుష్యుని"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "క్రింద"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "వారి రెక్కల"
+    }
+  ],
+  "timestamp": "2026-08-18T00:06:56.497687001Z",
+  "model": "glm-5.3"
+}

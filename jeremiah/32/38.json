@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "వారు నాకు ప్రజగు రు, నేను వారికి ఎలోహీం గా ఉందును.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "వారు గు రు"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ప్రజ గా"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ఉందును"
+    },
+    {
+      "surface": "להם",
+      "gloss": "వారికి"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ఎలోహీం గా"
+    }
+  ],
+  "timestamp": "2026-08-18T11:34:13.926223326Z",
+  "model": "glm-5.3"
+}

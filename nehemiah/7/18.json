@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 7:18",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "అదోనీకాము కుమారులు — ఆరు వందల అరవై ఏడుగురు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "అదోనీకాము"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "అరవై"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "మరియు ఏడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:33.748386216Z",
+  "model": "glm-5.3"
+}

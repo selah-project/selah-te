@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "తెలియజేయుటకు నీకు చూపబడెను — యాహ్వే ఆయనే ఎలోహీం, ఆయన తప్ప మరొకరు లేరని.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "చూపబడెను"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "తెలియజేయుటకు"
+    },
+    {
+      "surface": "כי",
+      "gloss": "— అని"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ఆయనే"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేరు"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "మరొకరు"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "ఆయన తప్ప"
+    }
+  ],
+  "timestamp": "2026-08-17T20:53:48.958800286Z",
+  "model": "glm-5.3"
+}

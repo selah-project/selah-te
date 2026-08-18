@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "తన వర్తకం మంచిదని రుచి చూసినది; రాత్రియందు తన దీపం ఆర్పబడదు.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "రుచి చూసినది"
+    },
+    {
+      "surface": "כי",
+      "gloss": "అని"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "తన వర్తకం"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "ఆర్పబడును"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "రాత్రియందు"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "తన దీపం"
+    }
+  ],
+  "timestamp": "2026-08-18T01:57:44.307242171Z",
+  "model": "glm-5.3"
+}

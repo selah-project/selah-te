@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మరియు యాహ్వే మాట దేవుని మనిషి అయిన షెమయాకు ఈలాగు ఉండెను —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ఉండెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కు"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "షెమయా"
+    },
+    {
+      "surface": "איש",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "దేవుని"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఈలాగు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:50:11.392659261Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "అష్షూరుకు — తకోవా తండ్రికి — ఇద్దరు భార్యలు ఉండిరి: చెలా మరియు నారా.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "అష్షూరుకు"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "తండ్రి"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "తకోవా"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ఉండిరి"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ఇద్దరు"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "భార్యలు"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "చెలా"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "మరియు నారా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:22:49.929109423Z",
+  "model": "glm-5.3"
+}

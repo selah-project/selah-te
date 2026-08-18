@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 38,
+  "translation": "మరియు మందిరపు యొక్క మరియు పరిసరాల ప్రాంగణపు యొక్క కడ్డీలన్నీ ఇత్తడి ⟨మూలమైనవి⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "మరియు కడ్డీలన్నీ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": ""
+    },
+    {
+      "surface": "היתדת",
+      "gloss": ""
+    },
+    {
+      "surface": "למשכן",
+      "gloss": ""
+    },
+    {
+      "surface": "סביב",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-17T18:02:35.402462401Z",
+  "model": "glm-5.3"
+}

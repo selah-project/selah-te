@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 29,
+  "translation": "యాహ్వే స్వరం ⟨ఉంది⟩ జలాలపై; మహిమ యొక్క ఏల్ ఉరిమించెను; యాహ్వే ⟨ఉంది⟩ అనేక జలాలపై.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "స్వరం"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "המים",
+      "gloss": "జలాల"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "మహిమ యొక్క"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ఉరిమించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "מים",
+      "gloss": "జలాల"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "అనేక"
+    }
+  ],
+  "timestamp": "2026-08-18T00:59:22.640608364Z",
+  "model": "glm-5.3"
+}

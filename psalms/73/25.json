@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 73,
+  "translation": "ఆకాశంలో నాకు ఎవరు? నీతో ఉంటే భూమిలో నేను ఎవరినీ కోరుకోలేదు.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ఎవరు"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ఆకాశంలో"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "నీతో ఉంటే"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "కోరుకోలేదు"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "భూమిలో"
+    }
+  ],
+  "timestamp": "2026-08-18T01:13:47.243828605Z",
+  "model": "glm-5.3"
+}

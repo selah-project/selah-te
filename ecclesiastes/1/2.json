@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "వాయువు వాయువులది, కొహెలెత్ అన్నాడు; వాయువు వాయువులది — ⟨ఇదంతా⟩ వాయువే.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "వాయువు"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "వాయువులది"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "అన్నాడు"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "కొహెలెత్"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "వాయువు"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "వాయువులది"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨ఇదంతా⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "వాయువే"
+    }
+  ],
+  "timestamp": "2026-08-18T02:36:39.765321929Z",
+  "model": "glm-5.3"
+}

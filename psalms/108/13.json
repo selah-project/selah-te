@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 108,
+  "translation": "సంకటం నుండి మాకు సాయం ఇవ్వు, మనుషుని రక్షణ వ్యర్థము.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ఇవ్వు"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "మాకు"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "సాయం"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "సంకటం నుండి"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "మరియు వ్యర్థమైన"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "రక్షణ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మనుషుని"
+    }
+  ],
+  "timestamp": "2026-08-18T01:25:32.831952611Z",
+  "model": "glm-5.3"
+}

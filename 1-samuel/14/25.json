@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "మరియు ⟨the⟩ దేశమంతటి వారు ⟨the⟩ అడవిలోనికి వచ్చిరి; మరియు ⟨the⟩ పొలము మీద తేనె ఉండెను.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "మరియు మొత్తం"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "దేశము"
+    },
+    {
+      "surface": "באו",
+      "gloss": "వచ్చిరి"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "అడవిలోనికి"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు ఉండెను"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "తేనె"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ముఖము"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "పొలము"
+    }
+  ],
+  "timestamp": "2026-08-17T22:12:08.938425882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 4:18",
+  "book": "1-kings",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "షిమ్యీ, ఏలా కుమారుడు, బిన్యామీను ⟨దేశములో⟩.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "షిమ్యీ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אלא",
+      "gloss": "ఏలా"
+    },
+    {
+      "surface": "בבנימן",
+      "gloss": "బిన్యామీనులో"
+    }
+  ],
+  "timestamp": "2026-08-17T22:37:24.153031596Z",
+  "model": "glm-5.3"
+}

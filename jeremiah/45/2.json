@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 45,
+  "translation": "యిస్రాయేలు దేవుడైన యాహ్వే నీ విషయమై ఇలా అనెను — ఓ బారూకు:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ఇలా"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "అనెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "దేవుడైన"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "యిస్రాయేలు"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "నీ విషయమై"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "బారూకు"
+    }
+  ],
+  "timestamp": "2026-08-17T23:56:13.347919719Z",
+  "model": "glm-5.3"
+}

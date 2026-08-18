@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "దైవవాక్కు రాజు పెదవులపై ఉండును; న్యాయతీర్పులో అతని నోరు ద్రోహం చేయదు.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "దైవవాక్కు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "పెదవుల"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "న్యాయతీర్పులో"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "ద్రోహం చేయ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "అతని నోరు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:47:13.099016156Z",
+  "model": "glm-5.3"
+}

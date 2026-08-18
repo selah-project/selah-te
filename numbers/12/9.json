@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "యాహ్వే కోపం వారిపై చెలరేగెను, మరియు ⟨ఆయన⟩ వెళ్ళిపోయెను.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "చెలరేగెను"
+    },
+    {
+      "surface": "אף",
+      "gloss": "కోపం"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "בם",
+      "gloss": "వారిపై"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "వెళ్ళిపోయెను"
+    }
+  ],
+  "timestamp": "2026-08-18T04:38:53.252744557Z",
+  "model": "glm-5.3"
+}

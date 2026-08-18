@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "బోయజ్ ⟨את⟩ ఓబేద్ను జనింపజేసెను, ఓబేద్ ⟨את⟩ యిషయ్ను జనింపజేసెను.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "మరియు బోయజ్"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "జనింపజేసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఓబేద్"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ఓబేద్"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "మరియు ఓబేద్"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "జనింపజేసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "యిషయ్"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "యిషయ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:20:25.547562370Z",
+  "model": "glm-5.3"
+}

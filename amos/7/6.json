@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "దీనిపై యాహ్వే చిత్తపరచుకొనెను; ఇది కూడా కలుగదు, అని అదోనాయ్ యాహ్వే అనెను.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "చిత్తపరచుకొనెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "దీని"
+    },
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "కలుగదు"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "అనెను"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "అదోనాయ్"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-18T00:38:07.156698203Z",
+  "model": "glm-5.3"
+}

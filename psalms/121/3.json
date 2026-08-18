@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 121,
+  "translation": "ఆయన నీ పాదమును కదలనివ్వడు; నిన్ను కాపాడువాడు నిద్రపోడు.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ఇవ్వడు"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "కదలక"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "నీ పాదమును"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "నిద్రపోడు"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "నిన్ను కాపాడువాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:31:06.198107197Z",
+  "model": "glm-5.3"
+}

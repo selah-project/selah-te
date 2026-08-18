@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "పాప బలిగా ⟨for⟩ మేకలలో ఒక్క మేకపోతు —",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "మేకపోతు"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకలలో"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక్క"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "పాప బలిగా"
+    }
+  ],
+  "timestamp": "2026-08-18T04:35:55.020028487Z",
+  "model": "glm-5.3"
+}

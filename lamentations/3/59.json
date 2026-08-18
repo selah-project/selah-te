@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "యాహ్వే, నా దుర్భరణను నీవు చూచావు; నా తీర్పును తీర్చుము.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "నీవు చూచావు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "నా దుర్భరణను"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "తీర్చుము"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "నా తీర్పును"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:59.018025561Z",
+  "model": "glm-5.3"
+}

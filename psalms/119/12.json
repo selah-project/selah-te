@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 119,
+  "translation": "నీవు ధన్యుడవు, యాహ్వే; నాకు నీ చట్టాలను బోధించుము.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ధన్యుడవు"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "నాకు బోధించుము"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "నీ చట్టాలను"
+    }
+  ],
+  "timestamp": "2026-08-18T01:29:26.407569777Z",
+  "model": "glm-5.3"
+}

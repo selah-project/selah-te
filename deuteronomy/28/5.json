@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "ఆశీర్వదించబడు నీ గంప మరియు నీ కుంచం.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ఆశీర్వదించబడు"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "నీ గంప"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "మరియు నీ కుంచం"
+    }
+  ],
+  "timestamp": "2026-08-18T05:01:10.675834883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఏలాం కుమారులు — వెయ్యి రెండు వందల యాభై నాలుగు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ఏలాం"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వెయ్యి"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "రెండు వందల"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "యాభై"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "మరియు నాలుగు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:11:25.009658275Z",
+  "model": "glm-5.3"
+}

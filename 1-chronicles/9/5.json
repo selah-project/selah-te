@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "మరియు షిలోనీయులలో — అసయా ప్రథముడు మరియు అతని కుమారులు.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "మరియు నుండి"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "షిలోనీయులలో"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "అసయా"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ప్రథముడు"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "మరియు అతని కుమారులు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:26.859951804Z",
+  "model": "glm-5.3"
+}

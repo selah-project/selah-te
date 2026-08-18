@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "షుప్పీం, హుప్పీం — వీరు ఇర్ కుమారులు; హుషీం — వారు అహేర్ కుమారులు.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "షుప్పీం"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "హుప్పీం"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ఇర్"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "హుషీం"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "అహేర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:37.283793211Z",
+  "model": "glm-5.3"
+}

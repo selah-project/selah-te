@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "గజ్జామ్ కుమారులు, ఉజ్జా కుమారులు, పాసేయాచ్ కుమారులు,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "గజ్జామ్"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ఉజ్జా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "పాసేయాచ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:51.893283169Z",
+  "model": "glm-5.3"
+}

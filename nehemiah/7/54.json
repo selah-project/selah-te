@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బస్లీతు కుమారులు, మెచీదా కుమారులు, చర్షా కుమారులు,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "బస్లీతు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "మెచీదా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "చర్షా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:11.834390669Z",
+  "model": "glm-5.3"
+}

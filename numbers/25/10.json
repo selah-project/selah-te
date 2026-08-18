@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "మరియు యాహ్వే మోషేతో ఇట్లా ఆడుకొనెను:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు ఆడుకొనెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇట్లా చెప్పుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:45:15.666516747Z",
+  "model": "glm-5.3"
+}

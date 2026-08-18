@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 20:7",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "యాహ్వే మోషేతో ఇలా ఉట్టాడు — తెలుపుచున్నాను:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా ఉట్టాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:43:40.853996460Z",
+  "model": "glm-5.3"
+}

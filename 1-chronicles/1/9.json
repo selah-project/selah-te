@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "కూషు కుమారులు: సెబా, ׹వీలా, సబ్తా, రామా, సబ్తెకా; రామా కుమారులు: షెబా, దెదాన్.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "కూషు"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "సెబా"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "హవీలా"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "సబ్తా"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "రామా"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "సబ్తెకా"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "రామా"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "షెబా"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "దెదాన్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:47.159199158Z",
+  "model": "glm-5.3"
+}

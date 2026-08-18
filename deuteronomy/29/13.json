@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 29,
+  "translation": "మరియు మిమ్ముతో మాత్రమే కాదు, నేనే ⟨את⟩ ఈ నిబంధనను ⟨את⟩ ఈ శపథాన్ని కొరుచుచున్నాను.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "మరియు కాదు"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ మిమ్ముతో"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "మాత్రమే"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "నేనే"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "కొరుచుచున్నాను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఈ నిబంధనను"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "నిబంధనను"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ఈ శపథాన్ని"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "శపథాన్ని"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ఈ"
+    }
+  ],
+  "timestamp": "2026-08-18T05:02:11.930917919Z",
+  "model": "glm-5.3"
+}

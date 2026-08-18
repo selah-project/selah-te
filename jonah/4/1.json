@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "యోనాకు ఇది చాలా పెద్ద చెడుగా తోచెను, అతనికి కోపం మండెను.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "చెడుగా తోచెను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కు"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "యోనా"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "చెడు"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "పెద్ద"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "కోపం మండెను"
+    },
+    {
+      "surface": "לו",
+      "gloss": "అతనికి"
+    }
+  ],
+  "timestamp": "2026-08-18T00:39:58.734245702Z",
+  "model": "glm-5.3"
+}

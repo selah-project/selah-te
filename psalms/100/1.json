@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 100,
+  "translation": "కీర్తన ⟨the⟩ కృతజ్ఞతా-స్తుతికి. యాహ్వేకు ఘోషించండి, ⟨the⟩ సమస్త భూమి.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "కీర్తన"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "కృతజ్ఞతా-స్తుతికి"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ఘోషించండి"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "యాహ్వేకు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:22:00.294759972Z",
+  "model": "glm-5.3"
+}

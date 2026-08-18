@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "షెయోలు మార్గములు ఆమె ఇల్లు; మరణపు లోపలి గదులకు దిగిపోవునవి.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "మార్గములు"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "షెయోలు"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ఆమె ఇల్లు"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "దిగిపోవునవి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపు"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "లోపలి గదులకు"
+    },
+    {
+      "surface": "מות",
+      "gloss": "మరణపు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:41:01.973592557Z",
+  "model": "glm-5.3"
+}

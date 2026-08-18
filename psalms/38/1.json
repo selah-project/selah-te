@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 38,
+  "translation": "దావీదు మహాజ్ఞానము — జ్ఞాపకము కలుగుటకు.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "మహాజ్ఞానము"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదునకు"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "జ్ఞాపకము కలుగుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:03:44.309936816Z",
+  "model": "glm-5.3"
+}

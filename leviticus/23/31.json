@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 23:31",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "ఏ పని చేయకుడదు — మీ తరతరాలకు, మీ నివాసమంతట నిత్య ఆచారము ఇది.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "పని"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "చేయుడదు"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ఆచారము"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "నిత్య"
+    },
+    {
+      "surface": "לדרתיכם",
+      "gloss": "మీ తరతరాలకు"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "అంతట"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "మీ నివాస"
+    }
+  ],
+  "timestamp": "2026-08-17T18:40:26.316499916Z",
+  "model": "glm-5.3"
+}

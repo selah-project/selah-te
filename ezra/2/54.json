@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నెత్సియాఖు కుమారులు, ఖతీఫా కుమారులు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "నెత్సియాఖు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ఖతీఫా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:01:29.627417427Z",
+  "model": "glm-5.3"
+}

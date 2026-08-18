@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "నీవు నీకు భార్యను తీసుకొనకూడదు, ఈ స్థలమందు నీకు కుమారులు కుమార్తెలు ఉండకూడదు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "తీసుకొను"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "భార్య"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు కాదు"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ఉండు"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "మరియు కుమార్తెలు"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "స్థలమందు"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    }
+  ],
+  "timestamp": "2026-08-17T23:41:59.793846240Z",
+  "model": "glm-5.3"
+}

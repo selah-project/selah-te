@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 49:19",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 49,
+  "translation": "గాద్ — దాడిదళం అతనిపై పడును, అయితే ⟨అతడు⟩ వారి కడియాలపై పడును.",
+  "tokens": [
+    {
+      "surface": "גד",
+      "gloss": "గాద్"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "దాడిదళం"
+    },
+    {
+      "surface": "יגודנו",
+      "gloss": "అతనిపై పడును"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "అయితే ⟨అతడు⟩"
+    },
+    {
+      "surface": "יגד",
+      "gloss": "పడును"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "కడియాలపై"
+    }
+  ],
+  "timestamp": "2026-08-17T17:35:58.145232044Z",
+  "model": "glm-5.3"
+}

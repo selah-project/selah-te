@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "నాకు ఆలోచన మరియు దృఢ జ్ఞానం ⟨ఉన్నాయి⟩; నేనే అవగాహన; నాకు బలం ⟨ఉంది⟩.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ఆలోచన"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "మరియు దృఢ జ్ఞానం"
+    },
+    {
+      "surface": "אני",
+      "gloss": "నేనే"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "అవగాహన"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "బలం"
+    }
+  ],
+  "timestamp": "2026-08-18T01:41:53.456194869Z",
+  "model": "glm-5.3"
+}

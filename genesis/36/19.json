@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 36,
+  "translation": "ఇవి ఎసావ్ కుమారులు, మరియు ఇవి వారి అధిపతులు; అతడే ఎదోం.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ఇవి"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ఎసావ్"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "మరియు ఇవి"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "వారి అధిపతులు"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అతడే"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ఎదోం"
+    }
+  ],
+  "timestamp": "2026-08-17T17:25:22.756008699Z",
+  "model": "glm-5.3"
+}

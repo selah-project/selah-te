@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "మగ్బీషు కుమారులు — వందలు, ఏబది మరియు ఆరుగురు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "మగ్బీషు"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "వంద"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ఏబది"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "మరియు ఆరు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:01.118194994Z",
+  "model": "glm-5.3"
+}

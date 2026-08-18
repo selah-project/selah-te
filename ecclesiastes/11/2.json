@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "ఏడుగురికి ఒక వాటా ఇవ్వుము, ఆరింటికి కూడా ఇవ్వుము; ఎందుకంటే భూమిమీద ఏ కీడు కలుగునో నువ్వు తెలియవు.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ఇవ్వుము"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "వాటా"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ఏడుగురికి"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "మరియు కూడా"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "ఎనిమిదికి"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "నువ్వు తెలియవు"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "కలుగునో"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "కీడు"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    }
+  ],
+  "timestamp": "2026-08-18T06:21:26.938133397Z",
+  "model": "glm-5.3"
+}

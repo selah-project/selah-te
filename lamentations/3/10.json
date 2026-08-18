@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "పొంగి యున్న ఎలుగుబంటివా డాయె; దాగిన చోట్ల సింహమువా డాయె.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ఎలుగుబంటి"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "పొంగి యున్న"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "వాడాయె"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "సింహము"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "దాగిన చోట్ల"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:46.814086649Z",
+  "model": "glm-5.3"
+}

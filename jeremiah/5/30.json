@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "నాశనమును భీకరతను దేశములో జరిగెను.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "నాశనము"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "మరియు భీకరత"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "జరిగెను"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "దేశములో"
+    }
+  ],
+  "timestamp": "2026-08-17T23:36:38.745322343Z",
+  "model": "glm-5.3"
+}

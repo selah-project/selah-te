@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 105,
+  "translation": "ఆయన చెప్పెను, దోమలు వచ్చెను, పేలు వారి సరిహద్దంలో అంతట.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "చెప్పెను"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "వచ్చెను"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "దోమల గుబురు"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "పేలు"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "అంతట"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "వారి సరిహద్దు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:25:14.647552912Z",
+  "model": "glm-5.3"
+}

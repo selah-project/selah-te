@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 63,
+  "translation": "దావీదు కీర్తన — అతడు యెహూదా అరణ్యంలో ఉన్నప్పుడు.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "కీర్తన"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదునకు"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "అతడు ఉన్నప్పుడు"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "అరణ్యంలో"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "యెహూదా"
+    }
+  ],
+  "timestamp": "2026-08-18T01:10:36.768227276Z",
+  "model": "glm-5.3"
+}

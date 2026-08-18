@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "గాయకులు — అసాపు కుమారులు — వందు ఇరవై ఎనిమిది.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "గాయకులు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "అసాపు"
+    },
+    {
+      "surface": "మאה",
+      "gloss": "వందు"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ఎనిమిది"
+    }
+  ],
+  "timestamp": "2026-08-18T03:01:49.245969615Z",
+  "model": "glm-5.3"
+}

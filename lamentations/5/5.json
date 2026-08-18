@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "మా మెడలపై మేము వెంబడించబడ్డాము; అలిసిపోయినాము — మాకు విశ్రాంతి ⟨ఇవ్వబడలేదు⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "మా మెడల"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "వెంబడించబడ్డాము"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "అలిసిపోయినాము"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "విశ్రాంతి ఇవ్వబడలేదు"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "మాకు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:41.154056845Z",
+  "model": "glm-5.3"
+}

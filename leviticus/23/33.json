@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 23:33",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మరియు యాహ్వే మోషేతో ఇలా ఆడుకున్నాడు ⟨చెప్పుచున్నాడు⟩",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు ఆడుకున్నాడు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా చెప్పుచున్నాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T07:28:55.956552193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "కేవలం ⟨את⟩ దాని రక్తం మాత్రం తినవద్దు; ⟨అది⟩ ⟨ది⟩ భూమిపై నీళ్లవలె పారవేయవలెను.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "కేవలం మాత్రం"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "దాని రక్తం"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "దాని రక్తం"
+    },
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "తిన"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨ది⟩ భూమి"
+    },
+    {
+      "surface": "పשפכנו",
+      "gloss": "అది పారవేయవలెను"
+    },
+    {
+      "surface": "ఛמים",
+      "gloss": "నీళ్లవలె"
+    }
+  ],
+  "timestamp": "2026-08-17T21:08:45.474282422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 24:13",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "హుప్పాకు పదమూడు, యెషెబెయాబుకు పద్నాలుగు.",
+  "tokens": [
+    {
+      "surface": "לחפה",
+      "gloss": "హుప్పాకు"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది (పదమూడు)"
+    },
+    {
+      "surface": "לישבאב",
+      "gloss": "యెషెబెయాబుకు"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది (పద్నాలుగు)"
+    }
+  ],
+  "timestamp": "2026-08-18T03:36:59.069694396Z",
+  "model": "glm-5.3"
+}

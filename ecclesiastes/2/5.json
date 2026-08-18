@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నేను నాకు తోటలను మరియు పర్దేసులను చేసికొని, వాటిలో ప్రతి ఫలము చెట్లను నాటితిని.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "చేసికొని"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "తోటలను"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "మరియు పర్దేసులను"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "మరియు నాటితిని"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "వాటిలో"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "చెట్లను"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ఫలము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:37:33.641172149Z",
+  "model": "glm-5.3"
+}

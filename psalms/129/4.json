@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 129,
+  "translation": "యాహ్వే ⟨is⟩ నీతిమంతుడు; ఆయన దుష్టుల త్రాళ్లను ఖండించెను.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "నీతిమంతుడు"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "ఖండించెను"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "త్రాళ్లను"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "దుష్టుల"
+    }
+  ],
+  "timestamp": "2026-08-18T01:31:34.785141282Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "గాదు తరపున — ఎల్యాసాఫు, దెయూయేలు కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "గాదు తరపున"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ఎల్యాసాఫు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "దెయూయేలు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:55:13.566116503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 15:23",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "కేదేష్, అజోర్, ఇత్నాన్ —",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "కేదేష్"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "అజోర్"
+    },
+    {
+      "surface": "ויתנן",
+      "gloss": "ఇత్నాన్"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:19.631689321Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "చీకటి స్థలములలో నన్ను కూర్చొనియుండ జేసెను, పురాతన మృతులవలె.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "చీకటి స్థలములలో"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "నన్ను కూర్చొనియుండ జేసెను"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "మృతులవలె"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "పురాతన"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:19.801362325Z",
+  "model": "glm-5.3"
+}

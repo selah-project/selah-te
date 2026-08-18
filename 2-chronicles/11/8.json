@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మరియు ⟨את⟩ గత్ ⟨את⟩ మారేషా ⟨את⟩ జీఫ్‌ను",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "గత్"
+    },
+    {
+      "surface": "גת",
+      "gloss": "గత్"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "మారేషా"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "మారేషా"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "జీఫ్"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "జీఫ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:47:16.913810793Z",
+  "model": "glm-5.3"
+}

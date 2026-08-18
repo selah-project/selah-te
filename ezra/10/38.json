@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మరియు బానీ, మరియు బిన్నూయ్, షిమ్ఈ,",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు బానీ"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "మరియు బిన్నూయ్"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "షిమ్ఈ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:05:23.849568237Z",
+  "model": "glm-5.3"
+}

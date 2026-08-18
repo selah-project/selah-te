@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "పేదవాడు మనవిచేస్తాడు, ధనికుడు కఠినంగా సమాధానమిస్తాడు.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "మనవులతో"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "మాట్లాడును"
+    },
+    {
+      "surface": "רש",
+      "gloss": "పేదవాడు"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "ధనికుడు"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "సమాధానమిస్తాడు"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "కఠినంగా"
+    }
+  ],
+  "timestamp": "2026-08-18T01:48:36.046233741Z",
+  "model": "glm-5.3"
+}

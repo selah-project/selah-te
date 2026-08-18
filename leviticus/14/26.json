@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "యాజకుడు నూనెలో కొంత తన ఎడమ చేతి అరచేపై పోయెదను.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "మరియు నుండి కొంత"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "నూనె"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "పోయెదను"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "యాజకుడు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "כף",
+      "gloss": "అరచేత"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "యాజకుని"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ఎడమ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:23:24.162517329Z",
+  "model": "glm-5.3"
+}

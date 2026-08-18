@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "కఠినతతో అతనిని ఏలకూడదు; నీ ఎలోహీం యొక్కవాడవై ⟨ఆయనను⟩ భయపడుతావు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కూడదు"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "ఏలకూడదు"
+    },
+    {
+      "surface": "בו",
+      "gloss": "అతనిని"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "కఠినతతో"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "భయపడుతావు"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "నీ ఎలోహీం నుండి"
+    }
+  ],
+  "timestamp": "2026-08-18T04:29:22.069665587Z",
+  "model": "glm-5.3"
+}

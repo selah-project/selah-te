@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 36,
+  "translation": "గానాధ్యక్షునికి. యాహ్వే సేవకునికి, దావీదునికి.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "గానాధ్యక్షునికి"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "సేవకునికి"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదునికి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:01:07.615656094Z",
+  "model": "glm-5.3"
+}

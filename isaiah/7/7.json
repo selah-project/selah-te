@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "అదోనాయ్ యాహ్వే ఈలాగు సెలవిచ్చెను — అది నిలువదు, అది ఉండిపోదు.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ఈలాగు"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "సెలవిచ్చెను"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "అదోనాయ్"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "నిలువదు"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు లేదు"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ఉండిపోదు"
+    }
+  ],
+  "timestamp": "2026-08-18T05:33:02.703427340Z",
+  "model": "glm-5.3"
+}

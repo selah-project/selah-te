@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "అందుచేత సైన్యముల యాహ్వే ఇలా సెలవిచెను — మీరు నా మాటలను ⟨את⟩ విననందున,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "అందుచేత"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ఇలా"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "సెలవిచెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "సైన్యముల"
+    },
+    {
+      "surface": "יען",
+      "gloss": "యెందుకంటే"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేనివలన"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "మీరు వినలేదు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "నా మాటలను"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "నా మాటలను"
+    }
+  ],
+  "timestamp": "2026-08-17T23:46:04.100317793Z",
+  "model": "glm-5.3"
+}

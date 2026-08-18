@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "ఏజెరు మొదటివాడు, ఒబద్యాహు రెండవవాడు, ఏలీయాబు మూడవవాడు.",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "ఏజెరు"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "మొదటివాడు"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ఒబద్యాహు"
+    },
+    {
+      "surface": "השני",
+      "gloss": "రెండవవాడు"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ఏలీయాబు"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "మూడవవాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:57.682517217Z",
+  "model": "glm-5.3"
+}

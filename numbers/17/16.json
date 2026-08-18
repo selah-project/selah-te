@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "మరియు యాహ్వే మోషేతో మాటలాడెను, సెలవిచ్చుచు:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T19:48:07.517752095Z",
+  "model": "glm-5.3"
+}

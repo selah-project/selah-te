@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "జిఫ్, తేలెం, బెలోత్ —",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "జిఫ్"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "తేలెం"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "బెలోత్"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:19.631815648Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "మోషే పెసహ్‌ను చేయుడని ఇశ్రాయేలీ కుమారులతో మాట్లాడెను.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారుల"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ఇశ్రాయేలీ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "చేయుడని"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "పెసహ్‌ను"
+    }
+  ],
+  "timestamp": "2026-08-18T04:38:20.887782835Z",
+  "model": "glm-5.3"
+}

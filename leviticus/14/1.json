@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "యాహ్వే మోషేతో ఇలా ఆజ్ఞాపించుచున్నాడు —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా అనుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:16:21.303076782Z",
+  "model": "glm-5.3"
+}

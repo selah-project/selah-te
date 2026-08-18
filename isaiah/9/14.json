@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "వృద్ధుడు మరియు ముఖవాసము గలవాడు ⟨he⟩ తల; అబద్ధము బోధించు ప్రవక్త ⟨he⟩ తోక.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "వృద్ధుడు"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "మరియు ఎత్తబడిన"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ముఖము గలవాడు"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩ అతడే"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "తల"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "మరియు ప్రవక్త"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "బోధించు"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "అబద్ధము"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩ అతడే"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "తోక"
+    }
+  ],
+  "timestamp": "2026-08-17T23:10:05.392851350Z",
+  "model": "glm-5.3"
+}

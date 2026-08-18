@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "పరోష్ కుమారులు — వెయ్యి రెండు వందలు ఏబది రెండు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "పరోష్"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "వెయ్యి రెండు"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "వందలు"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ఏబది"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "రెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:36.872622640Z",
+  "model": "glm-5.3"
+}

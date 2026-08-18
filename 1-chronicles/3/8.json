@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఎలీషామా, ఎల్యాదా, ఎలీఫెలెత్ — తొమ్మిదిమంది.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "మరియు ఎలీషామా"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "మరియు ఎల్యాదా"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "మరియు ఎలీఫెలెత్"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "తొమ్మిదిమంది"
+    }
+  ],
+  "timestamp": "2026-08-18T03:22:29.256319152Z",
+  "model": "glm-5.3"
+}

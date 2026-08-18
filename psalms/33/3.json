@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "ఆయనకు పాడండి కొత్త పాట; సుందరంగా వాయించండి ఘోషతో.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "పాడండి"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ఆయనకు"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "పాట"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "కొత్త"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "సుందరంగా"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "వాయించండి"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ఘోషతో"
+    }
+  ],
+  "timestamp": "2026-08-18T01:01:28.684785529Z",
+  "model": "glm-5.3"
+}

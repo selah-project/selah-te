@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "యాహ్వే భయము జీవము యొక్క ఊట; మరణపు ఉచ్చులనుండి తప్పించుకొనుటకు.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "భయము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ఊట"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "జీవము యొక్క"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "తప్పించుకొనుటకు"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ఉచ్చులనుండి"
+    },
+    {
+      "surface": "מות",
+      "gloss": "మరణపు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:46:14.959456882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "నేను ⟨the⟩ సముద్రమా, లేక తన్నీన్‌నా, నీవు నాపై కావలి ఉంచితివా?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "సముద్రమా"
+    },
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "אם",
+      "gloss": "లేక"
+    },
+    {
+      "surface": "పנין",
+      "gloss": "తన్నీన్"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకు"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ఉంచితివా"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "నాపై"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "కావలి"
+    }
+  ],
+  "timestamp": "2026-08-18T06:16:45.312602924Z",
+  "model": "glm-5.3"
+}

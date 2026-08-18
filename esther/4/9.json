@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "హతక్ వచ్చి ఎస్తేరుకు ⟨את⟩ మొర్దకయి మాటలను తెలియజేసెను.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "వచ్చి"
+    },
+    {
+      "surface": "התך",
+      "gloss": "హతక్"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "తెలియజేసెను"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "ఎస్తేరుకు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "మొర్దకయి మాటలను"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "మాటలను"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "మొర్దకయి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:41:37.621080228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "షమ్మాయ్ కుమారుడు ⟨అతని⟩ మాయోన్; మాయోన్ ⟨అతని⟩ బేత్-త్సూర్ తండ్రి.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "మరియు కుమారుడు"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "షమ్మాయ్"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "మాయోన్"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "మరియు మాయోన్"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "తండ్రి"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "త్సూర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:20:56.231235071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఆ సమయమందు యాహ్వేను వేడుకొన్నాను, సెలవిచ్చుచు:",
+  "tokens": [
+    {
+      "surface": "וָאֶתְחַנַּז",
+      "gloss": "వేడుకొన్నాను"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "వైపు"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "యాహ్వేను"
+    },
+    {
+      "surface": "בָּעֵת",
+      "gloss": "సమయమందు"
+    },
+    {
+      "surface": "הַהִוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "לֵאמֹר",
+      "gloss": "సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T08:25:14.046751679Z",
+  "model": "glm-5.3"
+}

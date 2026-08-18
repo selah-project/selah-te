@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "యాహ్వే కయీన్ తో పలికెను: నీకు ఎందుకు కోపం? నీ ముఖం ఎందుకు పడిపోయెను?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "మరియు పలికెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "קין",
+      "gloss": "కయీన్"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ఎందుకు"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "కోపం మండినది"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "మరియు ఎందుకు"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "పడిపోయెను"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "నీ ముఖం"
+    }
+  ],
+  "timestamp": "2026-08-17T17:04:39.615595826Z",
+  "model": "glm-5.3"
+}

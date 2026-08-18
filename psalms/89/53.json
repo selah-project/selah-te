@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 89,
+  "translation": "యాహ్వే సదా ఆశీర్వదించబడినవాడు; ఆమేన్, మరియు ఆమేన్.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ఆశీర్వదించబడినవాడు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "సదా"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ఆమేన్"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "మరియు ఆమేన్"
+    }
+  ],
+  "timestamp": "2026-08-18T01:19:17.478262247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "మరియు యాహ్వే మోషేతో మరియు అహరోనుతో సంభాషించెను, ఈ విధంగా:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు సంభాషించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "మరియు తో"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "అహరోను"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఈ విధంగా చెప్పుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:39:47.095672751Z",
+  "model": "glm-5.3"
+}

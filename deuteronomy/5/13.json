@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "ఆరు దినములు నీవు పనిచేయుదువు, నీ సమస్త పనిని చేసికొనవలెను.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "దినములు"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "నీవు పనిచేయుదువు"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "చేసికొనవలెను"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "నీ పనిని"
+    }
+  ],
+  "timestamp": "2026-08-17T20:54:33.804309957Z",
+  "model": "glm-5.3"
+}

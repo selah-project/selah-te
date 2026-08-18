@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు షంషెరాయి, మరియు షెహర్యాహు, మరియు అతల్యాహు.",
+  "tokens": [
+    {
+      "surface": "ו שמשרי",
+      "gloss": "మరియు షంషెరాయి"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "మరియు షెహర్యాహు"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "మరియు అతల్యాహు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:26:12.740027516Z",
+  "model": "glm-5.3"
+}

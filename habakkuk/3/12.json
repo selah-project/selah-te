@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఉగ్రతతో నీవు భూమిని తొక్కితివి, కోపముతో జనులను దంచితివి.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "ఉగ్రతతో"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "నీవు...తొక్కితివి"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "భూమిని"
+    },
+    {
+      "surface": "באף",
+      "gloss": "కోపముతో"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "దంచితివి"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "జనులను"
+    }
+  ],
+  "timestamp": "2026-08-18T00:44:47.700493999Z",
+  "model": "glm-5.3"
+}

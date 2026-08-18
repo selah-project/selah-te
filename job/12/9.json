@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "వీటన్నింటిలో ఎవరు తెలియని వాడు? యాహ్వే చేయి ఈక చేసింది గనుక.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ఎవరు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "తెలియు"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "వీటన్నింటిలో"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ఇవి"
+    },
+    {
+      "surface": "כי",
+      "gloss": "గనుక"
+    },
+    {
+      "surface": "יד",
+      "gloss": "చేతి"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ఈది"
+    }
+  ],
+  "timestamp": "2026-08-18T02:04:33.321848254Z",
+  "model": "glm-5.3"
+}

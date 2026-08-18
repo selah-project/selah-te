@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 56,
+  "translation": "నేను భయపడు దినమందు, నీపైనే నేను నమ్మకము ఉంచెదను.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "దినమందు"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "భయపడు"
+    },
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "నీపైనే"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "నమ్మకము ఉంచెదను"
+    }
+  ],
+  "timestamp": "2026-08-18T01:07:51.610514601Z",
+  "model": "glm-5.3"
+}

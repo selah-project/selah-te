@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "మోఆబ్ అరబా మైదానంలో, యర్దన్ దగ్గర, యెరీహో ఎదురుగా, యాహ్వే మోషేతో ఉటంకించెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ఉటంకించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "అరబా మైదానంలో"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "మోఆబ్"
+    },
+    {
+      "surface": "על",
+      "gloss": "దగ్గర"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "యర్దన్"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "యెరీహో"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-17T20:34:37.842570583Z",
+  "model": "glm-5.3"
+}

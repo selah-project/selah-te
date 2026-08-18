@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 39,
+  "translation": "మరియు ⟨the⟩ మూడవ వరుస — లెషెమ్, షెబో, మరియు అహ్లామా.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "మరియు ⟨the⟩ వరుస"
+    },
+    {
+      "surface": "హశ్లీషి",
+      "gloss": "మూడవ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "లెషెమ్"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "షెబో"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "మరియు అహ్లామా"
+    }
+  ],
+  "timestamp": "2026-08-17T18:02:16.058459278Z",
+  "model": "glm-5.3"
+}

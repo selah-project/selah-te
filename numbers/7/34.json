@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "పాప అర్పణ కొరకు మేకలలో ఒక్క మేకపోతు.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "మేకపోతు"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకలలో"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "పాప అర్పణ కొరకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:35:52.456885288Z",
+  "model": "glm-5.3"
+}

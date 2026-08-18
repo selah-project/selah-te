@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "వన్యా, మెరెమోత్, ఎల్యాషీబ్.",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "వన్యా"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "మెరెమోత్"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ఎల్యాషీబ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:06:14.777721857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "తలుపు తన బందముపై తిరుగును; సోమరిపోతు తన మంచముపై ⟨తిరుగును⟩.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "తలుపు"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "తిరుగుచున్నది"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "తన బందము"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "మరియు సోమరిపోతు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "తన మంచము"
+    }
+  ],
+  "timestamp": "2026-08-18T01:54:15.745233267Z",
+  "model": "glm-5.3"
+}

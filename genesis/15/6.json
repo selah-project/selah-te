@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "అతడు యాహ్వేను నమ్మెను; ఆయన అతనికి అది నీతిగా లెక్కించెను.",
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "నమ్మెను"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "యాహ్వేను"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "లెక్కించెను"
+    },
+    {
+      "surface": "לו",
+      "gloss": "అతనికి"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "నీతిగా"
+    }
+  ],
+  "timestamp": "2026-08-17T17:10:51.501793851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "మాయోను, కార్మేలు, వజీఫు, వయూట్టా",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "మాయోను"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "కార్మేలు"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "వజీఫు"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "వయూట్టా"
+    }
+  ],
+  "timestamp": "2026-08-18T05:05:48.652052084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "జత్తూ కుమారులు తొమ్మిది వందల నలభై ఐదు మంది.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "జత్తూ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "తొమ్మిది"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "మరియు నలభై"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "మరియు ఐదు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:00:01.959048988Z",
+  "model": "glm-5.3"
+}

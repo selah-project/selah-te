@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 73,
+  "translation": "మర్త్యుల శ్రమలో వారు లేరు, మానవులతో కూడ వారు పీడించబడరు.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "శ్రమలో"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "మర్త్యుల"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "వారు లేరు"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "మరియు తో"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మానవుల"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "పీడించబడరు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:13:29.844218071Z",
+  "model": "glm-5.3"
+}

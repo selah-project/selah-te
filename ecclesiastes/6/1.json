@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఒక చెడుతనం ఉంది, దానిని సూర్యుని కింద నేను చూచాను, అది మానవునిపై భారీగా ఉంది.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ఉంది"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "చెడుతనం"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దానిని"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "నేను చూచాను"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "కింద"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "సూర్యుని"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "మరియు భారీగా"
+    },
+    {
+      "surface": "היא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "మానవుని"
+    }
+  ],
+  "timestamp": "2026-08-18T02:40:20.422865966Z",
+  "model": "glm-5.3"
+}

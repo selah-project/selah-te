@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "అఖియామ్ సాఖర్ హరారీయుని కుమారుడు, ఎలీఫల్ ఊర్ కుమారుడు,",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "అఖియామ్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "సాఖర్"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "హరారీయుని"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "ఎలీఫల్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ఊర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:18.411935760Z",
+  "model": "glm-5.3"
+}

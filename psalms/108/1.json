@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 108,
+  "translation": "పాట, దావీదు కీర్తన",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "పాట"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "కీర్తన"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదు కొరకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:26:16.365070417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 46,
+  "translation": "అది యాహ్వే నుండి యిర్మెయాహూ ప్రవక్తకు జాతుల గురించి కలిగిన వాక్యము.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "అది"
+    },
+    {
+      "surface": "היה",
+      "gloss": "కలిగినది"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "వాక్యము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "యిర్మెయాహూ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ప్రవక్తకు"
+    },
+    {
+      "surface": "על",
+      "gloss": "గురించి"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "జాతుల"
+    }
+  ],
+  "timestamp": "2026-08-17T23:56:29.591545235Z",
+  "model": "glm-5.3"
+}

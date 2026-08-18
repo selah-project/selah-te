@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "మరియు దానియేలు ⟨ఉండెను⟩ కోరెషు ⟨రాజు⟩ మొదటి సంవత్సరము వరకు.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు ఉండెను"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "దానియేలు"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "సంవత్సరము"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "మొదటి"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "కోరెషు యొక్క"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:22:44.707544700Z",
+  "model": "glm-5.3"
+}

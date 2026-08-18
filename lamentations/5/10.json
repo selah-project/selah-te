@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "కాటుక వేడిమి ముఖంగా మన చర్మము పొయ్యివలె మండిపోయెను, ఆకలి యొక్క ఉగ్రతరంగాల వలన.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "మన చర్మము"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "పొయ్యివలె"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "మండిపోయెను"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ముఖంగా"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ఉగ్రతరంగాల"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ఆకలి యొక్క"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:02.722795032Z",
+  "model": "glm-5.3"
+}

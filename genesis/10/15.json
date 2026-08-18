@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "కనాను ⟨את⟩ తన ప్రథమజాత కుమారుడైన సీదోనును ⟨את⟩ హేతును జనింపజేసెను.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "కనాను"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "జనింపజేసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "సీదోనును"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "సీదోనును"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ప్రథమజాత"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "హేతును"
+    },
+    {
+      "surface": "חת",
+      "gloss": "హేతును"
+    }
+  ],
+  "timestamp": "2026-08-17T17:09:37.131596573Z",
+  "model": "glm-5.3"
+}

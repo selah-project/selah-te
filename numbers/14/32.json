@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "మీ శవాలు — మీరే — ఈ అరణ్యమందు పడుదురు.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "మీ శవాలు"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "మీరే"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "పడుదురు"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "అరణ్యమందు"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:40:06.433005782Z",
+  "model": "glm-5.3"
+}

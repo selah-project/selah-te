@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "లెమువేలు రాజు యొక్క మాటలు — ⟨את⟩ అతని తల్లి అతనికి బోధించిన భారం.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "మాటలు"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "లెమువేలు యొక్క"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "משא",
+      "gloss": "భారం"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨అది⟩"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "అతనికి బోధించిన"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "అతని తల్లి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:58:02.450116356Z",
+  "model": "glm-5.3"
+}

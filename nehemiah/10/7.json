@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "దానియేల్, గిన్నెతోన్, బరూక్,",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "దానియేల్"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "గిన్నెతోన్"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "బరూక్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:16.786867390Z",
+  "model": "glm-5.3"
+}

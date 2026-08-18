@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "దానుకు అజర్యేలు, యెరోహాము కుమారుడు; ఇవి యిస్రాయేలు తెగలకు అధిపతులు.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "దానుకు"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "అజర్యేలు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "యెరోహాము"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ఇవి"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "అధిపతులు"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "తెగలకు"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "యిస్రాయేలు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:40:48.505992025Z",
+  "model": "glm-5.3"
+}

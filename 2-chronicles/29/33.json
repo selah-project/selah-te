@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 29,
+  "translation": "మరియు ⟨the⟩ పవిత్రమైన వస్తువులు — ఎద్దులు ఆరువందలు, మరియు గొఱ్ఱెలు మూడు వేలు.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "మరియు ⟨the⟩ పవిత్రమైన వస్తువులు"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ఎద్దులు"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందలు"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "మరియు గొఱ్ఱెలు"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "వేలు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:02:07.186756271Z",
+  "model": "glm-5.3"
+}

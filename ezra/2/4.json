@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "షెఫత్యా కుమారులు — మూడు వందలు, డెబ్బై మరియు రెండు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "షెఫత్యా"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందలు"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "డెబ్బై"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "మరియు రెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:01:19.263381801Z",
+  "model": "glm-5.3"
+}

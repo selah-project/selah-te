@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 20:29",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "యువకుల అలంకారము ⟨వారి⟩ బలము; వృద్ధుల మహిమ శీతల కేశములు.",
+  "tokens": [
+    {
+      "surface": "תפארת",
+      "gloss": "అలంకారము"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "యువకుల"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "వారి బలము"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "మరియు మహిమ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "వృద్ధుల"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "శీతల కేశములు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:50:09.569314483Z",
+  "model": "glm-5.3"
+}

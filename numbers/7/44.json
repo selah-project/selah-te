@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "పది తులాల బరువుగల బంగారు అరిగిణి ఒకటి, ధూపద్రవ్యంతో నిండినది.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "అరిగిణి"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారు"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "నిండినది"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ధూపద్రవ్యం"
+    }
+  ],
+  "timestamp": "2026-08-18T04:35:51.353192936Z",
+  "model": "glm-5.3"
+}

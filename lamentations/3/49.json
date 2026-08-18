@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నా కన్ను కార్చుకొనుచున్నది, మరియు విశ్రాంతి లేకుండా ఆగదు.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "నా కన్ను"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "కార్చుకొనుచున్నది"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు-ఆగదు"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "ఆగదు"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "లేకుండా"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "విశ్రాంతి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:57.432152223Z",
+  "model": "glm-5.3"
+}

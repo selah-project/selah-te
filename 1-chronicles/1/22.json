@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "మరియు ⟨את⟩ ఏవాలును ⟨את⟩ అబీమాయేలును ⟨את⟩ షెబాను",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ఏవాలును"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ఏవాలును"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "అబీమాయేలును"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "అబీమాయేలును"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "షెబాను"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "షెబాను"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:17.188160989Z",
+  "model": "glm-5.3"
+}

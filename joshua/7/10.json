@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మరియు యాహ్వే యెహోషువతో చెప్పెను — లేవుటకు ⟨for yourself⟩; ఎందుకీలా? నీవు నీ ముఖము మీద పడియున్నావు?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "మరియు చెప్పెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "యెహోషువ"
+    },
+    {
+      "surface": "קם",
+      "gloss": "లేవుము"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీ కొరకు"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ఎందుకు"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవు"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "పడియున్నావు"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "నీ ముఖము"
+    }
+  ],
+  "timestamp": "2026-08-17T21:42:21.160716548Z",
+  "model": "glm-5.3"
+}

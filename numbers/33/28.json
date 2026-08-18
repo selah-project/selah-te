@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "వారు తెరఖ్ నుండి బయలుదేరి మిత్కాలో పడకలు వేసిరి.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "బయలుదేరిరి"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "తెరఖ్ నుండి"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "పడకలు వేసిరి"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "మిత్కాలో"
+    }
+  ],
+  "timestamp": "2026-08-17T20:33:37.879020583Z",
+  "model": "glm-5.3"
+}

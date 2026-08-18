@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "మరియు గాడిదలు అరవై వేలు ఒకటి,",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "మరియు గాడిదలు"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "మరియు అరవై"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వేలు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:47:54.741303067Z",
+  "model": "glm-5.3"
+}

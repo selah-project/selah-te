@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "తన దంపుడు చేసే ఎద్దును నోటికి మూత పెట్టకూడదు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కూడదు"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "నోటికి మూత పెట్ట"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ఎద్దును"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "తన దంపుడు చేసే"
+    }
+  ],
+  "timestamp": "2026-08-17T21:24:49.753604164Z",
+  "model": "glm-5.3"
+}

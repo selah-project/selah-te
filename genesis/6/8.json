@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "నోవాఖు మాత్రం యాహ్వే కన్నులలో దయను పొందెను.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "నోవాఖు మాత్రం"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "పొందెను"
+    },
+    {
+      "surface": "חן",
+      "gloss": "దయను"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "కన్నులలో"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T17:06:29.204053655Z",
+  "model": "glm-5.3"
+}

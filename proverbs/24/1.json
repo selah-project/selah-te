@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "దుష్ట మనుషులను అసూయపడకు, మరియు ⟨את⟩ వారితో ఉండాలని కోరకు.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "చేతకు"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "అసూయపడకు"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "మనుషులలో"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "దుష్టత"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "మరియు చేతకు"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "కోరకు"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ఉండుటకు"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "వారితో"
+    }
+  ],
+  "timestamp": "2026-08-18T01:53:25.604085067Z",
+  "model": "glm-5.3"
+}

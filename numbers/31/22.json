@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "కేవలం ⟨את⟩ బంగారం ⟨את⟩ వెండి ⟨את⟩ కంచు ⟨את⟩ ఇనుము ⟨את⟩ తగరం ⟨את⟩ సీసం",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "కేవలం"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "బంగారం"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "బంగారం"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "వెండి"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "వెండి"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "కంచు"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "కంచు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఇనుము"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ఇనుము"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "తగరం"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "తగరం"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "సీసం"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "సీసం"
+    }
+  ],
+  "timestamp": "2026-08-17T20:24:58.306488159Z",
+  "model": "glm-5.3"
+}

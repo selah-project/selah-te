@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 77,
+  "translation": "కృప చూపుట ఏల్ మరచినాడా? కోపము చేత తన కరుణలను మూసివేసినాడా? సెలా.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "మరచినాడా"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "కృప చూపుట"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "אם",
+      "gloss": "లేక"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "మూసివేసినాడా"
+    },
+    {
+      "surface": "באף",
+      "gloss": "కోపము చేత"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "తన కరుణలను"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "సెలా"
+    }
+  ],
+  "timestamp": "2026-08-18T06:13:03.930193424Z",
+  "model": "glm-5.3"
+}

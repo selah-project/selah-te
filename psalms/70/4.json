@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 70,
+  "translation": "«హా! హా!» అని చెప్పువారు తమ సిగ్గు వెనుకకు మరలుదురు.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "మరలుదురు"
+    },
+    {
+      "surface": "על",
+      "gloss": "వలన"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "ఫలితముగా"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "తమ సిగ్గు"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "చెప్పువారు"
+    },
+    {
+      "surface": "האח",
+      "gloss": "హా!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "హా!"
+    }
+  ],
+  "timestamp": "2026-08-18T01:11:24.056920081Z",
+  "model": "glm-5.3"
+}

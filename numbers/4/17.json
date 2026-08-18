@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "యాహ్వే మోషేకు మరియు అహరోనుకు ఉట్టంగా మాటలాడెను",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కు"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "మరియు...కు"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "అహరోను"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఉట్టంగా"
+    }
+  ],
+  "timestamp": "2026-08-17T19:08:09.492862283Z",
+  "model": "glm-5.3"
+}

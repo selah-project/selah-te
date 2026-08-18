@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "నరహత్య చేయవద్దు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "నరహత్య చేయవద్దు"
+    }
+  ],
+  "timestamp": "2026-08-18T08:27:05.247713176Z",
+  "model": "glm-5.3"
+}

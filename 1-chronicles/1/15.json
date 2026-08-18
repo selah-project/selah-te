@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "మరియు ⟨את⟩ హీవీయును ⟨את⟩ అర్కీయును మరియు ⟨את⟩ సీనీయును.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "హీవీయును"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "హీవీయును"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "అర్కీయును"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "అర్కీయును"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "సీనీయును"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "సీనీయును"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:41.613989604Z",
+  "model": "glm-5.3"
+}

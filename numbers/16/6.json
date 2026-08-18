@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 16:6",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "ఇది చేయుడి — నీకొరకు పంచికలు తీసికొనుడి, కోరాహూ నీ సమస్త సమాజమున",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "చేయుడి"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "తీసికొనుడి"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "నీకొరకు"
+    },
+    {
+      "surface": "מחתות",
+      "gloss": "పంచికలు"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "కోరాహూ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "మరియు సమస్త"
+    },
+    {
+      "surface": "עדתו",
+      "gloss": "అతని సమాజము"
+    }
+  ],
+  "timestamp": "2026-08-17T19:48:55.891316923Z",
+  "model": "glm-5.3"
+}

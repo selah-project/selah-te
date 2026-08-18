@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "కేదేషు, అద్రేయి, ఎన్-చాత్సోరు మరియు",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "మరియు కేదేషు"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "మరియు అద్రేయి"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "మరియు ఎన్"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "చాత్సోరు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:48:05.971523957Z",
+  "model": "glm-5.3"
+}

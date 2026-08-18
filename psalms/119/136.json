@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 119,
+  "translation": "నీ తోరాను పాటించని కారణమున నా కళ్ళనుండి నీటి ఉప్పొంగులు కార్చుచున్నవి.",
+  "tokens": [
+    {
+      "surface": "పלחి",
+      "gloss": "<PLACEHOLDER>"
+    }
+  ],
+  "timestamp": "2026-08-18T01:30:30.386903542Z",
+  "model": "glm-5.3"
+}

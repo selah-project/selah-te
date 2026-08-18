@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "మరియు ⟨ఎవడైనను⟩ మనిషి ఏ మానవ ప్రాణిని కొట్టిన యెడల, అతడు తప్పక మరణింపబడును.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "మరియు మనిషి"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎవడైనను"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "కొట్టిన యెడల"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ప్రాణిని"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మానవ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "మరణము"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "మరణింపబడును"
+    }
+  ],
+  "timestamp": "2026-08-18T04:27:39.604341724Z",
+  "model": "glm-5.3"
+}

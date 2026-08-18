@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "మృగముతో శయనించు ప్రతివాడు తప్పక మరణింపబడును.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ప్రతివాడు"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "శయనించు"
+    },
+    {
+      "surface": "עם",
+      "gloss": "తో"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "మృగము"
+    },
+    {
+      "surface": "מות",
+      "gloss": "మరణము"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "మరణింపబడును"
+    }
+  ],
+  "timestamp": "2026-08-17T17:51:03.423488448Z",
+  "model": "glm-5.3"
+}

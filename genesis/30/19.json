@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "లేయా మరల గర్భవతి అయెను, మరియు యాకోవుకు ఆరవ కుమారుని కనెను.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "మరియు-గర్భవతి-అయెను"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "మరల"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "లేయా"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "మరియు-కనెను"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుని"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ఆరవ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "యాకోవుకు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:21:15.687746945Z",
+  "model": "glm-5.3"
+}

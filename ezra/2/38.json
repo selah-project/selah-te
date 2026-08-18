@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "పష్హూరు కుమారులు — వెయ్యి రెండు వందల నలభై ఏడు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "పష్హూరు"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వెయ్యి"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "రెండు వందల"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "నలభై"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ఏడు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:37.352030062Z",
+  "model": "glm-5.3"
+}

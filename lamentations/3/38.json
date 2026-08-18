@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఎల్యోన్ నోటి నుండి చెడుతనము మరియు మంచితనము బయటకు రావు గదా?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "నోటి నుండి"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ఎల్యోన్"
+    },
+    {
+      "surface": "לא",
+      "gloss": "రావు గదా?"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "బయటకు రాదు"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "చెడుతనము"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "మరియు మంచితనము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:45.566886732Z",
+  "model": "glm-5.3"
+}

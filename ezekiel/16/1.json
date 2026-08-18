@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 16:1",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "మరియు యాహ్వే మాట నా యొద్దకు ఉండెను, సెలవిచ్చెను;",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు ఉండెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నా యొద్దకు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చెను"
+    }
+  ],
+  "timestamp": "2026-08-18T00:09:17.805439219Z",
+  "model": "glm-5.3"
+}

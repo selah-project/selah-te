@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "లాకీష్, బోత్స్కాత్, ఎగ్లోన్,",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "లాకీష్"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "మరియు బోత్స్కాత్"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "మరియు ఎగ్లోన్"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:25.280892421Z",
+  "model": "glm-5.3"
+}

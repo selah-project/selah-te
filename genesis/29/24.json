@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 29,
+  "translation": "లాబాన్ తన దాసి ⟨את⟩ జిల్పాను తన కుమార్తు లేయాకు దాసిగా ఆమెకు ఇచ్చెను.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ఇచ్చెను"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "లాబాన్"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ఆమెకు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "జిల్పాను"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "జిల్పా"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "తన దాసి"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "లేయాకు"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "తన కుమార్తు"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "దాసి"
+    }
+  ],
+  "timestamp": "2026-08-18T04:10:47.711923770Z",
+  "model": "glm-5.3"
+}

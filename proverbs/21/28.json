@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "అబద్ధ సాక్షి నశించును; వినుకున్న మనిషి నిరంతరం మాటలాడును.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "సాక్షి"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "అబద్ధ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "నశించును"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "కాని మనిషి"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "వినుకున్న"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "నిరంతరం"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "మాటలాడును"
+    }
+  ],
+  "timestamp": "2026-08-18T01:50:50.011907924Z",
+  "model": "glm-5.3"
+}

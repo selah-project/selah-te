@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "అతడు పేరెజు కుమారులలో ⟨is⟩ — మొదటి నెలకు సైన్యముల అధిపతులందరికి అధిపతి.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "లో"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారుల"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "పేరెజు"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "అధిపతి"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "అందరికి"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "అధిపతుల"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "సైన్యముల"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "నెలకు"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "మొదటి"
+    }
+  ],
+  "timestamp": "2026-08-18T03:40:34.758233807Z",
+  "model": "glm-5.3"
+}

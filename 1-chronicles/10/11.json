@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "యావేష్ గిలాదవాసులందరు ప్లిష్తీయులు షావులుకు చేసిన ⟨את⟩ సమస్తము వినిరి.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "వినిరి"
+    },
+    {
+      "surface": "כל",
+      "gloss": "యావచన"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "యావేష్"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "గిలాద"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "సమస్తము"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్తము"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏది"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "చేసిన"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ప్లిష్తీయులు"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "షావులుకు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:28.444878433Z",
+  "model": "glm-5.3"
+}

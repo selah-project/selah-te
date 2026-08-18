@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "అనాతోతు మనుషులు వంద ఇరవై ఎనిమిది మంది.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "మనుషులు"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "అనాతోతు"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "వంద"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ఎనిమిది"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:58.599949011Z",
+  "model": "glm-5.3"
+}

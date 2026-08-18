@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు హనన్యా, మరియు ఏలాం, మరియు అనతోతీయా.",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "మరియు హనన్యా"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "మరియు ఏలాం"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "మరియు అనతోతీయా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:49.007433201Z",
+  "model": "glm-5.3"
+}

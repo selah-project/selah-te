@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "మరియు యాహ్వే నాతో ఇలా అనుగ్రహించెను — నేను ⟨את⟩ ఈ ప్రజలను చూచితిని, మరియు ఇదిగో, అది గట్టి-మెడ గల జనమే.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "మరియు అనుగ్రహించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాతో"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా అని"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "చూచితిని"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఈ ప్రజలను"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ప్రజలను"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "మరియు ఇదిగో"
+    },
+    {
+      "surface": "עם",
+      "gloss": "జనము"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "గట్టి"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "మెడ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    }
+  ],
+  "timestamp": "2026-08-18T04:54:57.260436919Z",
+  "model": "glm-5.3"
+}

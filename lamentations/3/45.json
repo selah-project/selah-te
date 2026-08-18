@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "చెత్తాపెంటా మాదిరిగాను, తులాజాతలాగాను జనుల మధ్యన మనలను నువ్వు ఉంచితివి.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "చెత్తాపెంటా"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "మరియు తులాజాతం"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "మనలను ఉంచితివి"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "మధ్యన"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "జనుల"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:57.477446157Z",
+  "model": "glm-5.3"
+}

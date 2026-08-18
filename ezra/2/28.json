@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "బేత్-ఏల్ ఉహాయి మనుషులు — రెండు వందల ఇరవై మువ్వు౨ు.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "మనుషులు"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ఉహాయి"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "రెండు వందల"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "మువ్వు౨ు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:58:36.070723197Z",
+  "model": "glm-5.3"
+}

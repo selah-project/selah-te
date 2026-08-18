@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "యాహ్వే మాట నాతో ఉండెను, చెప్పుచు:",
+  "tokens": [
+    {
+      "surface": "మరియు ఉండెను",
+      "gloss": "ఉండెను"
+    },
+    {
+      "surface": "మాట",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "యాహ్వే",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "నాతో",
+      "gloss": "నాతో"
+    },
+    {
+      "surface": "చెప్పుచు",
+      "gloss": "చెప్పుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:16:35.291624633Z",
+  "model": "glm-5.3"
+}

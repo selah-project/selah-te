@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "లేదా ఒక మనిషి బొగ్గులపై నడిచితే, మరియు అతని పాదాలు కాలిపోవు?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "లేదా"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "నడిచితే"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ఒక మనిషి"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "బొగ్గులపై"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "మరియు అతని పాదాలు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కావు"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "కాలిపోవు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:41:15.429676395Z",
+  "model": "glm-5.3"
+}

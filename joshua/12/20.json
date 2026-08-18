@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "షిమ్రోన్-మెరోన్ రాజు — ఒకడు; అక్షాఫ్ రాజు — ఒకడు;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "షిమ్రోన్"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "మెరోన్"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "అక్షాఫ్"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:44:20.118421263Z",
+  "model": "glm-5.3"
+}

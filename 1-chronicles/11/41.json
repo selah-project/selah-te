@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "ఊరీయా ⟨ది⟩ హిత్తీయుడు, అఖ్లాయి కుమారుడు ⟨అయిన⟩ జ఼ాబాద్,",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ఊరీయా"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "హిత్తీయుడు"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "జ఼ాబాద్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "అఖ్లాయి"
+    }
+  ],
+  "timestamp": "2026-08-18T03:27:21.204795279Z",
+  "model": "glm-5.3"
+}

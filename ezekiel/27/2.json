@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "మరియు నీవు, మానవ కుమారుడా, సోరు మీద ఒక విలాపము ఎత్తుకొనుము:",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "మరియు నీవు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడా"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మానవ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ఎత్తుకొనుము"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "צר",
+      "gloss": "సోరు"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "విలాపము"
+    }
+  ],
+  "timestamp": "2026-08-18T00:17:17.935668129Z",
+  "model": "glm-5.3"
+}

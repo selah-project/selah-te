@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "అతని కుమారుడు బుక్కి, అతని కుమారుడు ఉజ్జీ, అతని కుమారుడు జెరహ్యా.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "బుక్కి"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "అతని కుమారుడు"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ఉజ్జీ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "అతని కుమారుడు"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "జెరహ్యా"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "అతని కుమారుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:34:41.382841839Z",
+  "model": "glm-5.3"
+}

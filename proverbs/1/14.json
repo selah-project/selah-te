@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "నీ తుండు మన మధ్య వేయుము; మనందరికి ఒక్క సంచి యుండును గాక.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "నీ తుండు"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "వేయుము"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "మన మధ్య"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "సంచి"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక్క"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "యుండును గాక"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "మనందరికి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:38:09.959916444Z",
+  "model": "glm-5.3"
+}

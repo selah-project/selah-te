@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "ఈ రోజు చేసినట్టుగా యాహ్వే మీ కోసం కట్టాక్షత చేయుటకు ఆజ్ఞాపించెను.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "జేసినట్టుగా"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసిన"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "రోజు యందు"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ఆజ్ఞాపించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "చేయుటకు"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "కట్టాక్షత చేయుటకు"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "మీ మీద"
+    }
+  ],
+  "timestamp": "2026-08-17T18:11:59.764606905Z",
+  "model": "glm-5.3"
+}

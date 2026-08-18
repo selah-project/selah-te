@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "మరియు ⟨ఇవి⟩ గెర్షోం కుమారుల పేర్లు — లిబ్నీ మరియు షిమ్ఈ.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "మరియు ⟨ఇవి⟩"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "పేర్లు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారుల"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "గెర్షోం"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "లిబ్నీ"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "మరియు షిమ్ఈ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:12.880247987Z",
+  "model": "glm-5.3"
+}

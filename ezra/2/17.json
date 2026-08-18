@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 2:17",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "బెత్సాయి కుమారులు — మూడు వందల ఇరవై ముగ్గురు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "బెత్సాయి"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ముగ్గురు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:53.333508960Z",
+  "model": "glm-5.3"
+}

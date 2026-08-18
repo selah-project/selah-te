@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "బిన్యామీను తరఫున — గిద్యోనీ కుమారుడు అబీదాను.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "బిన్యామీను తరఫున"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "అబీదాను"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "గిద్యోనీ"
+    }
+  ],
+  "timestamp": "2026-08-17T18:54:31.136612722Z",
+  "model": "glm-5.3"
+}

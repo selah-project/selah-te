@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "అతడు — నేను అవ్రాహాం యొక్క దాసుడను అని అనెను.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అని అనెను"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "దాసుడు"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "అవ్రాహాం"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "నేను"
+    }
+  ],
+  "timestamp": "2026-08-17T17:16:50.957398881Z",
+  "model": "glm-5.3"
+}

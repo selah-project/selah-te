@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 38,
+  "translation": "నా సహాయమునకు త్వరపడుము అదోనాయ్, నా రక్షణ.",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "త్వరపడుము"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "నా సహాయమునకు"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "అదోనాయ్"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "నా రక్షణ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:02:51.558195734Z",
+  "model": "glm-5.3"
+}

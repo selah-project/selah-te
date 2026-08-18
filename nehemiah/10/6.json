@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "ఖరీం, మెరెమోత్, ఒబద్యా,",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "ఖరీం"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "మెరెమోత్"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ఒబద్యా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:16.786615438Z",
+  "model": "glm-5.3"
+}

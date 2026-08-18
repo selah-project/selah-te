@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "మిక్మాసు మనుషులు — వంద ఇరవై ఇద్దరు.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "మనుషులు"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "మిక్మాసు"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "వంద"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ఇద్దరు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:58:36.070618763Z",
+  "model": "glm-5.3"
+}

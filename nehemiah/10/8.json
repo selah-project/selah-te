@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మెషుల్లాం, అబియా, మియామీన్.",
+  "tokens": [
+    {
+      "surface": "משלם",
+      "gloss": "మెషుల్లాం"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "అబియా"
+    },
+    {
+      "surface": "מימן",
+      "gloss": "మియామీన్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:16.787004158Z",
+  "model": "glm-5.3"
+}

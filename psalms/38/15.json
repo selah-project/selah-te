@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 38,
+  "translation": "వినని మనిషిలా నేను ఉన్నాను, అతని నోట నిందలు లేవు.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "మరియు నేను ఉన్నాను"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "మనిషిలా"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఎవడు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేడు"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "విను"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "మరియు లేవు"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "అతని నోట"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "నిందలు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:03:17.905957705Z",
+  "model": "glm-5.3"
+}

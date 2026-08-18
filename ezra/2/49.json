@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఉజ్జా కుమారులు, పసేయా కుమారులు, బెసాయ్ కుమారులు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ఉజ్జా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "పసేయా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "బెసాయ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:01:53.758204125Z",
+  "model": "glm-5.3"
+}

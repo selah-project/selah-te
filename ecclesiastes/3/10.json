@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఎలోహీం మానవుల కుమారులకు దానియందు తరిమివేయబడుటకు ఇచ్చిన ⟨את⟩ ఆ శ్రమను నేను చూచితిని.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "చూచితిని"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఆ శ్రమను"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "ఆ శ్రమను"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దానిని"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ఇచ్చెను"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "కుమారులకు"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "మానవుల"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "తరిమివేయబడుటకు"
+    },
+    {
+      "surface": "בו",
+      "gloss": "దానియందు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:36:24.579455221Z",
+  "model": "glm-5.3"
+}

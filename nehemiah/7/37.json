@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "లోదు, ఖాదీదు మరియు ఓనో కుమారులు — ఏడు వందల ఇరవై ఒక్కరు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "לד",
+      "gloss": "లోదు"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "ఖాదీదు"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "మరియు ఓనో"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "మరియు ఇరవై"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "మరియు ఒక్కరు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:00.525922745Z",
+  "model": "glm-5.3"
+}

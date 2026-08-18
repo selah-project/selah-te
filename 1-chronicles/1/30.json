@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "మిష్మా, వదుమ్మా, మాస్సా, హదద్, వతేమా.",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "మిష్మా"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "వదుమ్మా"
+    },
+    {
+      "surface": "משא",
+      "gloss": "మాస్సా"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "హదద్"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "వతేమా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:22.310579508Z",
+  "model": "glm-5.3"
+}

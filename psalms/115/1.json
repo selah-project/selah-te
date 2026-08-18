@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 115,
+  "translation": "మాకు కాదు, యాహ్వే, మాకు కాదు, కానీ నీ నామమునకు మహిమ ఇవ్వుము, నీ కృప మీద, నీ సత్యత మీద.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "మాకు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "מాకు"
+    },
+    {
+      "surface": "כי",
+      "gloss": "కానీ"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "నీ నామమునకు"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ఇవ్వుము"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "మహిమ"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "నీ కృప"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "నీ సత్యత"
+    }
+  ],
+  "timestamp": "2026-08-18T01:27:30.246945973Z",
+  "model": "glm-5.3"
+}

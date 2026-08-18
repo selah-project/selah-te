@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "ఎలోహీం నోవహుతో ఇట్లనెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "נח",
+      "gloss": "నోవహు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇట్లనెను"
+    }
+  ],
+  "timestamp": "2026-08-17T17:06:40.571739170Z",
+  "model": "glm-5.3"
+}

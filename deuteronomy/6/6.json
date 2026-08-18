@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఈ రోజు నీకు ఆజ్ఞాపించుచున్న ఈ మాటలు నీ హృదయముపై ఉండును గాక.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ఉండును గాక"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "మాటలు"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏవి"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "నీకు ఆజ్ఞాపించుచున్న"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ఈ రోజు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "నీ హృదయము"
+    }
+  ],
+  "timestamp": "2026-08-18T04:53:10.610166821Z",
+  "model": "glm-5.3"
+}

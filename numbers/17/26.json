@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "మోషే యాహ్వే తనకు ఆజ్ఞాపించినట్లుగా చేసెను — అలాగే చేసెను.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "సరిగా ఆ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ఆజ్ఞాపించిన"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩అతని",
+      "marks": "అతని"
+    },
+    {
+      "surface": "כן",
+      "gloss": "అలాగే"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసెను"
+    }
+  ],
+  "timestamp": "2026-08-18T04:41:52.993070694Z",
+  "model": "glm-5.3"
+}

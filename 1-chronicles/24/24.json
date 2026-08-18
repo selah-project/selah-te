@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "ఉజ్జియేల్ కుమారులు: మీఖా; మీఖా కుమారులలో షామూర్.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ఉజ్జియేల్"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "మీఖా"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "కుమారులలో"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "మీఖా"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "షామూర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:36:23.887381840Z",
+  "model": "glm-5.3"
+}

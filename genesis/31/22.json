@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "మూడవ దినమందు యాకోవు పారిపోయెనని లాబానుకు తెలియజేయబడెను.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "తెలియజేయబడెను"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "లాబానుకు"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "దినమందు"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "మూడవ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "అని"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "పారిపోయెను"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "యాకోవు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:22:02.745439574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 47,
+  "translation": "గాయకుల నాయకునికి; కోరహ కుమారులకు; ఒక మజ్మోరు.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "గాయకుల నాయకునికి"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "కుమారులకు"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "కోరహ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "మజ్మోరు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:05:35.780352352Z",
+  "model": "glm-5.3"
+}

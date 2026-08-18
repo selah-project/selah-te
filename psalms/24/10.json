@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "ఈ మహోన్నతుని రాజు ⟨he⟩ ఎవడు? ׯాహ్వే సైన్యముల ⟨he⟩ — ⟨he⟩ మహోన్నతుని రాజు ⟨is⟩. సెలా.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ఎవడు"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "మహోన్నతుని"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "సైన్యముల"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "మహోన్నతుని"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "సెలా"
+    }
+  ],
+  "timestamp": "2026-08-18T00:58:04.891156170Z",
+  "model": "glm-5.3"
+}

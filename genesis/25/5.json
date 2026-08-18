@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "అవ్రాహాం ⟨את⟩ తనకున్న సమస్తమును యిత్సాక్‌కు ఇచ్చెను.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ఇచ్చెను"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "అవ్రాహాం"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "సమస్తమును"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్తము"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏది"
+    },
+    {
+      "surface": "לו",
+      "gloss": "తనకున్న"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "యిత్సాక్‌కు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:17:38.690493335Z",
+  "model": "glm-5.3"
+}

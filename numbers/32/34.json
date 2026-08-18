@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "గాదు కుమారులు ⟨את⟩ దీబోనును, ⟨את⟩ అతారోతును, ⟨את⟩ అరోయెరును కట్టిరి.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "కట్టిరి"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "גד",
+      "gloss": "గాదు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "దీబోనును"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "దీబోను"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "అతారోతును"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "అతారోతు"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "అరోయెరును"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "అరోయెరు"
+    }
+  ],
+  "timestamp": "2026-08-17T20:30:04.658150035Z",
+  "model": "glm-5.3"
+}

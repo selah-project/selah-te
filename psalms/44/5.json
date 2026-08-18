@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 44,
+  "translation": "నీవే నా రాజు, ఎలోహీం; యాకోవ్‌కు విమోక్షాలను ఆజ్ఞాపించు.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "నీవు"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "నీవే"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "నా రాజు"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ఆజ్ఞాపించు"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "విమోక్షాలను"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "యాకోవ్"
+    }
+  ],
+  "timestamp": "2026-08-18T01:04:15.580136627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 62,
+  "translation": "అయినను ఎలోహీం వైపే నా ప్రాణం మౌనంగా ఉంది; ఆయననుండే నా రక్షణ.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "అయినను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపు"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "మౌనంగా"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "నా ప్రాణం"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ఆయననుండే"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "నా రక్షణ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:09:26.189929475Z",
+  "model": "glm-5.3"
+}

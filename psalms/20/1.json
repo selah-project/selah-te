@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "గాననాయకునికొరకు, మజ్మోరు, దావీదునకు.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "గాననాయకునికొరకు"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "మజ్మోరు"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదునకు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:57:24.164615877Z",
+  "model": "glm-5.3"
+}

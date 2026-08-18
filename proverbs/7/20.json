@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "వెండి మూట చేతిలో తీసుకుని వెళ్ళాడు; పౌర్ణమి నాటికి తన ఇంటికి వస్తాడు.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "మూట"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "వెండి"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "తీసుకున్నాడు"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "చేతిలో"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "రోజునకు"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "పౌర్ణమి"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "వస్తాడు"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "తన ఇంటికి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:42:01.893328638Z",
+  "model": "glm-5.3"
+}

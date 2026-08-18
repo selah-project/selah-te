@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 119,
+  "translation": "వెయ్యి బంగారము వెండి కంటె నీ నోటి తోరాహ్ నాకు శ్రేష్ఠము.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "శ్రేష్ఠము"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "తోరాహ్"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "నీ నోటి"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "వెయ్యి కంటె"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారము"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "వెండి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:30:28.833273195Z",
+  "model": "glm-5.3"
+}

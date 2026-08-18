@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "ఖాదీద్, త్సెబోయీం, నెవల్లాత్.",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "ఖాదీద్"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "త్సెబోయీం"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "నెవల్లాత్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:17:54.530833961Z",
+  "model": "glm-5.3"
+}

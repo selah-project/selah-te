@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 6:16",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "మరియు ఇవి — ఆ ఆరోపు ⟨the⟩ నిలిచిన తరువాత దావీదు యాహ్వే మందిరంలో పాట సేవ మీద నిలబెట్టినవారు.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "మరియు ఇవి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨the⟩ ఆ వారు"
+    },
+    {
+      "surface": "העמיד",
+      "gloss": "నిలబెట్టిన"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "దావీదు"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "సేవ చేతుల"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "పాట"
+    },
+    {
+      "surface": "בית",
+      "gloss": "మందిరం"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ממנוח",
+      "gloss": "నిలిచిన తరువాత"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ఆ ఆరోపు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:43.477307125Z",
+  "model": "glm-5.3"
+}

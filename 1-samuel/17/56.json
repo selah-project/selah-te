@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "మరియు రాజు — ఈ పిల్లవాడు ఎవరి కుమారుడో నీవు అడుగుము అని చెప్పెను.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "మరియు చెప్పెను"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "అడుగుము"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ఎవరి"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "పిల్లవాడు"
+    }
+  ],
+  "timestamp": "2026-08-17T22:13:32.661086041Z",
+  "model": "glm-5.3"
+}

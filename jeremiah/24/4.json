@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "మరియు యాహ్వే స్వరము నా దగ్గరకు వచ్చెను అని చెప్పుచు.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు సంభవించెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "స్వరము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నా దగ్గరకు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "అని చెప్పుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T23:46:27.276694802Z",
+  "model": "glm-5.3"
+}

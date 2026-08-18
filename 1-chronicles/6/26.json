@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఎత్నీ కుమారుడు, జెరాహ్ కుమారుడు, అదాయా కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "ఎత్నీ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "జెరాహ్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "అదాయా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:12.468602506Z",
+  "model": "glm-5.3"
+}

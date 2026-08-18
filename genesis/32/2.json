@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "యాకోవ్ తన దారిన నడిచెను; ఎలోహీం దూతలు అతనిని కలిసిరి.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "యాకోవ్"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "నడిచెను"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "తన దారిన"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "కలిసిరి"
+    },
+    {
+      "surface": "בו",
+      "gloss": "అతనిని"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "దూతలు"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    }
+  ],
+  "timestamp": "2026-08-17T17:23:10.914032857Z",
+  "model": "glm-5.3"
+}

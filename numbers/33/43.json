@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "పునోను నుండి ప్రయాణించి, ఓబోతులో పడగాలించిరి.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ప్రయాణించిరి"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "పునోను నుండి"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "పడగాలించిరి"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ఓబోతులో"
+    }
+  ],
+  "timestamp": "2026-08-18T04:49:19.108892510Z",
+  "model": "glm-5.3"
+}

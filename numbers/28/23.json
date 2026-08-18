@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 28:23",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "నిత్యమాల యాగముగా ఉన్న ఉదయపు కాలాహుతికి మించి ⟨את⟩ ఈవి చేయవలెను.",
+  "tokens": [
+    {
+      "surface": "מלבד",
+      "gloss": "మించి"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "కాలాహుతి"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ఉదయపు"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అది"
+    },
+    {
+      "surface": "לעלת",
+      "gloss": "యాగముగా"
+    },
+    {
+      "surface": "התמיד",
+      "gloss": "నిత్యమైన"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "చేయవలెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఈవి"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ఈవి"
+    }
+  ],
+  "timestamp": "2026-08-17T20:20:06.227126318Z",
+  "model": "glm-5.3"
+}

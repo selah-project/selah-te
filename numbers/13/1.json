@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "మరియు యాహ్వే మోషేతో ఈలాగు మాటలాడెను — సెలవించుచున్నావు:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషేతో"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవించుచున్నావు"
+    }
+  ],
+  "timestamp": "2026-08-18T07:45:52.843800408Z",
+  "model": "glm-5.3"
+}

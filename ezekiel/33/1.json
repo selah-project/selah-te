@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 33:1",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "మరియు యాహ్వే నాయందు మాట ఉండెను, సెలవిచ్చుకొనుటకు",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు...ఉండెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాయందు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుకొనుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:19:36.425002181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మరియు ⟨את⟩ తెల్ల గూబను, ⟨את⟩ పెలికన్ను, ⟨את⟩ రాబందిని",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "తెల్ల గూబను"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "తెల్ల గూబ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "పెలికన్ను"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "పెలికన్"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "రాబందిని"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "రాబంది"
+    }
+  ],
+  "timestamp": "2026-08-17T18:13:30.858689605Z",
+  "model": "glm-5.3"
+}

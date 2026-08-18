@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మేకల విషయములో ఒక మేకపోతు పాపార్పణమునకు.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "మేకపోతు"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకల విషయములో"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "పాపార్పణమునకు"
+    }
+  ],
+  "timestamp": "2026-08-17T19:16:37.132851445Z",
+  "model": "glm-5.3"
+}

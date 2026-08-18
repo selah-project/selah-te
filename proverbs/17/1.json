@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "పొడి పిండి తుంటి దానితో క్షేమం ⟨is⟩ ఉన్నది — వివాద యాగములతో నిండిన ఇంటికంటే మేలు.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మేలు"
+    },
+    {
+      "surface": "פת",
+      "gloss": "పిండి తుంటి"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "పొడి"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "మరియు క్షేమం"
+    },
+    {
+      "surface": "בה",
+      "gloss": "దానితో"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ఇంటికంటే"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "నిండిన"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "యాగములతో"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "వివాద"
+    }
+  ],
+  "timestamp": "2026-08-18T01:48:18.403683398Z",
+  "model": "glm-5.3"
+}

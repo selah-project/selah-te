@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "సీయోను పర్వతముపై — ⟨అది⟩ శ్మశానమైనది — నక్కలు ⟨అది⟩ తిరిగేవి.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "הר",
+      "gloss": "పర్వతము"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "సీయోను"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "శ్మశానమైనది"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "నక్కలు"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "తిరిగేవి"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨అది⟩"
+    }
+  ],
+  "timestamp": "2026-08-18T12:50:18.354317585Z",
+  "model": "glm-5.3"
+}

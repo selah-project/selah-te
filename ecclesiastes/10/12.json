@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "జ్ఞాని నోటి మాటలు అనుగ్రహము; మూర్ఖుని పెదవులు అతనిని మింగివేయును.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "మాటలు"
+    },
+    {
+      "surface": "פי",
+      "gloss": "నోటి"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "జ్ఞాని"
+    },
+    {
+      "surface": "חן",
+      "gloss": "అనుగ్రహము"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "పెదవులు"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "మూర్ఖుని"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "అతనిని మింగివేయును"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:22.017992409Z",
+  "model": "glm-5.3"
+}

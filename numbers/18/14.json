@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "యిస్రాయేలులో ⟨అంకితమైన⟩ సమస్తము నీకు ఉండును.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "సమస్తము"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "అంకితమైనది"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "యిస్రాయేలులో"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ఉండును"
+    }
+  ],
+  "timestamp": "2026-08-18T04:42:00.119496883Z",
+  "model": "glm-5.3"
+}

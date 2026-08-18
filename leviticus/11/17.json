@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మరియు ⟨את⟩ చిన్న గూబను, ⟨את⟩ నీటి కాకిని, ⟨את⟩ పెద్ద గూబను",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "చిన్న గూబను"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "చిన్న గూబ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "నీటి కాకిని"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "నీటి కాకి"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "పెద్ద గూబను"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "పెద్ద గూబ"
+    }
+  ],
+  "timestamp": "2026-08-17T18:13:30.858451489Z",
+  "model": "glm-5.3"
+}

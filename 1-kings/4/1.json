@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "మరియు రాజైన షెలోమోహ్ సమస్త యిస్రాయేలుపై రాజై ⟨యున్నాడు⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు ఆయన అయ్యాడు"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "షెలోమోహ్"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజై"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "యిస్రాయేలు"
+    }
+  ],
+  "timestamp": "2026-08-17T22:37:19.664112938Z",
+  "model": "glm-5.3"
+}

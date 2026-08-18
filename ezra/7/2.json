@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "షల్లూం కుమారుడు, సాదోక్ కుమారుడు, అఖీతూబ్ కుమారుడు,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "షల్లూం"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "సాదోక్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "అఖీతూబ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:04:24.546790107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "ఇనుము మరియు కంచు నీ తుర్రులు; మరియు నీ రోజులు ఎలా ఉండునో అలాగే నీ బలము.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ఇనుము"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "మరియు కంచు"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "నీ తుర్రులు"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "మరియు నీ రోజులు వలె"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "నీ బలము"
+    }
+  ],
+  "timestamp": "2026-08-17T21:38:01.336389289Z",
+  "model": "glm-5.3"
+}

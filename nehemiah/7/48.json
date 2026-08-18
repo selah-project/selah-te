@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "లెబానా కుమారులు, ఖగాబా కుమారులు, షల్మాయ్ కుమారులు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "లెబానా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "ఖగాబా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "షల్మాయ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:24.702366804Z",
+  "model": "glm-5.3"
+}

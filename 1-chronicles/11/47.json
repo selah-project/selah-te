@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "ఎలీయల్ మరియు ఓబేద్ మరియు యాసీయల్ ⟨the⟩ మెజోబీయుడు.",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "ఎలీయల్"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "మరియు ఓబేద్"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "మరియు యాసీయల్"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "మెజోబీయుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:14.888542334Z",
+  "model": "glm-5.3"
+}

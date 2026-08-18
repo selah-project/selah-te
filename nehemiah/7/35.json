@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఖారీం వారి కుమారులు — మూడు వందల ఇరవై.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ఖారీం"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ఇరవై"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:48.297520584Z",
+  "model": "glm-5.3"
+}

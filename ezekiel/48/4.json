@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 48,
+  "translation": "మరియు నఫ్తాలీ సరిహద్దు పైన, తూర్పు అంచు నుండి పడమర అంచు వరకు — మెనష్షే ఒక్కటి.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "మరియు పైన"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "సరిహద్దు"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "నఫ్తాలీ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "అంచు నుండి"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "తూర్పు"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "అంచు"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "పడమర"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "మెనష్షే"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక్కటి"
+    }
+  ],
+  "timestamp": "2026-08-18T00:28:12.153639588Z",
+  "model": "glm-5.3"
+}

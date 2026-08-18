@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఖరీం కుమారులు — వెయ్యి పదిహేడు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ఖరీం"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వెయ్యి"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:40.880887266Z",
+  "model": "glm-5.3"
+}

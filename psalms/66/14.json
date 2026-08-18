@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 66,
+  "translation": "నా పెదవులు తెరచినవి, నా నోరు నా బాధలో మాటలాడినవి.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "వాటిని"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "తెరచినవి"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "నా పెదవులు"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "మరియు మాటలాడినవి"
+    },
+    {
+      "surface": "פי",
+      "gloss": "నా నోరు"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "బాధలో"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:10:06.738974688Z",
+  "model": "glm-5.3"
+}

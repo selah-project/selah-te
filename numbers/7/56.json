@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "పది తులముల బంగారు చెంబు ఒకటి, ధూపద్రవ్యముతో నిండినది.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "చెంబు"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారు"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "నిండినది"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ధూపద్రవ్యము"
+    }
+  ],
+  "timestamp": "2026-08-17T19:20:43.892921124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "అర్పఖ్షాద్ ⟨את⟩ షాలాఖ్‌ను కనెను, షాలాఖ్ ⟨את⟩ ఏవెర్‌ను కనెను.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "మరియు అర్పఖ్షాద్"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "కనెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "షాలాఖ్"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "షాలాఖ్"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "మరియు షాలాఖ్"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "కనెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఏవెర్"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ఏవెర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:56.669706990Z",
+  "model": "glm-5.3"
+}

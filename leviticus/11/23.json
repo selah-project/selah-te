@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "పాకుడు పక్షులలో నాలుగు కాళ్ళు కలిగిన ప్రతిదీ మీకు అసహ్యకరమైనదే ⟨అవును⟩.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "మరియు ప్రతి"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "పాకుడు జీవి"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "పక్షి యొక్క"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అది ఏదైతే"
+    },
+    {
+      "surface": "לו",
+      "gloss": "దానికి"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "కాళ్ళు"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "అసహ్యకరమైనది"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:20:23.675828248Z",
+  "model": "glm-5.3"
+}

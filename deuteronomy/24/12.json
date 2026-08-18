@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "మరియు అతడు దరిద్రుడైన మనిషి అయితే, అతని అప్పు-పత్రంతో నువ్వు పడుకోకూడదు.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "మరియు అయితే"
+    },
+    {
+      "surface": "איש",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "עני",
+      "gloss": "దరిద్రుడైన"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అతడు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "పడుకోకూడదు"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "పడుకోవు"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "అతని అప్పు-పత్రంతో"
+    }
+  ],
+  "timestamp": "2026-08-17T21:24:45.171526633Z",
+  "model": "glm-5.3"
+}

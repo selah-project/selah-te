@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 44,
+  "translation": "మరియు ⟨he⟩ వారిని చేరుకొనెను, మరియు వారితో ⟨את⟩ ⟨the⟩ ఈ మాటలను మాటలాడెను.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "మరియు ⟨he⟩ వారిని చేరుకొనెను"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు మాటలాడెను"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "వారితో"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఈ మాటలను"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨the⟩ మాటలను"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ఈ"
+    }
+  ],
+  "timestamp": "2026-08-17T17:31:39.380611384Z",
+  "model": "glm-5.3"
+}

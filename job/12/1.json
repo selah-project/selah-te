@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "అప్పుడు యోబు సమాధానమిచ్చి పలికెను —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "సమాధానమిచ్చెను"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "యోబు"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "పలికెను"
+    }
+  ],
+  "timestamp": "2026-08-18T02:05:48.818799359Z",
+  "model": "glm-5.3"
+}

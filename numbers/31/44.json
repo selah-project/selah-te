@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "మరియు పశువులు (ఎద్దులు) ముప్పై ఆఱు వేలు.",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "మరియు పశువులు (ఎద్దులు)"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ఆఱు"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "మరియు ముప్పై"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వేలు"
+    }
+  ],
+  "timestamp": "2026-08-17T20:24:52.234296008Z",
+  "model": "glm-5.3"
+}

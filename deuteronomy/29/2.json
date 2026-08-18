@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 29,
+  "translation": "మహా పరీక్షలు — ఏవి నీ కళ్లు చూసినవో — ⟨the⟩ సూచనలు మరియు ⟨the⟩ మహా అద్భుతములు ఆ గొప్పవి.",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "పరీక్షలు"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "మహా"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏవి"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "చూసినవి"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "నీ కళ్లు"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "సూచనలు"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "మరియు అద్భుతములు"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "మహా"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ఆ గొప్పవి"
+    }
+  ],
+  "timestamp": "2026-08-17T21:35:27.588943503Z",
+  "model": "glm-5.3"
+}

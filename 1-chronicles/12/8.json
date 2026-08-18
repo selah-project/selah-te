@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "మరియు యోఎలా, మరియు జెబద్యా — యెరోఖామ్ కుమారులు, గెదోర్ ⟨నుండి⟩.",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "మరియు యోఎలా"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "మరియు జెబద్యా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "యెరోఖామ్"
+    },
+    {
+      "surface": "מן",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "⟨⟩ గెదోర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:25.006495347Z",
+  "model": "glm-5.3"
+}

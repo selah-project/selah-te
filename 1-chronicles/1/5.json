@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "యఫెతు కుమారులు: గోమెరు, మాగోగు, మాదయి, యావాను, తూబాలు, మెషెకు, తీరాసు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "యఫెతు"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "గోమెరు"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "మాగోగు"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "మాదయి"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "యావాను"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "తూబాలు"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "మెషెకు"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "తీరాసు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:59.784558759Z",
+  "model": "glm-5.3"
+}

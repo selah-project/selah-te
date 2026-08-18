@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "పెలత్యాహ్, ఖానాన్, అనాయాహ్.",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "పెలత్యాహ్"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ఖానాన్"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "అనాయాహ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:15:18.690919906Z",
+  "model": "glm-5.3"
+}

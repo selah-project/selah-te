@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నెబో కుమారులు — ఏబది మంది రెండు మంది.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "నెబో"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ఏబది"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "మరియు రెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:01.117997950Z",
+  "model": "glm-5.3"
+}

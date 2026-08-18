@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "అంతం వచ్చింది, అంతం వచ్చింది; అది నీ మీద మేల్కొన్నది — ఇదిగో, వచ్చేసింది.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "అంతం"
+    },
+    {
+      "surface": "בא",
+      "gloss": "వచ్చింది"
+    },
+    {
+      "surface": "בא",
+      "gloss": "వచ్చింది"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "ఆ అంతం"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "మేల్కొన్నది"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "నీ మీద"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ఇదిగో"
+    },
+    {
+      "surface": "באה",
+      "gloss": "వచ్చేసింది"
+    }
+  ],
+  "timestamp": "2026-08-18T00:04:25.545371826Z",
+  "model": "glm-5.3"
+}

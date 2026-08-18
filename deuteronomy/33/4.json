@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "తోరా — మోషే మనకు ఆజ్ఞాపించెను; యాకోబు సమాజమునకు ⟨అదే⟩ స్వాస్థ్యము.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "తోరా"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ఆజ్ఞాపించెను"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "మనకు"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "స్వాస్థ్యము"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "సమాజము"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "యాకోబు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:37:54.976057962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "అలూఫు మగ్దియేలు, అలూఫు ఇరాము. ఇవి ఏదోమీయ అలూఫులు.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "అలూఫు"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "మగ్దియేలు"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "అలూఫు"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ఇరాము"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ఇవి"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "అలూఫులు"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ఏదోమీయ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:10.982439265Z",
+  "model": "glm-5.3"
+}

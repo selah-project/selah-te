@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "జబ్బూలోను తరఫున — చేలోను కుమారుడు ఎలియాబు.",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "జబ్బూలోను తరఫున"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ఎలియాబు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "చేలోను"
+    }
+  ],
+  "timestamp": "2026-08-17T18:54:31.136229588Z",
+  "model": "glm-5.3"
+}

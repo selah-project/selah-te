@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "జక్కాయ్ కుమారులు ఏడు వందల అరవై మంది.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "జక్కాయ్"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "అరవై"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:27.747814355Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "మరియు భూమి యొక్క లాభము ప్రతివానికి ⟨ఉంది⟩; ⟨అది⟩ పొలానికి సేవకుడైన రాజు ⟨ఆవుతాడు⟩.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "మరియు లాభము"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "భూమి యొక్క"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ప్రతివానికి"
+    },
+    {
+      "surface": "היא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "పొలానికి"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "సేవకుడైన"
+    }
+  ],
+  "timestamp": "2026-08-18T02:38:59.665782655Z",
+  "model": "glm-5.3"
+}

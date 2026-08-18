@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 7:16",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బేబయ్ కుమారులు ఆరు వందల ఇరవై ఎనిమిది.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "బేబయ్"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "మరియు ఎనిమిది"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:28.405647138Z",
+  "model": "glm-5.3"
+}

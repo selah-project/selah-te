@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "దానికి ⟨ఉండు⟩ అధిపతి లేడు, పర్యవేక్షకుడు మరియు ఏలిక లేరు.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "దానికి ⟨ఉండు⟩"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేడు"
+    },
+    {
+      "surface": "לה",
+      "gloss": "దానికి"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "అధిపతి"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "పర్యవేక్షకుడు"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "మరియు ఏలిక"
+    }
+  ],
+  "timestamp": "2026-08-18T01:40:41.789678289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఆ దేశపు బంగారము మంచిది; అక్కడ బెదోలహమును షోహాము రాయియు ⟨ఉన్నాయి⟩.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "మరియు బంగారము"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "దేశపు"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "שם",
+      "gloss": "అక్కడ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "బెదోలహము"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "మరియు రాయి"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "షోహాము"
+    }
+  ],
+  "timestamp": "2026-08-17T17:04:17.932107338Z",
+  "model": "glm-5.3"
+}

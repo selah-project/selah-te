@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "నీ కళ్ళు చూచు దృశ్యముల వలన నీవు పిచ్చివాడవు అయి ఉందువు.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "మరియు నీవు అయి ఉందువు"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "పిచ్చివాడవు"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "వలన"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "నీ కళ్ళ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "చూచు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:32:46.495551145Z",
+  "model": "glm-5.3"
+}

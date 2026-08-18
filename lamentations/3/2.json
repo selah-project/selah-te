@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నన్ను ⟨అతని⟩ నడిపెను, చీకటిలోనికి నడిపించెను — వెలుగు ⟨లేదు⟩.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ నన్ను",
+      "marks": "నన్ను"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "నడిపెను"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "నడిపించెను"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "చీకటిలోనికి"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "— వెలుగు"
+    },
+    {
+      "surface": "אור",
+      "gloss": "లేదు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:30.477869051Z",
+  "model": "glm-5.3"
+}

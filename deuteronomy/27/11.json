@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "మరియు మోషే ఆ రోజున ⟨את⟩ ప్రజలకు ఆజ్ఞాపించెను, చెప్పుచు:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ఆజ్ఞాపించెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ప్రజలకు"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ప్రజలకు"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "రోజున"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "చెప్పుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:26:19.369792707Z",
+  "model": "glm-5.3"
+}

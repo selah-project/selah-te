@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 91,
+  "translation": "నీ వద్దకు కీడు చేరదు, మరియు హాని నీ గుడారము సమీపించదు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "చేరును"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "నీ వద్దకు"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "కీడు"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "మరియు హాని"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "సమీపించును"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "నీ గుడారము వద్ద"
+    }
+  ],
+  "timestamp": "2026-08-18T01:19:53.110200258Z",
+  "model": "glm-5.3"
+}

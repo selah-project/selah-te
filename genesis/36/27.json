@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 36,
+  "translation": "ఇవి ఎట్సెర్ కుమారులు: బిల్హాన్, మరియు జావాన్, మరియు అకాన్.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ఇవి"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ఎట్సెర్"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "బిల్హాన్"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "మరియు జావాన్"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "మరియు అకాన్"
+    }
+  ],
+  "timestamp": "2026-08-17T17:26:13.966063740Z",
+  "model": "glm-5.3"
+}

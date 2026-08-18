@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "రాజు హృదయం యాహ్వే చేతిలో నీటి కాలువలవలె ఉంది; తనకు నచ్చిన దానిపై దానిని తిప్పును.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "కాలువలవలె"
+    },
+    {
+      "surface": "מים",
+      "gloss": "నీటి"
+    },
+    {
+      "surface": "לב",
+      "gloss": "హృదయం"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "చేతిలో"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏదైన"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "నచ్చిన"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "తిప్పును"
+    }
+  ],
+  "timestamp": "2026-08-18T01:50:27.903410496Z",
+  "model": "glm-5.3"
+}

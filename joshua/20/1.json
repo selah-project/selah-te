@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "యాహ్వే యెహోషువాతో ఈలాగు ఉట్టడించెను:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ఉట్టడించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "యెహోషువా"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఈలాగు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:48:41.155135826Z",
+  "model": "glm-5.3"
+}

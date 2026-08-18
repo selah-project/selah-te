@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "పైగా ⟨the⟩ కుండకు కుడి పక్కన ఒకటి, ఎడమ పక్కన ఒకటి అని రెండు ఆలివ్ చెట్లు ⟨the⟩ దీపస్తంభంపై ఉన్నాయి.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "పైగా రెండు"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "ఆలివ్ చెట్లు"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "దానిపై"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "కుడి పక్కన"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "కుండకు"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "ఎడమ పక్కన"
+    }
+  ],
+  "timestamp": "2026-08-18T00:48:35.495925433Z",
+  "model": "glm-5.3"
+}

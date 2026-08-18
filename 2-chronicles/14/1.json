@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "అసా ⟨తన⟩ ఎలోహీం అయిన యాహ్వే దృష్టికి మంచిది మరియు సరైనది చేసెను.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "అసా"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "మరియు సరైనది"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "దృష్టికి"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "తన ఎలోహీం"
+    }
+  ],
+  "timestamp": "2026-08-18T03:52:00.284002702Z",
+  "model": "glm-5.3"
+}

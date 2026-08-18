@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "అజ్మావెత్ కుమారులు నలభై ఇద్దరు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "అజ్మావెత్"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "నలభై"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ఇద్దరు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:58:17.524743867Z",
+  "model": "glm-5.3"
+}

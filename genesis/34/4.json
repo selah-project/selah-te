@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 34,
+  "translation": "షెకెం తన తండ్రి హమోరుతో ఇట్లు చెప్పెను — ఈ బాలికను ⟨את⟩ నాకు భార్యగా తీసుకొము.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "చెప్పెను"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "షెకెం"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "హమోరు"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "తన తండ్రి"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇట్లు"
+    },
+    {
+      "surface": "קח",
+      "gloss": "తీసుకొము"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఈ బాలికను"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "ఈ బాలికను"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "భార్యగా"
+    }
+  ],
+  "timestamp": "2026-08-17T17:26:01.971136223Z",
+  "model": "glm-5.3"
+}

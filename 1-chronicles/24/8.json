@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "హారీం కొరకు మూడవది షెయోరీం కొరకు నాలుగవది",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "హారీం కొరకు"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "మూడవది"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "షెయోరీం కొరకు"
+    },
+    {
+      "surface": "హరబעי",
+      "gloss": "నాలుగవది"
+    }
+  ],
+  "timestamp": "2026-08-18T03:37:43.255623974Z",
+  "model": "glm-5.3"
+}

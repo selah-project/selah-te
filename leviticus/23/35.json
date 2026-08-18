@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మొదటి దినమున ⟨పవిత్ర⟩ సమావేశము కలదు; శ్రమతో కూడిన ఏ పని చేయరాదు.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "మొదటి దినమున"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "మొదటి"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "సమావేశము"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "పవిత్ర"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "పని"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "శ్రమతో కూడిన"
+    },
+    {
+      "surface": "לא",
+      "gloss": "చేయరాదు"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "చేయరాదు"
+    }
+  ],
+  "timestamp": "2026-08-18T08:10:33.252449331Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "మీకు చాలును — ⟨את⟩ ఈ పర్వతమును చుట్టుట; మీ కొరకు ఉత్తరము వైపునకు మరలండి.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "చాలును"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీకు"
+    },
+    {
+      "surface": "סב",
+      "gloss": "చుట్టుట"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఈ పర్వతమును"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ఈ పర్వతము"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "మరలండి"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీ కొరకు"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ఉత్తరము వైపునకు"
+    }
+  ],
+  "timestamp": "2026-08-17T20:42:53.781833125Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "యిస్సాస్కార్ గోత్రము నుండి యిగ్యాల్, యోసేపు కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "గోత్రము నుండి"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "యిస్సాస్కార్"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "యిగ్యాల్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "యోసేపు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:38:50.675680011Z",
+  "model": "glm-5.3"
+}

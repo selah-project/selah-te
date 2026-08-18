@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఎలియాబ్ తన కుమారుడు, యెరోఖామ్ తన కుమారుడు, ఎల్కానా తన కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "ఎలియాబ్"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "తన కుమారుడు"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "యెరోఖామ్"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "తన కుమారుడు"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ఎల్కానా"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "తన కుమారుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:24.146783178Z",
+  "model": "glm-5.3"
+}

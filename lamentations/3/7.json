@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "గోడ చుట్ట గట్టెను, నేను బయటకు పోగలను; నా ఇనప సంకెళ్లు భారము చేసెను.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "గోడ చుట్ట గట్టెను"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "నా"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "నేను బయటకు పోగలను"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "భారము చేసెను"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "నా ఇనప సంకెళ్లు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:19.801725647Z",
+  "model": "glm-5.3"
+}

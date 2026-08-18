@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "ఇదే ఆ మాట, యాహ్వే ప్రాచీన కాలమునుండి మోవాబునుగూర్చి మాటలాడినది.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ఇదే"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ఆ మాట"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏది"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాటలాడిన"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "మోవాబునుగూర్చి"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ప్రాచీన కాలమునుండి"
+    }
+  ],
+  "timestamp": "2026-08-17T23:12:01.570542259Z",
+  "model": "glm-5.3"
+}

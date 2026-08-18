@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఒక కెరుబు ఎత్తు పది ములుములు, అటువే ⟨ఉంది⟩ రెండవ కెరుబు.",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "ఎత్తు"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "కెరుబు"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ఒక"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ములుములు"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "అటువే"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "కెరుబు"
+    },
+    {
+      "surface": "השני",
+      "gloss": "రెండవ"
+    }
+  ],
+  "timestamp": "2026-08-17T22:38:42.615461260Z",
+  "model": "glm-5.3"
+}

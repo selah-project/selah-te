@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "షావులు మరణించెను, అతని బదులుగా అక్బోరు కుమారుడైన బాల్-ఖానాను ఏలెను.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "మరణించెను"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "షావులు"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ఏలెను"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "అతని బదులుగా"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "బాల్-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ఖానాను"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడైన"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "అక్బోరు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:31.794199270Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 36,
+  "translation": "అహోలీబామా అధిపతి, ఏలా అధిపతి, పీనోన్ అధిపతి.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "అధిపతి"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "అహోలీబామా"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "అధిపతి"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ఏలా"
+    },
+    {
+      "surface": "అలూఫ్",
+      "gloss": "అధిపతి"
+    },
+    {
+      "surface": "פינון",
+      "gloss": "పీనోన్"
+    }
+  ],
+  "timestamp": "2026-08-18T04:11:27.389387124Z",
+  "model": "glm-5.3"
+}

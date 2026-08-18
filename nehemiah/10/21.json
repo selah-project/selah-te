@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మగ్పియాష్, మెషుల్లాం, ఖెజీర్.",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "మగ్పియాష్"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "మెషుల్లాం"
+    },
+    {
+      "surface": "గెజీర్",
+      "gloss": "ఖెజీర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:15:18.690525946Z",
+  "model": "glm-5.3"
+}

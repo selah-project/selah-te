@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 33:12",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "సుఖులు ⟨is⟩ ⟨the⟩ జాతి — యాహ్వే దాని ఎలోహీం; ⟨the⟩ ప్రజ ఎవరో ఆయన సొత్తుగా ఎన్నుకొన్నారు ⟨for⟩ తనకు.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "సుఖులు"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "జాతి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "— ఎవరో"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "దాని ఎలోహీం"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ప్రజ"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ఎన్నుకొన్నారు"
+    },
+    {
+      "surface": "לנחלה",
+      "gloss": "సొత్తుగా"
+    },
+    {
+      "surface": "לו",
+      "gloss": "తనకు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:12:28.737409100Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "షూహా సహోదరుడైన కెలూబు ⟨את⟩ మెహీరును జనింపజేసెను; అతడు ఎష్టోను తండ్రి.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "మరియు కెలూబు"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "సహోదరుడైన"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "షూహా"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "జనింపజేసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "మెహీరును"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "మెహీరును"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అతడు"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "తండ్రి"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "ఎష్టోను"
+    }
+  ],
+  "timestamp": "2026-08-18T03:23:52.093493991Z",
+  "model": "glm-5.3"
+}

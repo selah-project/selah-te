@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "ఇదంతయు నెబుకద్నెస్సర్ ⟨రాజుపై⟩ సంభవించెను.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ఇదంతయు"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "సంభవించెను"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "నెబుకద్నెస్సర్"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "రాజు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:26:38.161329961Z",
+  "model": "glm-5.3"
+}

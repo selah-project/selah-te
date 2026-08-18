@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "మరియు యాహ్వే అదే రోజున మోషేతో ఇలా ఉట్టంగించెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు ఉట్టంగించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "అదే రోజున"
+    },
+    {
+      "surface": "היום",
+      "gloss": "రోజు"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా చెప్పుచూ"
+    }
+  ],
+  "timestamp": "2026-08-17T21:37:15.689880918Z",
+  "model": "glm-5.3"
+}

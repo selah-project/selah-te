@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "మా నీళ్లు వెండితో త్రాగితిము; మా కట్టెలు ధరతో వచ్చుచున్నవి.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "మా నీళ్లు"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "వెండితో"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "త్రాగితిము"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "మా కట్టెలు"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "ధరతో"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "వచ్చుచున్నవి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:33.821899455Z",
+  "model": "glm-5.3"
+}

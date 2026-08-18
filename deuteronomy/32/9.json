@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "ఎందుకంటే యాహ్వే యొక్క వాటా ఆయన ప్రజ; యాకోవు ఆయన స్వాస్థ్యపు వాటా.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "వాటా"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ఆయన ప్రజ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "యాకోవు"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "వాటా (కొలిచే త్రాడు)"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ఆయన స్వాస్థ్యం"
+    }
+  ],
+  "timestamp": "2026-08-17T21:36:58.577872384Z",
+  "model": "glm-5.3"
+}

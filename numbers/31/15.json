@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "మోషే వారితో అనెను — మీరు ప్రతి స్త్రీని బ్రతికించి యున్నారా?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అనెను"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "వారితో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "బ్రతికించిరి"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "స్త్రీని"
+    }
+  ],
+  "timestamp": "2026-08-18T04:48:44.291057215Z",
+  "model": "glm-5.3"
+}

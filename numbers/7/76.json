@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మేకల మగపిల్లి ఒకటి — పాపార్పణగా.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "మగపిల్లి"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకల"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "పాపార్పణగా"
+    }
+  ],
+  "timestamp": "2026-08-17T19:26:02.886921994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "మరియు మీరు నా ఆజ్ఞలను పాటించి, ⟨את⟩ వాటిని చేయుడి; నేను యాహ్వే.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "మరియు మీరు పాటించి"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "నా ఆజ్ఞలను"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "మరియు చేయుడి"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "వాటిని"
+    },
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T18:34:46.633381315Z",
+  "model": "glm-5.3"
+}

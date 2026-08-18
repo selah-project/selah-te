@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "తోటల ఊట, జీవించే నీళ్ల బావి, లెబనోను నుండి ప్రవహించే నదులు నువ్వే.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "ఊట"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "తోటల"
+    },
+    {
+      "surface": "באר",
+      "gloss": "బావి"
+    },
+    {
+      "surface": "מים",
+      "gloss": "నీళ్ల"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "జీవించే"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "మరియు ప్రవహించేవి"
+    },
+    {
+      "surface": "מן",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "లెబనోను"
+    }
+  ],
+  "timestamp": "2026-08-18T02:24:22.390575611Z",
+  "model": "glm-5.3"
+}

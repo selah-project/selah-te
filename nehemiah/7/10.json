@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఆరాఖ్ కుమారులు — ఆరు వందల యాభై రెండు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ఆరాఖ్"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "యాభై"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "మరియు రెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:11:25.009324823Z",
+  "model": "glm-5.3"
+}

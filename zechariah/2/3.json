@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "యాహ్వే నాకు నాలుగు చేతివృత్తులను చూపించెను.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "నాకు చూపించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "చేతివృత్తులను"
+    }
+  ],
+  "timestamp": "2026-08-18T00:48:01.336729108Z",
+  "model": "glm-5.3"
+}

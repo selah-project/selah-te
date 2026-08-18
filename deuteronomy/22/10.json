@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "ఒక ఎద్దుతోను ఒక గాడిదతోను కలిపి దున్నవద్దు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "దున్నవద్దు"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ఎద్దుతోను"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "గాడిదతోను"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "కలిపి"
+    }
+  ],
+  "timestamp": "2026-08-17T21:18:44.057728889Z",
+  "model": "glm-5.3"
+}

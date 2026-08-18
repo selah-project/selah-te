@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "అర్పఖషదు ⟨את⟩ షలాహును జనించెను; షలాహు ⟨את⟩ ఎబెరును జనించెను.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "అర్పఖషదు"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "జనించెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "షలాహును"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "షలాహు"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "షలాహు"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "జనించెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఎబెరును"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ఎబెరు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:08:33.635364576Z",
+  "model": "glm-5.3"
+}

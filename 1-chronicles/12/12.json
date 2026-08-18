@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "అత్తాయి ఆరవవాడు, ఏలీయేలు ఏడవవాడు.",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "అత్తాయి"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ఆరవవాడు"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ఏలీయేలు"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ఏడవవాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:57.682782768Z",
+  "model": "glm-5.3"
+}

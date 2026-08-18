@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "యాహ్వే మోషేతో మాట్లాడి —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు మాట్లాడినాడు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా చెప్పుచూ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:31:32.786727645Z",
+  "model": "glm-5.3"
+}

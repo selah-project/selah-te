@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "నీ సంచిలో ఒక రాయి మరియు ఒక రాయి — పెద్దది మరియు చిన్నది — నీకు ఉండకూడదు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ఉండకూడదు"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "నీ సంచిలో"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ఒక రాయి"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "మరియు ఒక రాయి"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "పెద్దది"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "మరియు చిన్నది"
+    }
+  ],
+  "timestamp": "2026-08-17T21:24:20.771374952Z",
+  "model": "glm-5.3"
+}

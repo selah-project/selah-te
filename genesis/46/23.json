@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 46,
+  "translation": "దాను కుమారులు: హుషీము.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "דן",
+      "gloss": "దాను"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "హుషీము"
+    }
+  ],
+  "timestamp": "2026-08-17T17:32:39.148826153Z",
+  "model": "glm-5.3"
+}

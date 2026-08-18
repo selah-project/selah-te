@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "ఎందుకంటే యాహ్వే తప్ప మరేవాడు ఏలోహు? మా ఎలోహీం తప్ప మరేది శిల?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ఎవరు"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ఏలోహు"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "తప్ప"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "మరియు ఎవరు"
+    },
+    {
+      "surface": "దור",
+      "gloss": "శిల"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "తప్ప"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "మా ఎలోహీం"
+    }
+  ],
+  "timestamp": "2026-08-18T00:56:26.509020166Z",
+  "model": "glm-5.3"
+}

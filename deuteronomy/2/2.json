@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "మరియు యాహ్వే నాతో ఈ లోగిలి చెప్పుచున్నాడు:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "మరియు ఆయన చెప్పెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాతో"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఈ లోగిలి"
+    }
+  ],
+  "timestamp": "2026-08-17T20:42:53.781694684Z",
+  "model": "glm-5.3"
+}

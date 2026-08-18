@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "పట్టణంలో నువ్వు ధన్యుడవు, మరియు పొలంలో నువ్వు ధన్యుడవు.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ధన్యుడవు"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నువ్వు"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "పట్టణంలో"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "మరియు ధన్యుడవు"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నువ్వు"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "పొలంలో"
+    }
+  ],
+  "timestamp": "2026-08-18T05:01:14.909239761Z",
+  "model": "glm-5.3"
+}

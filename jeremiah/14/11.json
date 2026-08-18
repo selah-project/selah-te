@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "యాహ్వే నాతో చెప్పెను — ఈ ప్రజల మంచికొరకు విజ్ఞప్తి చేయవద్దు.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "చెప్పెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాతో"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "విజ్ఞప్తి చేయ"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "కొరకు"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ప్రజల"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "మంచికొరకు"
+    }
+  ],
+  "timestamp": "2026-08-17T23:41:13.376835895Z",
+  "model": "glm-5.3"
+}

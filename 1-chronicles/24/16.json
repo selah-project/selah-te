@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "పెతహ్యాకు పందొమ్మిది, యెహెజ్కేలుకు ఇరవై.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "పెతహ్యాకు"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "తొమ్మిది"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది (పందొమ్మిది)"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "యెహెజ్కేలుకు"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "ఇరవై"
+    }
+  ],
+  "timestamp": "2026-08-18T03:36:59.070099981Z",
+  "model": "glm-5.3"
+}

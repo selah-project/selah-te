@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "అప్పుడు మోషే యర్దనుకు ఆవల, సూర్యోదయ దిక్కున, మూడు పట్టణములను విడదీసెను.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "అప్పుడు"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "విడదీసెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "పట్టణములను"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ఆవల"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "యర్దనుకు"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "సూర్యోదయ దిక్కున"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "సూర్యుని"
+    }
+  ],
+  "timestamp": "2026-08-17T20:52:55.076199880Z",
+  "model": "glm-5.3"
+}

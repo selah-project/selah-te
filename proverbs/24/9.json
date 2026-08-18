@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "మూర్ఖత్వపు తలంపు పాపము; పరిహసకుడు మానవులకు అసహ్యకరముడు.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "తలంపు"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "మూర్ఖత్వపు"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "పాపము"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "మరియు అసహ్యకరముడు"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "మానవులకు"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "పరిహసకుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:52:40.565279650Z",
+  "model": "glm-5.3"
+}

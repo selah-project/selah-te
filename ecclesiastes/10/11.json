@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "పాము మంత్రము లేనిదై కాటు వేసినయెడల, నాలుక యజమానికి లాభము ఉండదు.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ఒకవేళ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "కాటు వేసినయెడల"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "పాము"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "లేనిదై"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "మంత్రము"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ఉండదు"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "లాభము"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "యజమానికి"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "నాలుక"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:22.017861142Z",
+  "model": "glm-5.3"
+}

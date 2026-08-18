@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "ఆదాం, షేత్, ఎనోష్,",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ఆదాం"
+    },
+    {
+      "surface": "שת",
+      "gloss": "షేత్"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ఎనోష్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:35.096245889Z",
+  "model": "glm-5.3"
+}

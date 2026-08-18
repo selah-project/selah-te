@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "వెండి చిత్రాలలో బంగారు టెంకాయల వంటిది, తన సమయానుసారంగా మాట్లాడిన మాట.",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "టెంకాయల"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారు"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "చిత్రాలలో"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "వెండి"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట్లాడిన"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "తన సమయాల"
+    }
+  ],
+  "timestamp": "2026-08-18T01:52:32.412411557Z",
+  "model": "glm-5.3"
+}

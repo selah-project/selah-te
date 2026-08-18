@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "ఉజ్జీయెలు కుమారులు — మీఖా ⟨ప్రథముడు⟩, యిష్షీయా ⟨ద్వితీయుడు⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ఉజ్జీయెలు"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "మీఖా"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ప్రథముడు"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "మరియు యిష్షీయా"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ద్వితీయుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:37:10.250194564Z",
+  "model": "glm-5.3"
+}

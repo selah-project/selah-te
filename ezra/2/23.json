@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "అనాతోత్ పురుషులు నూట ఇరవై ఎనిమిది మంది.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "పురుషులు"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "అనాతోత్"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "నూట"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ఎనిమిది మంది"
+    }
+  ],
+  "timestamp": "2026-08-18T02:58:17.524559457Z",
+  "model": "glm-5.3"
+}

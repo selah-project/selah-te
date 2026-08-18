@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "మరియు యాహ్వే మోషేతో ⟨చెప్పుటకు⟩ ఉట్టంచెను.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు ఉట్టంచెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా చెప్పుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:41:16.336993735Z",
+  "model": "glm-5.3"
+}

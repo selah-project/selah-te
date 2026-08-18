@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "కోపిష్టి వానితో ⟨את⟩ స్నేహం చేయకు, క్రోధియైన మనిషితో ⟨את⟩ కలియకు.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "స్నేహం చేయకు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "కోపిష్టి వానిని"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "వాడు"
+    },
+    {
+      "surface": "אף",
+      "gloss": "కోపము యొక్క"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "క్రోధము యొక్క"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "కలియకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:52:28.840314152Z",
+  "model": "glm-5.3"
+}

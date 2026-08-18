@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నచ్షోన్ ⟨את⟩ షల్మాను జనింపజేసెను, షల్మా ⟨את⟩ బోయజ్ను జనింపజేసెను.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "మరియు నచ్షోన్"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "జనింపజేసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "షల్మా"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "షల్మా"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "మరియు షల్మా"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "జనింపజేసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "బోయజ్"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "బోయజ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:20:25.547410583Z",
+  "model": "glm-5.3"
+}

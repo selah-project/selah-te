@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 39,
+  "translation": "మరియు ⟨the⟩ రెండవ వరుస — నోఫెక్, సప్పీర్, మరియు యహలోమ్.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "మరియు ⟨the⟩ వరుస"
+    },
+    {
+      "surface": "השני",
+      "gloss": "రెండవ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "నోఫెక్"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "సప్పీర్"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "మరియు యహలోమ్"
+    }
+  ],
+  "timestamp": "2026-08-17T18:02:16.058312680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "తన నిర్ణయ యొక్క అన్ని దినములు అతడు యాహ్వేకు పరిశుద్ధుడు.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "అన్ని"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "దినములు"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "తన నిర్ణయ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "పరిశుద్ధుడు"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అతడు"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "యాహ్వేకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:34:47.794274833Z",
+  "model": "glm-5.3"
+}

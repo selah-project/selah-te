@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నాపై కట్టెను, విషపు గింజలతోను కష్టముతోను చుట్టుకొనెను.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "కట్టెను"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "నాపై"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "చుట్టుకొనెను"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "విషపు గింజలతోను"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "కష్టముతోను"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:19.800922873Z",
+  "model": "glm-5.3"
+}

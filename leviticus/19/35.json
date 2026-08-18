@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "తీర్పులో, కొలతలో, తూకంలో మరియు పరిమాణంలో అన్యాయం చేయకండి.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కండి లేదు"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "చేయక"
+    },
+    {
+      "surface": "עול",
+      "gloss": "అన్యాయం"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "తీర్పులో"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "కొలతలో"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "తూకంలో"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "మరియు పరిమాణంలో"
+    }
+  ],
+  "timestamp": "2026-08-18T04:24:26.488292578Z",
+  "model": "glm-5.3"
+}

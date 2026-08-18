@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "మరియు ఏతాను కుమారులు — అజర్యా.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ఏతాను"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "అజర్యా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:20:26.300213145Z",
+  "model": "glm-5.3"
+}

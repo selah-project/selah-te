@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "యాజకులలో ప్రతి పురుషుడు ⟨את⟩ దానిని తినును; అది పరిశుద్ధుల పరిశుద్ధము.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "పురుషుడు"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "యాజకులలో"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "తినును"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "దానిని"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "పరిశుద్ధము"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "పరిశుద్ధుల"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    }
+  ],
+  "timestamp": "2026-08-17T18:05:46.331367856Z",
+  "model": "glm-5.3"
+}

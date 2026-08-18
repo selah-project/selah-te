@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "ఎలీషామా, ఎల్యాదా, ఎలీపెలెట్.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "మరియు ఎలీషామా"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "మరియు ఎల్యాదా"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "మరియు ఎలీపెలెట్"
+    }
+  ],
+  "timestamp": "2026-08-17T22:23:18.769989001Z",
+  "model": "glm-5.3"
+}

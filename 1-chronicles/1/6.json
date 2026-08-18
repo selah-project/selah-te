@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "గోమెరు కుమారులు: అష్కెనాజు, రీపాతు, తోగర్మాహ్.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "గోమెరు"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "అష్కెనాజు"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "రీపాతు"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "తోగర్మాహ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:59.784874987Z",
+  "model": "glm-5.3"
+}

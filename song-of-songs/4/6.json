@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "పగలు ఊగించువరకు, నీడలు పారిపోవువరకు, నేను మూరు పర్వతమునకు, ధూపవృక్ష రసపు గుట్టకు వెళ్ళెదను.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "ఊగించు"
+    },
+    {
+      "surface": "היום",
+      "gloss": "పగలు"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "పారిపోవువరకు"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "నీడలు"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "వెళ్ళెదను"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...కు"
+    },
+    {
+      "surface": "הר",
+      "gloss": "పర్వతము"
+    },
+    {
+      "surface": "המור",
+      "gloss": "మూరు"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "...కు"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "గుట్ట"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "ధూపవృక్ష రసము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:25:25.968061563Z",
+  "model": "glm-5.3"
+}

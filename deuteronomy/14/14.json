@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "మరియు ⟨את⟩ ప్రతి రకము ప్రకారం కాకిని",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ప్రతి కాకి"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "కాకి"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "తన రకము ప్రకారం"
+    }
+  ],
+  "timestamp": "2026-08-18T04:57:31.636004684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "షిమ్యోను గోత్రమునకు చెందినవాడు — షాఫాత్, ఖోరీ కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "గోత్రమునకు చెందినవాడు"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "షిమ్యోను"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "షాఫాత్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ఖోరీ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:39:30.494911556Z",
+  "model": "glm-5.3"
+}

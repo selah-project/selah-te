@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "మీరు అలా చేయరాదు యాహ్వే మీ ఎలోహీం కొరకు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "రాదు"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "మీరు చేయ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "అలా"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "యాహ్వే కొరకు"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "మీ ఎలోహీం"
+    }
+  ],
+  "timestamp": "2026-08-17T21:10:37.385792584Z",
+  "model": "glm-5.3"
+}

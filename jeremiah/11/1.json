@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "యిర్మియాహుకు యాహ్వే నుండి ⟨מאת⟩ ఉన్న మాట, ఇలా చెప్పుటకు:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏదైన"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ఉంది"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వద్దకు"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "యిర్మియాహు"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "యాహ్వే నుండి"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా చెప్పుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T05:45:30.634196804Z",
+  "model": "glm-5.3"
+}

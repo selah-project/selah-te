@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 43,
+  "translation": "నేనే, నేనే యాహ్వేను; నా తప్ప మరొక రక్షకుడు లేడు.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "నేనే"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "నేనే"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "మరియు లేడు"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "నా తప్ప"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "రక్షకుడు"
+    }
+  ],
+  "timestamp": "2026-08-17T23:22:57.224498727Z",
+  "model": "glm-5.3"
+}

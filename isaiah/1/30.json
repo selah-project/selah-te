@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "ఎందుకంటే ఆకు వాడిన ⟨the⟩ ఎలా వృక్షమువలె మీరు ఉందురు, నీళ్లు లేని ⟨the⟩ తోటవలెను.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "మీరు ఉందురు"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "ఎలా వృక్షమువలె"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "వాడిన"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ఆకు"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "మరియు తోటవలెను"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨the⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "నీళ్లు"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేని"
+    },
+    {
+      "surface": "לה",
+      "gloss": "దానికి"
+    }
+  ],
+  "timestamp": "2026-08-17T23:06:35.743169368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "ఇది నా దగ్గర దాచి ఉంచబడి లేదా? నా నిధిభాండాగారములలో ముద్రవేయబడి లేదా?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "లేదా"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "దాచి ఉంచబడి"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "నా దగ్గర"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "ముద్రవేయబడి"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "నా నిధిభాండాగారములలో"
+    }
+  ],
+  "timestamp": "2026-08-17T21:37:59.139992078Z",
+  "model": "glm-5.3"
+}

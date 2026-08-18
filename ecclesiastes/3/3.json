@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "చంపుటకు సమయం, నయం చేయుటకు సమయం; కూల్చుటకు సమయం, కట్టుటకు సమయం.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "సమయం"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "చంపుటకు"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "మరియు సమయం"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "నయం చేయుటకు"
+    },
+    {
+      "surface": "עת",
+      "gloss": "సమయం"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "కూల్చుటకు"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "మరియు సమయం"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "కట్టుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:36:02.742724392Z",
+  "model": "glm-5.3"
+}

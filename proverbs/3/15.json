@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 3:15",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "అది మణులు కంటె విలువైనది; నీ కోరికలన్నీ ⟨అది⟩తో సమానం కావు.",
+  "tokens": [
+    {
+      "surface": "יקרה",
+      "gloss": "విలువైనది"
+    },
+    {
+      "surface": "היא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "מפניים",
+      "gloss": "మణులు కంటె"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "మరియు అన్నీ"
+    },
+    {
+      "surface": "חפציך",
+      "gloss": "నీ కోరికల"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కావు"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "సమానం"
+    },
+    {
+      "surface": "בה",
+      "gloss": "అదితో"
+    }
+  ],
+  "timestamp": "2026-08-18T01:39:04.600759133Z",
+  "model": "glm-5.3"
+}

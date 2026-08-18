@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "అప్పుడు యోబు జవాబిచ్చి ఇట్లనెను —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "జవాబిచ్చెను"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "యోబు"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ఇట్లనెను"
+    }
+  ],
+  "timestamp": "2026-08-18T02:09:32.413337874Z",
+  "model": "glm-5.3"
+}

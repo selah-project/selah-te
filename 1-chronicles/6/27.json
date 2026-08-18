@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఏతాను కుమారుడు, జిమ్మా కుమారుడు, షిమ్ఈ కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ఏతాను"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "జిమ్మా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "షిమ్ఈ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:12.468746108Z",
+  "model": "glm-5.3"
+}

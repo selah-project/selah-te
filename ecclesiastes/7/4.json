@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "జ్ఞానుల హృదయము విలాప గృహమున ఉండును, మూర్ఖుల హృదయము సంతోష గృహమున ఉండును.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "హృదయము"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "జ్ఞానుల"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "గృహమున"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "విలాప"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "మరియు హృదయము"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "మూర్ఖుల"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "గృహమున"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "సంతోష"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:22.381668322Z",
+  "model": "glm-5.3"
+}

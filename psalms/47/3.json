@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 47,
+  "translation": "ఎందుకంటే యాహ్వే ఎల్యోన్ భయంకరుడు; సమస్త ⟨ది⟩ భూమిపై ⟨ఉన్న⟩ మహా రాజు.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ఎల్యోన్"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "భయంకరుడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "మహా"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:05:35.780785056Z",
+  "model": "glm-5.3"
+}

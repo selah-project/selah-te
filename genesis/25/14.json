@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "మరియు మిష్మా, మరియు దూమా, మరియు మస్సా.",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "మరియు మిష్మా"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "మరియు దూమా"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "మరియు మస్సా"
+    }
+  ],
+  "timestamp": "2026-08-17T17:17:49.083092181Z",
+  "model": "glm-5.3"
+}

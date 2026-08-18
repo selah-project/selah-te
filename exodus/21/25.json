@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "కాటు కాటుకు, గాయము గాయమునకు, వాతము వాతమునకు.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "కాటు"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "కాటుకు"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "కాటు"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "గాయము"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "గాయమునకు"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "గాయము"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "వాతము"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "వాతమునకు"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "వాతము"
+    }
+  ],
+  "timestamp": "2026-08-17T17:49:38.359228165Z",
+  "model": "glm-5.3"
+}

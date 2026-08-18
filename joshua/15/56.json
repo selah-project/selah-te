@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "వయిజ్రెయేలు, వయోక్దెయాము, వజానోయా",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "వయిజ్రెయేలు"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "వయోక్దెయాము"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "వజానోయా"
+    }
+  ],
+  "timestamp": "2026-08-18T05:05:48.652311403Z",
+  "model": "glm-5.3"
+}

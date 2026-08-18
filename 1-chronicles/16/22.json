@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "నా అభిషిక్తులను తాకకండి; నా ప్రవక్తల మీద కీడు చేయకండి.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "తాకకండి"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "నా అభిషిక్తులను"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "మరియు నా ప్రవక్తల మీద"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "కీడు చేయకండి"
+    }
+  ],
+  "timestamp": "2026-08-18T03:30:08.507444792Z",
+  "model": "glm-5.3"
+}

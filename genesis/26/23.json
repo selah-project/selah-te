@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "అతడు అక్కడనుండి బెయెర్-షెబాకు ఎక్కి వెళ్లెను.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ఎక్కి వెళ్ళెను"
+    },
+    {
+      "surface": "משם",
+      "gloss": "అక్కడనుండి"
+    },
+    {
+      "surface": "באר",
+      "gloss": "బెయెర్-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "షెబా"
+    }
+  ],
+  "timestamp": "2026-08-17T17:18:29.547695311Z",
+  "model": "glm-5.3"
+}

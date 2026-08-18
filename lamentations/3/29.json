@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "అతడు తన నోరు ధూళిలో ఉంచును — ఏమైనా ఆశ ఉండవచ్చు.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ఉంచును"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ధూళిలో"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "తన నోరు"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ఏమైనా"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ఉండవచ్చు"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ఆశ"
+    }
+  ],
+  "timestamp": "2026-08-18T02:32:06.098033760Z",
+  "model": "glm-5.3"
+}

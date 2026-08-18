@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "ఇశ్రాయేలు కుమారులతో మాట్లాడుము, వారితో చెప్పుము: నేనే మీ ఎలోహీం యాహ్వే.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "మాట్లాడుము"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ఇశ్రాయేలు"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "మరియు చెప్పుము"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "వారితో"
+    },
+    {
+      "surface": "אני",
+      "gloss": "నేనే"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "మీ ఎలోహీం"
+    }
+  ],
+  "timestamp": "2026-08-17T18:20:29.890536683Z",
+  "model": "glm-5.3"
+}

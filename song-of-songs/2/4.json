@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "అతడు నన్ను ద్రాక్షాసారా గృహానికి తీసుకువచ్చెను, అతని ధ్వజం నాపై ప్రేమ.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "నన్ను తీసుకువచ్చెను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కు"
+    },
+    {
+      "surface": "בית",
+      "gloss": "గృహం"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ద్రాక్షాసారా"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "అతని ధ్వజం"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "నాపై"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ప్రేమ"
+    }
+  ],
+  "timestamp": "2026-08-18T02:24:37.081890205Z",
+  "model": "glm-5.3"
+}

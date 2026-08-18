@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "గాననాయకునికి — దావీదు యొక్క మజ్మోర్.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "గాననాయకునికి"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "మజ్మోర్"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదు యొక్క"
+    }
+  ],
+  "timestamp": "2026-08-18T00:59:35.941727151Z",
+  "model": "glm-5.3"
+}

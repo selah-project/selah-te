@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "కూడా ⟨the⟩ ఇది నేను చూచితిని — సూర్యుని కింద జ్ఞానం; మరియు ⟨it⟩ నాకు గొప్పదిగా ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "నేను చూచితిని"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "జ్ఞానం"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "కింద"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "సూర్యుని"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "మరియు గొప్పది"
+    },
+    {
+      "surface": "היא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాకు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:40:20.199455698Z",
+  "model": "glm-5.3"
+}

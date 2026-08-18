@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 49,
+  "translation": "శిమ్యోను మరియు లేవీ సహోదరులు; హింస సాధనములు వారి కత్తులు.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "శిమ్యోను"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "మరియు లేవీ"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "సహోదరులు"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "సాధనములు"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "హింస"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "వారి కత్తులు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:36:13.127560362Z",
+  "model": "glm-5.3"
+}

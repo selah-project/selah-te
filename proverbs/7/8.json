@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "వీధిలో దాని మూల దగ్గరుగా దాటుచు, ఆమె ఇంటికి దారిలో నడచుచున్నాడు.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "దాటుచు"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "వీధిలో"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "దగ్గర"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "దాని మూల"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "మరియు దారి"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ఆమె ఇంటికి"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "నడచుచున్నాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:41:14.662934859Z",
+  "model": "glm-5.3"
+}

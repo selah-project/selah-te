@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "మరియు మేము బేత్-పెయోరుకు ఎదురుగా లోయలో నివసించెం.",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "మరియు నివసించెం"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "లోయలో"
+    },
+    {
+      "surface": "מול",
+      "gloss": "ఎదురుగా"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "పెయోరు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:50:32.139379274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "పష్హూర్, అమర్యా, మల్కియా.",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "పష్హూర్"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "అమర్యా"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "మల్కియా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:14:40.702735998Z",
+  "model": "glm-5.3"
+}

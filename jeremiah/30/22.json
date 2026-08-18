@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "మీరు నాకు జనముగా ఉందురు, మరియు నేను మీకు ఎలోహీంగా ఉందును.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "మరియు మీరు ఉందురు"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "జనముగా"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "మరియు నేను"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ఉందును"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీకు"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ఎలోహీంగా"
+    }
+  ],
+  "timestamp": "2026-08-17T23:48:18.968119422Z",
+  "model": "glm-5.3"
+}

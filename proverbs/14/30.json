@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "ఆరోగ్యకరమైన హృదయం శరీరానికి జీవం, మరియు ఎముకల కుళ్ళు అనునది ఈర్ష్య.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "జీవం"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "శరీరానికి"
+    },
+    {
+      "surface": "לב",
+      "gloss": "హృదయం"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ఆరోగ్యకరమైన"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "మరియు కుళ్ళు"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ఎముకల"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ఈర్ష్య"
+    }
+  ],
+  "timestamp": "2026-08-18T01:46:21.777474393Z",
+  "model": "glm-5.3"
+}

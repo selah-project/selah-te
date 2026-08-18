@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "యాహ్వే భయమందు బలమైన నమ్మకత; ఆయన పిల్లలకు ఆశ్రయము ⟨ఉండును⟩.",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "భయమందు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "నమ్మకత"
+    },
+    {
+      "surface": "עז",
+      "gloss": "బలమైన"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "ఆయన పిల్లలకు"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨ఉండును⟩"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ఆశ్రయము"
+    }
+  ],
+  "timestamp": "2026-08-18T01:46:14.959311528Z",
+  "model": "glm-5.3"
+}

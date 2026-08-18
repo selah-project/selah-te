@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఎందుకంటే ⟨నా⟩ భర్త ఇంట లేడు; అతడు దూరమైన దారిలో పోయాడు.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేడు"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "భర్త"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ఇంట"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "పోయాడు"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "దారిలో"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "దూరమైన"
+    }
+  ],
+  "timestamp": "2026-08-18T01:42:01.893199616Z",
+  "model": "glm-5.3"
+}

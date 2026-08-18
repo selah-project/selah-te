@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "అధిపతులు వారి చేతుల వలన ఉరితీయబడిరి; ముసలివారి ముఖములు గౌరవించబడలేదు.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "అధిపతులు"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "వారి చేతుల వలన"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "ఉరితీయబడిరి"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ముఖములు"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ముసలివారి"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "గౌరవించబడలేదు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:02.723115490Z",
+  "model": "glm-5.3"
+}

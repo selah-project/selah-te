@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఖాషుం కుమారులు — రెండు వందల ఇరవై ముగ్గురు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ఖాషుం"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "రెండు వందల"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ముగ్గురు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:53.333891577Z",
+  "model": "glm-5.3"
+}

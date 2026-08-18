@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "యర్దను నదికి ఆవల, మోఆబు దేశమందు, మోషే ⟨את⟩ ఈ తోరాను వివరించుట ఆరంభించెను, సెలవిచ్చుచు:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "ఆవల"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "యర్దను నదికి"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "దేశమందు"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "మోఆబు"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "ఆరంభించెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "באר",
+      "gloss": "వివరించుట"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఈ తోరాను"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "తోరాను"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T20:43:34.933872875Z",
+  "model": "glm-5.3"
+}

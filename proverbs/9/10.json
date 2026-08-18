@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "జ్ఞానము ఆరంభము యాహ్వే యొక్క భయము; పరిశుద్ధుల జ్ఞానము ⟨ఆమె⟩ అవగాహన.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "ఆరంభము"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "జ్ఞానము"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "భయము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "జ్ఞానము"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "పరిశుద్ధుల"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "అవగాహన"
+    }
+  ],
+  "timestamp": "2026-08-18T01:41:18.535571759Z",
+  "model": "glm-5.3"
+}

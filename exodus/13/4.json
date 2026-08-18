@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "ఈ దినమున మీరు ఆబీబు మాసములో బయలుదేరుచున్నారు.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ఈ దినమున"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "మీరు"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "బయలుదేరుచున్నారు"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "మాసములో"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ఆబీబు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:45:54.086664074Z",
+  "model": "glm-5.3"
+}

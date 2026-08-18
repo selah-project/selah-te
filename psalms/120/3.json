@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 120,
+  "translation": "ఏమి నీకు ఇవ్వబడును, ఏమి నీకు చేర్చబడును, ఓ వంచన నాలుకా?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ఏమి"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ఇవ్వబడును"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "మరియు ఏమి"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "చేర్చబడును"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "నాలుక"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "వంచన"
+    }
+  ],
+  "timestamp": "2026-08-18T01:31:06.413943033Z",
+  "model": "glm-5.3"
+}

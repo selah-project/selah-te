@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "పాపక్షమాపణార్పణకు — మేకలలో ఒక్క మేకపోతు.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "మేకపోతు"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకలలో"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక్క"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "పాపక్షమాపణార్పణకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:34:53.229836609Z",
+  "model": "glm-5.3"
+}

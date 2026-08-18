@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "యాహత్ కుమారుడు, గెరెషోమ్ కుమారుడు, లేవీ కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "యాహత్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "గెరెషోమ్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "లేవీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:12.468865562Z",
+  "model": "glm-5.3"
+}

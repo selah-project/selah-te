@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 65,
+  "translation": "ప్రార్థన వినువాడా, నీ యొద్దకు సమస్త మాంసము వచ్చును.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "వినువాడా"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ప్రార్థన"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "నీ యొద్దకు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "మాంసము"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "వచ్చును"
+    }
+  ],
+  "timestamp": "2026-08-18T01:10:19.090379484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 36,
+  "translation": "మరియు ఇవి ఎసావు యొక్క వంశావళి — ఎదోము తండ్రి యొక్క — సేయీరు పర్వతంలో.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "మరియు ఇవి"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "వంశావళి"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ఎసావు"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "తండ్రి"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ఎదోము"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "పర్వతంలో"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "సేయీరు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:24:36.326143716Z",
+  "model": "glm-5.3"
+}

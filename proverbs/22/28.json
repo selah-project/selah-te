@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "నీ తండ్రులు చేసిన ⟨את⟩ పురాతన హద్దును పక్కకు జరుపకు.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "…కు"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "జరుపకు"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "హద్దును"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "పురాతన"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…సిన"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…సిన",
+      "comment": "duplicate — see below"
+    }
+  ],
+  "timestamp": "2026-08-18T01:52:24.220975784Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 23:5",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మొదటి నెలలో, నెలకు పదునాలుగున, సాయంత్రపు సమయాల మధ్య, యాహ్వేకు పెసాఖ్ ⟨ఉంది⟩.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "నెలలో"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "మొదటి"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "నెలకు"
+    },
+    {
+      "surface": "בין",
+      "gloss": "మధ్య"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "సాయంత్రపు సమయాల"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "పెసాఖ్"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "యాహ్వేకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:27:25.058052470Z",
+  "model": "glm-5.3"
+}

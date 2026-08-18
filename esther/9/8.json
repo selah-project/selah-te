@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "మరియు ⟨את⟩ పోరాతాను, మరియు ⟨את⟩ అదల్యాను, మరియు ⟨את⟩ అరిదాతాను",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "పోరాతాను"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "పోరాతా"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "అదల్యాను"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "అదల్యా"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "అరిదాతాను"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "అరిదాతా"
+    }
+  ],
+  "timestamp": "2026-08-18T02:45:06.624185570Z",
+  "model": "glm-5.3"
+}

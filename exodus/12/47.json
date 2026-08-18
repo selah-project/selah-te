@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "యిస్రాయేలు సమస్త సమాజము ⟨את⟩ దాని చేయవలెను.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "సమాజము"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "యిస్రాయేలు"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "చేయవలెను"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "దాని (పెసహాను)"
+    }
+  ],
+  "timestamp": "2026-08-18T04:15:39.943897676Z",
+  "model": "glm-5.3"
+}

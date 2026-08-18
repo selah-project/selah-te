@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 46,
+  "translation": "ఇవి రాహేలు కుమారులు, యాకోబుకు పుట్టినవారు; మొత్తం ప్రాణులు పద్నాలుగుమంది.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ఇవి"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "రాహేలు"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఎవరు"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "పుట్టినవారు"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "యాకోబుకు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "మొత్తం"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ప్రాణులు"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది"
+    }
+  ],
+  "timestamp": "2026-08-17T17:32:39.148698453Z",
+  "model": "glm-5.3"
+}

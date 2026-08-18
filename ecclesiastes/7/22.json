@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఎందుకంటే చాలా సార్లు కూడా నీ హృదయం తెలుసుకొన్నది — నీవు కూడా ⟨את⟩ ఇతరులను శపించావని.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "సార్లు"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "చాలా"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "తెలుసుకొన్నది"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "నీ హృదయం"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అని"
+    },
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఇతరులను"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "శపించావని"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ఇతరులను"
+    }
+  ],
+  "timestamp": "2026-08-18T02:38:33.481334531Z",
+  "model": "glm-5.3"
+}

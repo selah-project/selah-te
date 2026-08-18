@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "te",
+  "chapter": 35,
+  "translation": "అప్పుడు ఎలీహూ సమాధానమిచ్చి పలికెను.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "సమాధానమిచ్చి"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ఎలీహూ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "పలికెను"
+    }
+  ],
+  "timestamp": "2026-08-18T02:17:55.482808027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మానవ కుమారుడా, ఒకే తల్లి కుమార్తెలైన ఇద్దరు స్త్రీలు ఉండిరి.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడా"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మానవ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ఇద్దరు"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "స్త్రీలు"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "కుమార్తెలైన"
+    },
+    {
+      "surface": "אם",
+      "gloss": "తల్లి"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకే"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ఉండిరి"
+    }
+  ],
+  "timestamp": "2026-08-18T00:15:01.086436774Z",
+  "model": "glm-5.3"
+}

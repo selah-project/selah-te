@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "అర్నోను నదీ ఒడిమీద ఉన్న అరోయేరు నుండి సీయోను పర్వతం వరకు — అదే ఖెర్మోను.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "అరోయేరు నుండి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అది"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ఒడిమీద"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "నదీ"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "అర్నోను"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "הר",
+      "gloss": "పర్వతం"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "సీయోను"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అదే"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "ఖెర్మోను"
+    }
+  ],
+  "timestamp": "2026-08-17T20:55:00.406069362Z",
+  "model": "glm-5.3"
+}

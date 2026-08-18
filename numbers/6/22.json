@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 6:22",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "యాహ్వే మోషేతో మాట్లాడుచుండెను, తద్వారా:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడుచుండెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "వాక్యం",
+      "gloss": "…"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషేతో"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "తద్వారా"
+    }
+  ],
+  "timestamp": "2026-08-18T04:34:22.972470971Z",
+  "model": "glm-5.3"
+}

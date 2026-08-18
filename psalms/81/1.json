@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 81,
+  "translation": "గిత్తీతు మీద సంగీత నాయకునికి; ఆసాపు కొరకు.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "సంగీత నాయకునికి"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "గిత్తీతు"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ఆసాపు కొరకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:16:16.744054994Z",
+  "model": "glm-5.3"
+}

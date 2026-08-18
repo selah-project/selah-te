@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "మరియు యాహ్వే మోషేతో మాటలాడెను, సెలవిచ్చుచు:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:07:16.644812519Z",
+  "model": "glm-5.3"
+}

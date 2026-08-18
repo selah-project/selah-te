@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "యాహ్వే ఒక్కడే అతనిని నడిపించెను; అతనితో పరదేశీ దేవుడు లేడు.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ఒక్కడే"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "అతనిని నడిపించెను"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "మరియు లేడు"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "అతనితో"
+    },
+    {
+      "surface": "אל",
+      "gloss": "దేవుడు"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "పరదేశీ"
+    }
+  ],
+  "timestamp": "2026-08-17T21:36:58.578355630Z",
+  "model": "glm-5.3"
+}

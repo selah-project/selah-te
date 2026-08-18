@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "యరుబ్బాల్ యోఆషు కుమారుడు వెళ్లి తన ఇంట నివసించెను.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "వెళ్లెను"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "యరుబ్బాల్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "యోఆషు"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "నివసించెను"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "తన ఇంట"
+    }
+  ],
+  "timestamp": "2026-08-17T21:56:22.643808534Z",
+  "model": "glm-5.3"
+}

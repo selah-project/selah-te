@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 40,
+  "translation": "యాహ్వే మోషేతో మాట్లాడెను — ఇలా చెప్పుకొనుచు:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా చెప్పుకొనుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:04:30.668192917Z",
+  "model": "glm-5.3"
+}

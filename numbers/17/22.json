@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "మోషే ⟨את⟩ కర్రలను సాక్ష్య గుడారంలో యాహ్వే సన్నిధిలో ఉంచెను.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "ఉంచెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "కర్రలను"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "కర్రలను"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "సన్నిధిలో"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "గుడారంలో"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "సాక్ష్య"
+    }
+  ],
+  "timestamp": "2026-08-18T04:41:55.937733272Z",
+  "model": "glm-5.3"
+}

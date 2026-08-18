@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మరియు యాహ్వే మోషేతో ప్రసంగించెను, సెలవిచ్చుచు,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు ఆయన ప్రసంగించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:27:58.141103289Z",
+  "model": "glm-5.3"
+}

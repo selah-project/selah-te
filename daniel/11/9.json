@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "దక్షిణ రాజు రాజ్యమునకు వచ్చి, తన నేలకు తిరిగి వెళ్లును.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "వచ్చి"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "రాజ్యమునకు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "దక్షిణ"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "తిరిగి వెళ్లును"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కు"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "తన నేలకు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:58:47.602344147Z",
+  "model": "glm-5.3"
+}

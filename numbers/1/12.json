@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "దాను తరఫున — అమ్మీషద్దాయ్ కుమారుడు అహీయెజరు.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "దాను తరఫున"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "అహీయెజరు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "అమ్మీషద్దాయ్"
+    }
+  ],
+  "timestamp": "2026-08-17T18:54:31.136772346Z",
+  "model": "glm-5.3"
+}

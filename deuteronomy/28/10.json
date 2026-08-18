@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "భూమిలోని సమస్త జనులు చూచి, యాహ్వే నామము నీపై పిలువబడినదని తెలిసికొని, నిన్ను భయపడుదురు.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "చూచి"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "జనులు"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమిలోని"
+    },
+    {
+      "surface": "כי",
+      "gloss": "తెలిసికొని"
+    },
+    {
+      "surface": "שם",
+      "gloss": "నామము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "పిలువబడినది"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "నీపై"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "భయపడుదురు"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "నిన్ను"
+    }
+  ],
+  "timestamp": "2026-08-18T05:02:10.441576447Z",
+  "model": "glm-5.3"
+}

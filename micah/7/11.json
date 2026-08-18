@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "నీ కంచెలు కట్టుటకు దినము; ఆ దినమందు హద్దు దూరము చేయబడును.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "దినము"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "కట్టుటకు"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "నీ కంచెలు"
+    },
+    {
+      "surface": "יום",
+      "gloss": "దినము"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "దూరము చేయబడును"
+    },
+    {
+      "surface": "חק",
+      "gloss": "హద్దు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:42:40.198844312Z",
+  "model": "glm-5.3"
+}

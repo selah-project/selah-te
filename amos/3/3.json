@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఇద్దరు ఒకటిగా ఢలగిలేరు ఢיעג-ఢיעג ఢיןఢ-ఢ-ఢల ఢల-ఢలి?",
+  "tokens": [
+    {
+      "surface": "ఢలగిలేరు",
+      "gloss": "ఢల-ఢలి"
+    },
+    {
+      "surface": "ఢల-ఢలి",
+      "gloss": "ఢల-ఢలి"
+    },
+    {
+      "surface": "ఢలి",
+      "gloss": "ఢల-ఢలి"
+    },
+    {
+      "surface": "ఢలి",
+      "gloss": "ఢల-ఢలి"
+    },
+    {
+      "surface": "ఢײײఒ",
+      "gloss": "ఢల-ఢలి"
+    },
+    {
+      "surface": "ఢײఢ",
+      "gloss": "ఢల-ఢలి"
+    }
+  ],
+  "timestamp": "2026-08-18T00:35:41.362056467Z",
+  "model": "glm-5.3"
+}

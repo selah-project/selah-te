@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 13:26",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "నేను కూడ నీ చీలికలు నీ ముఖముపైనకు ఊడికితిని, నీ నింద కనబడునట్లు చేసెదను.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "కూడ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "ఊడికితిని"
+    },
+    {
+      "surface": "שוליך",
+      "gloss": "నీ చీలికలు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పైనకు"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "నీ ముఖము"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "కనబడునట్లు"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "నీ నింద"
+    }
+  ],
+  "timestamp": "2026-08-17T23:40:31.396722509Z",
+  "model": "glm-5.3"
+}

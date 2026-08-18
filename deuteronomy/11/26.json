@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "చూడుడి — నేను ఈ నాడు మీ ముందు ఆశీర్వాదమును మరియు శాపమును పెట్టుచున్నాను:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "చూడుడి"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "పెట్టుచున్నాను"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "మీ ముందు"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ఈ నాడు"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ఆశీర్వాదమును"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "మరియు శాపమును"
+    }
+  ],
+  "timestamp": "2026-08-17T21:06:41.104205595Z",
+  "model": "glm-5.3"
+}

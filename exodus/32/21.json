@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "మోషే అహరోను తో అనెను — ⟨את⟩ ఈ ప్రజ నీకు ఏమి చేసెను, నీవు దానిపై గొప్ప పాపము తెచ్చితివా?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అనెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "అహరోను"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఏమి"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ఈ ప్రజ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "తెచ్చితివి"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "దానిపై"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "పాపము"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "గొప్ప"
+    }
+  ],
+  "timestamp": "2026-08-17T17:58:15.015999910Z",
+  "model": "glm-5.3"
+}

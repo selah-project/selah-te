@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "నెట్టనిదే మంచిది — నెట్టి పూర్తి చేయనిదానికంటే.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏది"
+    },
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "నెట్టని"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "నెట్టి"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు పూర్తి చేయని"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "పూర్తి చేయుట"
+    }
+  ],
+  "timestamp": "2026-08-18T06:21:30.545817712Z",
+  "model": "glm-5.3"
+}

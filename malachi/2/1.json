@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "మరియు ఇప్పుడు, ఓ యాజకులారా, ఈ ఆజ్ఞ మీ కొరకు ⟨ఉంది⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "మరియు ఇప్పుడు"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "మీ కొరకు"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ఈ ఆజ్ఞ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ఓ యాజకులారా"
+    }
+  ],
+  "timestamp": "2026-08-18T00:51:42.295482057Z",
+  "model": "glm-5.3"
+}

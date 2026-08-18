@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "మరియు కనాను ⟨את⟩ తన తొలిసంతానమైన సీదోనును ⟨את⟩ హేతును జనింపజేసెను.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "మరియు కనాను"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "జనింపజేసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "సీదోనును"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "సీదోనును"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "తన తొలిసంతానమైన"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "హేతును"
+    },
+    {
+      "surface": "חת",
+      "gloss": "హేతును"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:41.613624610Z",
+  "model": "glm-5.3"
+}

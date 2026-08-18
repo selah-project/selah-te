@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "నఫ్తాలీ గోత్రము తరఫున — వోప్సీ కుమారుడు నఖ్బీ.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "గోత్రము తరఫున"
+    },
+    {
+      "surface": "ఠతఠలి",
+      "gloss": "నఫ్తాలీ",
+      "_": ""
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "నఖ్బీ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "వోప్సీ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:39:23.509831073Z",
+  "model": "glm-5.3"
+}

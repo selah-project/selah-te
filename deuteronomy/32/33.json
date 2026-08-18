@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "వారి ద్రాక్షారసము తన్నుల విషము, పాముల క్రూరమైన విషము కూడా.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "విషము"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "తన్నుల"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "వారి ద్రాక్షారసము"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "మరియు విషము"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "పాముల"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "క్రూరమైన"
+    }
+  ],
+  "timestamp": "2026-08-17T21:37:59.139772588Z",
+  "model": "glm-5.3"
+}

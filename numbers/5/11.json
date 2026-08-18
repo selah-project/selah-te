@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 5:11",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "యాహ్వే మోషేతో ఇలా ఉట్టంచెను తెలుపుమని —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా తెలుపుమని"
+    }
+  ],
+  "timestamp": "2026-08-18T04:33:22.304931121Z",
+  "model": "glm-5.3"
+}

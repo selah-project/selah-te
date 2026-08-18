@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "అది నేరపూరిత యజ్ఞం; అతడు యాహ్వే ఎదుట ఖచ్చితంగా నేరస్థుడు.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "నేరపూరిత యజ్ఞం"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "నేరస్థుడు"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "ఖచ్చితంగా నేరస్థుడే"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "యాహ్వే ఎదుట"
+    }
+  ],
+  "timestamp": "2026-08-17T18:06:38.930723212Z",
+  "model": "glm-5.3"
+}

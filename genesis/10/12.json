@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మరియు ⟨את⟩ రెసెన్‌ను, నినెవెకు మరియు కలహ్‌కు మధ్యన — అది ⟨ఉంది⟩ ⟨the⟩ గొప్ప పట్టణం.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "రెసెన్"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "రెసెన్"
+    },
+    {
+      "surface": "בין",
+      "gloss": "మధ్యన"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "నినెవె"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "మరియు ... మధ్యన"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "కలహ్"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "పట్టణం"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "గొప్ప"
+    }
+  ],
+  "timestamp": "2026-08-17T17:09:13.650879247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ప్రవక్త అయిన హవక్కూకు శిగ్యోనోత్ మీద ఒక ప్రార్థన.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ప్రార్థన"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "హవక్కూకు"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ప్రవక్త"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "శిగ్యోనోత్"
+    }
+  ],
+  "timestamp": "2026-08-18T06:08:32.681176532Z",
+  "model": "glm-5.3"
+}

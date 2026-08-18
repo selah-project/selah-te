@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "యరహ్మ్యేల్ కు మరొక భార్య ⟨ఉండెను⟩, ఆమె పేరు అతారా; ఆమె ఓనామ్ తల్లి.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ఆమె ఉండెను"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "భార్య"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "మరొక"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "యరహ్మ్యేల్ కు"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "మరియు ఆమె పేరు"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "అతారా"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ఆమె"
+    },
+    {
+      "surface": "אם",
+      "gloss": "తల్లి"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ఓనామ్"
+    }
+  ],
+  "timestamp": "2026-08-18T06:34:59.007008875Z",
+  "model": "glm-5.3"
+}

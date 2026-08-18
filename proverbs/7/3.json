@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "వాటిని నీ వేళ్లకు కట్టుము; వాటిని నీ హృదయ పట్టికపై వ్రాయుము.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "కట్టుము"
+    },
+    {
+      "surface": "על",
+      "gloss": "పైన"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "నీ వేళ్లు"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "వ్రాయుము"
+    },
+    {
+      "surface": "על",
+      "gloss": "పైన"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "పట్టిక"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "నీ హృదయము"
+    }
+  ],
+  "timestamp": "2026-08-18T06:15:27.084996454Z",
+  "model": "glm-5.3"
+}

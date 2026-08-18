@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "రాళ్ళ బలమా ⟨నా బలము⟩? ఇత్తడిదా ⟨నా మాంసము⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ఆ?"
+    },
+    {
+      "surface": "כח",
+      "gloss": "బలము"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "రాళ్ళ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "నా బలము"
+    },
+    {
+      "surface": "אם",
+      "gloss": "లేదా ఆ?"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "నా మాంసము"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "ఇత్తడిదా"
+    }
+  ],
+  "timestamp": "2026-08-18T06:16:47.170673762Z",
+  "model": "glm-5.3"
+}

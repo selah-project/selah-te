@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "అషేరు కుమార్తె పేరు సెరాహ్.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "మరియు పేరు"
+    },
+    {
+      "surface": "בת",
+      "gloss": "కుమార్తె"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అషేరు"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "సెరాహ్"
+    }
+  ],
+  "timestamp": "2026-08-18T04:46:54.367422196Z",
+  "model": "glm-5.3"
+}

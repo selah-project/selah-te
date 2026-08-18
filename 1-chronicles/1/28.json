@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "అవ్రాహాం కుమారులు — యిత్సాక్, యిష్మాయేల్.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "అవ్రాహాం"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "యిత్సాו్"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "మరియు యిష్మాయేల్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:21.088507264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "మానవుని తీర్పును వక్రీకరించడం — అత్యంత ఉన్నతుని ముఖసాక్షిగా ⟨అది⟩ జరిగింది.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "వక్రీకరించడం"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "తీర్పును"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "మానవుని"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ఎదుట"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ముఖము"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "అత్యంత ఉన్నతుని"
+    }
+  ],
+  "timestamp": "2026-08-18T06:18:37.178195983Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "హారిము కుమారులు — వెయ్యి పదిహేడు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "హారిము"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వెయ్యి"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:37.352170016Z",
+  "model": "glm-5.3"
+}

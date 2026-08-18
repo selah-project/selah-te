@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "అతడు — నా మాట వినుము — ⟨את⟩ నీ మహిమను నాకు చూపుము అని అనెను.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అనెను"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "నాకు చూపుము"
+    },
+    {
+      "surface": "נא",
+      "gloss": "నా మాట వినుము"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "నీ మహిమను"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "నీ మహిమను"
+    }
+  ],
+  "timestamp": "2026-08-17T18:00:23.071531712Z",
+  "model": "glm-5.3"
+}

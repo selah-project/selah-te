@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "రాజు కోపం మరణపు దూతలు; మరియు జ్ఞాని ⟨అది⟩ శాంతపరచును.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "కోపం"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "దూతలు"
+    },
+    {
+      "surface": "מות",
+      "gloss": "మరణపు"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "మరియు వ్యక్తి"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "జ్ఞాని"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "శాంతపరచును"
+    }
+  ],
+  "timestamp": "2026-08-18T01:48:16.898463013Z",
+  "model": "glm-5.3"
+}

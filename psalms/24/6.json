@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "ఇది ఆ తరము — ఆయనను వెదకువారు, నీ ముఖమును వెదకువారు; యాకోవు, సెలా.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "דור",
+      "gloss": "తరము"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "ఆయనను వెదకువారు"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "వెదకువారు"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "నీ ముఖమును"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "యాకోవు"
+    },
+    {
+      "surface": "డלה",
+      "gloss": "సెలా"
+    }
+  ],
+  "timestamp": "2026-08-18T00:58:59.630343910Z",
+  "model": "glm-5.3"
+}

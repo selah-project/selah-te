@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 37,
+  "translation": "నీతిమంతుని కొద్ది మంచిది, అనేక దుర్మార్గుల సంపదకంటే.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "కొద్ది"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "నీతిమంతుని"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "సంపదకంటే"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "దుర్మార్గుల"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "అనేక"
+    }
+  ],
+  "timestamp": "2026-08-18T01:02:06.064888853Z",
+  "model": "glm-5.3"
+}

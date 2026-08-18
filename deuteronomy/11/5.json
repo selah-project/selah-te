@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మరియు మీరు ఈ స్థలము వరకు రాకమునుపు అరణ్యమందు మీ కొరకు చేసినది ఏదైనేమియో.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "మరియు ఏదైన"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీ కొరకు"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "అరణ్యమందు"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "మీరు రాక"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ఆ స్థలము"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ ఒకటి"
+    }
+  ],
+  "timestamp": "2026-08-18T04:55:49.468085306Z",
+  "model": "glm-5.3"
+}

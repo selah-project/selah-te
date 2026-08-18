@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "మరియు మూడవ దినమందు తినబడితే అది పిగూల్ — అది ఆమోదించబడదు.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "మరియు ఒకవేళ"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "తినబడితే"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "తినబడుట"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "దినమందు"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "మూడవ"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "పిగూల్"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ఆమోదించబడును"
+    }
+  ],
+  "timestamp": "2026-08-18T04:24:56.895696879Z",
+  "model": "glm-5.3"
+}

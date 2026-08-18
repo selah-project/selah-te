@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "వెండిని ప్రేమించువాడు వెండితో తృప్తిపడడు; సంపదను ప్రేమించువాడికి ఆదాయం ఉండదు; ఇది కూడా హబెల్.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ప్రేమించువాడు"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "వెండిని"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "తృప్తిపడడు"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "వెండితో"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "మరియు"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ప్రేమించువాడికి"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "సంపదను"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ఉండదు"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "ఆదాయం"
+    },
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "హబెల్"
+    }
+  ],
+  "timestamp": "2026-08-18T02:38:36.045907097Z",
+  "model": "glm-5.3"
+}

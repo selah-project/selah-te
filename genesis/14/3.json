@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "ఈ సమస్తమున్నట్టు వారందరూ సిద్దీం లోయలో కలిసిరి — అదే ఉప్పు సముద్రము.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "కలిసిరి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపునకు"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "లోయ"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "సిద్దీం"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అదే"
+    },
+    {
+      "surface": "ים",
+      "gloss": "సముద్రము"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ఉప్పు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:10:20.020895174Z",
+  "model": "glm-5.3"
+}

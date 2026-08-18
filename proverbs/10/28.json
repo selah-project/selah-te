@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "నీతిమంతుల ఆశ ⟨ఆనందం⟩, కానీ దుర్మార్గుల నిరీక్షణ నశించును.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "ఆశ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "నీతిమంతుల"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ఆనందం"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "కానీ నిరీక్షణ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "దుర్మార్గుల"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "నశించును"
+    }
+  ],
+  "timestamp": "2026-08-18T06:15:41.047968317Z",
+  "model": "glm-5.3"
+}

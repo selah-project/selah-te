@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "ఇరవై ఒకటవవాడు యాఖీనునకు, ఇరవై రెండవవాడు గామూలునకు.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "యాఖీనునకు"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "మరియు ఇరవై"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "గామూలునకు"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "రెండు"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "మరియు ఇరవై"
+    }
+  ],
+  "timestamp": "2026-08-18T03:37:19.527558408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "కారణం లేకుండా ఒక మనిషితో వివాదింపకు, అతడు నీకు కీడు చేయనియెడల.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "వివాదింపకు"
+    },
+    {
+      "surface": "עם",
+      "gloss": "తో"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ఒక మనిషి"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "కారణం లేకుండా"
+    },
+    {
+      "surface": "אם",
+      "gloss": "యెడల"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేక"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "నీకు చేసిన"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "కీడు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:40:26.043692175Z",
+  "model": "glm-5.3"
+}

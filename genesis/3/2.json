@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "మరియు ఆ స్త్రీ ఆ పాముతో — తోటలోని చెట్ల ఫలము నుండి మేము తినవచ్చు.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "మరియు...అని పలికెను"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ఆ స్త్రీ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ఆ పాము"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ఫలము నుండి"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "చెట్ల"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "తోటలోని"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "మేము తినవచ్చు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:05:22.739185432Z",
+  "model": "glm-5.3"
+}

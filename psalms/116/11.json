@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 116,
+  "translation": "ఆత్రుతలో నేను చెప్పాను — ప్రతి మనిషి అబద్ధికుడు.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "చెప్పాను"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ఆత్రుతలో"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "అబద్ధికుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:27:51.043866256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 94,
+  "translation": "యాహ్వే మనిషి ఆలోచనలను తెలిసికొనుచున్నాడు — అవి వ్యర్థత అని.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "తెలిసికొనుచున్నాడు"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ఆలోచనలను"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "כי",
+      "gloss": "అని"
+    },
+    {
+      "surface": "המה",
+      "gloss": "అవి"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "వ్యర్ధత"
+    }
+  ],
+  "timestamp": "2026-08-18T01:19:57.293688810Z",
+  "model": "glm-5.3"
+}

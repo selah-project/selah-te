@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "అప్పుడు అదోములో రాజు లేడు; ఒక నియామకుడు రాజుగా ⟨was⟩ ఉండెను.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "మరియు రాజు"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేడు"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "అదోములో"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "నియామకుడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజుగా ⟨was⟩ ఉండెను"
+    }
+  ],
+  "timestamp": "2026-08-17T22:51:33.939169063Z",
+  "model": "glm-5.3"
+}

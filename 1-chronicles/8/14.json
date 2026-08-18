@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు అఖీయో, שాషాక్, యిరెమోత్,",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "మరియు అఖీయో"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "షాషాక్"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "యిరెమోత్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:26:18.492472030Z",
+  "model": "glm-5.3"
+}

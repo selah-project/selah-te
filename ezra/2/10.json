@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "బానీ కుమారులు ఆరు వందల నలభై రెండు మంది.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "బానీ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "నలభై"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "రెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:27.748031108Z",
+  "model": "glm-5.3"
+}

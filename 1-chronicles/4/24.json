@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "షిమ్యోను కుమారులు: నెమువేల్, యామీన్, యారీబ్, జేరాహ్, షావుల్.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "షిమ్యోను"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "నెమువేల్"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "మరియు యామీన్"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "యారీబ్"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "జేరాహ్"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "షావుల్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:23:33.730778429Z",
+  "model": "glm-5.3"
+}

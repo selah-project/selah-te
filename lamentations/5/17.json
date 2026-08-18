@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "దీనివల్ల మన హృదయం నిస్సత్తువైంది; ఈ విషయాలవల్ల మన కళ్ళు కారిపోయాయి.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "దీనివల్ల"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ఉంది"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "నిస్సత్తువైన"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "మన హృదయం"
+    },
+    {
+      "surface": "על",
+      "gloss": "వీటివల్ల"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ఇవి"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "కారిపోయాయి"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "మన కళ్ళు"
+    }
+  ],
+  "timestamp": "2026-08-18T12:50:05.924858451Z",
+  "model": "glm-5.3"
+}

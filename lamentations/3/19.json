@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నా బాధను నా సంచరణను గుర్చుకొనుచున్నాను — కాకులగూరను మరియు విషాన్ని.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "గుర్చుకొనుచున్నాను"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "నా బాధ"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "నా సంచరణ"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "కాకులగూర"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "మరియు విషం"
+    }
+  ],
+  "timestamp": "2026-08-18T06:18:55.496068329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఇప్పుడు లేవండి, మీ కొరకు ⟨את⟩ జరేద్ నదిని దాటండి; మరియు మేము ⟨את⟩ జరేద్ నదిని దాటితిమి.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ఇప్పుడు"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "లేవండి"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "మరియు దాటండి"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీ కొరకు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "జరేద్ నదిని"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "నది"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "జరేద్"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "మరియు మేము దాటితిమి"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "జరేద్ నదిని"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "నది"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "జరేద్"
+    }
+  ],
+  "timestamp": "2026-08-17T20:42:34.231028781Z",
+  "model": "glm-5.3"
+}

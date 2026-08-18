@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "నెత్సియాచు కుమారులు, చతీఫా కుమారులు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "నెత్సియాచు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "చతీఫా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:11.834654054Z",
+  "model": "glm-5.3"
+}

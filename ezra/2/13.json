@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "అదోనీకాం కుమారులు ఆరువందల అరవై ఆరుగురు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "అదోనీకాం"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "అరవై"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "మరియు ఆరు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:11.953041825Z",
+  "model": "glm-5.3"
+}

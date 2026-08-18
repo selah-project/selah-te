@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "నీ తోడల విరుద్ధంగా అబద్ధ సాక్ష్యం చెప్పవద్దు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "సాక్ష్యం చెప్ప"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "నీ తోడల విరుద్ధంగా"
+    },
+    {
+      "surface": "עד",
+      "gloss": "సాక్షి"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "అబద్ధ"
+    }
+  ],
+  "timestamp": "2026-08-17T17:46:30.301754178Z",
+  "model": "glm-5.3"
+}

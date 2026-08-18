@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "యాహ్వే ఎదురుచూసే వానికి మంచివాడు, తనను వెదకే ప్రాణానికి ⟨కూడా⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మంచివాడు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "ఎదురుచూసే వానికి"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ప్రాణానికి"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "తనను వెదకే"
+    }
+  ],
+  "timestamp": "2026-08-18T02:32:27.625169344Z",
+  "model": "glm-5.3"
+}

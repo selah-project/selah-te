@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "నీతి జాతిని ఎత్తుగా ఉంచుతుంది; ప్రజల నింద పాపం.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "నీతి"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "ఎత్తుగా ఉంచుతుంది"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "జాతిని"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "మరియు కరుణ"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "ప్రజలలో"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "పాపం"
+    }
+  ],
+  "timestamp": "2026-08-18T01:46:15.082854838Z",
+  "model": "glm-5.3"
+}

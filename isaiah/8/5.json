@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు యాహ్వే నాతో మరల మాటలాడుట యింకా కొనసాగించెను, సెలవిచ్చుచు:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "కొనసాగించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాటలాడుట"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాతో"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "మరల"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T05:33:49.940284178Z",
+  "model": "glm-5.3"
+}

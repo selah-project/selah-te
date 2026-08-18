@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "నా వల్లకూడా మీ కారణంగా యాహ్వే కోపించెను — \"నీవు కూడా అక్కడికి రావు\" అని సెలవిచ్చుట వలన.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "בי",
+      "gloss": "నా విషయంలో"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "కోపించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "మీ కారణంగా"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుట వలన"
+    },
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "రావు"
+    },
+    {
+      "surface": "שם",
+      "gloss": "అక్కడికి"
+    }
+  ],
+  "timestamp": "2026-08-18T04:51:06.686969262Z",
+  "model": "glm-5.3"
+}

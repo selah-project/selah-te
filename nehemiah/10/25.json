@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "హల్లోఖేషు, పిల్హా, షోబేక్,",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "హల్లోఖేషు"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "పిల్హా"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "షోబేక్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:15:25.543939063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "ప్రాణి రక్తంలో నలిగిన మనిషి గొయ్యి వరకు పారిపోవును; ఎవరును అతనిని ఆదుకకూడదు.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "నలిగిన"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "రక్తంలో"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ప్రాణి"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "בור",
+      "gloss": "గొయ్యి"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "పారిపోవును"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఆదుకకూడదు"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ఆదుకును"
+    },
+    {
+      "surface": "בו",
+      "gloss": "అతనిని"
+    }
+  ],
+  "timestamp": "2026-08-18T01:57:11.631455734Z",
+  "model": "glm-5.3"
+}

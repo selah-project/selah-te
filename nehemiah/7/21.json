@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఆటేరు కుమారులు — హిజ్కియాహు ⟨వంశస్థులు⟩ — తొంభై ఎనిమిది.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ఆటేరు"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "హిజ్కియాహు ⟨వంశస్థులు⟩"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "తొంభై"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ఎనిమిది"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:28.438196913Z",
+  "model": "glm-5.3"
+}

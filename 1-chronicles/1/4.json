@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "నోవాఖ్, షేమ్, ఖామ్, ⟨మరియు⟩ యాపెత్.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "నోవాఖ్"
+    },
+    {
+      "surface": "שם",
+      "gloss": "షేమ్"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ఖామ్"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "మరియు యాపెత్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:35.096776928Z",
+  "model": "glm-5.3"
+}

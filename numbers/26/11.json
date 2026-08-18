@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "కొరాహ్ కుమారులు మరణించలేదు.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "కొరాహ్"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "మరణించారు"
+    }
+  ],
+  "timestamp": "2026-08-18T08:17:37.876997852Z",
+  "model": "glm-5.3"
+}

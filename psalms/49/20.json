@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 49,
+  "translation": "అతడు తన పితరుల తరానికి వచ్చును; వారు నేటికిని వెలుగు చూడరు.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "వచ్చును"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "דור",
+      "gloss": "తరానికి"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "అతని పితరుల"
+    },
+    {
+      "surface": "עד",
+      "gloss": "నేటికిని"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "శాశ్వతమువరకు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "చూడరు"
+    },
+    {
+      "surface": "אור",
+      "gloss": "వెలుగు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:06:02.044181354Z",
+  "model": "glm-5.3"
+}

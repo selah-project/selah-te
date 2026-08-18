@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "అజ్గదు కుమారులు — రెండు వేల మూడు వందల ఇరవై రెండు మంది.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "అజ్గదు"
+    },
+    {
+      "surface": "అల్పీం: రెండు వేలు",
+      "gloss": "రెండు వేలు"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "మరియు రెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:33.748183460Z",
+  "model": "glm-5.3"
+}

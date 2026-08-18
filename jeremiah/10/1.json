@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "ఇశ్రాయేలు వంశమా, యాహ్వే మీకు చెప్పుచున్న ⟨את⟩ మాటను వినుడి.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "వినుడి"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "మాటను"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "మాటను"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేనినో"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "చెప్పుచున్న"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "మీకు"
+    },
+    {
+      "surface": "בית",
+      "gloss": "వంశమా"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ఇశ్రాయేలు"
+    }
+  ],
+  "timestamp": "2026-08-17T23:39:37.956471732Z",
+  "model": "glm-5.3"
+}

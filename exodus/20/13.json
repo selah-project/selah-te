@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "నరహత్య చేయవద్దు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "నరహత్య చేయ"
+    }
+  ],
+  "timestamp": "2026-08-17T17:46:30.301298391Z",
+  "model": "glm-5.3"
+}

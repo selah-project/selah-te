@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "వినయము ఫలితము — యాహ్వే భయము; ధనము మరియు మహిమ మరియు జీవము.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ఫలితము"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "వినయము"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "భయము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ధనము"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "మరియు మహిమ"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "మరియు జీవము"
+    }
+  ],
+  "timestamp": "2026-08-18T01:51:17.924004164Z",
+  "model": "glm-5.3"
+}

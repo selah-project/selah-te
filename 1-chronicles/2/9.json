@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఖెత్స్రోనుకు పుట్టిన కుమారులు ⟨את⟩ యెరచ్మేల్, ⟨את⟩ రామ్, ⟨את⟩ కెలూబయ్.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ఖెత్స్రోన్"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఎవరు"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "పుట్టిన"
+    },
+    {
+      "surface": "לו",
+      "gloss": "అతనికి"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "యెరచ్మేల్"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "యెరచ్మేల్"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "రామ్"
+    },
+    {
+      "surface": "רם",
+      "gloss": "రామ్"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "కెలూబయ్"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "కెలూబయ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:20:25.547000521Z",
+  "model": "glm-5.3"
+}

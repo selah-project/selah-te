@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "హుషాయ్ అవ్షాలోంతో \"ఈసారి అహీతోఫెల్ ఇచ్చిన యోచన మంచిది కాదు\" అని అన్నాడు.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అన్నాడు"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "హుషాయ్"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "అవ్షాలోం"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "యోచన"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "ఇచ్చిన"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "అహీతోఫెల్"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "సారి"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ఈ"
+    }
+  ],
+  "timestamp": "2026-08-17T22:28:57.215206173Z",
+  "model": "glm-5.3"
+}

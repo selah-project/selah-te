@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మమ్జేరు యాహ్వే సమాజములోనికి రాకూడదు; అతనికి పదవ తరాటివాడు కూడా యాహ్వే సమాజములోనికి రాకూడదు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కూడదు"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "రాను"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "మమ్జేరు"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "సమాజములోనికి"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "דור",
+      "gloss": "తరం"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "పదవ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కూడదు"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "రాను"
+    },
+    {
+      "surface": "לו",
+      "gloss": "అతనికి"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "సమాజములోనికి"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T21:25:24.027070549Z",
+  "model": "glm-5.3"
+}

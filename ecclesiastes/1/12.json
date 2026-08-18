@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "నేను కొహెలెత్ యిస్రాయేలుపై యెరూషలాయింలో రాజనై ఉంటిని.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "కొహెలెత్"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ఉంటిని"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజను"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "యిస్రాయేలు"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "యెరూషలాయింలో"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:39.187692304Z",
+  "model": "glm-5.3"
+}

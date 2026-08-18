@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "ఆ నెల ఐదవ రోజున — అది యోయాకీన్ రాజు బందీతనానికి ఐదవ సంవత్సరము.",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "ఐదవ రోజున"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ఆ నెల యొక్క"
+    },
+    {
+      "surface": "היא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "సంవత్సరము"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "ఐదవ"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "బందీతనానికి"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "యోయాకీన్"
+    }
+  ],
+  "timestamp": "2026-08-18T05:56:58.978792340Z",
+  "model": "glm-5.3"
+}

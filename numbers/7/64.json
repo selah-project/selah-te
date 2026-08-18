@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "పాపానికి కానుకగా ఒక్క మేకపోతు.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "మేకపోతు"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకల"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక్క"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "పాపానికి కానుకగా"
+    }
+  ],
+  "timestamp": "2026-08-18T04:36:06.368320239Z",
+  "model": "glm-5.3"
+}

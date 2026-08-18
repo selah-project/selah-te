@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "రామా ఉగెబా కుమారులు — ఆరు వందల ఇరవై ఒక్కరు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "రామా"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ఉగెబా"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ఒక్కరు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:58:36.070501775Z",
+  "model": "glm-5.3"
+}

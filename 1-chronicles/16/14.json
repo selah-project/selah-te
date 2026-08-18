@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "ఆయనే యాహ్వే మన ఎలోహీం; ⟨the⟩ సమస్త భూమిపై ఆయన న్యాయాలు ఉన్నాయి.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ఆయనే"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "మన ఎలోహీం"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమిపై"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ఆయన న్యాయాలు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:32:21.713849889Z",
+  "model": "glm-5.3"
+}

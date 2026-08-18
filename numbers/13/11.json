@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "యోసేఫు గోత్రానికి — మెనష్షే గోత్రానికి — గద్దీ, సూసీ కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "గోత్రానికి"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "యోసేఫు"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "గోత్రానికి"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "మెనష్షే"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "గద్దీ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "సూసీ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:38:46.352267541Z",
+  "model": "glm-5.3"
+}

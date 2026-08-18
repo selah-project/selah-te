@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఏలీ కుమారులు బెలియాల్ కుమారులు; వారు ⟨את⟩ యాహ్వేను తెలియరు.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ఏలీ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "బెలియాల్"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "తెలియరు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "యాహ్వేను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T22:03:40.976535956Z",
+  "model": "glm-5.3"
+}

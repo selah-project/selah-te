@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మెషేజబేల్, త్సాదోక్, యద్దూవా.",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "మెషేజబేల్"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "త్సాదోక్"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "యద్దూవా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:15:18.690792207Z",
+  "model": "glm-5.3"
+}

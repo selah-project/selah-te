@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "వారి పగయెల్ల నీవు చూచావు; నా మీది వారి కుట్రలన్నియు.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "నీవు చూచావు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ఎల్ల"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "వారి పగ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "అన్నియు"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "వారి కుట్రలు"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నా మీది"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:59.018147530Z",
+  "model": "glm-5.3"
+}

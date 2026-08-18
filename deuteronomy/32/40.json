@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "నేను ఆకాశము వైపు నా చేతిని ఎత్తి — నేను నిత్యముగా జీవించుచున్నానని చెప్పుదును.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ఎత్తి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపు"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ఆకాశము"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "నా చేతిని"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "మరియు చెప్పుదును"
+    },
+    {
+      "surface": "חי",
+      "gloss": "జీవించుచున్న"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "నిత్యముగా"
+    }
+  ],
+  "timestamp": "2026-08-17T21:36:19.503118446Z",
+  "model": "glm-5.3"
+}

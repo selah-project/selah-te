@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "యాహ్వే మోషేతో ఈలాగు ఆడుతూ మాట్లాడెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఈలాగు ఆడుతూ"
+    }
+  ],
+  "timestamp": "2026-08-17T19:34:11.853220682Z",
+  "model": "glm-5.3"
+}

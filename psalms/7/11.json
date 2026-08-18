@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "నా కవచము ⟨ఉంది⟩ ఎలోహీం మీద — నేరుగు హృదయులను రక్షించువాడు.",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "నా కవచము"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "రక్షించువాడు"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "నేరుగు"
+    },
+    {
+      "surface": "לב",
+      "gloss": "హృదయులను"
+    }
+  ],
+  "timestamp": "2026-08-18T00:52:05.218041782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "అవ్రాం — అతడే అవ్రాహాం.",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "అవ్రాం"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అతడే"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "అవ్రాహాం"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:21.088363623Z",
+  "model": "glm-5.3"
+}

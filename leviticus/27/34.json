@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "సీనాయి పర్వతముపై యిస్రాయేలు కుమారులకు యాహ్వే మోషేకు ⟨את⟩ ఆజ్ఞాపించిన ఆజ్ఞలు ఇవే.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ఇవే"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ఆజ్ఞలు"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "వాటిని"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ఆజ్ఞాపించిన"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "మోషేను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులకు"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "యిస్రాయేలు"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "పర్వతముపై"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "సీనాయి"
+    }
+  ],
+  "timestamp": "2026-08-17T18:52:34.507840995Z",
+  "model": "glm-5.3"
+}

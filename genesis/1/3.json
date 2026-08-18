@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "ఎలోహీం \"వెలుగు ఉండు\" అని చెప్పెను; వెలుగు ఉండెను.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "చెప్పెను"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ఉండు"
+    },
+    {
+      "surface": "אור",
+      "gloss": "వెలుగు"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ఉండెను"
+    },
+    {
+      "surface": "אור",
+      "gloss": "వెలుగు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:03:38.501232439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 43,
+  "translation": "మరియు కరువు దేశములో తీవ్రమై ⟨ఉండెను⟩.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "మరియు కరువు"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "తీవ్రమైనది"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "దేశములో"
+    }
+  ],
+  "timestamp": "2026-08-17T17:31:18.919932413Z",
+  "model": "glm-5.3"
+}

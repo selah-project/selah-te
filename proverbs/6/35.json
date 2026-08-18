@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "అతడు ఏ పరిహారము ముఖమును ఎత్తడు, నీవు బహుములు పెంచినను సమ్మతించడు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ఎత్తును"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ముఖమును"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "పరిహారము"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు కాదు"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "సమ్మతించును"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎంతకైనను"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "నీవు పెంచినను"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "బహుములు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:40:51.853845308Z",
+  "model": "glm-5.3"
+}

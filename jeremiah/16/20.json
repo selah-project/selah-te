@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "మనిషి తనకు దేవుళ్లను చేసుకుంటాడా, అవి దేవుళ్ళు కానివై ఉండగలవా?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "చేసుకుంటాడా"
+    },
+    {
+      "surface": "לו",
+      "gloss": "తనకు"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "దేవుళ్లను"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "అవి"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "దేవుళ్ళు"
+    }
+  ],
+  "timestamp": "2026-08-17T23:42:00.898225793Z",
+  "model": "glm-5.3"
+}

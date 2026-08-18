@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "తను అరయిని కుమారులను నా మూత్రపిండాలలోనికి ప్రవేశపెట్టెను.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "ప్రవేశపెట్టెను"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "నా మూత్రపిండాలలోనికి"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులను"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "తను అరయిని"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:05.419840028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "ఆ ⟨అదే⟩ రాత్రిన కస్దీయుల రాజైన బేల్షాత్సర్ చంపబడెను.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "ఆ అదే"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "రాత్రిన"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "చంపబడెను"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "బేల్షాత్సర్"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "కస్దీయుల"
+    }
+  ],
+  "timestamp": "2026-08-18T02:49:30.714263791Z",
+  "model": "glm-5.3"
+}

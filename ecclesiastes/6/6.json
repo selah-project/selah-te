@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "వేయి సంవత్సరాలు రెట్టిపుడు బ్రతికినా, మంచిని చూడలేదు; అందరూ ఒకే చోటికి వెళ్ళరా ⟨కాదా⟩?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "మరియు ఒకవేళ"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "బ్రతికినా"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వేయి"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "సంవత్సరాలు"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "రెట్టిపుడు"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "మరియు మంచిని"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "చూడలేదు"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "అయితే కాదా"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపుకు"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "చోటికి"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకే"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "అందరూ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "వెళ్ళువారు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:27.831835089Z",
+  "model": "glm-5.3"
+}

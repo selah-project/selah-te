@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "సాయంత్రం ⟨కలగెను⟩, ఉదయం ⟨కలగెను⟩ — ఐదవ దినం.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨కలగెను⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "సాయంత్రం"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨కలగెను⟩"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ఉదయం"
+    },
+    {
+      "surface": "יום",
+      "gloss": "దినం"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ఐదవ"
+    }
+  ],
+  "timestamp": "2026-08-17T17:03:43.506828276Z",
+  "model": "glm-5.3"
+}

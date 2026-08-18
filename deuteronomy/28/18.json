@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "శపించబడు నీ గర్భఫలం, మరియు నీ నేల ఫలం, నీ ఆవుల దూడలు మరియు నీ గొర్రెల పిల్లలు.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "శపించబడు"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ఫలం"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "నీ గర్భం"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "మరియు ఫలం"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "నీ నేల"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "దూడలు"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "నీ ఆవుల"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "మరియు పిల్లలు"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "నీ గొర్రెల"
+    }
+  ],
+  "timestamp": "2026-08-17T21:35:29.358449401Z",
+  "model": "glm-5.3"
+}

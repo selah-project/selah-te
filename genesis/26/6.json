@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "యిత్సాక్ గెరారులో నివసించెను.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "నివసించెను"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "యిత్సాక్"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "గెరారులో"
+    }
+  ],
+  "timestamp": "2026-08-17T17:18:55.769948068Z",
+  "model": "glm-5.3"
+}

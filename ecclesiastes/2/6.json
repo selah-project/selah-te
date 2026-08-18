@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నేను నాకు నీటి చెరువులను చేసికొని, వృక్షములు మొలిచే అడవికి వాటి నుండి నీరు పెట్టుటకు.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "చేసికొని"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "చెరువులను"
+    },
+    {
+      "surface": "מים",
+      "gloss": "నీటి"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "నీరు పెట్టుటకు"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "వాటి నుండి"
+    },
+    {
+      "surface": "יער",
+      "gloss": "అడవికి"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "మొలిచే"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "వృక్షములు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:37:33.641493729Z",
+  "model": "glm-5.3"
+}

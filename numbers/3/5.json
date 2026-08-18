@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 3:5",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "యాహ్వే మోషేతో ఇలా ఉట్టంచెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా ఉట్టంచుకొనుచూ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:31:30.986995353Z",
+  "model": "glm-5.3"
+}

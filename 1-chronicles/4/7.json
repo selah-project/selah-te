@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "చెలా కుమారులు: త్సెరెత్, యిత్సార్ మరియు ఎత్నాన్.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "చెలా"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "త్సెరెత్"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "యిత్సార్"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "మరియు ఎత్నాన్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:22:49.929543425Z",
+  "model": "glm-5.3"
+}

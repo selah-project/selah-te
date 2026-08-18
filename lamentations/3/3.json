@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "తప్పకుండా నా వైపే అతడు మరలి తిరిగెను; రోజంతా తన చెయ్యి మార్చుచున్నాడు.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "తప్పకుండా"
+    },
+    {
+      "surface": "בי",
+      "gloss": "నా వైపే"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "మరలి తిరిగెను"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "మార్చుచున్నాడు"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "తన చెయ్యి"
+    },
+    {
+      "surface": "כל",
+      "gloss": "రోజంతా"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ఆ రోజు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:30.478138268Z",
+  "model": "glm-5.3"
+}

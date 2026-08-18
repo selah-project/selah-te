@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 83,
+  "translation": "కూడా అష్షూరు చేరింది వారితో; ⟨అవి⟩ భుజము అయ్యెను లోతు కుమారులకు. సెలా.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "అష్షూరు"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "చేరింది"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "వారితో"
+    },
+    {
+      "surface": "היו",
+      "gloss": "అయ్యెను"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "భుజము"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "కుమారులకు"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "లోతు"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "సెలా"
+    }
+  ],
+  "timestamp": "2026-08-18T01:16:22.833756584Z",
+  "model": "glm-5.3"
+}

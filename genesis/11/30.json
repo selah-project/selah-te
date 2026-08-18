@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "శారయి మానవంతపుగా ఉంది; ఆమెకు సంతానం ⟨లేదు⟩.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ఆమె ఉంది"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "శారయి"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "మానవంతపుగా"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ఆమెకు"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "సంతానం"
+    }
+  ],
+  "timestamp": "2026-08-17T17:09:13.244444848Z",
+  "model": "glm-5.3"
+}

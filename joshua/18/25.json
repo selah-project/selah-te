@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "గిబ్యోన్, ׵హరామా, ఉబెయెరోత్ —",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "గిబ్యోన్"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "మరియు ⟨హ⟩రామా"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "మరియు బెయెరోత్"
+    }
+  ],
+  "timestamp": "2026-08-17T21:47:03.672165712Z",
+  "model": "glm-5.3"
+}

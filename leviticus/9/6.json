@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 9:6",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "మోషే చెప్పెను — ఇది ⟨the⟩ మాట, యాహ్వే ఆజ్ఞాపించినది; ⟨you⟩ చేయుడి, అప్పుడు యాహ్వే మహిమ మీకు ప్రత్యక్షమగును.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "చెప్పెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేది"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ఆజ్ఞాపించినది"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "చేయుడి"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ప్రత్యక్షమగును"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "మీకు"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "మహిమ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-18T04:21:38.257938267Z",
+  "model": "glm-5.3"
+}

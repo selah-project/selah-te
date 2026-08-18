@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "మేము చేతులపైకి మనసును ఎత్తుకొని, ఆకాశమందున్న ⟨the⟩ ఏల్ వైపు ⟨కు⟩ ఎత్తుకొనుచున్నాము.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ఎత్తుకొనుచున్నాము"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "మనసును"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపు ⟨కు⟩"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "చేతులపైకి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపు ⟨కు⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ఆకాశమందున్న"
+    }
+  ],
+  "timestamp": "2026-08-18T06:19:17.992269644Z",
+  "model": "glm-5.3"
+}

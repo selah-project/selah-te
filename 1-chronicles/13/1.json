@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "దావీదు వేల మంది అధిపతులతోను ⟨the⟩ వందల అధిపతులతోను ప్రతి నాయకునితోను ఆలోచించెను.",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ఆలోచించెను"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "దావీదు"
+    },
+    {
+      "surface": "עם",
+      "gloss": "తో"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "అధిపతుల"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "వేల మంది"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "నాయకుని"
+    }
+  ],
+  "timestamp": "2026-08-18T03:32:39.134438378Z",
+  "model": "glm-5.3"
+}

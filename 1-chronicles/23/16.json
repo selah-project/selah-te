@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "గెర్షోమ్ కుమారులు — శెబుయెల్ ⟨ఆ⟩ అధ్యక్షుడు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "గెర్షోమ్"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "శెబుయెల్"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "అధ్యక్షుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:37:05.185138481Z",
+  "model": "glm-5.3"
+}

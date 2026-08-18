@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "మరియు ⟨నువ్వు⟩ వ్యభిచారం చేయవద్దు.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "మరియు ... వద్దు"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "వ్యభిచారం చేయవద్దు"
+    }
+  ],
+  "timestamp": "2026-08-18T08:27:14.762967713Z",
+  "model": "glm-5.3"
+}

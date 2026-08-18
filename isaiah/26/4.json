@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "యాహ్వేపై నిత్యం నిత్యం నమ్మండి, ఎందుకంటే యాహ్‌ యాహ్వే నిత్యమైన శిల.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "నమ్మండి"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "యాహ్వేపై"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "నిత్యం"
+    },
+    {
+      "surface": "עד",
+      "gloss": "నిత్యం"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "యాహ్‌ లో"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "צור",
+      "gloss": "శిల"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "నిత్యమైన"
+    }
+  ],
+  "timestamp": "2026-08-17T23:15:17.588402783Z",
+  "model": "glm-5.3"
+}

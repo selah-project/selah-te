@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 58,
+  "translation": "సంగీతగ్రాహకునికి; “నాశనం చేయకుము”; దావీదు మిక్తాం.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "సంగీతగ్రాహకునికి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "చేయకుము"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "నాశనం"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదునకు"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "మిక్తాం"
+    }
+  ],
+  "timestamp": "2026-08-18T06:13:45.421110806Z",
+  "model": "glm-5.3"
+}

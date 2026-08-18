@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 102,
+  "translation": "ఎందుకంటే యాహ్వే త్సియోను కట్టెను, తన మహిమలో కనబడెను.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "కట్టెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "త్సియోను"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "కనబడెను"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "తన మహిమలో"
+    }
+  ],
+  "timestamp": "2026-08-18T01:22:43.288362093Z",
+  "model": "glm-5.3"
+}

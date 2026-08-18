@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "అతని తరువాత గబ్బాయి, సల్లాయి — తొమ్మిది వందల ఇరవై ఎనిమిది.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "అతని తరువాత"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "గబ్బాయి"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "సల్లాయి"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "తొమ్మిది"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "మరియు ఎనిమిది"
+    }
+  ],
+  "timestamp": "2026-08-18T03:17:18.528519147Z",
+  "model": "glm-5.3"
+}

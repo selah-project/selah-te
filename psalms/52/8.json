@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 52:8",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 52,
+  "translation": "నీతిమంతులు చూచి భయపడి, అతనిమీద నవ్వుకొనుదురు.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "చూచి"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "నీతిమంతులు"
+    },
+    {
+      "surface": "וייראו",
+      "gloss": "భయపడి"
+    },
+    {
+      "surface": "ועליו",
+      "gloss": "అతనిమీద"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "నవ్వుకొనుదురు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:07:54.792389020Z",
+  "model": "glm-5.3"
+}

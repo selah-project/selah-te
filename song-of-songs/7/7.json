@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఎంత అందమైనదివి, ఎంత చల్లనిదివి, ఓ ప్రేయసీ, ఆనందములలో!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ఎంత"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "అందమైనదివి"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "మరియు ఎంత"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "చల్లనిదివి"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ఓ ప్రేయసీ"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "ఆనందములలో"
+    }
+  ],
+  "timestamp": "2026-08-18T02:27:35.678295212Z",
+  "model": "glm-5.3"
+}

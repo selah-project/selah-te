@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 44,
+  "translation": "నీవు యాహ్వే నామమున మనకు చెప్పిన మాటును మేము నీ మాట వినము.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "మాటును"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "నీవు చెప్పిన"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "మనకు"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "నామమున"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "లేదు\/వినము"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "వినువారము కాము"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "నీ మాట"
+    }
+  ],
+  "timestamp": "2026-08-17T23:57:02.453925250Z",
+  "model": "glm-5.3"
+}

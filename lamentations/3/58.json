@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "అదోనాయ్, నా ప్రాణపు వాదనలను నీవు వాదించావు; నా జీవితమును నీవు విడిపించావు.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "వాదించావు"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "అదోనాయ్"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "వాదనలను"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "నా ప్రాణపు"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "విడిపించావు"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "నా జీవితమును"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:59.017878002Z",
+  "model": "glm-5.3"
+}

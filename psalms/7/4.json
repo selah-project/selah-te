@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "యాహ్వే నా ఎలోహీం, నేను ఇది చేసితినా? నా చేతులలో అన్యాయము ఉందా?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "నా ఎలోహీం"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ఏమా? (చేసితినా)"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "చేసితినా"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ఏమా? (ఉందా)"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ఉందా"
+    },
+    {
+      "surface": "עול",
+      "gloss": "అన్యాయము"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "నా చేతులలో"
+    }
+  ],
+  "timestamp": "2026-08-18T00:53:28.040940773Z",
+  "model": "glm-5.3"
+}

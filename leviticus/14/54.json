@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "ఇదే చట్టము — ప్రతి చర్మవ్యాధి త్సారాఅత్ కు, మరియు నతెక్ కు:",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ఇదే"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ఆ చట్టము"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ప్రతి...కు"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "చర్మవ్యాధి"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ఆ త్సారాఅత్"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "మరియు నతెక్ కు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:16:51.239315358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "ఎందుకంటే జీవించు సమస్తులతో చేరిన వానికి నమ్మకము ఉంది; ఎందుకంటే బ్రతికిన కుక్క చనిపోయిన సింహము కంటె మంచిది.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ఎవరు"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అతను"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "చేరిన"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "జీవించువారి"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ఉంది"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "నమ్మకము"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "కుక్కకు"
+    },
+    {
+      "surface": "חי",
+      "gloss": "బ్రతికిన"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "מן",
+      "gloss": "కంటె"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "సింహము"
+    },
+    {
+      "surface": "המת",
+      "gloss": "చనిపోయిన"
+    }
+  ],
+  "timestamp": "2026-08-18T06:21:50.679732916Z",
+  "model": "glm-5.3"
+}

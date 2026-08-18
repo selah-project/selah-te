@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "యాహ్వేకే ⟨ఆ⟩ రక్షణ; నీ జనముపై నీ ఆశీర్వాదము ⟨ఉంది⟩. సెలా.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "యాహ్వేకే"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "రక్షణ"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "నీ జనము"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "నీ ఆశీర్వాదము"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "సెలా"
+    }
+  ],
+  "timestamp": "2026-08-18T00:51:23.387328922Z",
+  "model": "glm-5.3"
+}

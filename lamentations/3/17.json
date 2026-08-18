@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "మినుపు నుండి నా ప్రాణం దూరంగా తొలగించబడెను, సుఖాన్ని మరచిపోయిని.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "తొలగించబడెను"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "మినుపు నుండి"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "నా ప్రాణం"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "మరచిపోయిని"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "సుఖాన్ని"
+    }
+  ],
+  "timestamp": "2026-08-18T06:18:42.748160315Z",
+  "model": "glm-5.3"
+}

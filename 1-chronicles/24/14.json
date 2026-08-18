@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "బిల్గాకు పదిహేను, ఇమ్మేరుకు పదహారు.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "బిల్గాకు"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ఐదు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది (పదిహేను)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇమ్మేరుకు"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది (పదహారు)"
+    }
+  ],
+  "timestamp": "2026-08-18T03:36:59.069889659Z",
+  "model": "glm-5.3"
+}

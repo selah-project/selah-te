@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "ఇమ్మేరు కుమారులలో ఖనానీ, జెబద్యా.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "…కుమారులలో"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ఇమ్మేరు"
+    },
+    {
+      "surface": "గנני",
+      "gloss": "ఖనానీ"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "జెబద్యా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:06:35.753528121Z",
+  "model": "glm-5.3"
+}

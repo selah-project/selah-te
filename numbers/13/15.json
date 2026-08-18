@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "గాద్ గోత్రము వారిలో మాఖీ కుమారుడైన గియూయేల్.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "గోత్రము వారిలో"
+    },
+    {
+      "surface": "גד",
+      "gloss": "గాద్"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "గియూయేల్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "మాఖీ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:39:36.933836407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "భయం మరియు గుండం మరియు ఉచ్చు — నీపైనే, భూమి నివాసివైన నీకు.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "భయం"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "మరియు గుండం"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "మరియు ఉచ్చు"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "నీపైనే"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "నివాసివైన"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    }
+  ],
+  "timestamp": "2026-08-17T23:15:09.349483107Z",
+  "model": "glm-5.3"
+}

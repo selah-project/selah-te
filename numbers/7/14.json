@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బంగారు కరచం ఒకటి పది తులాల భారముతో, ధూపద్రవ్యముతో నిండి యున్నది।",
+  "tokens": [
+    {
+      "surface": "కף",
+      "gloss": "కరచం"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారు"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "నిండి యున్నది"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ధూపద్రవ్యము"
+    }
+  ],
+  "timestamp": "2026-08-18T04:35:19.075650277Z",
+  "model": "glm-5.3"
+}

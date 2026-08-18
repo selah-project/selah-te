@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 6:19",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "అబద్ధాలు ఊదు అసత్య సాక్షి, సహోదరుల మధ్య కలహాలు రేపు వాడు,",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "ఊదు"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "అబద్ధాలు"
+    },
+    {
+      "surface": "עד",
+      "gloss": "సాక్షి"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "అసత్య"
+    },
+    {
+      "surface": "ומשלח",
+      "gloss": "మరియు రేపు వాడు"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "కలహాలు"
+    },
+    {
+      "surface": "בין",
+      "gloss": "మధ్య"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "సహోదరుల"
+    }
+  ],
+  "timestamp": "2026-08-18T01:41:25.413730569Z",
+  "model": "glm-5.3"
+}

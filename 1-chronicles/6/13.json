@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "షెముయేలు కుమారులు — ⟨the⟩ పెద్దవాడు వష్నీ, మరియు అబియా.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "షెముయేలు"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "⟨the⟩ పెద్దవాడు"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "వష్నీ"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "మరియు అబియా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:43.476804839Z",
+  "model": "glm-5.3"
+}

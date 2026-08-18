@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "మరియు అతని తరువాత కొయ్యూరు మనుషులైన యాజకులు బలపరచిరి.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "మరియు అతని తరువాత"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "బలపరచిరి"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "యాజకులు"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "మనుషులైన"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "కొయ్యూరు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:08:57.613075264Z",
+  "model": "glm-5.3"
+}

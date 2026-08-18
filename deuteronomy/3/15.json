@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "మాఖీరుకు నేను ⟨את⟩ గిలియాదును ఇచ్చితిని.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "మాఖీరుకు"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ఇచ్చితిని"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "గిలియాదును"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "గిలియాదును"
+    }
+  ],
+  "timestamp": "2026-08-18T04:52:01.695015518Z",
+  "model": "glm-5.3"
+}

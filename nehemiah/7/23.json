@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 7:23",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బెట్సాయి కుమారులు మూడు వందల ఇరవై నాలుగు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "బెట్సాయి"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "నాలుగు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:28.438523070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "ఎందుకంటే ఇశ్రాయేలు ఇంటి మధ్యలో ఇక ఏ మిథ్యా దర్శనము గాని, మెత్తని మాయోగం గానీ ఉండదు",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ఉండదు"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ఇక"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "దర్శనము"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "మిథ్యా"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "మరియు మాయోగం"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "మెత్తని"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "మధ్యలో"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ఇంటి"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ఇశ్రాయేలు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:06:56.875708348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మహారాయ్ ⟨ది⟩ నెతోఫాతీ, ఖేలెద్ బానా కుమారుడు ⟨ది⟩ నెతోఫాతీ.",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "మహారాయ్"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "నెతోఫాతీ"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ఖేలెద్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "బానా"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "నెతోఫాతీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:27:57.686152240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 29,
+  "translation": "మరియు అన్ని జనులు ఆ దేశానికి యాహ్వే ఇలా చేసినది ఏమిటి? ఈ మహా కోపము యొక్క ఉగ్రత ఏమిటి? అని అనుచున్నారు.",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "మరియు అనుచున్నారు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "అన్ని"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "జనులు"
+    },
+    {
+      "surface": "על",
+      "gloss": "గురించి"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఏమిటి"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసినది"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ఇలా"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ఆ దేశానికి"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఏమిటి"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ఉగ్రత"
+    },
+    {
+      "surface": "האף",
+      "gloss": "కోపము యొక్క"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "మహా"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    }
+  ],
+  "timestamp": "2026-08-18T08:52:27.100126122Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "పుట్టుటకు సమయం, మరణించుటకు సమయం; నాటుటకు సమయం, నాటబడినదానిని పీకివేయుటకు సమయం.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "సమయం"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "పుట్టుటకు"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "మరియు సమయం"
+    },
+    {
+      "surface": "למות",
+      "gloss": "మరణించుటకు"
+    },
+    {
+      "surface": "עת",
+      "gloss": "సమయం"
+    },
+    {
+      "surface": "ఘעת",
+      "gloss": "నాటుటకు"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "మరియు సమయం"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "పీకివేయుటకు"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "నాటబడినదానిని"
+    }
+  ],
+  "timestamp": "2026-08-18T02:36:02.742489732Z",
+  "model": "glm-5.3"
+}

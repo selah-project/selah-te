@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "దావీదు మజ్మూరు. యాహ్వే నా కాపరి; నేను లోటు పొందను.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "మజ్మూరు"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదుకు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "నా కాపరి"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "నేను లోటు పొందను"
+    }
+  ],
+  "timestamp": "2026-08-18T00:58:04.653465825Z",
+  "model": "glm-5.3"
+}

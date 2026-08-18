@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "మరియు యాకోవ్ తన తండ్రి మాట విని, తల్లి మాట విని, పద్దాన్-అరాంకు వెళ్ళెను.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "వినెను"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "యాకోవ్"
+    },
+    {
+      "surface": "אל",
+      "gloss": "మాట విని"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "తన తండ్రి"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "మరియు"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "తల్లి"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "వెళ్ళెను"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "పద్దాన్"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "అరాం"
+    }
+  ],
+  "timestamp": "2026-08-17T17:20:23.765298355Z",
+  "model": "glm-5.3"
+}

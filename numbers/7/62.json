@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బంగారు చెంబు ఒకటి పది తూకాలు, ధూపంతో నిండి ఉంది.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "చెంబు"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారు"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "నిండి ఉంది"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ధూపంతో"
+    }
+  ],
+  "timestamp": "2026-08-18T04:36:10.017224963Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "בצెర్, ׵హోద్, వషమ్మా, వషిల్షా, వయిత్రాన్, ఉవ్బెఎరా.",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "బెట్సెర్"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "మరియు హోద్"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "మరియు షమ్మా"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "మరియు షిల్షా"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "మరియు యిత్రాన్"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "మరియు బెఎరా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:26:09.053057882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "పల్లూ కుమారులు ⟨⟨⟩⟩ ఎలియాబ్.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "పల్లూ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ఎలియాబ్"
+    }
+  ],
+  "timestamp": "2026-08-18T04:46:34.795809736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "నివాసనం చేయుట మానివేసినయెడల, నీలో పాపం ఉండదు.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ఎప్పుడైతే"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "మానివేసినయెడల"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "నివాసనం చేయుట"
+    },
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ఉండదు"
+    },
+    {
+      "surface": "בך",
+      "gloss": "నీలో"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "పాపం"
+    }
+  ],
+  "timestamp": "2026-08-17T21:23:37.940702573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 40,
+  "translation": "మరియు ⟨את⟩ మందిరపు ప్రవేశద్వారపు తెరను ఉంచెను.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ఉంచెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "తెరను"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "తెరను"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ప్రవేశద్వారపు"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "మందిరపు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:03:21.282709232Z",
+  "model": "glm-5.3"
+}

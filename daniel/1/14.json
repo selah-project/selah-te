@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "మరియు ఈ మాటకు వారి మాట వినెను, వారిని పది దినములు పరీక్షించెను.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "వినెను"
+    },
+    {
+      "surface": "להם",
+      "gloss": "వారికి"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "మాటకు"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "వారిని పరీక్షించెను"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "దినములు"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది"
+    }
+  ],
+  "timestamp": "2026-08-18T06:23:05.889326871Z",
+  "model": "glm-5.3"
+}

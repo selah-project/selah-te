@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నెతనేల్ నాల్గవవాడు, రద్దాయ్ ఐదవవాడు.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "నెతనేల్"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "నాల్గవవాడు"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "రద్దాయ్"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ఐదవవాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:20:18.567968910Z",
+  "model": "glm-5.3"
+}

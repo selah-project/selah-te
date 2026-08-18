@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "యాహ్వే అతనితో అనెను — నీకు శాంతి; భయపడకు, నీవు చనిపోవు.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అనెను"
+    },
+    {
+      "surface": "לו",
+      "gloss": "అతనితో"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "శాంతి"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కకు"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "భయపడ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "చనిపోవు"
+    }
+  ],
+  "timestamp": "2026-08-18T05:07:27.636280631Z",
+  "model": "glm-5.3"
+}

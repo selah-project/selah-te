@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "గాదు కుమారులు వారి ఎదుట బాషాను దేశంలో సల్కా వరకు నివసించిరి.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "גד",
+      "gloss": "గాదు"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "వారి ఎదుట"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "నివసించిరి"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "దేశంలో"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "బాషాను"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "సల్కా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:22:42.161448965Z",
+  "model": "glm-5.3"
+}

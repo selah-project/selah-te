@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నేను ⟨את⟩ నా కళ్ళు ఎత్తి చూచితిని, మరియు ఇదిగో నాలుగు కొమ్ములు.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ఎత్తితిని"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "నా కళ్ళు"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "నా కళ్ళు"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "చూచితిని"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "మరియు ఇదిగో"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "కొమ్ములు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:48:01.336261281Z",
+  "model": "glm-5.3"
+}

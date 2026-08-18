@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నేడు నువ్వు ⟨את⟩ మోవాబు సరిహద్దును — ⟨את⟩ ఆరు — దాటుచున్నావు.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "నువ్వు"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "దాటుచున్నావు"
+    },
+    {
+      "surface": "היום",
+      "gloss": "నేడు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "మోవాబు సరిహద్దును"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "సరిహద్దును"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "మోవాబు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఆరు"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ఆరు"
+    }
+  ],
+  "timestamp": "2026-08-17T20:42:32.140280709Z",
+  "model": "glm-5.3"
+}

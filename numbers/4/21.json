@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "మరియు యాహ్వే మోషేతో ఇలా ఉట్టంకెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు ... ఉట్టంకెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా"
+    }
+  ],
+  "timestamp": "2026-08-17T19:10:32.965727225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "మరియు యాహ్వే మాట నా దగ్గరకు వచ్చెను, సెలవిస్తూ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు ఆగింది"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నా దగ్గరకు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిస్తూ"
+    }
+  ],
+  "timestamp": "2026-08-18T00:17:47.432014037Z",
+  "model": "glm-5.3"
+}

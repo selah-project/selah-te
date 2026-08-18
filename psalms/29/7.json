@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 29,
+  "translation": "యాహ్వే స్వరం జ్వాలలను నరుకుచున్నది — అగ్ని ⟨జ్వాలలను⟩.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "స్వరం"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "నరుకుచున్నది"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "జ్వాలలను"
+    },
+    {
+      "surface": "אש",
+      "gloss": "అగ్ని"
+    }
+  ],
+  "timestamp": "2026-08-18T06:11:26.698495869Z",
+  "model": "glm-5.3"
+}

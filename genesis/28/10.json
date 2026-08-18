@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "యాకోబు బేర్-షెబా నుండి బయలుదేరి ఖరాను వైపు నడిచాడు.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "బయలుదేరి"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "యాకోబు"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "బేర్-నుండి"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "షెబా"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "నడిచాడు"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ఖరాను వైపు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:20:28.215482616Z",
+  "model": "glm-5.3"
+}

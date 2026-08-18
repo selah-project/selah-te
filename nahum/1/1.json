@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "నీనవే మీది భారం; ఎల్కోషీయైన నాహూం దర్శనపు పుస్తకం.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "భారం"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "నీనవే"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "పుస్తకం"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "దర్శనం"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "నాహూం"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ఎల్కోషీయైన"
+    }
+  ],
+  "timestamp": "2026-08-18T00:43:11.988464808Z",
+  "model": "glm-5.3"
+}

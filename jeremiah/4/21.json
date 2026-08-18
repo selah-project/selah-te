@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "ఎంతకాలం నెయ్యిని చూచెదను? శంఖధ్వనిని వినెదనా?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ఎంతకాలం"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ఎప్పుడువరకు"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "చూచెదను"
+    },
+    {
+      "surface": "נס",
+      "gloss": "నెయ్యి"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "వినెదను"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ధ్వని"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "శంఖము"
+    }
+  ],
+  "timestamp": "2026-08-18T05:43:33.098815995Z",
+  "model": "glm-5.3"
+}

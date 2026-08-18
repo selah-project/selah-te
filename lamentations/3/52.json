@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "వేటాడుతూ నన్ను వేటాడిరి, పక్షివలె — నా శత్రువులు, కారణం లేకుండా.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "వేటాడుతూ"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "నన్ను వేటాడిరి"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "పక్షివలె"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "నా శత్రువులు"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "కారణం లేకుండా"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:57.433521127Z",
+  "model": "glm-5.3"
+}

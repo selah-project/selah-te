@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నాపై లేచిన వారి పెదవులు, వారి మద్దతు — నన్ను గురించి రోజంతా.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "పెదవులు"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "నాపై లేచిన వారి"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "వారి మద్దతు"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "నన్ను గురించి"
+    },
+    {
+      "surface": "כל",
+      "gloss": "అంతా"
+    },
+    {
+      "surface": "היום",
+      "gloss": "రోజు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:17.709746233Z",
+  "model": "glm-5.3"
+}

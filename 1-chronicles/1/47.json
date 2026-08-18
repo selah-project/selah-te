@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "హదదు మరణించెను; మష్రెకా నుండి వచ్చిన సమ్లా అతని స్థానములో ఏలెను.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "మరణించెను"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "హదదు"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ఏలెను"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "అతని స్థానములో"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "సమ్లా"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "మష్రెకా నుండి"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:51.550444178Z",
+  "model": "glm-5.3"
+}

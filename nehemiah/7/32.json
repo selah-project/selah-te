@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బేత్-ఏల్ మరియు హాయి పురుషులు — వంద ఇరవై ముగ్గురు.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "పురుషులు"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "మరియు హాయి"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "వంద"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "మరియు ముగ్గురు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:54.313661934Z",
+  "model": "glm-5.3"
+}

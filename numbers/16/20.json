@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "మరియు యాహ్వే మోషేతో మరియు అహరోనుతో పలికెను — సెలవిస్తూ,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "పలికెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "మరియు తో"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "అహరోను"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిస్తూ"
+    }
+  ],
+  "timestamp": "2026-08-17T19:52:59.793824057Z",
+  "model": "glm-5.3"
+}

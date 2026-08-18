@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "ఈ సమస్త మాటలను మరియు ఈ సమస్త దర్శనమును ప్రకారం నాతను దావీదుతో మాట్లాడెను.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "సమస్త...ప్రకారం"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "మాటలను"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "మరియు సమస్త...ప్రకారం"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "దర్శనమును"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "అలాగే"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "నాతను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "దావీదు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:34:42.638718906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "రాజు తన విందు ఆసనం వద్ద ⟨ఉండగా⟩, నా నార్దీ తన సుగంధాన్ని ఇచ్చింది.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "⟨ఉండగా⟩"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "తన విందు ఆసనం వద్ద"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "నా నార్దీ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ఇచ్చింది"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "తన సుగంధాన్ని"
+    }
+  ],
+  "timestamp": "2026-08-18T02:22:57.282071790Z",
+  "model": "glm-5.3"
+}

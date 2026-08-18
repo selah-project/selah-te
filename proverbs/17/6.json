@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "వృద్ధుల కిరీటం మనుమలు; కానీ కుమారుల మహిమ ⟨is⟩ వారి తండ్రులు.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "కిరీటం"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "వృద్ధుల"
+    },
+    {
+      "surface": "בני",
+      "gloss": "మనుమలు"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "మనుమలు"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "కానీ మహిమ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "కుమారుల"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "వారి తండ్రులు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:47:37.986083013Z",
+  "model": "glm-5.3"
+}

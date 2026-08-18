@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "దానిని ముక్కలుగా విడగొట్టు, దానిపై నూనె పోయు; అది ధాన్యకానుక.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "ముక్కలుగా విడగొట్టు"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ముక్కలు"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "ముక్కలు"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "మరియు పోయు"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "దానిపై"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "నూనె"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ధాన్యకానుక"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అదే"
+    }
+  ],
+  "timestamp": "2026-08-17T18:04:28.685176129Z",
+  "model": "glm-5.3"
+}

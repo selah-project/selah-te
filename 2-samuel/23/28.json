@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "త్సల్మోన్ అఖోఖీయుడు, మహరాయ్ నెతోఫాతీయుడు,",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "త్సల్మోన్"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "అఖోఖీయుడు"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "మహరాయ్"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "నెతోఫాతీయుడు"
+    }
+  ],
+  "timestamp": "2026-08-17T22:33:37.283047081Z",
+  "model": "glm-5.3"
+}

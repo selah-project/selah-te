@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "మరియు యాహ్వే యిత్సాకీయాహు మాట వినెను, ⟨את⟩ ప్రజలను స్వస్థపరచెను.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "వినెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "యిత్సాకీయాహు"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "స్వస్థపరచెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ప్రజలను"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ప్రజలను"
+    }
+  ],
+  "timestamp": "2026-08-18T04:03:11.659307589Z",
+  "model": "glm-5.3"
+}

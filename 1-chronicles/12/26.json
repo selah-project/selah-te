@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "షిమ్యోన్ కుమారులలో సైన్యానికి ⟨సిద్ధమైన⟩ బలవంతులు — యోధులు — ఏడు వేలు ఒక వంద.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "లో"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారుల"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "షిమ్యోన్"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "యోధులు"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "బలవంతులు"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "సైన్యానికి"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "వేలు"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "మరియు ఒక వంద"
+    }
+  ],
+  "timestamp": "2026-08-18T06:35:25.794698518Z",
+  "model": "glm-5.3"
+}

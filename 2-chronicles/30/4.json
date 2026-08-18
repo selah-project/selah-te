@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "ఆ మాట రాజు కనులలోనికిని సమస్త సభ కనులలోనికిని సరియై ⟨ఉండెను⟩.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "సరియైయుండెను"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "కనులలో"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "మరియు కనులలో"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "సభ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:03:37.940933687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "మా పితరులు పాపము చేసిరి, వారు ⟨ఇక లేరు⟩; మేము వారి అధర్మములను భరించితిమి.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "మా పితరులు"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "పాపము చేసిరి"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "లేరు"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "మేము"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "వారి అధర్మములను"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "భరించితిమి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:41.154489553Z",
+  "model": "glm-5.3"
+}

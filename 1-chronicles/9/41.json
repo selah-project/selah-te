@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "మికాహు కుమారులు — పిథోన్, మెలెక్, తహ్రేయ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "మికాహు"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "పిథోన్"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "మరియు మెలెక్"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "మరియు తహ్రేయ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:29:03.632362651Z",
+  "model": "glm-5.3"
+}

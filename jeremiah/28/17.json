@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "మరియు హనన్యాహ్ అను ప్రవక్త ఆ సంవత్సరమే, ఏడవ నెలలో మరణించెను.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "మరియు మరణించెను"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "హనన్యాహ్"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ప్రవక్త"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "సంవత్సరములో"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "నెలలో"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ఏడవ"
+    }
+  ],
+  "timestamp": "2026-08-17T23:47:31.683543655Z",
+  "model": "glm-5.3"
+}

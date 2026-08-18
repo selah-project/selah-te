@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "జ్ఞాని యొక్క బోధ జీవపు ఊట; అది మరణపు ఉచ్చులనుండి తప్పించుకొనుటకు.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "బోధ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "జ్ఞాని యొక్క"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ఊట"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "జీవపు"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "తప్పించుకొనుటకు"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ఉచ్చులనుండి"
+    },
+    {
+      "surface": "מות",
+      "gloss": "మరణపు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:45:35.383291649Z",
+  "model": "glm-5.3"
+}

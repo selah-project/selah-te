@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "యాహ్వే మోషేతో మాట్లాడి ⟨ఇలా⟩ చెప్పెను:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "చెప్పుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:25:06.302121964Z",
+  "model": "glm-5.3"
+}

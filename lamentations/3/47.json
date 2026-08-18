@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "పరువు తొందరపాటు మరియు ఉచ్చు మనకు కలిగెను — నాశనం మరియు పగిలిపోవుట.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "పరువు తొందరపాటు"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "మరియు ఉచ్చు"
+    },
+    {
+      "surface": "היה",
+      "gloss": "కలిగెను"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "మనకు"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "నాశనం"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "మరియు పగిలిపోవుట"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:57.478388925Z",
+  "model": "glm-5.3"
+}

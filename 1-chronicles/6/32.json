@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "మహ్లీ కుమారుడు, మూషీ కుమారుడు, మెరారీ కుమారుడు, లేవీ కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "మహ్లీ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "మూషీ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "మెరారీ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "లేవీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:50.706743873Z",
+  "model": "glm-5.3"
+}

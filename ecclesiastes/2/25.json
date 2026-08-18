@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఎందుకంటే నా నుండి ⟨విడిపోయి⟩ ఎవరు తినగలరు, ఎవరు ఆసక్తి కలిగియుండగలరు?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ఎవరు"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "తినగలరు"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ఎవరు"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ఆసక్తి కలిగియుండగలరు"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "⟨విడిపోయి⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "నా నుండి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:04.823453384Z",
+  "model": "glm-5.3"
+}

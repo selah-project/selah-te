@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 9:19",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "ఎందుకంటే పేద ఎప్పటికీ మరువబడడు; దీనుల ఆశ ఎప్పటికీ నశింపదు.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ఎప్పటికైనా"
+    },
+    {
+      "surface": "ישכח",
+      "gloss": "మరువబడడు"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "పేద"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "ఆశ"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "దీనుల"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "నశింపదు"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "ఎప్పటికిని"
+    }
+  ],
+  "timestamp": "2026-08-18T00:55:12.084342304Z",
+  "model": "glm-5.3"
+}

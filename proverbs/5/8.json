@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 5:8",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "ఆమెనుండి నీ దారి దూరము చేసికో; ఆమె ఇంటి గవిటి దగ్గరకు రాకు.",
+  "tokens": [
+    {
+      "surface": "הרחק",
+      "gloss": "దూరము చేసికో"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "ఆమెనుండి"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "నీ దారి"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "రాకు"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "దగ్గరకు రాకుండా"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపుకు"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "గవిటి"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ఆమె ఇంటి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:39:33.488891845Z",
+  "model": "glm-5.3"
+}

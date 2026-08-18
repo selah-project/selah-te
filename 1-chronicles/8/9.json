@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "అతడు తన భార్య అయిన హోదేషు నుండి యోవాబును, త్సిబ్యాను, మేషాను, మల్కామును కనెను.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "కనెను"
+    },
+    {
+      "surface": "מן",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "హోదేషు"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "తన భార్య"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "యోవాబును"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "యోవాబు"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "త్సిబ్యాను"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "త్సిబ్యా"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "మేషాను"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "మేషా"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "మల్కామును"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "మల్కాము"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:57.410536251Z",
+  "model": "glm-5.3"
+}

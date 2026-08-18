@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "నాకు మిమ్ము తెలిసిన నాటినుండి మీరు యాహ్వేతో తిరుగుబాటుదారులై యున్నారు.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "తిరుగుబాటుదారులై"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "యున్నారు"
+    },
+    {
+      "surface": "עם",
+      "gloss": "తో"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "నాటినుండి"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "నాకు తెలిసిన"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "మిమ్ము"
+    }
+  ],
+  "timestamp": "2026-08-17T21:00:27.295884093Z",
+  "model": "glm-5.3"
+}

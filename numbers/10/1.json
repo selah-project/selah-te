@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "యాహ్వే మోషేతో ఇలా మాట్లాడెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషేతో"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా"
+    }
+  ],
+  "timestamp": "2026-08-18T04:37:33.906715607Z",
+  "model": "glm-5.3"
+}

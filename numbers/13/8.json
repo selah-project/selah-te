@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "ఎఫ్రాయిం గోత్రము నుండి హోషేయ, నూన్ కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "గోత్రము నుండి"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ఎఫ్రాయిం"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "హోషేయ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "נון",
+      "gloss": "నూన్"
+    }
+  ],
+  "timestamp": "2026-08-18T04:38:50.675931052Z",
+  "model": "glm-5.3"
+}

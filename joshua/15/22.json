@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "కీనా, దీమోనా, అదాదా —",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "కీనా"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "దీమోనా"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "అదాదా"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:19.631518346Z",
+  "model": "glm-5.3"
+}

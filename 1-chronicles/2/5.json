@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "పెరెసు కుమారులు — హెత్స్రోను, చాములు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "పెరెసు"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "హెత్స్రోను"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "మరియు చాములు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:20:26.299717055Z",
+  "model": "glm-5.3"
+}

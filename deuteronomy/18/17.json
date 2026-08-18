@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "యాహ్వే నాతో చెప్పుచున్నాడు: వారు మాటలాడినది మంచిగా చెప్పిరి.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "మరియు చెప్పుచున్నాడు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాతో"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "మంచిగా ఉండిరి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏది"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "మాటలాడిరి"
+    }
+  ],
+  "timestamp": "2026-08-18T04:56:24.525723254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "యెరూషలాయిం రాజు ఒకడు; హెబ్రోన్ రాజు ఒకడు;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "యెరూషలాయిం"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "హెబ్రోన్"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:44:07.539526380Z",
+  "model": "glm-5.3"
+}

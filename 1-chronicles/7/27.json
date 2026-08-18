@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "నూన్ అతని కుమారుడు, యహోషుయ అతని కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "నూన్"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "అతని కుమారుడు"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "యహోషుయ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "అతని కుమారుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:53.173888133Z",
+  "model": "glm-5.3"
+}

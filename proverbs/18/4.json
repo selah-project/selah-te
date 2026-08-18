@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "ఒక మనిషి నోటి మాటలు లోతైన నీళ్లు; జ్ఞాన జలధార పొంగి ప్రవహించే నది.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "నీళ్లు"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "లోతైన"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "మాటలు"
+    },
+    {
+      "surface": "פי",
+      "gloss": "నోటి"
+    },
+    {
+      "surface": "איש",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "నది"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "పొంగి ప్రవహించే"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "జలధార"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "జ్ఞాన"
+    }
+  ],
+  "timestamp": "2026-08-18T01:48:50.506502507Z",
+  "model": "glm-5.3"
+}

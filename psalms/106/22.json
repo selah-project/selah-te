@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 106,
+  "translation": "ఖాము దేశములో అద్భుతములు, సూఫ్ సముద్రముపై భయంకర కార్యములు.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "అద్భుతములు"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "దేశములో"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ఖాము"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "భయంకర కార్యములు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "ים",
+      "gloss": "సముద్రము"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "సూఫ్"
+    }
+  ],
+  "timestamp": "2026-08-18T01:24:27.342771919Z",
+  "model": "glm-5.3"
+}

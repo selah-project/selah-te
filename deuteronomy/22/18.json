@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "మరియు ఆ పట్టణ పెద్దలు ⟨את⟩ ఆ మనుష్యుని తీసికొని, అతనిని ⟨את⟩ శిక్షింతురు.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "మరియు తీసికొని"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "పెద్దలు"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ఆ పట్టణ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఆ మనుష్యుని"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ఆ మనుష్యుడు"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "మరియు శిక్షింతురు"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "అతనిని"
+    }
+  ],
+  "timestamp": "2026-08-18T04:59:04.533810710Z",
+  "model": "glm-5.3"
+}

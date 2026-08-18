@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 84,
+  "translation": "ఒక మనిషి బలం నీలో ⟨ఉంటే⟩ అతడు ఎంత సుఖి! వారి హృదయంలో దారులు ⟨ఉన్నాయి⟩.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ఎంత సుఖి"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ఒక మనిషి"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "బలం"
+    },
+    {
+      "surface": "לו",
+      "gloss": "అతనికి"
+    },
+    {
+      "surface": "בך",
+      "gloss": "నీలో"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "దారులు"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "వారి హృదయంలో"
+    }
+  ],
+  "timestamp": "2026-08-18T06:14:20.559862664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "అతని చేతికి అధిపతి యెహోహానాను, అతనితో రెండు వందల ఎనభై వేలు.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "మరియు...మీద"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "అతని చేతికి"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "యెహోహానాను"
+    },
+    {
+      "surface": "השר",
+      "gloss": "అధిపతి"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "అతనితో"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "రెండు వందల"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "ఎనభై"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వేలు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:51:40.159554278Z",
+  "model": "glm-5.3"
+}

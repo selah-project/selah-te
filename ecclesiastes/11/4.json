@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "గాలిని కాచుకొనినవాడు విత్తడు; మేఘములను చూచుకొనినవాడు కోస్తాడు కాడు.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "కాచుకొనినవాడు"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "గాలిని"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "విత్తడు"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "మరియు చూచుకొనినవాడు"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "మేఘములను"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "కోస్తాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:20:58.059871733Z",
+  "model": "glm-5.3"
+}

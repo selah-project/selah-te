@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 61,
+  "translation": "గాయకునికి, తంత్రీవాద్యములపై, దావీదు ⟨కు⟩ ⟨ఇది⟩ కీర్తన.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "గాయకునికి"
+    },
+    {
+      "surface": "על",
+      "gloss": "పైన"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "తంత్రీవాద్యముల"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదుకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:09:39.900948188Z",
+  "model": "glm-5.3"
+}

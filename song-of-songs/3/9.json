@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఒక అపిర్యోను (పల్లకీ) తనకు చేసింది రాజు షలోమో, లెబనోను కలపతో.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "అపిర్యోను (పల్లకీ)"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "לו",
+      "gloss": "తనకు"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ రాజు"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "షలోమో"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "కలపతో"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "లెబనోను"
+    }
+  ],
+  "timestamp": "2026-08-18T02:24:05.365772587Z",
+  "model": "glm-5.3"
+}

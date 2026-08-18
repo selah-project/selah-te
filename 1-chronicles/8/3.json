@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు బేలాకు కుమారులు ఉండిరి — అద్దార్, మరియు గేరా, మరియు అబీహూద్.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "మరియు ఉండిరి"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "బేలాకు"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "అద్దార్"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "మరియు గేరా"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "మరియు అబీహూద్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:26:07.336909323Z",
+  "model": "glm-5.3"
+}

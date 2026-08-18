@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "వాదించు స్త్రీతో మరియు విశాల ఇంట కంటే పైకప్పు మూలలో కూర్చోవడం మేలు.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మేలు"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "కూర్చోవడం"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "మూలలో"
+    },
+    {
+      "surface": "גג",
+      "gloss": "పైకప్పు"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "స్త్రీ కంటే"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "వాదించు"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "మరియు ఇల్లు"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "విశాల"
+    }
+  ],
+  "timestamp": "2026-08-18T01:53:09.744263671Z",
+  "model": "glm-5.3"
+}

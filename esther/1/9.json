@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 1:9",
+  "book": "esther",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "కూడా వష్టీ ⟨the⟩ రాణి స్త్రీల కొరకు ఒక విందు చేసింది — అచష్వేరోషు ⟨the⟩ రాజునకు చెందిన ⟨the⟩ రాజభవనంలో.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "వష్టీ"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "⟨the⟩ రాణి"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "చేసింది"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "విందు"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "స్త్రీల"
+    },
+    {
+      "surface": "בית",
+      "gloss": "భవనంలో"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "రాజ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అది"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "రాజునకు చెందిన"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "అచష్వేరోషు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:42:18.418216223Z",
+  "model": "glm-5.3"
+}

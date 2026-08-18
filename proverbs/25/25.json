@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "అలసిన ప్రాణిపై చల్లని నీళ్ళు; దూరదేశము నుండి వచ్చే మంచి వార్త ⟨అదేలా⟩.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "నీళ్ళు"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "చల్లని"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ప్రాణి"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "అలసిన"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "మరియు వార్త"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "మంచి"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "దేశము నుండి"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "దూరమైన"
+    }
+  ],
+  "timestamp": "2026-08-18T01:53:59.994162481Z",
+  "model": "glm-5.3"
+}

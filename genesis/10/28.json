@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "⟨את⟩ ఓబాలును, ⟨את⟩ అబీమాయెలును, ⟨את⟩ షెబాను.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ఓబాలును"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ఓబాలు"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "అబీమాయెలును"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "అబీమాయెలు"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "షెబాను"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "షెబా"
+    }
+  ],
+  "timestamp": "2026-08-17T17:09:30.247363940Z",
+  "model": "glm-5.3"
+}

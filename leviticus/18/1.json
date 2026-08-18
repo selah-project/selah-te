@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "యాహ్వే మోషేతో మాటలాడుచు చెప్పుచున్నాడు:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "చెప్పుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:20:29.890322076Z",
+  "model": "glm-5.3"
+}

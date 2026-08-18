@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "అయితే ⟨ఎప్పుడైనా⟩ అతనిలో పచ్చి మాంసము కనబడిన దినమందు అతడు అపవిత్రుడగును.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "దినమందు"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "కనబడిన"
+    },
+    {
+      "surface": "בו",
+      "gloss": "అతనిలో"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "మాంసము"
+    },
+    {
+      "surface": "חי",
+      "gloss": "పచ్చి"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "అపవిత్రుడగును"
+    }
+  ],
+  "timestamp": "2026-08-18T04:22:46.478600686Z",
+  "model": "glm-5.3"
+}

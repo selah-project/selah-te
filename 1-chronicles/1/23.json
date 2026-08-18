@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "మరియు ⟨את⟩ ఓఫీరును ⟨את⟩ హవీలాను ⟨את⟩ యోబాబును; ఇవి అన్నీ యోక్తాను కుమారులు",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ఓఫీరును"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ఓఫీరును"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "హవీలాను"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "హవీలాను"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "యోబాబును"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "యోబాబును"
+    },
+    {
+      "surface": "כל",
+      "gloss": "అన్నీ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ఇవి"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "యోక్తాను"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:17.188290753Z",
+  "model": "glm-5.3"
+}

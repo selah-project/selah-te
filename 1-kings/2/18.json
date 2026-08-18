@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "బత్-షెబా చెప్పెను — మంచిది; నీ కొరకు నేను రాజుతో మాట్లాడెదను.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ఆమె చెప్పెను"
+    },
+    {
+      "surface": "בת",
+      "gloss": "బత్-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "షెబా"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "మాట్లాడెదను"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "నీ కొరకు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    }
+  ],
+  "timestamp": "2026-08-17T22:36:55.229300874Z",
+  "model": "glm-5.3"
+}

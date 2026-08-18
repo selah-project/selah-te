@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "ఎందుకంటే ⟨అతను⟩ ఏమి జరుగునో తెలియడు; ఎందుకంటే అది ఎప్పుడు జరుగునో — ఎవరు అతనికి చెప్పగలడు?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "అతను లేడు"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "తెలియుట"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఏమి"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "జరుగును"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ఎప్పుడు"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "జరుగును"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ఎవరు"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "చెప్పును"
+    },
+    {
+      "surface": "לו",
+      "gloss": "అతనికి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:55.425840905Z",
+  "model": "glm-5.3"
+}

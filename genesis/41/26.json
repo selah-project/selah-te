@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 41,
+  "translation": "ఏడు మంచి ఆవులు ఏడు సంవత్సరాలు ⟨అవు⟩; మరియు ఏడు మంచి గింజల కంకులు ఏడు సంవత్సరాలు ⟨అవు⟩; కల ఒకటే ⟨ఉంది⟩.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ఆవులు"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "మంచి"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "సంవత్సరాలు"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "అవే"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "మరియు ఏడు"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "కంకులు"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "מంచి"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "సంవత్సరాలు"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "అవే"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "కల"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    }
+  ],
+  "timestamp": "2026-08-18T04:13:09.293796343Z",
+  "model": "glm-5.3"
+}

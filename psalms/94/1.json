@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 94,
+  "translation": "పగ తీర్చే ఏల్ యాహ్వే, పగ తీర్చే ఏల్, ప్రకాశించుము.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "పగ తీర్చే"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "పగ తీర్చే"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "ప్రకాశించుము"
+    }
+  ],
+  "timestamp": "2026-08-18T01:20:49.970732853Z",
+  "model": "glm-5.3"
+}

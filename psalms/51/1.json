@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 51,
+  "translation": "సంగీత-నాయకుని కొరకు; దావిదు కీర్తన.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "సంగీత-నాయకుని కొరకు"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "కీర్తన"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావిదు కొరకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:07:03.921389936Z",
+  "model": "glm-5.3"
+}

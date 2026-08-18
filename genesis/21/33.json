@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "అవ్రాహాం బేర్-షెబాలో ఒక ఏరువును నాటెను, అక్కడ యాహ్వే — ఏల్ ఓలాం — నామములో పిలిచెను.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "నాటెను"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "ఏరువు"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "బావియందు"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "షెబా"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "పిలిచెను"
+    },
+    {
+      "surface": "שם",
+      "gloss": "అక్కడ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "నామములో"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ఓలాం"
+    }
+  ],
+  "timestamp": "2026-08-17T17:13:43.364764397Z",
+  "model": "glm-5.3"
+}

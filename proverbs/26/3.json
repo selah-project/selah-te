@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "గుర్రానికి చాటు, గాడిదకు కళ్లెం కట్టు, మూర్ఖుల వెనుకకు కర్ర.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "చాటు"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "గుర్రానికి"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "కళ్లెం కట్టు"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "గాడిదకు"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "మరియు కర్ర"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "వెనుకకు"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "మూర్ఖుల"
+    }
+  ],
+  "timestamp": "2026-08-18T01:54:14.579824077Z",
+  "model": "glm-5.3"
+}

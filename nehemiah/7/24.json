@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఖారీఫు కుమారులు వంద పన్నెండు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ఖారీఫు"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "వంద"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "పన్నెండు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పన్నెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:28.438775404Z",
+  "model": "glm-5.3"
+}

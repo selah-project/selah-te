@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "తన విల్లు సాధించెను, నన్ను బాణమునకు గురిగా నిలువబెట్టెను.",
+  "tokens": [
+    {
+      "surface": "దరచ్",
+      "gloss": "సాధించెను (విల్లు)"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "తన విల్లు"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "నన్ను నిలువబెట్టెను"
+    },
+    {
+      "surface": "కమత్రా",
+      "gloss": "గురిగా"
+    },
+    {
+      "surface": "לహెత్స్",
+      "gloss": "బాణమునకు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:46.817347521Z",
+  "model": "glm-5.3"
+}

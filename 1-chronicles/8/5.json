@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు గేరా, మరియు షెఫూఫాన్, మరియు ఖూరామ్.",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "మరియు గేరా"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "మరియు షెఫూఫాన్"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "మరియు ఖూరామ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:43.742940048Z",
+  "model": "glm-5.3"
+}

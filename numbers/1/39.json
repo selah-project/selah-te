@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "వారి లెక్కలు దాన్ గోత్రము వారికి అరవై రెండు వేలు ఏడు వందలు.",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "వారి లెక్కలు"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "గోత్రము వారికి"
+    },
+    {
+      "surface": "דן",
+      "gloss": "దాన్"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "రెండు"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "అరవై"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వేలు"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందలు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:55:50.565004291Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "పనిచేయువానికి తను శ్రమపడుచున్న దానిలో ఏ లాభం?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "లాభం"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "పనిచేయువానికి"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "దానిలో"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "తను"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "శ్రమపడు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:36:24.579249478Z",
+  "model": "glm-5.3"
+}

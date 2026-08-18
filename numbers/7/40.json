@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మేకలలో ఒక్క మేకపిల్ల, పాపార్పణం కొరకు.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "మేకపిల్ల"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకలలో"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక్క"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "పాపార్పణం కొరకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:35:49.191337600Z",
+  "model": "glm-5.3"
+}

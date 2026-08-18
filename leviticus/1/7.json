@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "అహరోను కుమారులు యాజకులు బలిపీఠముపై నిప్పును ఉంచి, ఆ నిప్పుపై కట్టెలను పేర్చిరి.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ఉంచిరి"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "అహరోను"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "యాజకులు"
+    },
+    {
+      "surface": "אש",
+      "gloss": "నిప్పు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "బలిపీఠము"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "పేర్చిరి"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "కట్టెలను"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "האש",
+      "gloss": "నిప్పు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:04:21.565866141Z",
+  "model": "glm-5.3"
+}

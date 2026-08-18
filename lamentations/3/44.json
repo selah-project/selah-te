@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఒక మేఘముతో నీవు నిన్ను మూసికొనితివి, ప్రార్థన దాటిరాకుండా.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "మూసికొనితివి"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ఒక మేఘముతో"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీ కొరకు"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "దాటిరాకుండా"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ప్రార్థన"
+    }
+  ],
+  "timestamp": "2026-08-18T06:19:36.861754628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఖనాన్ కుమారులు, గిద్దేల్ కుమారులు, గచార్ కుమారులు,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ఖనాన్"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "గిద్దేల్"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "గచార్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:51.892906382Z",
+  "model": "glm-5.3"
+}

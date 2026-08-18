@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 60,
+  "translation": "నాయకునికి, శుషన్-ఏదూత్ మీద, దావిదు మిక్తాం, బోధించుటకు.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "నాయకునికి"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "శుషన్"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "ఏదూత్"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "మిక్తాం"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావిదు"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "బోధించుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:09:30.837158369Z",
+  "model": "glm-5.3"
+}

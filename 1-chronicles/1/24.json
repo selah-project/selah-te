@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "షేము, అర్పక్షాదు, షెలా",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "షేము"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "అర్పక్షాదు"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "షెలా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:17.188395548Z",
+  "model": "glm-5.3"
+}

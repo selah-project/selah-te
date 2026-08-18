@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 92,
+  "translation": "మూర్ఖుడైన మనిషి తెలియడు; బుద్ధిహీనుడు ⟨את⟩ ఇది గ్రహించడు.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "בער",
+      "gloss": "మూర్ఖుడైన"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "తెలియడు"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "మరియు బుద్ధిహీనుడు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "గ్రహించడు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఇది"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ఇది"
+    }
+  ],
+  "timestamp": "2026-08-18T01:20:35.641034935Z",
+  "model": "glm-5.3"
+}

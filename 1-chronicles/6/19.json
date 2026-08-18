@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఎల్కానా కుమారుడు, యెరోహామ్ కుమారుడు, ఎలీయేల్ కుమారుడు, తోవాహ్ కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ఎల్కానా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "యెరోహామ్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ఎలీయేల్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "తోవాహ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:02.878708810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "దాసులు మామీద ఏలిరి; వారి చేతినుండి విడిపించువాడు లేడు.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "దాసులు"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ఏలిరి"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "మామీద"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "విడిపించువాడు"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేడు"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "వారి చేతినుండి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:41.154703823Z",
+  "model": "glm-5.3"
+}

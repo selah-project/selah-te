@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "దాన్ గోత్రానికి — అమ్మియేల్, గెమల్లీ కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "గోత్రానికి"
+    },
+    {
+      "surface": "דן",
+      "gloss": "దాన్"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "అమ్మియేల్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "ఒמలי",
+      "gloss": "గెమల్లీ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:38:46.352481609Z",
+  "model": "glm-5.3"
+}

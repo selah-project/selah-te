@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 48,
+  "translation": "ఎందుకంటే ఇదిగో ⟨అతనిని⟩",
+  "tokens": [],
+  "timestamp": "2026-08-18T01:05:19.307816611Z",
+  "model": "glm-5.3"
+}

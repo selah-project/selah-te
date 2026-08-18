@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 48,
+  "translation": "తీర్పు మైదాన దేశము మీదికి వచ్చెను — ఖోలోన్ మీద, యాహ్త్సా మీద, మోపాత్ మీద.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "తీర్పు"
+    },
+    {
+      "surface": "בא",
+      "gloss": "వచ్చెను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "మీదికి"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "దేశము"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "మైదాన"
+    },
+    {
+      "surface": "אל",
+      "gloss": "మీదికి"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ఖోలోన్"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "మరియు మీదికి"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "యాహ్త్సా"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "మరియు మీద"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "మోపాత్"
+    }
+  ],
+  "timestamp": "2026-08-17T23:58:17.295874907Z",
+  "model": "glm-5.3"
+}

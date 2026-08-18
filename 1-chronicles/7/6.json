@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బిన్యామీన్ — బెలా, మరియు బెఖెర్, మరియు యెదీయాల్; ముగ్గురు.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "బిన్యామీన్"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "బెలా"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "మరియు బెఖెర్"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "మరియు యెదీయాల్"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ముగ్గురు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:27:03.264517670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "లేవీ కుమారులు — గెర్షోం, కెహాత్ మరియు మెరారీ.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "లేవీ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "గెర్షోం"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "కెహాత్"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "మరియు మెరారీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:12.880039578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "నాలుగు ⟨మీద⟩ నడిచే ప్రతి పక్షి సమూహపు కీటకము — అది మీకు అసహ్యకరమైనది",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "సమూహపు కీటకము"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "పక్షి"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "నడిచే"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "అసహ్యకరమైనది"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీకు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:13:30.858967740Z",
+  "model": "glm-5.3"
+}

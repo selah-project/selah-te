@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "జరిగినది దూరంగా ఉంది, లోతైనది, లోతైనది — ఎవరు దాన్ని కనుగొనగలడు?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "దూరంగా ఉంది"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఏది"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "జరిగినది"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "మరియు లోతైనది"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "లోతైనది"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ఎవరు"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "దాన్ని కనుగొనగలడు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:38:33.481774934Z",
+  "model": "glm-5.3"
+}

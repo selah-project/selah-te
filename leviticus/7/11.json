@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మరియు ఇది యాహ్వేకు సమర్పించు శాంత్యార్పణల బలి యొక్క తోరా.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "మరియు ఇది"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "తోరా (నియమము)"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "బలి"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "శాంత్యార్పణల"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేనిని"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "సమర్పించును"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "యాహ్వేకు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:06:12.944202125Z",
+  "model": "glm-5.3"
+}

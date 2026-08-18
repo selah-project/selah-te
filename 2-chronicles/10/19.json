@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "ఈ దినం వరకు యిస్రాయేలు దావీదు ఇంటికి విరుద్ధంగా తిరుగుబాటు చేసిరి.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "మరియు తిరుగుబాటు చేసిరి"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "యిస్రాయేలు"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ఇంటికి"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "దావీదు"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ఈ దినం"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:47:22.059753790Z",
+  "model": "glm-5.3"
+}

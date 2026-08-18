@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నేను ⟨ఆ⟩ మనిషిని — ⟨అతని⟩ క్రోధపు కర్ర క్రింద క్లేశమును చూచినవాడను.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨ఆ⟩ మనిషిని"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "చూచినవాడను"
+    },
+    {
+      "surface": "עני",
+      "gloss": "క్లేశమును"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "కర్ర క్రింద"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "అతని క్రోధము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:30.477469317Z",
+  "model": "glm-5.3"
+}

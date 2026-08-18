@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "మీఖా అతని కుమారుడు, రెయా అతని కుమారుడు, బాల్ అతని కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "మీఖా"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "అతని కుమారుడు"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "రెయా"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "అతని కుమారుడు"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "బాల్"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "అతని కుమారుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:22:40.490155466Z",
+  "model": "glm-5.3"
+}

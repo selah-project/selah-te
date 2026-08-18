@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మరొక ఏలాం వారి కుమారులు — వెయ్యి రెండు వందల యాభై నాలుగు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ఏలాం"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "మరొక"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వెయ్యి"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "రెండు వందల"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "యాభై"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "నాలుగు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:48.297406361Z",
+  "model": "glm-5.3"
+}

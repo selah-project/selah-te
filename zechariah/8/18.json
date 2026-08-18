@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "zechariah 8:18",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు సైన్యముల యాహ్వే వాక్యము నాయొద్దకు వచ్చెను, సెలవిచ్చుచు.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు ... వచ్చెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "వాక్యము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "సైన్యముల"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాయొద్దకు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:08:53.356073939Z",
+  "model": "glm-5.3"
+}

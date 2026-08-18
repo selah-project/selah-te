@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఆరు విషయములు యాహ్వే ద్వేషించును, ఏడు అతని ప్రాణానికి అసహ్యములు.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "విషయములు"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ద్వేషించును"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "అసహ్యములు"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "అతని ప్రాణానికి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:41:22.921350751Z",
+  "model": "glm-5.3"
+}

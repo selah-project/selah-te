@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 1:9",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "నా స్నేహితురాలిని, ఫరో రథాల గుర్రానికి నిన్ను పోల్చాను.",
+  "tokens": [
+    {
+      "surface": "לססתי",
+      "gloss": "నా స్నేహితురాలిని"
+    },
+    {
+      "surface": "ברכבי",
+      "gloss": "రథాల"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ఫరో"
+    },
+    {
+      "surface": "דמיתיך",
+      "gloss": "నిన్ను పోల్చాను"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "నా ప్రియురాలిని"
+    }
+  ],
+  "timestamp": "2026-08-18T02:22:57.281406905Z",
+  "model": "glm-5.3"
+}

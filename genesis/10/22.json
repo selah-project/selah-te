@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "షేము కుమారులు — ఏలాం, అష్షూరు, అర్పఖషదు, లూదు, అరాం.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "שם",
+      "gloss": "షేము"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ఏలాం"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "అష్షూరు"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "అర్పఖషదు"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "లూదు"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "అరాం"
+    }
+  ],
+  "timestamp": "2026-08-17T17:08:33.635028050Z",
+  "model": "glm-5.3"
+}

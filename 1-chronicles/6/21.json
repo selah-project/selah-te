@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఎల్కానా కుమారుడు, యోయేలు కుమారుడు, అజర్యా కుమారుడు, త్సెఫన్యా కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ఎల్కానా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "యోయేలు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "అజర్యా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "త్సెఫన్యా"
+    }
+  ],
+  "timestamp": "2026-08-18T06:34:51.485665215Z",
+  "model": "glm-5.3"
+}

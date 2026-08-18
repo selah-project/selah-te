@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "మిడతలకు రాజు లేడు, అయినా అవి అన్నీ గుంపులుగా బయలుదేరును.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేడు"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "మిడతలకు"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "బయలుదేరును"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "గుంపులుగా"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "అన్నీ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:55:45.812228483Z",
+  "model": "glm-5.3"
+}

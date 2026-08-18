@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "సూర్యుని కూడా చూడలేదు, తెలియలేదు; ఈతనికి ⟨అతనికంటే⟩ ఎక్కువ విశ్రాంతి ⟨ఉంది⟩.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "సూర్యుని"
+    },
+    {
+      "surface": "לא",
+      "gloss": "చూడలేదు లేదు"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "చూడలేదు"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు లేదు"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "తెలియలేదు"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "విశ్రాంతి"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ఈతనికి"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "అతనికంటే"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:27.831569259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బిన్నూయి కుమారులు ఆరు వందల నలభై ఎనిమిది.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "బిన్నూయి"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "నలభై"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "మరియు ఎనిమిది"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:28.405513286Z",
+  "model": "glm-5.3"
+}

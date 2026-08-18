@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు మీఖాయేల్, యిష్పా, యోఖా — వీరు బెరీయా కుమారులు.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "మరియు మీఖాయేల్"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "యిష్పా"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "యోఖా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "బెరీయా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:26:18.492711250Z",
+  "model": "glm-5.3"
+}

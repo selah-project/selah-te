@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "హషబ్యా కుమారుడు, అమత్స్యా కుమారుడు, హిల్కియా కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "హషబ్యా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "అమత్స్యా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "హిల్కియా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:50.706438443Z",
+  "model": "glm-5.3"
+}

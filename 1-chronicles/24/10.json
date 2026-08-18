@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "ఏడవవాడు హక్కోజ్‌కు, ఎనిమిదవవాడు అబియాకు.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "హక్కోజ్‌కు"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ఏడవవాడు"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "అబియాకు"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ఎనిమిదవవాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:35:36.899708289Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "కోత గతించెను, వేసవి ముగించెను, మరియు మేము విడుదల పొందలేదము.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "గతించెను"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "కోత"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ముగించెను"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "వేసవి"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "మరియు మేము"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "విడుదల పొందలేదము"
+    }
+  ],
+  "timestamp": "2026-08-17T23:40:02.047789775Z",
+  "model": "glm-5.3"
+}

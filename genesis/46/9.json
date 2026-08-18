@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 46,
+  "translation": "రెప్రూబేన్ కుమారులు — చనోక్, ఫల్లూ, చెట్స్రోన్, కర్మి.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "రెప్రూబేన్"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "చనోక్"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "ఫల్లూ"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "చెట్స్రోన్"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "కర్మి"
+    }
+  ],
+  "timestamp": "2026-08-17T17:33:01.137774004Z",
+  "model": "glm-5.3"
+}

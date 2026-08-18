@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "సమస్త భూమి యాహ్వేకు పాడండి; దినము నుండి దినమువరకు ఆయన రక్షణను ప్రకటించండి.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "పాడండి"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "యాహ్వేకు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ప్రకటించండి"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "దినము నుండి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "יום",
+      "gloss": "దినము"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "ఆయన రక్షణను"
+    }
+  ],
+  "timestamp": "2026-08-18T03:30:08.507593784Z",
+  "model": "glm-5.3"
+}

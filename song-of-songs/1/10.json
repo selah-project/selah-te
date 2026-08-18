@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "అందమైనవి నీ కనుబొమ్మలు దండెలతో, నీ కంఠము పూసల గొలుసులతో.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "అందమైనవి"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "నీ కనుబొమ్మలు"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "దండెలతో"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "నీ కంఠము"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "పూసల గొలుసులతో"
+    }
+  ],
+  "timestamp": "2026-08-18T02:22:57.281663669Z",
+  "model": "glm-5.3"
+}

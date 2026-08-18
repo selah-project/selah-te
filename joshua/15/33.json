@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "లోయలో: ఎష్తావోల్, త్సోరా, అష్నా.",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "లోయలో"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "ఎష్తావోల్"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "త్సోరా"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "అష్నా"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:47.497341927Z",
+  "model": "glm-5.3"
+}

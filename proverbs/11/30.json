@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "నీతిగలవాని ఫలము జీవవృక్షము; మరియు ప్రాణాలను పొందువాడు జ్ఞాని.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "ఫలము"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "నీతిగలవాని"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "వృక్షము"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "జీవ"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "మరియు పొందువాడు"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "ప్రాణాలను"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "జ్ఞాని"
+    }
+  ],
+  "timestamp": "2026-08-18T01:44:23.037501842Z",
+  "model": "glm-5.3"
+}

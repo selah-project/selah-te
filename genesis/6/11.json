@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "భూమి ఎలోహీం సన్నిధిలో పాడైనది, భూమి హింసతో నిండియుండెను.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "పాడైనది"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "సన్నిధిలో"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "నిండినది"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "హింస"
+    }
+  ],
+  "timestamp": "2026-08-17T17:06:13.238551387Z",
+  "model": "glm-5.3"
+}

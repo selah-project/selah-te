@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "త్సాదోక్ అతని కుమారుడు, అహీమాత్స్ అతని కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "త్సాదోక్"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "అతని కుమారుడు"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "అహీమాత్స్"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "అతని కుమారుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:35.766537937Z",
+  "model": "glm-5.3"
+}

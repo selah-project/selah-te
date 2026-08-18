@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "జెరఖ్యా కుమారుడు, ఉజ్జీ కుమారుడు, బుక్కీ కుమారుడు,",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "జెరఖ్యా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ఉజ్జీ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "బుక్కీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:04:24.547052180Z",
+  "model": "glm-5.3"
+}

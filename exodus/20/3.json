@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "నా సన్నిధిలో నీకు ఇతర దేవులు ఉండకూడదు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు \/ ఉండకూడదు"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ఉండుట"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "దేవులు"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ఇతర"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద \/ సన్నిధిలో"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ముఖం"
+    }
+  ],
+  "timestamp": "2026-08-17T17:47:55.652492675Z",
+  "model": "glm-5.3"
+}

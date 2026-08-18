@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "అందరూ ఒకే చోటునకు పోవుచున్నారు; అందరూ ధూళియులోనినుండి ⟨ఉన్నారు⟩, మరియు అందరూ ధూళియునకు తిరిగి వెళ్లుదురు.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "అందరూ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "పోవుచున్నారు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "నకు"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "చోటు"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకే"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "అందరూ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ఉన్నారు⟩"
+    },
+    {
+      "surface": "מן",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ధూళి"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "మరియు అందరూ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "తిరిగి వెళ్లుదురు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "నకు"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ధూళి"
+    }
+  ],
+  "timestamp": "2026-08-18T12:52:39.867306590Z",
+  "model": "glm-5.3"
+}

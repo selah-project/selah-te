@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 48,
+  "translation": "కిర్యతాయిం మీద, బేత్-గాముల్ మీద, బేత్-మెయోన్ మీద.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "మరియు మీద"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "కిర్యతాయిం"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "మరియు మీద"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్-"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "గాముల్"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "మరియు మీద"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "మెయోన్"
+    }
+  ],
+  "timestamp": "2026-08-17T23:58:17.296182278Z",
+  "model": "glm-5.3"
+}

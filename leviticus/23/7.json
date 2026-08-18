@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మొదటి దినమందు మీకు పరిశుద్ధ సమావేశము ఉండును; ఏ దాస్య పనియు చేయవలదు.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "దినమందు"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "మొదటి"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "సమావేశము"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "పరిశుద్ధ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ఉండును"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీకు"
+    },
+    {
+      "surface": "ఛל",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "పని"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "దాస్య"
+    },
+    {
+      "surface": "לא",
+      "gloss": "వలదు"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "చేయ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:27:34.054836847Z",
+  "model": "glm-5.3"
+}

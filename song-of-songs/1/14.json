@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "నా ప్రియుడు నాకు హెన్నా పుష్పగుత్తుల కమ్మి; ఏయిన్-గెదీ ద్రాక్షతోటలలో.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "కమ్మి"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "హెన్నా పుష్పగుత్తుల"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "నా ప్రియుడు"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "ద్రాక్షతోటలలో"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ఏయిన్"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "గెదీ"
+    }
+  ],
+  "timestamp": "2026-08-18T02:23:12.956650533Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "షాఅలబ్బీన్, అయ్యాలోన్, యిత్లా.",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "షాఅలబ్బీన్"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "అయ్యాలోన్"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "యిత్లా"
+    }
+  ],
+  "timestamp": "2026-08-18T05:06:15.534021805Z",
+  "model": "glm-5.3"
+}

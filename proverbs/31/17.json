@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 31:17",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "తన నడుమును బలంతో కట్టెను, తన భుజాలను దృఢపరచుకున్నది.",
+  "tokens": [
+    {
+      "surface": "חגרה",
+      "gloss": "కట్టెను"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "బలంతో"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "తన నడుమును"
+    },
+    {
+      "surface": "ותאמץ",
+      "gloss": "మరియు దృఢపరచెను"
+    },
+    {
+      "surface": "זרעותיה",
+      "gloss": "తన భుజాలను"
+    }
+  ],
+  "timestamp": "2026-08-18T01:57:44.307012231Z",
+  "model": "glm-5.3"
+}

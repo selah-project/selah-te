@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఒంటెలు నాలుగు వందల ముప్పై ఐదు; గాడిదలు ఆరు వేలు ఏడు వందల ఇరవై ⟨మూడు⟩.",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "ఒంటెలు"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ముప్పై"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "మరియు ఐదు"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "గాడిదలు"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "వేలు"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "మరియు ఇరవై"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:34.541905355Z",
+  "model": "glm-5.3"
+}

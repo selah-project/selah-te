@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మూర్ఖుల శ్రమ వారిని అలిపించును; అతడు పట్టణమునకు ఎలా వెళ్ళవలెనో తెలియని వాడు.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "శ్రమ"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "మూర్ఖుల"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "వారిని అలిపించును"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "తెలియని"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "వెళ్ళుటకు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపునకు"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "పట్టణమునకు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:28.677222208Z",
+  "model": "glm-5.3"
+}

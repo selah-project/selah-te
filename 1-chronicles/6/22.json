@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "తాహత్ కుమారుడు, అస్సీరు కుమారుడు, ఎబ్యాసాఫు కుమారుడు, కోరహు కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "తాహత్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "అస్సీరు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "ఎబ్యాసాఫు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "కోరహు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:34:51.485992196Z",
+  "model": "glm-5.3"
+}

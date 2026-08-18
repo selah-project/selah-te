@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "మియ్యామిన్, మాఅద్యా, బిల్గా —",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "మియ్యామిన్"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "మాఅద్యా"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "బిల్గా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:17:34.941352561Z",
+  "model": "glm-5.3"
+}

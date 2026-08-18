@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "లంచం దాని యజమాని కళ్ళలో అనుగ్రహ రత్నం; అతడు తిరిగే ప్రతి దిశలోనూ అది ⟨prospers⟩.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "రత్నం"
+    },
+    {
+      "surface": "חן",
+      "gloss": "అనుగ్రహ"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "లంచం"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "కళ్ళలో"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "దాని యజమాని"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "తిరిగే దిశలో"
+    },
+    {
+      "surface": "ישఛיל",
+      "gloss": "విజయం పొందును"
+    }
+  ],
+  "timestamp": "2026-08-18T01:47:37.986455743Z",
+  "model": "glm-5.3"
+}

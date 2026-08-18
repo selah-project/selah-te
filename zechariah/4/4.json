@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "నేను ప్రత్యుత్తరమిచ్చి నాతో మాటలాడుచున్న ⟨the⟩ దూతతో ఈలాగు చెప్పెను — నా యజమాని, ఇవి ఏమిటి?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "నేను ప్రత్యుత్తరమిచ్చి"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "చెప్పెను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "המלאచ",
+      "gloss": "దూత"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "మాటలాడుచున్న"
+    },
+    {
+      "surface": "בי",
+      "gloss": "నాతో"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఈలాగు"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఏమి"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ఇవి"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "నా యజమాని"
+    }
+  ],
+  "timestamp": "2026-08-18T00:48:35.496046169Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "దోరు ప్రాంతపు దోరు రాజు ఒకడు; గిల్గాలులోని గోయీం రాజు ఒకడు.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "דור",
+      "gloss": "దోరు"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "ప్రాంతపు"
+    },
+    {
+      "surface": "דור",
+      "gloss": "దోరు"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "గోయీం"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "గిల్గాలులోని"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:44:17.709205213Z",
+  "model": "glm-5.3"
+}

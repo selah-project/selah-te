@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఎందుచేతనంటే ఆ భూమిమీద మంచిని చేసి, పాపం చేయని నీతిమంతుడు ⟨ఏడు⟩ లేడు",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుచేతనంటే"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మానవుడు"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేడు"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "నీతిమంతుడు"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ఆ భూమిమీద"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఎవడు"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "చేయును"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచి"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు చేయడు"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "పాపం చేయును"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:39.695952190Z",
+  "model": "glm-5.3"
+}

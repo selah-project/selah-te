@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "చిరాకు నవ్వుట కంటె మిన్న; ఎందుకంటే ముఖ కాఠిన్యము వలన హృదయము మేలు పొందును.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మిన్న"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "చిరాకు"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "నవ్వుట కంటె"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "కాఠిన్యము వలన"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ముఖ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "మేలు పొందును"
+    },
+    {
+      "surface": "לב",
+      "gloss": "హృదయము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:22.381524370Z",
+  "model": "glm-5.3"
+}

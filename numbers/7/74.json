@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బంగారు చెంబు ఒకటి పది త్రాసులు, ధూపద్రవ్యంతో నిండినది.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "చెంబు"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది"
+    },
+    {
+      "surface": "ఖహబ",
+      "gloss": "బంగారు"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "నిండినది"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ధూపద్రవ్యంతో"
+    }
+  ],
+  "timestamp": "2026-08-17T19:26:02.885700441Z",
+  "model": "glm-5.3"
+}

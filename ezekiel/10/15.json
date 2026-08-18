@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 10:15",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "కెరూబీములు ఎగసారు — నేను కెబారు నది వద్ద చూసిన జీవి ఇదే.",
+  "tokens": [
+    {
+      "surface": "וירמו",
+      "gloss": "మరియు ఎగసారు"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ఆ కెరూబీములు"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ఇదే"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "ఆ జీవి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేనినో"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "నేను చూచితిని"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "నదీ ఒడి"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "కెబారు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:06:53.637442610Z",
+  "model": "glm-5.3"
+}

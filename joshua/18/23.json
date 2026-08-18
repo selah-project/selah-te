@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "హ-అవ్వీం, హ-పారా, ఒఫ్రా.",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "మరియు హ-అవ్వీం"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "మరియు హ-పారా"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "మరియు ఒఫ్రా"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:41.570717527Z",
+  "model": "glm-5.3"
+}

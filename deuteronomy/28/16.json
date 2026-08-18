@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "పట్టణమందు నీవు శపింపబడినవాడవు, మరియు పొలమందు నీవు శపింపబడినవాడవు.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "శపింపబడిన"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవు"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "పట్టణమందు"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "మరియు శపింపబడిన"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవు"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "పొలమందు"
+    }
+  ],
+  "timestamp": "2026-08-18T05:02:13.315282094Z",
+  "model": "glm-5.3"
+}

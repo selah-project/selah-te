@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "లేయా దాసి ⟨జిల్పా⟩ ⟨యాకోవుకు⟩ కుమారుని కనెను.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "కనెను"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "జిల్పా"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "దాసి"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "లేయా"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "యాకోవుకు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:19:30.296008741Z",
+  "model": "glm-5.3"
+}

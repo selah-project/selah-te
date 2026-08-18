@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "బిల్హా, రాహేలు దాసి, మరల గర్భవతి అయ్యెను, యాకోవుకు రెండవ కుమారుని కనెను.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "గర్భవతి అయ్యెను"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "మరల"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "కనెను"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "బిల్హా"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "దాసి"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "రాహేలు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "שני",
+      "gloss": "రెండవ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "యాకోవుకు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:20:58.817937703Z",
+  "model": "glm-5.3"
+}

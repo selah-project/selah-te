@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 2:5",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నేను నా కళ్ళు ఎత్తి చూచితిని, ఇదిగో ఒక పురుషుడు, అతని చేతిలో ⟨the⟩ కొలత త్రాడు ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ఎత్తితిని"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "నా కళ్ళు"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "చూచితిని"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ఇదిగో"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ఒక పురుషుడు"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "అతని చేతిలో"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "త్రాడు"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "కొలత"
+    }
+  ],
+  "timestamp": "2026-08-18T06:09:25.970806050Z",
+  "model": "glm-5.3"
+}

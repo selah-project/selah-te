@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "వారు మఖేలోత్ నుండి బయలుదేరి తఖత్‌లో పడకలు వేసిరి.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "బయలుదేరిరి"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "మఖేలోత్ నుండి"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "పడకలు వేసిరి"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "తఖత్‌లో"
+    }
+  ],
+  "timestamp": "2026-08-17T20:33:37.878755712Z",
+  "model": "glm-5.3"
+}

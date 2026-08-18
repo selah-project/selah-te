@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "అసా రాజ్యము యొక్క ముప్పది మరియు ఐదవ సంవత్సరము వరకు యుద్ధము ఉండలేదు.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "మరియు యుద్ధము"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "జరిగింది"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "సంవత్సరము"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ముప్పది"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "మరియు ఐదు"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "రాజ్యము యొక్క"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "అసా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:50:58.285419083Z",
+  "model": "glm-5.3"
+}

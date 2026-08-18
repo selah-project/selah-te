@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "షామేరు కుమారులు — అఖీ, రోహ్గా, యెఖుబ్బా, అరాం.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "షామేరు"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "అఖీ"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "మరియు రోహ్గా"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "యెఖుబ్బా"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "మరియు అరాం"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:37.276098721Z",
+  "model": "glm-5.3"
+}

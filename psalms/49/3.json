@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 49,
+  "translation": "అలాగే మానవులు అలాగే గొప్పవారు, కలిసి ధనికుడును దరిద్రుడును.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "అలాగే"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మానవులు"
+    },
+    {
+      "surface": "גם",
+      "gloss": "అలాగే"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "איש",
+      "gloss": "గొప్పవారు"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "కలిసి"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ధనికుడు"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "దరిద్రుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:06:19.648661251Z",
+  "model": "glm-5.3"
+}

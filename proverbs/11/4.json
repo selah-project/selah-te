@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "కోపదినమున ధనము ఉపయోగపడదు; నీతి మరణము నుండి విడిపించును.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ఉపయోగపడును"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ధనము"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "దినమున"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "కోపము"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "మరియు నీతి"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "విడిపించును"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "మరణము నుండి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:44:22.030728501Z",
+  "model": "glm-5.3"
+}

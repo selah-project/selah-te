@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నా ప్రజలందరికి నేను నవ్వుపాటగు నయ్యెను; వారి పాట నాపై కలిగి యుండెను — దినమంతా.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "నేను ఆయెను"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "నవ్వుపాటగు"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "అందరికి"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "నా ప్రజల"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "వారి పాట"
+    },
+    {
+      "surface": "כל",
+      "gloss": "అంతా"
+    },
+    {
+      "surface": "היום",
+      "gloss": "దినము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:05.420065320Z",
+  "model": "glm-5.3"
+}

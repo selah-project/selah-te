@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు షెలోమోహ్ ఖమాత్-త్సోవాహ్‌కు వెళ్లెను, మరియు దానిపై బలపడెను.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "మరియు వెళ్లెను"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "షెలోమోహ్"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ఖమాత్"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "త్సోవాహ్"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "మరియు బలపడెను"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "దానిపై"
+    }
+  ],
+  "timestamp": "2026-08-18T03:48:57.317153536Z",
+  "model": "glm-5.3"
+}

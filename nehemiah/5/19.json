@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "నా దేవుడా, ఈ ప్రజలకు నేను చేసిన ⟨సమస్తము⟩ మంచి కొరకు నన్ను స్మరించుము।",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "స్మరించుము"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నన్ను"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "నా దేవుడా"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "మంచి కొరకు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్తము"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అది యెవరైతే"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "నేను చేసిన"
+    },
+    {
+      "surface": "על",
+      "gloss": "కొరకు"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ప్రజల"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:09:54.009206514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 66,
+  "translation": "ఒకవేళ నా హృదయంలో అధర్మాన్ని చూసి యుంటే, అదోనాయ్ వినడు.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "అధర్మం"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ఒకవేళ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "చూసి యుంటే"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "నా హృదయంలో"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "వినడు"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "అదోనాయ్"
+    }
+  ],
+  "timestamp": "2026-08-18T01:10:01.217074704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "మంత్రగత్తెను నువ్వు బ్రతకనివ్వవద్దు.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "మంత్రగత్తెను"
+    },
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "బ్రతకనివ్వు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:51:03.423255290Z",
+  "model": "glm-5.3"
+}

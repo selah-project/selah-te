@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 46,
+  "translation": "రండి, యాహ్వే క్రియలను చూడండి — ఆయన భూమిమీద విధ్వంసాలను ఉంచాడు.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "రండి"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "చూడండి"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "క్రియలను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఆయన"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ఉంచాడు"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "విధ్వంసాలను"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "భూమిమీద"
+    }
+  ],
+  "timestamp": "2026-08-18T01:05:03.658027219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 119,
+  "translation": "అవును, అన్యాయాన్ని చేయలేదు; అతని దారులలో నడిచారు.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "అవును,"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "చేయ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "అన్యాయాన్ని"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "అతని దారులలో"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "నడిచారు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:28:50.262134091Z",
+  "model": "glm-5.3"
+}

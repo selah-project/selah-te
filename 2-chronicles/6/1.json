@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "అప్పుడు షెలోమో పలికెను — యాహ్వే అన్నాడు, మబ్బుచీకటిలో నివసించుటకు.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "అప్పుడు"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "పలికెను"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "షెలోమో"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "అన్నాడు"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "నివసించుటకు"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "మబ్బుచీకటిలో"
+    }
+  ],
+  "timestamp": "2026-08-18T03:45:58.861298218Z",
+  "model": "glm-5.3"
+}

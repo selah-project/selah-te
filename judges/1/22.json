@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "యోసేఫు కుటుంబము కూడా ⟨అదే⟩ బేత్-ఏల్ మీదికి ఎక్కిపోయెను; యాహ్వే వారితో ఉండెను.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ఎక్కిపోయెను"
+    },
+    {
+      "surface": "בית",
+      "gloss": "కుటుంబము"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "యోసేఫు"
+    },
+    {
+      "surface": "గము",
+      "gloss": ""
+    },
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "הם",
+      "gloss": "వారే"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "వారితో ఉండెను"
+    }
+  ],
+  "timestamp": "2026-08-18T09:08:50.405563089Z",
+  "model": "glm-5.3"
+}

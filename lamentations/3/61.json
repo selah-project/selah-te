@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "వారి నిందను విన్నావు యాహ్వే, నన్ను గురించి వారి కుట్రలన్నిటినీ.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "విన్నావు"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "వారి నింద"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "כל",
+      "gloss": "అన్నిటినీ"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "వారి కుట్రలు"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "నన్ను గురించి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:17.709315629Z",
+  "model": "glm-5.3"
+}

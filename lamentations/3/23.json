@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ప్రతి ఉదయమున అవి కొత్తవి; నీ నమ్మకస్థత గొప్పది.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "కొత్తవి"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ప్రతి ఉదయమున"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "గొప్పది"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "నీ నమ్మకస్థత"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:52.989698141Z",
+  "model": "glm-5.3"
+}

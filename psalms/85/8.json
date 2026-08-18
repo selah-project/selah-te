@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 85,
+  "translation": "యాహ్వే, నీ కృపను మనకు చూపుము, నీ రక్షణను మనకు ఇచ్చుము.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "మనకు చూపుము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "నీ కృపను"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "మరియు నీ రక్షణను"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ఇచ్చుము"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "మనకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:18:13.199546639Z",
+  "model": "glm-5.3"
+}

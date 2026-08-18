@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "మహ్లీకి ఎలియాజర్; అతనికి కుమారులు ⟨లేరు⟩.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "మహ్లీకి"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ఎలియాజర్"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు లేదు"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ఉండెను"
+    },
+    {
+      "surface": "לו",
+      "gloss": "అతనికి"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "కుమారులు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:36:30.909244862Z",
+  "model": "glm-5.3"
+}

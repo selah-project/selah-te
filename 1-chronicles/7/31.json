@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మరియు బెరియా కుమారులు — హెబెర్, మల్కీయేల్; అతడే బిర్జోత్ తండ్రి.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "బెరియా"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "హెబెర్"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "మరియు మల్కీయేల్"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అతడే"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "తండ్రి"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "బిర్జోత్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:27:20.648243094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "అదామా, రామా, హాజోరు.",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "అదామా"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "రామా"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "హాజోరు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:48:29.119777482Z",
+  "model": "glm-5.3"
+}

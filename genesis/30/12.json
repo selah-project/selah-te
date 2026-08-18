@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "లేయా దాసి ⟨జిల్పా⟩ ⟨యాకోవుకు⟩ రెండవ కుమారుని కనెను.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "కనెను"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "జిల్పా"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "దాసి"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "లేయా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "שני",
+      "gloss": "రెండవ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "యాకోవుకు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:19:30.296338897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "గిబ్బార్ కుమారులు — తొంభై ఐదుగురు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "గిబ్బార్"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "తొంభై"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ఐదుగురు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:53.334029937Z",
+  "model": "glm-5.3"
+}

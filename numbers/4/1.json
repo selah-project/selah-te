@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "యాహ్వే మోషేకు మరియు అహరోనుకు ఆ విధంగా అనుగ్రహించెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వద్దకు"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "మరియు వద్దకు"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "అహరోను"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఈ విధంగా అనుగ్రహించుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:33:02.726248186Z",
+  "model": "glm-5.3"
+}

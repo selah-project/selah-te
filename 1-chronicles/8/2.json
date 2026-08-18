@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "నోహా నాలుగడవవాడు, మరియు రాఫా అయిదడవవాడు.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "నోహా"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "నాలుగడవవాడు"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "మరియు రాఫా"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "అయిదడవవాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:26:07.336773116Z",
+  "model": "glm-5.3"
+}

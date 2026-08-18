@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 38,
+  "translation": "నన్ను విడనాడకుము యాహ్వే నా ఎలోహీం, నా నుండి దూరము కాకుము.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "కాకుము"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "నన్ను విడనాడకుము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "నా ఎలోహీం"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కాకుము"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "దూరము"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "నా నుండి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:02:51.558064166Z",
+  "model": "glm-5.3"
+}

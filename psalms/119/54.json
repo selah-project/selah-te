@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "psalms 119:54",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 119,
+  "translation": "నా తిరుగుప్రయాణ గృహంలో నీ చుక్కులు నాకు పాటలై యున్నవి.",
+  "tokens": [
+    {
+      "surface": "זמרות",
+      "gloss": "పాటలు"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ఉన్నవి"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "నీ చుక్కులు"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "గృహంలో"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "నా తిరుగుప్రయాణ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:29:01.124200944Z",
+  "model": "glm-5.3"
+}

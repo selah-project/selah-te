@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "వారు తఖత్ నుండి బయలుదేరి తెరఖ్‌లో పడకలు వేసిరి.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "బయలుదేరిరి"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "తఖత్ నుండి"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "పడకలు వేసిరి"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "తెరఖ్‌లో"
+    }
+  ],
+  "timestamp": "2026-08-17T20:33:37.878894605Z",
+  "model": "glm-5.3"
+}

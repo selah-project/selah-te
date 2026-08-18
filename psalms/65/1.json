@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 65,
+  "translation": "గాననాయకునికి, మిజ్మోర్, దావీదుది, పాట.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "గాననాయకునికి"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "మిజ్మోర్"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదుది"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "పాట"
+    }
+  ],
+  "timestamp": "2026-08-18T01:10:19.090013870Z",
+  "model": "glm-5.3"
+}

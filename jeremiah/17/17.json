@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "నాకు భయంకరమైనదిగా ఉండకు; కష్ట దినమున నీవే నా ఆశ్రయము.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ఉండకు"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ఉండకు"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "భయంకరమైనదిగా"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "నా ఆశ్రయము"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవే"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "దినమున"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "కష్ట"
+    }
+  ],
+  "timestamp": "2026-08-17T23:42:45.966014884Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "యిహూదు, బెనే-బరక్, గత్-రిమ్మోన్ —",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "యిహూదు"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "బెనే"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "బరక్"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "గత్"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "రిమ్మోన్"
+    }
+  ],
+  "timestamp": "2026-08-17T21:48:30.470278663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "కళ్ళ చూడటం కంటే మనసు సంచరణ మేలు; ఇదికూడా హెబెల్ మరియు రుచి పుట్టించని ప్రతిఫలం — గాలి కోరిక.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మేలు"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "చూడటం"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "కళ్ళ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "సంచరణ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "మనసు"
+    },
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "హెబెల్"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "మరియు రుచి పుట్టించని ప్రతిఫలం"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "గాలి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:38:40.857466873Z",
+  "model": "glm-5.3"
+}

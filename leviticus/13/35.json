@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "వాని శుద్ధీకరణ తరువాత హెన్‌తెక్ చర్మములో బాగా పరచుకుంటే",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ఒకవేళ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "పరచుకుంటే"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "బాగా పరచుకుంటే"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "హెన్‌తెక్"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "చర్మములో"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "తరువాత"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "వాని శుద్ధీకరణ"
+    }
+  ],
+  "timestamp": "2026-08-17T18:15:18.082430354Z",
+  "model": "glm-5.3"
+}

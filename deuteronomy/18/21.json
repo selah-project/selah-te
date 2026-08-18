@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "మరియు నీ హృదయంలో నువ్వు 'యాహ్వే మాట్లాడని ⟨את⟩ ⟨the⟩ మాటను మనం ఎలా తెలుసుకుంటాము?' అని అనుకుంటే —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "మరియు...అయితే"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "నువ్వు అనుకుంటే"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "నీ హృదయంలో"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "ఎలా"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "మనం తెలుసుకుంటాము"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ మాటను"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ మాట"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దానిని"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "మాట్లాడని"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T21:14:13.804369129Z",
+  "model": "glm-5.3"
+}

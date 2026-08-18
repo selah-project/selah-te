@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "మరియు ఏల్తోలద్ మరియు కెసీల్ మరియు ఖోర్మా",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "మరియు ఏల్తోలద్"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "మరియు కెసీల్"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "మరియు ఖోర్మా"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:25.272340957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "గర్వము వచ్చినప్పుడు నింద కూడా వచ్చును; వినయులతో ⟨את⟩ జ్ఞానము ⟨is⟩.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "వచ్చును"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "గర్వము"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "మరియు వచ్చును"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "నింద"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "వినయులను"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "వినయులు"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "జ్ఞానము"
+    }
+  ],
+  "timestamp": "2026-08-18T01:44:22.030347345Z",
+  "model": "glm-5.3"
+}

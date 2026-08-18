@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 81,
+  "translation": "నీలో పరదైవం ఉండకూడదు; పరదేవునికి సాగిలిపోవకూడదు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ఉండకూడదు"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ఉండదు"
+    },
+    {
+      "surface": "בך",
+      "gloss": "నీలో"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "זר",
+      "gloss": "పరమైన"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు కాకూడదు"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "సాగిలిపోవకూడదు"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ఏల్ కు"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "పరదేశ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:17:09.926374919Z",
+  "model": "glm-5.3"
+}

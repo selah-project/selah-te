@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "పేదయైన మరియు జ్ఞానియైన బాలుడు, ఇంక హెచ్చరిక వినడం తెలియని వృద్ధయైన మూర్ఖ రాజు కంటే ⟨మంచి⟩వాడు.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మంచి"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "బాలుడు"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "పేద"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "మరియు జ్ఞాని"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "…కంటే రాజు"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "వృద్ధ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "మరియు మూర్ఖుడు"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అతడు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "తెలియదు"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "హెచ్చరిక వినుటకు"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ఇంక"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:53.405908740Z",
+  "model": "glm-5.3"
+}

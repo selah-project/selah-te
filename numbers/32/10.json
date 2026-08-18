@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "అప్పుడు ఆ రోజున యాహ్వే కోపం మండింది, ఆయన ప్రమాణం చేసి ఇలా అనెను.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "మండింది"
+    },
+    {
+      "surface": "אף",
+      "gloss": "కోపం"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "రోజున"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ప్రమాణం చేసెను"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా అనుట"
+    }
+  ],
+  "timestamp": "2026-08-17T20:29:24.667094581Z",
+  "model": "glm-5.3"
+}

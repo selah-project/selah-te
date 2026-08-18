@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "మరియు జనులు మోషేపై మ్రోగినారు — మేము ఏమి త్రాగవలెనా? అని.",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "మ్రోగినారు"
+    },
+    {
+      "surface": "העם",
+      "gloss": "జనులు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇట్లని"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఏమి"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "మేము త్రాగవలెనా"
+    }
+  ],
+  "timestamp": "2026-08-17T17:44:05.568114219Z",
+  "model": "glm-5.3"
+}

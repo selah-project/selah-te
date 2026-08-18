@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "ఖాత్సోర్, రామా, గిత్తయీం.",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "ఖాత్సోర్"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "రామా"
+    },
+    {
+      "surface": "ఒప్పుదల గిత్తయీం",
+      "gloss": "గిత్తయీం"
+    }
+  ],
+  "timestamp": "2026-08-18T03:17:54.530612628Z",
+  "model": "glm-5.3"
+}

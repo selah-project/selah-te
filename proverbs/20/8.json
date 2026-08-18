@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "న్యాయాసనంపై కూర్చున్న రాజు తన కళ్లతో సమస్త చెడును పందిరిస్తాడు.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "కూర్చున్న"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ఆసనం"
+    },
+    {
+      "surface": "דין",
+      "gloss": "న్యాయం"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "పందిరిస్తాడు"
+    },
+    {
+      "surface": "בעיניव",
+      "gloss": "తన కళ్లతో"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "רע",
+      "gloss": "చెడు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:49:43.786829853Z",
+  "model": "glm-5.3"
+}

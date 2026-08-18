@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "మరియు యాహ్వే మిస్రయిము దేశమందు మోషేతో మాటలాడిన దినమందు యిది జరిగెను.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "జరిగెను"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "దినమందు"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాటలాడిన"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "దేశమందు"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "మిస్రయిము"
+    }
+  ],
+  "timestamp": "2026-08-17T17:39:08.557210689Z",
+  "model": "glm-5.3"
+}

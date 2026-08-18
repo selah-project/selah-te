@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 19,
+  "translation": " సంగీత నిర్వాహకునికి, దావీదు మజ్మోరు.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "సంగీత నిర్వాహకునికి"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "మజ్మోరు"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదుకు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:57:29.377543763Z",
+  "model": "glm-5.3"
+}

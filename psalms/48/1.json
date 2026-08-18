@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 48,
+  "translation": "పాట, మజ్మోరు, కోరహు కుమారులకు.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "పాట"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "మజ్మోరు"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "కుమారులకు"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "కోరహు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:06:04.373898981Z",
+  "model": "glm-5.3"
+}

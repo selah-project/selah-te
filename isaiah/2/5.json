@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "యాకోవ్ ఇంటివారికే, రండి, యాహ్వే వెలుగులో నడచుకుందాం.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ఇల్లు"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "యాకోవ్"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "రండి"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "నడచుకుందాం"
+    },
+    {
+      "surface": "באור",
+      "gloss": "వెలుగులో"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T23:06:08.601808463Z",
+  "model": "glm-5.3"
+}

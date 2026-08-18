@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "యావాను కుమారులు: ఎలీషా, తర్షీషా, కిత్తీయులు, రోదానీయులు.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "יון",
+      "gloss": "యావాను"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "ఎలీషా"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "తర్షీషా"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "కిత్తీయులు"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "రోదానీయులు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:59.785049699Z",
+  "model": "glm-5.3"
+}

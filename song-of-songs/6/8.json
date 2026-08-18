@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "అరవై మంది రాణులు ఉన్నారు, ఎనభై మంది ఉపపత్నులు, మరియు కన్యలకు లెక్క లేదు.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "అరవై"
+    },
+    {
+      "surface": "המה",
+      "gloss": "వారు"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "రాణులు"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "మరియు ఎనభై"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "ఉపపత్నులు"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "మరియు కన్యలు"
+    },
+    {
+      "surface": "אין",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "లెక్క"
+    }
+  ],
+  "timestamp": "2026-08-18T06:17:13.881944467Z",
+  "model": "glm-5.3"
+}

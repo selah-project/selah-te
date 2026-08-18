@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "ఎలోహీం బిల్ఆమ్ దగ్గరకు వచ్చి — ఈ నరులు ఎవరు, నీతో ⟨ఉన్నారు⟩? అని అడిగెను.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "వచ్చెను"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "אל",
+      "gloss": "దగ్గరకు"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "బిల్ఆమ్"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "మరియు అనెను"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ఎవరు"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "ఈ నరులు"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "నీతో"
+    }
+  ],
+  "timestamp": "2026-08-18T04:44:28.665919539Z",
+  "model": "glm-5.3"
+}

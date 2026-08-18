@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 115,
+  "translation": "వారి విగ్రహాలు వెండి మరియు బంగారం — మానవ చేతుల కృతం.",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "వారి విగ్రహాలు"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "వెండి"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "మరియు బంగారం"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "కృతం"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "చేతుల"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మానవ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:27:30.247357648Z",
+  "model": "glm-5.3"
+}

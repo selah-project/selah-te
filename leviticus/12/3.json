@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "మరియు ఎనిమిదవ దినమందు అతని అంగిలి మాంసము సున్నతమగును.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "మరియు...దినమందు"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ఎనిమిదవ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "సున్నతమగును"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "మాంసము"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "అతని అంగిలి"
+    }
+  ],
+  "timestamp": "2026-08-17T18:14:05.497273891Z",
+  "model": "glm-5.3"
+}

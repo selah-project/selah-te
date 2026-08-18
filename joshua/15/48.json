@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "మరియు ⟨in⟩ పర్వతప్రాంతములో: షామీర్, యత్తీర్, షోకో.",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "మరియు పర్వతప్రాంతములో"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "షామీర్"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "యత్తీర్"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "షోకో"
+    }
+  ],
+  "timestamp": "2026-08-18T05:06:23.436200326Z",
+  "model": "glm-5.3"
+}

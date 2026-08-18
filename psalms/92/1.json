@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 92,
+  "translation": "ఒక మజ్మోర్, ఒక గీతం — షబ్బాతు దినమునకు.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "మజ్మోర్"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "గీతం"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "దినమునకు"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "షబ్బాతు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:20:30.835949517Z",
+  "model": "glm-5.3"
+}

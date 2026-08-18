@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "లోద్, మరియు ఓనో, చేతివృత్తులవారి లోయ.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "లోద్"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "మరియు ఓనో"
+    },
+    {
+      "surface": "גי",
+      "gloss": "లోయ"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "చేతివృత్తులవారి"
+    }
+  ],
+  "timestamp": "2026-08-18T03:17:54.530966119Z",
+  "model": "glm-5.3"
+}

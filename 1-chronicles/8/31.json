@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు గెదోర్, మరియు అహ్యో, మరియు జఖెర్.",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "మరియు గెదోర్"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "మరియు అహ్యో"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "మరియు జఖెర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:26:50.050492717Z",
+  "model": "glm-5.3"
+}

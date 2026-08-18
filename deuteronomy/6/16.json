@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "యాహ్వే నీ ఎలోహీంను ⟨את⟩ పరీక్షించకూడదు, మస్సాలో పరీక్షించినట్టు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "పరీక్షించకూడదు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "యాహ్వే నీ ఎలోహీంను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "నీ ఎలోహీం"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "విధంగా"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "పరీక్షించినట్టు"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "మస్సాలో"
+    }
+  ],
+  "timestamp": "2026-08-17T20:54:24.228988Z",
+  "model": "glm-5.3"
+}

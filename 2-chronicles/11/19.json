@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మరియు ఆమె అతనికి కుమారులను కనెను — యెయూషును ⟨את⟩, షెమర్యాను ⟨את⟩, మరియు జహామును ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "కనెను"
+    },
+    {
+      "surface": "לו",
+      "gloss": "అతనికి"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "కుమారులను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "యెయూషును"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "యెయూషు"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "షెమర్యాను"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "షెమర్యా"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "జహామును"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "జహాము"
+    }
+  ],
+  "timestamp": "2026-08-18T03:49:12.501451767Z",
+  "model": "glm-5.3"
+}

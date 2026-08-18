@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "మరియు అతడు ఒక పక్షిని బంకమట్టి పాత్రలో సజీవజలములపై వధింపవలెను.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "మరియు వధించవలెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "పక్షిని"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "పక్షిని"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ఒకదానిని"
+    },
+    {
+      "surface": "אל",
+      "gloss": "లోకి"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "పాత్ర"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "బంకమట్టి"
+    },
+    {
+      "surface": "על",
+      "gloss": "పైన"
+    },
+    {
+      "surface": "מים",
+      "gloss": "జలముల"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "సజీవమైన"
+    }
+  ],
+  "timestamp": "2026-08-17T18:15:40.749884659Z",
+  "model": "glm-5.3"
+}

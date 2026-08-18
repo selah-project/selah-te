@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "యాహ్వే దూత యిహోషువను సాక్షిగా హెచ్చరించెను, సెలవిచ్చుటకు:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "సాక్షిగా హెచ్చరించెను"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "దూత"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "యిహోషువను"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:48:23.493098167Z",
+  "model": "glm-5.3"
+}

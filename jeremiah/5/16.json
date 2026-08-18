@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "వారి బాణపేటిక ⟨ఆ⟩ తెరచిన సమాధివలె; వారందరూ బలవంతులు.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "వారి బాణపేటిక"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "సమాధివలె"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "తెరచిన"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "వారందరూ"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "బలవంతులు"
+    }
+  ],
+  "timestamp": "2026-08-17T23:37:08.008336219Z",
+  "model": "glm-5.3"
+}

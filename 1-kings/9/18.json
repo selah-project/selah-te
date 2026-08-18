@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "⟨את⟩ బాలత్‌ను ⟨את⟩ తామార్‌ను ఎడారిలో, ⟨the⟩ దేశంలో ⟨కూడా⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "బాలత్‌ను"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "బాలత్"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "తామార్‌ను"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "తామార్"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ఎడారిలో"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "దేశంలో"
+    }
+  ],
+  "timestamp": "2026-08-17T22:42:23.370557170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "అజారేల్, షెలెమ్యాహు, షెమర్యాహు.",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "అజారేల్"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "మరియు షెలెమ్యాహు"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "షెమర్యాహు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:06:01.443624684Z",
+  "model": "glm-5.3"
+}

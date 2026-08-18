@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "యాహ్వే మోషేతో పలికెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "పలికెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "చెప్పుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:47:04.256471637Z",
+  "model": "glm-5.3"
+}

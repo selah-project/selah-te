@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "ఆమె భర్త హృదయము ఆమెయందు నమ్మకముంచెను, మరియు లాభము అతనికి లోటు కాదు.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "నమ్మకముంచెను"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ఆమెయందు"
+    },
+    {
+      "surface": "לב",
+      "gloss": "హృదయము"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ఆమె భర్త"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "మరియు లాభము"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "లోటు అవుతుంది"
+    }
+  ],
+  "timestamp": "2026-08-18T01:57:40.527510954Z",
+  "model": "glm-5.3"
+}

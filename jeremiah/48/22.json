@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 48,
+  "translation": "దీబోన్ మీద, నెబో మీద, బేత్-దిబ్లతాయిం మీద.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "మరియు మీద"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "దీబోన్"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "మరియు మీద"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "నెబో"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "మరియు మీద"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్-"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "దిబ్లతాయిం"
+    }
+  ],
+  "timestamp": "2026-08-17T23:58:17.296076040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఎవడు ⟨అతనే⟩ చెప్పినాడు మరియు ⟨అది⟩ జరిగినది, అదోనాయ్ ఆజ్ఞాపించని యెడల?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ఎవడు"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨అతనే⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "చెప్పినాడు"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "మరియు ⟨అది⟩ జరిగినది"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "అదోనాయ్"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ఆజ్ఞాపించలేదు"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ఆజ్ఞాపించు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:45.566580652Z",
+  "model": "glm-5.3"
+}

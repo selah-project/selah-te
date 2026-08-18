@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "అన్ని చేతులు బలహీనపడును, అన్ని మోకాళ్లు నీటివలె ⟨కార్చును⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "అన్ని"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "చేతులు"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "బలహీనపడును"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "మరియు అన్ని"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "మోకాళ్లు"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "పోవును"
+    },
+    {
+      "surface": "מים",
+      "gloss": "నీటివలె"
+    }
+  ],
+  "timestamp": "2026-08-18T00:04:48.777409210Z",
+  "model": "glm-5.3"
+}

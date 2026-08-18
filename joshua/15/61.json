@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "అరణ్యమందు: బేత్-హాఅరాబా, మిద్దీన్, సెకాకా",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "అరణ్యమందు"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "హాఅరాబా"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "మిద్దీన్"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "సెకాకా"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:25.154203174Z",
+  "model": "glm-5.3"
+}

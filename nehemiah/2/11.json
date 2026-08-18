@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నేను యెరూషలాయిం చేరి, అక్కడ మూడు దినములు ఉండితిని.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "చేరి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "దగ్గరకు"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "యెరూషలాయిం"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ఉండితిని"
+    },
+    {
+      "surface": "שם",
+      "gloss": "అక్కడ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "దినములు"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "మూడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:09:59.871653853Z",
+  "model": "glm-5.3"
+}

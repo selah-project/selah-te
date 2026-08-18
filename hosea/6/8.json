@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "గిలియద అనర్థకారుల పట్టణం; రక్తపు మడుగులతో నిండి యున్నది.",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "గిలియద"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "పట్టణం"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "కారుల"
+    },
+    {
+      "surface": "און",
+      "gloss": "అనర్థ"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "మడుగులతో నిండి"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "రక్తపు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:29:33.784176563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "సంపద తో ⟨ఉన్న⟩ జ్ఞానము మంచిది, సూర్యుని చూచువారికి లాభము కలిగించును.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "జ్ఞానము"
+    },
+    {
+      "surface": "עם",
+      "gloss": "తో"
+    },
+    {
+      "surface": "ఠחלה",
+      "gloss": "సంపద"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "లాభము"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "చూచువారికి"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "సూర్యుని"
+    }
+  ],
+  "timestamp": "2026-08-18T02:38:41.194980828Z",
+  "model": "glm-5.3"
+}

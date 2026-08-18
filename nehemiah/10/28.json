@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మల్లూక్, ఖారిం, బాఅనా.",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "మల్లూక్"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ఖారిం"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "బాఅనా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:15:25.544345488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "చెవియివ్వుడి ఆకాశములా, నేను మాటలాడెదను; వినుము భూమి, నా నోటి మాటలను.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "చెవియివ్వుడి"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ఆకాశములా"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "నేను మాటలాడెదను"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "వినుము"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "మాటలను"
+    },
+    {
+      "surface": "פי",
+      "gloss": "నా నోటి"
+    }
+  ],
+  "timestamp": "2026-08-17T21:37:11.741500571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "హామన్ రాజుతో — రాజు గౌరవించ కోరుకున్న మనుష్యుని కొరకు — అని చెప్పెను.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "చెప్పెను"
+    },
+    {
+      "surface": "המן",
+      "gloss": "హామన్"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "איש",
+      "gloss": "మనుష్యుని"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఎవడు"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "కోరుకున్న"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "అతని గౌరవం"
+    }
+  ],
+  "timestamp": "2026-08-18T02:43:32.859423972Z",
+  "model": "glm-5.3"
+}

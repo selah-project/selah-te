@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "యాహ్వే దూత ఆమెను అరణ్యమందు నీటి ఊట దగ్గర — శూరు మార్గములోని ఊట దగ్గర — కనుగొనెను.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "ఆమెను కనుగొనెను"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "దూత"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "על",
+      "gloss": "దగ్గర"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ఊట"
+    },
+    {
+      "surface": "המים",
+      "gloss": "నీటి"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "అరణ్యమందు"
+    },
+    {
+      "surface": "על",
+      "gloss": "దగ్గర"
+    },
+    {
+      "surface": "העין",
+      "gloss": "ఆ ఊట"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "మార్గములోని"
+    },
+    {
+      "surface": "שור",
+      "gloss": "శూరు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:11:51.133852558Z",
+  "model": "glm-5.3"
+}

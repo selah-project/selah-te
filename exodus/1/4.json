@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "దాన్ మరియు నఫ్తాలీ, గాద్ మరియు ఆషేర్.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "దాన్"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "మరియు నఫ్తాలీ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "గాద్"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "మరియు ఆషేర్"
+    }
+  ],
+  "timestamp": "2026-08-17T17:37:02.403744925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "మరియు ⟨את⟩ కెరుబులను బంగారముతో అతికెను.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "పైపై పూసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "కెరుబులను"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "కెరుబులను"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారముతో"
+    }
+  ],
+  "timestamp": "2026-08-17T22:38:42.615837788Z",
+  "model": "glm-5.3"
+}

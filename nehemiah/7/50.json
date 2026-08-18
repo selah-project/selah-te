@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "రెయాయా కుమారులు, రెత్సీన్ కుమారులు, నెకోదా కుమారులు,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "రెయాయా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "రెత్సీన్"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "నెకోదా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:51.893131392Z",
+  "model": "glm-5.3"
+}

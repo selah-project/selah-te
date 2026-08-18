@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మొత్తం సభ ⟨ఒకేదానిగా⟩ నలవై రెండు వేలు, మూడు వందలు, అరవై ఆరు ⟨మంది⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "మొత్తం"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "సభ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ఒకేదానిగా"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "పది వేలు"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "రెండు వేలు"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందలు"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "మరియు అరవై"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:34.541614687Z",
+  "model": "glm-5.3"
+}

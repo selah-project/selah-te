@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "నేను నా ప్రియుడిదాను, నా ప్రియుడు నాదు — కలువలలో మేసేవాడు ⟨he⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "నా ప్రియుడిదాను"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "నా ప్రియుడు"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాదు"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "మేసేవాడు"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "కలువలలో"
+    }
+  ],
+  "timestamp": "2026-08-18T02:24:53.194283862Z",
+  "model": "glm-5.3"
+}

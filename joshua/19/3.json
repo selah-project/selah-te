@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "మరియు ఖత్సర్-షువాల్, మరియు బాలా, మరియు ఎత్సెమ్.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "మరియు ఖత్సర్-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "షువాల్"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "మరియు బాలా"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "మరియు ఎత్సెమ్"
+    }
+  ],
+  "timestamp": "2026-08-17T21:47:46.632582360Z",
+  "model": "glm-5.3"
+}

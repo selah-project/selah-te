@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "మరియు గొర్రెలలో నుండి యాహ్వేకు మిగిలిన పన్ను ఆరు వందల డెబ్బై ఐదు.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు ఉండెను"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "పన్ను"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "యాహ్వేకు"
+    },
+    {
+      "surface": "מן",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "గొర్రెల"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ఐదు"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "మరియు డెబ్బై"
+    }
+  ],
+  "timestamp": "2026-08-17T20:25:09.495111615Z",
+  "model": "glm-5.3"
+}

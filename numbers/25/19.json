@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "మరియు ఆ మహమ్మారి తరువాత జరిగింది —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు జరిగింది"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "తరువాత"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ఆ మహమ్మారి"
+    }
+  ],
+  "timestamp": "2026-08-17T20:09:44.928619084Z",
+  "model": "glm-5.3"
+}

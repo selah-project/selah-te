@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "సీయోనులో స్త్రీలను అవమానించిరి, యెహూదా పట్టణములలో కన్యకలను.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "స్త్రీలను"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "సీయోనులో"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "అవమానించిరి"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "కన్యకలను"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "పట్టణములలో"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "యెహూదా"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:02.722961929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "కలయిక బయట, కలయిక వీధులలో, మరియు ప్రతి మూలవద్ద దాగి ఉండును",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "కలయిక"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "బయట"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "కలయిక"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "వీధులలో"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "మరియు వద్ద"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "మూల"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "దాగి ఉండును"
+    }
+  ],
+  "timestamp": "2026-08-18T01:41:28.913771926Z",
+  "model": "glm-5.3"
+}

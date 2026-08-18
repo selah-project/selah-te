@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "నీకు చాలా దూరముగా ఉన్న, ఈ జనుల నగరములలో ఇవి కాని అన్ని నగరములకు నీవు ఇలాగే చేయవలెను.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "ఇలాగే"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "చేయుచున్నావు"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "అన్ని…కు"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ఆ నగరముల"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "దూరమైన"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "నీకు నుండి"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "బహుగా"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అవి"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాని"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "…నగరములలో నుండి"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ఈ జనుల"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ఇవి"
+    }
+  ],
+  "timestamp": "2026-08-17T21:18:21.555383489Z",
+  "model": "glm-5.3"
+}

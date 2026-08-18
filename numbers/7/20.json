@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బంగారు కప్పు ఒకటి, పది తూకాలు, ధూపవస్తువుతో నిండి యున్నది.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "కప్పు"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారు"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "నిండి యున్నది"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ధూపవస్తువుతో"
+    }
+  ],
+  "timestamp": "2026-08-18T04:35:06.776739448Z",
+  "model": "glm-5.3"
+}

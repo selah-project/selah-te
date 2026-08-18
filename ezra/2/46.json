@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "చగాబ్ కుమారులు, షమ్లాయ్ కుమారులు, చానాన్ కుమారులు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "చగాబ్"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "షమ్లాయ్"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "చానాన్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:01:28.572160696Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "మోషే పర్వతం ఎక్కిపోయెను, మేఘం ⟨את⟩ పర్వతాన్ని కప్పివేసెను.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ఎక్కిపోయెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "మీదికి"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "పర్వతం"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "కప్పివేసెను"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "మేఘం"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "పర్వతాన్ని"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "పర్వతం"
+    }
+  ],
+  "timestamp": "2026-08-17T17:51:21.714617790Z",
+  "model": "glm-5.3"
+}

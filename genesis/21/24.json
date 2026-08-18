@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "అవ్రాహాం — నేను ప్రమాణం చేస్తాను అని అనెను.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అనెను"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "అవ్రాహాం"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ప్రమాణం చేస్తాను"
+    }
+  ],
+  "timestamp": "2026-08-17T17:15:42.938903148Z",
+  "model": "glm-5.3"
+}

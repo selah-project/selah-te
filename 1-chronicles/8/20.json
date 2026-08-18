@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు ఎలీయెనాయి, మరియు జిల్లెతాయి, మరియు ఎలీయేలు.",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "మరియు ఎలీయెనాయి"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "మరియు జిల్లెతాయి"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "మరియు ఎలీయేలు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:52.083309801Z",
+  "model": "glm-5.3"
+}

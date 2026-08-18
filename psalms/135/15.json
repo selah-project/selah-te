@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 135,
+  "translation": "జాతుల విగ్రహాలు వెండి మరియు బంగారము — మానవుల చేతుల క్రియ.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "విగ్రహాలు"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "జాతుల"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "వెండి"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "మరియు బంగారము"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "క్రియ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "చేతుల"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మానవుల"
+    }
+  ],
+  "timestamp": "2026-08-18T01:32:14.421802596Z",
+  "model": "glm-5.3"
+}

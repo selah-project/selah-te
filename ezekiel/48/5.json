@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 48,
+  "translation": "మనష్షే సరిహద్దుపై, తూర్పు అంచునుండి సముద్ర అంచు వరకు — ఎఫ్రాయిం ⟨ఒకటి⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "పైన"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "సరిహద్దు"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "మనష్షే"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "అంచునుండి"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "తూర్పు"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "అంచు"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "పడమర (సముద్రం)"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ఎఫ్రాయిం"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకటి"
+    }
+  ],
+  "timestamp": "2026-08-18T00:28:10.795553912Z",
+  "model": "glm-5.3"
+}

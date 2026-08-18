@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మరియు అతని వివాదములో దరిద్రుని గౌరవించకూడదు.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "మరియు దరిద్రుని"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కూడదు"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "గౌరవించకూడదు"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "అతని వివాదములో"
+    }
+  ],
+  "timestamp": "2026-08-17T17:51:28.766347246Z",
+  "model": "glm-5.3"
+}

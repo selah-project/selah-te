@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "మరియు యాహ్వే మోషేతో ఉటంకించెను సెలవిచ్చుచు —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు...ఉటంకించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T07:40:18.128232234Z",
+  "model": "glm-5.3"
+}

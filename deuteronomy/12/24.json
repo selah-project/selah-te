@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "దానిని తినకూడదు; నీటివలె భూమిపై దానిని పోయవలెను.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "దానిని తినుచుందువు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ఆ భూమి"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "దానిని పోయెదవు"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "నీటివలె"
+    }
+  ],
+  "timestamp": "2026-08-17T21:09:00.067796252Z",
+  "model": "glm-5.3"
+}

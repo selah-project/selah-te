@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "సెరూగు, నాఖోరు, తేరాఖు,",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "సెరూగు"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "నాఖోరు"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "తేరాఖు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:21.088238548Z",
+  "model": "glm-5.3"
+}

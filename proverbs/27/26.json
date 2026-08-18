@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "పొఱ్లు నీ వస్త్రములకు, మరియు పొలము వెల ఆడుమేకపిల్లలు.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "పొఱ్లు"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "నీ వస్త్రములకు"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "మరియు వెల"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "పొలము"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "మేకపిల్లలు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:54:33.893660213Z",
+  "model": "glm-5.3"
+}

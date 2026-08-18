@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "త్సూఫ్ కుమారుడు, ఎల్కానా కుమారుడు, మాహత్ కుమారుడు, అమష్సాయ్ కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "త్సూఫ్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ఎల్కానా"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "మాహత్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "అమష్సాయ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:02.878854816Z",
+  "model": "glm-5.3"
+}

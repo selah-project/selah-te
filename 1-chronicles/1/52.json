@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "అలుఫ్ ఒహొలిబామా, అలుఫ్ ఎలా, అలుఫ్ పినోన్.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "అలుఫ్"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "ఒహొలిబామా"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "అలుఫ్"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ఎలా"
+    },
+    {
+      "surface": "చాలుఫ్",
+      "gloss": "అలుఫ్"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "పినోన్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:31.794666854Z",
+  "model": "glm-5.3"
+}

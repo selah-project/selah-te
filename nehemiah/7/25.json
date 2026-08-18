@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "గిబ్యోను కుమారులు తొంభది ఐదుకురులు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "గిబ్యోను"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "తొంభది"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ఐదుకురులు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:58.599563267Z",
+  "model": "glm-5.3"
+}

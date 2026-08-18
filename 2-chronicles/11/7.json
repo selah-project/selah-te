@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మరియు ⟨את⟩ బేత్-త్సూర్ ⟨את⟩ షోకో ⟨את⟩ అదుల్లామ్‌ను",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "బేత్-త్సూర్"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్"
+    },
+    {
+      "surface": "దור",
+      "gloss": "త్సూర్"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "షోకో"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "షోకో"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "అదుల్లామ్"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "అదుల్లామ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:47:16.913689084Z",
+  "model": "glm-5.3"
+}

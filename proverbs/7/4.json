@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "జ్ఞానముతో చెప్పుము — నీవు నా అక్కవై యుండు; బుద్ధిని ⟨את⟩ బంధువుగా పిలువుము.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "చెప్పుము"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "జ్ఞానముతో"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "నా అక్క"
+    },
+    {
+      "surface": "את",
+      "gloss": "నీవు"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "బంధువు"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "బుద్ధి"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "పిలువుము"
+    }
+  ],
+  "timestamp": "2026-08-18T06:15:27.085241114Z",
+  "model": "glm-5.3"
+}

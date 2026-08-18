@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "గర్వపు హృదయం గల ప్రతివాడు యాహ్వేకు అసహ్యం; చేయి చేతికి ⟨చేరినా⟩ అతడు శుద్ధి పొందడు.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "అసహ్యం"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "గర్వపు"
+    },
+    {
+      "surface": "לב",
+      "gloss": "హృదయం గలవాడు"
+    },
+    {
+      "surface": "יד",
+      "gloss": "చేయి"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "చేతికి"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "శుద్ధి పొందడు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:48:01.639153248Z",
+  "model": "glm-5.3"
+}

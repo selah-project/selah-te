@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "మరియు ఇవి షూతెలహ కుమారులు: ఏరను — ఏరానీయుల వంశం.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "మరియు ఇవి"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "షూతెలహ"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "ఏరను"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "వంశం"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "ఏరానీయుల"
+    }
+  ],
+  "timestamp": "2026-08-17T20:19:03.464302932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "లోట్ కుమార్తులు ఇద్దరూ తమ తండ్రి నుండి గర్భవతులయిరి.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "గర్భవతులయిరి"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ఇద్దరూ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "కుమార్తులు"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "లోట్"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "తమ తండ్రి నుండి"
+    }
+  ],
+  "timestamp": "2026-08-17T17:14:09.693807328Z",
+  "model": "glm-5.3"
+}

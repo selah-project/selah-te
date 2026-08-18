@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మరి యాహ్వే ఆహాజ్ తో మాటలతో మాట్లాడటం కొనసాగించెను:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "కొనసాగించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ఆహాజ్"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుచూ"
+    }
+  ],
+  "timestamp": "2026-08-17T23:07:47.285377584Z",
+  "model": "glm-5.3"
+}

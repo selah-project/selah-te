@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "ఏసావ్ కుమారులు — ఎలీఫాజ్, రెయూయేల్, యెయూష్, యాలామ్, ఖోరాహ్.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ఏసావ్"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ఎలీఫాజ్"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "రెయూయేల్"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "మరియు యెయూష్"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "మరియు యాలామ్"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "మరియు ఖోరాహ్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:57.878993650Z",
+  "model": "glm-5.3"
+}

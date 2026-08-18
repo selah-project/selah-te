@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "అయితే మొత్తం పశువులను మరియు నగరముల కొలుపును మా కోసం దోచుకొనెము.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "అయితే మొత్తం"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "పశువులను"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "మరియు కొలుపును"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "నగరముల"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "దోచుకొనెము"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "మా కోసం"
+    }
+  ],
+  "timestamp": "2026-08-17T20:45:00.691606322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "మానవ కుమారుడా, ఒక సమస్యను సూచించుము, ఇస్రాయేలు ఇంటికి ఒక నీతికథను చెప్పుము.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడా"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మానవ"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "సూచించుము"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "సమస్య"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "మరియు చెప్పుము"
+    },
+    {
+      "surface": "משל",
+      "gloss": "నీతికథ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కు"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ఇంటి"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ఇస్రాయేలు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:10:41.935903115Z",
+  "model": "glm-5.3"
+}

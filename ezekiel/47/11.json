@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 47:11",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 47,
+  "translation": "దాని చిత్తడి నేలలును దాని బురద చెరువులును స్వస్థం కావు; అవి ఉప్పుకు ఇవ్వబడెను.",
+  "tokens": [
+    {
+      "surface": "בצאתו",
+      "gloss": "దాని చిత్తడి నేలలు"
+    },
+    {
+      "surface": "וגבאיו",
+      "gloss": "మరియు దాని బురద చెరువులు"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "మరియు కావు"
+    },
+    {
+      "surface": "ఙגבאיו రపావు",
+      "gloss": "",
+      "notes": null
+    },
+    {
+      "surface": "_IGNORED",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-18T06:03:38.900358176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "యెహూదా కుమారులు: పెరెత్స్, చెత్స్రోన్, కర్మీ, చూర్, షోవాల్.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "యెహూదా"
+    },
+    {
+      "surface": "తפרץ",
+      "gloss": "פେర୆த்ஸ்"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "చెత్స్రోన్"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "మరియు కర్మీ"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "మరియు చూర్"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "మరియు షోవాల్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:12.678581718Z",
+  "model": "glm-5.3"
+}

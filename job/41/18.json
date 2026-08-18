@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 41:18",
+  "book": "job",
+  "lang": "te",
+  "chapter": 41,
+  "translation": "ఖడ్గము ⟨him⟩ చేరినను అది నిలువదు; ఈటెయు, బాణమును, కవచమును ⟨likewise⟩.",
+  "tokens": [
+    {
+      "surface": "משיגהו",
+      "gloss": "అతనిని చేరినను"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ఖడ్గము"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "లేకుండా"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "నిలువదు"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "ఈటె"
+    },
+    {
+      "surface": "מסע",
+      "gloss": "బాణము"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "మరియు కవచము"
+    }
+  ],
+  "timestamp": "2026-08-18T06:17:20.546493221Z",
+  "model": "glm-5.3"
+}

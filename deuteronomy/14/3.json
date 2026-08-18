@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "ఏ అసహ్యకరమైన వస్తువును తినకూడదు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "తినకూడదు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ఏ...ఐనా"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "అసహ్యకరమైన వస్తువు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:09:15.229131200Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఏ ప్రాణి ఏ రకమైన రక్తము తింటే, ఆ ప్రాణి తన జనుల నుండి నరికివేయబడును.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ప్రాణి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అది"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "తింటే"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ఏ రకమైన"
+    },
+    {
+      "surface": "דם",
+      "gloss": "రక్తము"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "మరియు నరికివేయబడును"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ఆ ప్రాణి"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "తన జనుల నుండి"
+    }
+  ],
+  "timestamp": "2026-08-17T18:07:18.269813752Z",
+  "model": "glm-5.3"
+}

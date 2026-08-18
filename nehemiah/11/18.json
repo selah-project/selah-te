@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "పరిశుద్ధ పట్టణంలో ⟨ఉన్న⟩ లేవీయులందరు రెండు వందల ఎనభై నాలుగు మంది.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "అందరు"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "లేవీయుల"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "పట్టణంలో"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "పరిశుద్ధ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "రెండు వందల"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ఎనభై"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "నాలుగు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:18:25.013552361Z",
+  "model": "glm-5.3"
+}

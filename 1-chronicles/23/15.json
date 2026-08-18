@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మోషే కుమారులు గెర్షోమ్ మరియు ఎలీఎజర్.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "గెర్షోమ్"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "మరియు ఎలీఎజర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:37:05.185015279Z",
+  "model": "glm-5.3"
+}

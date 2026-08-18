@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "షల్లూం, అమర్యాహు, యోసేఫు.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "షల్లూం"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "అమర్యాహు"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "యోసేఫు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:06:01.443832440Z",
+  "model": "glm-5.3"
+}

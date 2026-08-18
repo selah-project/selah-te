@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "అతడు ఒంటరిగా కూర్చొని మౌనం వహించాలి, ఎందుకంటే ⟨అది⟩ తనపై ఉంచబడినది.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "కూర్చొని"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ఒంటరిగా"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "మరియు మౌనం వహించాలి"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "ఉంచబడినది"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "తనపై"
+    }
+  ],
+  "timestamp": "2026-08-18T02:32:27.625686127Z",
+  "model": "glm-5.3"
+}

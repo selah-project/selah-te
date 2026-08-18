@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 10:17",
+  "book": "daniel",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "ఎలా నా యజమానుని ఈ దాసుడు ఈ యజమానునితో మాట్లాడగలడు? ఇక నాలో బలం ⟨is⟩ నిలవదు, ఉచ్ఛ్వాసం కూడా నాలో మిగలలేదు.",
+  "tokens": [
+    {
+      "surface": "והיך",
+      "gloss": "ఎలా"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "గలడు"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "దాసుడు"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "యజమానుని"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "మాట్లాడుటకు"
+    },
+    {
+      "surface": "עם",
+      "gloss": "తో"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "యజమానుని"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "మరియు నేను"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ఇక"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "నిలువదు"
+    },
+    {
+      "surface": "בי",
+      "gloss": "నాలో"
+    },
+    {
+      "surface": "כח",
+      "gloss": "బలం"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "మరియు ఉచ్ఛ్వాసం"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "మిగలలేదు"
+    },
+    {
+      "surface": "బי",
+      "gloss": "నాలో"
+    }
+  ],
+  "timestamp": "2026-08-18T06:28:17.709122961Z",
+  "model": "glm-5.3"
+}

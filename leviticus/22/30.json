@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "ఆ రోజే ⟨అది⟩ తినబడును; ఉదయము వరకు ⟨దాని⟩ నుండి మిగిల్చకుడి; నేను యాహ్వే.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "రోజున"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "తినబడును"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "మిగిల్చకుడి"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "దాని నుండి"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ఉదయము"
+    },
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T18:34:46.633241111Z",
+  "model": "glm-5.3"
+}

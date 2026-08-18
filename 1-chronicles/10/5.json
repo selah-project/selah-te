@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "షావుల్ మరణించెనని అతని ఆయుధవాహకుడు చూచి, తాను కూడ ఖడ్గముపై పడి మరణించెను.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "చూచెను"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ఆయుధవాహకుడు"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "అతని ఆయుధములు"
+    },
+    {
+      "surface": "כי",
+      "gloss": "గనుక"
+    },
+    {
+      "surface": "מת",
+      "gloss": "మరణించెను"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "షావుల్"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "పడెను"
+    },
+    {
+      "surface": "גם",
+      "gloss": "కూడ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "తాను"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ఖడ్గము"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "మరణించెను"
+    }
+  ],
+  "timestamp": "2026-08-18T03:29:29.706187665Z",
+  "model": "glm-5.3"
+}

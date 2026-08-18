@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మరియు ⟨את⟩ అదోరాయిం ⟨את⟩ లాఖీషు ⟨את⟩ అజేకా",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "అదోరాయిం"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "అదోరాయిం"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "లాఖీషు"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "లాఖీషు"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "అజేకా"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "అజేకా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:47:29.481234989Z",
+  "model": "glm-5.3"
+}

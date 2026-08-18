@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "మరియు ⟨the⟩ మూడవ వరుస: లెశెం, శెబో, అహ్లామా.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "మరియు ⟨the⟩ వరుస"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "మూడవ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "లెశెం"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "శెబో"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "మరియు అహ్లామా"
+    }
+  ],
+  "timestamp": "2026-08-17T17:53:30.546874301Z",
+  "model": "glm-5.3"
+}

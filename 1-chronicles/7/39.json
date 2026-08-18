@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఉల్లా కుమారులు — అరాఖ్, వఖన్నిఎల్, వరిత్స్యా.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు ... కుమారులు"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "ఉల్లా"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "అరాఖ్"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "మరియు ఖన్నిఎల్"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "మరియు రిత్స్యా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:26:09.053473788Z",
+  "model": "glm-5.3"
+}

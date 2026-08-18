@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 33,
+  "translation": "యాహ్వే, నీ చెసెద్ మీద మాపై ఉండుగాక, నీపై మేము ఆశపడినట్లే.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ఉండుగాక"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "నీ చెసెద్"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "మాపై"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "…ట్లే"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "మేము ఆశపడిన"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీపై"
+    }
+  ],
+  "timestamp": "2026-08-18T01:00:12.244246363Z",
+  "model": "glm-5.3"
+}

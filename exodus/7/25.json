@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "యాహ్వే ⟨את⟩ నదిని కొట్టిన తరువాత ఏడు దినములు నెరవేరెను.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "నెరవేరెను"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "దినములు"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "తరువాత"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "కొట్టిన"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "నదిని"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "నది"
+    }
+  ],
+  "timestamp": "2026-08-17T17:41:13.952336831Z",
+  "model": "glm-5.3"
+}

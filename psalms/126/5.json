@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 126,
+  "translation": "కన్నీళ్లతో విత్తువారు రిన్నెలతో కోస్తారు.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "విత్తువారు"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "కన్నీళ్లతో"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "రిన్నెలతో"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "కోస్తారు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:32:22.583771465Z",
+  "model": "glm-5.3"
+}

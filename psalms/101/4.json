@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 101,
+  "translation": "కుటిలమైన హృదయము నా నుండి దూరమవును; చెడును నేను తెలియను.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "హృదయము"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "కుటిలమైన"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "దూరమవును"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "నా నుండి"
+    },
+    {
+      "surface": "רע",
+      "gloss": "చెడును"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "నేను తెలియను"
+    }
+  ],
+  "timestamp": "2026-08-18T01:23:11.590270794Z",
+  "model": "glm-5.3"
+}

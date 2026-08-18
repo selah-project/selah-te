@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "యాహ్వే అతనితో — కోపం మండటం నీకు మంచిదా?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "పలికెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "మంచిదా"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "కోపం మండటం"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:39:58.734960535Z",
+  "model": "glm-5.3"
+}

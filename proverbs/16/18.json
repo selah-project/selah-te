@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "విధ్వంసానికి ముందు గర్వము; పతనానికి ముందు ఉన్నత మనస్సు.",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ముందు"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "విధ్వంసము"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "గర్వము"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "మరియు ముందు"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "పతనము"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ఉన్నత"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "మనస్సు"
+    }
+  ],
+  "timestamp": "2026-08-18T12:45:25.149640286Z",
+  "model": "glm-5.3"
+}

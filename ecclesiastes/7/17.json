@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "చాలా అధర్మం చేయకుము, మూర్ఖుడవు కాకుము — నీ ⟨కాలం⟩ కాకుండా ఎందుకు చనవలెను?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "చేయకుము"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "అధర్మం చేయు"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "చాలా"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "మరియు కాకుము"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ఉండకుము"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "మూర్ఖుడు"
+    },
+    {
+      "surface": "למה",
+      "gloss": "ఎందుకు"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "చనవలెను"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "లేకుండా"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "నీ కాలం"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:39.695445868Z",
+  "model": "glm-5.3"
+}

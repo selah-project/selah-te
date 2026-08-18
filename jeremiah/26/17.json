@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "అప్పుడు ⟨ఆ⟩ దేశపు పెద్దలలో కొందరు మనుషులు లేచి, ప్రజల సమాజమంతటితో ఇలా పలికిరి —",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "లేచిరి"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "మనుషులు"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "పెద్దలలో కొందరు"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "దేశపు"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "పలికిరి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "כל",
+      "gloss": "మంతటి"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "సమాజము"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ప్రజల"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా"
+    }
+  ],
+  "timestamp": "2026-08-17T23:47:01.170902207Z",
+  "model": "glm-5.3"
+}

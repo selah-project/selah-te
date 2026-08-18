@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "తరం వెళ్ళిపోతుంది, తరం వస్తుంది; భూమి మాత్రం నిత్యం నిలిచి ఉంటుంది.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "తరం"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "వెళ్ళిపోతుంది"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "మరియు తరం"
+    },
+    {
+      "surface": "בא",
+      "gloss": "వస్తుంది"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "మరియు భూమి"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "నిత్యం"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "నిలిచి ఉంటుంది"
+    }
+  ],
+  "timestamp": "2026-08-18T02:36:39.765665692Z",
+  "model": "glm-5.3"
+}

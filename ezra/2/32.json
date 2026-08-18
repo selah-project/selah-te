@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఖారీం కుమారులు — మూడు వందలు మరియు ఇరవై మంది.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ఖారీం"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "మూడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందలు"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "మరియు ఇరవై"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:01.118475391Z",
+  "model": "glm-5.3"
+}

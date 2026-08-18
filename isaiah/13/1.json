@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "బబులు మీది భారం, దాని యిషయాహు అమోట్సు కుమారుడు దర్శించెను.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "భారం"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "బబులు"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దాని"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "దర్శించెను"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "యిషయాహు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "అమోట్సు"
+    }
+  ],
+  "timestamp": "2026-08-17T23:11:31.552953948Z",
+  "model": "glm-5.3"
+}

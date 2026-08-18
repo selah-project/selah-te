@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "హోరేబు నుండి సేయీరు పర్వతమార్గముగుండా కాదేషు-బర్నేయకు ⟨is⟩ పదకొండు రోజుల ప్రయాణము.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "పదకొండు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…కొండు"
+    },
+    {
+      "surface": "יום",
+      "gloss": "రోజుల"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "హోరేబు నుండి"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "మార్గముగుండా"
+    },
+    {
+      "surface": "הר",
+      "gloss": "పర్వత"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "సేయీరు"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "కాదేషు-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "బర్నేయ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:50:30.946698080Z",
+  "model": "glm-5.3"
+}

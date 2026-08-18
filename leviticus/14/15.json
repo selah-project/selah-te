@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "మరియు యాజకుడు నూనె లోగు నుండి తీసికొని, యాజకుని ఎడమ అరచేతిపై పోయును.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "మరియు తీసికొని"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨the⟩ యాజకుడు"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "లోగు నుండి"
+    },
+    {
+      "surface": "వాహానా శాసనం",
+      "gloss": ""
+    },
+    {
+      "surface": "השמן",
+      "gloss": "⟨the⟩ నూనె"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "మరియు పోయును"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "כף",
+      "gloss": "అరచేతి"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨the⟩ యాజకుని"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ఎడమ"
+    }
+  ],
+  "timestamp": "2026-08-17T18:17:06.189393238Z",
+  "model": "glm-5.3"
+}

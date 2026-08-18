@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "వక్రమైనది సరిచేయబడలేదు; ⟨మరియు⟩ లోపించినది లెక్కించబడలేదు.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "వక్రమైనది"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "సరిచేయబడలేదు"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "సరిచేయుటకు"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "మరియు లోపించినది"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "లెక్కించబడలేదు"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "లెక్కించుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T12:51:05.037157548Z",
+  "model": "glm-5.3"
+}

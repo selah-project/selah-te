@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "నీ తలమీదున్న నీ ఆకాశము ⟨is⟩ ఇత్తడి, నీ క్రిందున్న ఆ భూమి ⟨is⟩ ఇనుము.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "అయియుండును"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "నీ ఆకాశము"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేని"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "నీ తల"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ఇత్తడి"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "మరియు ఆ భూమి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేని"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "నీ క్రింద"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ఇనుము"
+    }
+  ],
+  "timestamp": "2026-08-17T21:32:08.516191530Z",
+  "model": "glm-5.3"
+}

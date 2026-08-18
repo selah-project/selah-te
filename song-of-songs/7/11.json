@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "నేను నా ప్రియునికి చెందినదానను, మరియు అతని కోరిక నాపై ఉంది.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "నా ప్రియునికి చెందినదానను"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "మరియు నాపై"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "అతని కోరిక"
+    }
+  ],
+  "timestamp": "2026-08-18T02:27:43.922262080Z",
+  "model": "glm-5.3"
+}

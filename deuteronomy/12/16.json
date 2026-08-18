@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "అయితే రక్తము ⟨את⟩ తినకూడదు; దానిని నీళ్లు వలె భూమిపై పారబోడుము.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "అయితే"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "రక్తము"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "తినకూడదు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "దానిని పారబోడుము"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "నీళ్లు వలె"
+    }
+  ],
+  "timestamp": "2026-08-17T21:09:18.091896522Z",
+  "model": "glm-5.3"
+}

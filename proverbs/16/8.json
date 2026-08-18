@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "న్యాయంతో కొంచెం ఉండటం, న్యాయం లేని గొప్ప దిగుబడి కంటే మంచిది.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": " "
+    },
+    {
+      "surface": "מעט",
+      "gloss": "కొంచెం"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "న్యాయంతో"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "…కంటే"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "దిగుబడి"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "లేని"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "న్యాయం"
+    }
+  ],
+  "timestamp": "2026-08-18T01:48:01.639615422Z",
+  "model": "glm-5.3"
+}

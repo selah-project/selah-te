@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 48,
+  "translation": "మరియు దాన్ సరిహద్దు పైన, తూర్పు అంచు నుండి పడమర అంచు వరకు — అషేర్ ఒక్కటి.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "మరియు పైన"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "సరిహద్దు"
+    },
+    {
+      "surface": "דן",
+      "gloss": "దాన్"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "అంచు నుండి"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "తూర్పు"
+    },
+    {
+      "surface": "עד",
+      "gloss": "వరకు"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "అంచు"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "పడమర"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అషేర్"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక్కటి"
+    }
+  ],
+  "timestamp": "2026-08-18T00:28:12.153379720Z",
+  "model": "glm-5.3"
+}

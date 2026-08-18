@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 19:12",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "యువ సింహం గర్జనవంటె రాజు క్రోధం; గడ్డిపై ఈనెళ్లవంటె అతని ప్రీతి.",
+  "tokens": [
+    {
+      "surface": "נהם",
+      "gloss": "గర్జన"
+    },
+    {
+      "surface": "ככפיר",
+      "gloss": "యువ సింహం వంటె"
+    },
+    {
+      "surface": "זעף",
+      "gloss": "క్రోధం"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "וכטל",
+      "gloss": "మరియు ఈనెళ్ల వంటె"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "గడ్డి"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "అతని ప్రీతి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:49:07.563755569Z",
+  "model": "glm-5.3"
+}

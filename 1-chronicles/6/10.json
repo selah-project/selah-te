@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "మరియు ఎల్కానా కుమారులు: అమసాయ్ మరియు అహీమోత్.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు ... కుమారులు"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ఎల్కానా"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "అమసాయ్"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "మరియు అహీమోత్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:24.146421398Z",
+  "model": "glm-5.3"
+}

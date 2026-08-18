@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "కేరోసు కుమారులు, సీయా కుమారులు, పాదోను కుమారులు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "కేరోసు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "సీయా"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "పాదోను"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:24.702249585Z",
+  "model": "glm-5.3"
+}

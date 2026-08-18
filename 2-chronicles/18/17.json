@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 18:17",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "ఇశ్రాయేలు రాజు యెహోషపాతుతో అనెను — అతడు నాకు మేలు ప్రవచించడు, కాని కీడే ప్రవచిస్తాడని నీతో చెప్పలేదా?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అనెను"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ఇశ్రాయేలు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "యెహోషపాతు"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "లేదా"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "చెప్పలేదా"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "నీతో"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "ప్రవచించడు"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మేలు"
+    },
+    {
+      "surface": "כי",
+      "gloss": "కాని"
+    },
+    {
+      "surface": "אם",
+      "gloss": "కేవలం"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "కీడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:52:55.015988312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 28:8",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "యాహ్వే వారికి బలం, మరియు ఆయన మషియాచ్‌కు విముక్తి బలగం ఆయనే.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "עז",
+      "gloss": "బలం"
+    },
+    {
+      "surface": "למו",
+      "gloss": "వారికి"
+    },
+    {
+      "surface": "ומעוז",
+      "gloss": "మరియు బలగం"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "విముక్తి"
+    },
+    {
+      "surface": "משיחו",
+      "gloss": "ఆయన మషియాచ్‌కు"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ఆయనే"
+    }
+  ],
+  "timestamp": "2026-08-18T00:59:09.362690968Z",
+  "model": "glm-5.3"
+}

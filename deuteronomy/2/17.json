@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "యాహ్వే నాతో మాటలాడెను, సెలవిచ్చెను ⟨సెలవు⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాతో"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చెను"
+    }
+  ],
+  "timestamp": "2026-08-17T20:42:32.139938959Z",
+  "model": "glm-5.3"
+}

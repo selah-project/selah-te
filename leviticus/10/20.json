@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మోషే వినెను, మరియు అది అతని దృష్టికి మంచిదైనదిగా ఉండెను.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "వినెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "మంచిదైనదిగా ఉండెను"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "అతని దృష్టికి"
+    }
+  ],
+  "timestamp": "2026-08-17T18:15:02.342430681Z",
+  "model": "glm-5.3"
+}

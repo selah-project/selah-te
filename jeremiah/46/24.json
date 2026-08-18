@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 46,
+  "translation": "సిగ్గుపడునుగాక కూతురు మిత్రయీము, ఆమె ఉత్తర దేశప్రజల చేతికి అప్పగించబడెను.",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "సిగ్గుపడునుగాక"
+    },
+    {
+      "surface": "בת",
+      "gloss": "కూతురు"
+    },
+    {
+      "surface": "ఞ_dirty",
+      "gloss": ""
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "మిత్రయీము"
+    },
+    {
+      "surface": "ఞ_dirty2",
+      "gloss": ""
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "అప్పగించబడెను"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "చేతికి"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ప్రజల"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ఉత్తర దేశ"
+    }
+  ],
+  "timestamp": "2026-08-17T23:55:58.888655723Z",
+  "model": "glm-5.3"
+}

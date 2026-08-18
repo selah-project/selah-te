@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు అబ్దోన్, మరియు జిక్రీ, మరియు హానాన్.",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "మరియు అబ్దోన్"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "మరియు జిక్రీ"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "మరియు హానాన్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:49.007339256Z",
+  "model": "glm-5.3"
+}

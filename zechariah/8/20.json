@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "సైన్యాల యాహ్వే ఇలా అనెను — ఇంకనూ జాతులు వచ్చెదరు, అనేక పట్టణముల నివాసులును.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ఇలా"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "అనెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "సైన్యాల"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ఇంకనూ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨యెటువంటిది⟩"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "వచ్చెదరు"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "జాతులు"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "మరియు నివాసులు"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "పట్టణముల"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "అనేక"
+    }
+  ],
+  "timestamp": "2026-08-18T06:10:17.136476179Z",
+  "model": "glm-5.3"
+}

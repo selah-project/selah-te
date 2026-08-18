@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 41,
+  "translation": "మరియు ⟨the⟩ గదుల మధ్య ఇరవై మూలల వెడల్పు ⟨was⟩, ⟨the⟩ ఇంటి చుట్టూ — చుట్టూ, చుట్టూ.",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "మరియు మధ్య"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "ఆ గదుల"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "వెడల్పు"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "మూల"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "చుట్టూ"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ఆ ఇంటికి"
+    },
+    {
+      "surface": "డביב",
+      "gloss": "చుట్టూ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "చుట్టూ"
+    }
+  ],
+  "timestamp": "2026-08-18T00:24:00.937566544Z",
+  "model": "glm-5.3"
+}

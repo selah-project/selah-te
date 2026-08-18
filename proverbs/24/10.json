@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "ఆపద దినమందు నీవు సోమరిపడితే, నీ బలము తక్కువ.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "నీవు సోమరిపడితే"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "దినమందు"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ఆపద"
+    },
+    {
+      "surface": "צר",
+      "gloss": "తక్కువ"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "నీ బలము"
+    }
+  ],
+  "timestamp": "2026-08-18T01:52:40.565496444Z",
+  "model": "glm-5.3"
+}

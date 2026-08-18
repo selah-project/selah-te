@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 102,
+  "translation": "మరియు నీవే ⟨ఉందువు⟩, మరియు నీ సంవత్సరములు తీరవు.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "మరియు నీవు"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "నీవే"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "మరియు నీ సంవత్సరములు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "తీరును"
+    }
+  ],
+  "timestamp": "2026-08-18T01:23:25.746006397Z",
+  "model": "glm-5.3"
+}

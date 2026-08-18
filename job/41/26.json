@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "te",
+  "chapter": 41,
+  "translation": "⟨את⟩ సకల గర్విష్ఠులను అతడు చూచును; అతడు సర్వ అహంకారులపై రాజు.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "సకల గర్విష్ఠులను"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సకల"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "గర్విష్ఠుల"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "చూచును"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అతడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సర్వ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారుల"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "అహంకార"
+    }
+  ],
+  "timestamp": "2026-08-18T02:22:33.789031870Z",
+  "model": "glm-5.3"
+}

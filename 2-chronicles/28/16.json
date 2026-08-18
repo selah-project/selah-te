@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "ఆ సమయంలో అచాజు రాజు అష్షూరు రాజుల దగ్గరకు తనకు సహాయం చేయమని కబురు పంపెను.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "సమయంలో"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "పంపెను"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "అచాజు"
+    },
+    {
+      "surface": "על",
+      "gloss": "దగ్గరకు"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "రాజుల"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "అష్షూరు"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "సహాయం చేయమని"
+    },
+    {
+      "surface": "לו",
+      "gloss": "తనకు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:40:39.707020859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "ఇదిగో, నేనే యాహ్వే, సమస్త మాంసమునకు ⟨నా⟩ ఎలోహీం; నా చేతికంటే ఏ మాట అసాధ్యమా?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ఇదిగో"
+    },
+    {
+      "surface": "אני",
+      "gloss": "నేనే"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "మాంసమునకు"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "నా చేతికంటే"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "అసాధ్యమా"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ఏ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    }
+  ],
+  "timestamp": "2026-08-17T23:50:42.158849882Z",
+  "model": "glm-5.3"
+}

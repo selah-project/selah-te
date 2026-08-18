@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "యాహ్వే మోషేతో ఇలా ఆజ్ఞాపించెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ఆజ్ఞాపించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా అని"
+    }
+  ],
+  "timestamp": "2026-08-18T04:28:27.192948998Z",
+  "model": "glm-5.3"
+}

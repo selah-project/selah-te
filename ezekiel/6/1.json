@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 6:1",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "మరియు యాహ్వే మాట నాయొద్దకు వచ్చెను, తద్దిగూను:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు వచ్చెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాయొద్దకు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "తద్దిగూను"
+    }
+  ],
+  "timestamp": "2026-08-18T00:05:23.266837019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నేను చెప్పుకొనుచున్నాను — నా దృఢత్వం నశించెను, యాహ్వే నుండి నా ఆశ కూడా.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "చెప్పుకొనుచున్నాను"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "నశించెను"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "నా దృఢత్వం"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "నా ఆశ కూడా"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "యాహ్వే నుండి"
+    }
+  ],
+  "timestamp": "2026-08-18T06:18:42.748372541Z",
+  "model": "glm-5.3"
+}

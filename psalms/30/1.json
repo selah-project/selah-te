@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "గీతం — ⟨ఇల్లు⟩ ప్రతిష్ఠాపన సందర్భంగా — దావీదు స్వంతము.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "వాయిద్యగీతం"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "పాట"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "ప్రతిష్ఠాపన"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ఆ ఇల్లు"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదుకు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:59:38.431135435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "యాహ్వే ⟨is⟩ యుద్ధ పురుషుడు; యాహ్వే అతని నామము.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "איש",
+      "gloss": "పురుషుడు"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "యుద్ధ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "అతని నామము"
+    }
+  ],
+  "timestamp": "2026-08-17T17:46:06.117206786Z",
+  "model": "glm-5.3"
+}

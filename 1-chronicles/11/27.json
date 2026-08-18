@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "షమ్మోత్ ⟨ది⟩హరోరీయుడు, ఖెలెత్స్ ⟨ది⟩పెలోనీయుడు,",
+  "tokens": [
+    {
+      "surface": "שַׁמּוֹת",
+      "gloss": "షమ్మోత్"
+    },
+    {
+      "surface": "הַהֲרוֹרִי",
+      "gloss": "హరోరీయుడు"
+    },
+    {
+      "surface": "חֶלֶץ",
+      "gloss": "ఖెలెత్స్"
+    },
+    {
+      "surface": "הַפְּלוֹנִי",
+      "gloss": "పెలోనీయుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:35:25.021386959Z",
+  "model": "glm-5.3"
+}

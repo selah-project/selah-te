@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "మరియు గాడిదలు ముప్పై వేలు మరియు ఐదు వందలు",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "మరియు గాడిదలు"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ముప్పై"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వేలు"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "మరియు ఐదు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందలు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:47:55.581975629Z",
+  "model": "glm-5.3"
+}

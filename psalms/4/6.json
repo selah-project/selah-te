@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "నీతి యజ్ఞములు యజించుడి, మరియు యాహ్వేయందు నమ్మకముంచుడి.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "యజించుడి"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "యజ్ఞములు"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "నీతి"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "మరియు నమ్మకముంచుడి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "యందు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-18T00:52:28.568374939Z",
+  "model": "glm-5.3"
+}

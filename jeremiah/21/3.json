@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "అప్పుడు యిర్మియా వారితో చెప్పెను: సిద్కియాహుతో ఇలా చెప్పుడి:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨మరియు⟩ చెప్పెను"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "యిర్మియా"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "వారితో"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ఇలా"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "చెప్పుడి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "సిద్కియాహు"
+    }
+  ],
+  "timestamp": "2026-08-17T23:44:47.959840980Z",
+  "model": "glm-5.3"
+}

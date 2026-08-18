@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 42,
+  "translation": "⟨את⟩ దక్షిణ దిశను కొలిచెను — కొలత కర్రతో ఐదు వందల కర్రలు.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "దక్షిణ దిశను"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "దిశను"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "దక్షిణ"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "కొలిచెను"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ఐదు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "కర్రలు"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "కర్రతో"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "కొలత"
+    }
+  ],
+  "timestamp": "2026-08-18T00:25:18.687431273Z",
+  "model": "glm-5.3"
+}

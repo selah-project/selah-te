@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 51,
+  "translation": "అవి వ్యర్థం, మోసముల ⟨యొక్క⟩ కృతి; వాటి దర్శన సమయంలో అవి నశించును.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "వ్యర్థం"
+    },
+    {
+      "surface": "המה",
+      "gloss": "అవి"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "కృతి"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "మోసముల"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "సమయంలో"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "వాటి దర్శనము"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "నశించును"
+    }
+  ],
+  "timestamp": "2026-08-18T05:55:30.043419574Z",
+  "model": "glm-5.3"
+}

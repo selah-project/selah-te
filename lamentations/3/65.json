@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నీవు వారికి హృదయ-మబ్బు ఇచ్చువు; నీ శాపము వారిపై ఉండును గాక.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ఇచ్చువు"
+    },
+    {
+      "surface": "להם",
+      "gloss": "వారికి"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "మబ్బు"
+    },
+    {
+      "surface": "לב",
+      "gloss": "హృదయ-"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "నీ శాపము"
+    },
+    {
+      "surface": "להם",
+      "gloss": "వారిపై"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:39.301958098Z",
+  "model": "glm-5.3"
+}

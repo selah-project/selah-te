@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు జెబద్యా, అరద్, ఏదెర్,",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "మరియు జెబద్యా"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "అరద్"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ఏదెర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:26:18.492573810Z",
+  "model": "glm-5.3"
+}

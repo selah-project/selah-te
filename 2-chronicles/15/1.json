@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "వాజాసర్యాహూ, ఒదేదు కుమారునిపై ఎలోహీం ఆత్మ ⟨ఉండెను⟩.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "వా అజర్యాహూ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ఒదేదు"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ఉండెను"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "అతనిపై"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ఆత్మ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    }
+  ],
+  "timestamp": "2026-08-18T03:52:44.147095395Z",
+  "model": "glm-5.3"
+}

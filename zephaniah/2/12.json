@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "మీరు కూడ, కుషీయులా — నా ఖడ్గముచే విద్ధులైనవారు మీరే.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "కూడ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "మీరు"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "కుషీయులా"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "విద్ధులైనవారు"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "నా ఖడ్గముచే"
+    },
+    {
+      "surface": "המה",
+      "gloss": "మీరే"
+    }
+  ],
+  "timestamp": "2026-08-18T00:44:58.627940803Z",
+  "model": "glm-5.3"
+}

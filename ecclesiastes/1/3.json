@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "సూర్యుని క్రింద తను పాడ్చే తన ⟨సమస్త⟩ శ్రమలో మానవునికి మిగులు ఏమిటి?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ఏమిటి"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "మిగులు"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "మానవునికి"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "⟨సమస్త⟩"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "తన శ్రమలో"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "తను పాడ్చే"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "క్రింద"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "సూర్యుని"
+    }
+  ],
+  "timestamp": "2026-08-18T02:36:39.765503805Z",
+  "model": "glm-5.3"
+}

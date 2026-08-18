@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "అంతట ఆ పాము ఆ స్త్రీతో — మీరు మరణము మరణించరు.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అంతట...అనెను"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ఆ పాము"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ఆ స్త్రీ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "מות",
+      "gloss": "మరణము"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "మీరు మరణించరు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:05:22.739455290Z",
+  "model": "glm-5.3"
+}

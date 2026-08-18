@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 108:6",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 108,
+  "translation": "ఆకాశాలపై ఎత్తబడుము, ఓ ఎలోహీం, మరియు ⟨the⟩ సమస్త భూమిపై నీ మహిమ.",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "ఎత్తబడుము"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ఆకాశాల"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "మరియు పై"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "నీ మహిమ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:26:31.564765493Z",
+  "model": "glm-5.3"
+}

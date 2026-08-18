@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "యాహ్వే సైన్యముల ద్వారా మాట ⟨నాకు⟩ ఉదయించెను, సెలవిచ్చుచు:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ఉదయించెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "సైన్యముల"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:49:13.310255648Z",
+  "model": "glm-5.3"
+}

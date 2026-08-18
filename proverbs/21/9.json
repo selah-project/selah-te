@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "వాదించు స్త్రీతోను విశాల ఇంట కంటె ఇంటి కప్పు మూలన కూర్చునుట మేలు.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మేలు"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "కూర్చునుట"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "మూలన"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ఇంటి కప్పు"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "స్త్రీతో కంటె"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "వాదించు"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "మరియు ఇంట"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "విశాల"
+    }
+  ],
+  "timestamp": "2026-08-18T01:49:27.869124315Z",
+  "model": "glm-5.3"
+}

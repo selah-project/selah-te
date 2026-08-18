@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "యెహల్లెల్ఏల్ కుమారులు — జిఫ్, జిఫా, తిర్యా, అసర్ఏల్.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "యెహల్లెల్ఏల్"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "జిఫ్"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "మరియు జిఫా"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "తిర్యా"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "మరియు అసర్ఏల్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:23:35.931086555Z",
+  "model": "glm-5.3"
+}

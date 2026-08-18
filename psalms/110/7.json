@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 110,
+  "translation": "దారిలో ⟨ఉన్న⟩ వాగునుండి త్రాగును; అందుకే తల ఎత్తును.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "వాగునుండి"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "దారిలో"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "త్రాగును"
+    },
+    {
+      "surface": "על",
+      "gloss": "అందు"
+    },
+    {
+      "surface": "כן",
+      "gloss": "కనుక"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ఎత్తును"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "తల"
+    }
+  ],
+  "timestamp": "2026-08-18T01:26:25.072369229Z",
+  "model": "glm-5.3"
+}

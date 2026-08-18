@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మరియు రాజు మరియు ప్రజలందరు యాహ్వే సన్నిధిని యజ్ఞము చేసిరి.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "మరియు రాజు"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "మరియు అందరు"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ఆ ప్రజలు"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "యజ్ఞము చేయుచున్నవారై"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "యజ్ఞము"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "సన్నిధిని"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-18T03:46:14.121598769Z",
+  "model": "glm-5.3"
+}

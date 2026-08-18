@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 30,
+  "translation": "ఇవి యాహ్వే ఇశ్రాయేలు గురించి మరియు యూదా గురించి మాటలాడిన మాటలు.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ఇవి"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "మాటలు"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "వాటిని"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాటలాడిన"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "గురించి"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ఇశ్రాయేలు"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "మరియు... గురించి"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "యూదా"
+    }
+  ],
+  "timestamp": "2026-08-17T23:49:43.232850632Z",
+  "model": "glm-5.3"
+}

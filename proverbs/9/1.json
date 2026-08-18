@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "జ్ఞానము తన ఇంటిని కట్టెను; తన స్తంభములను — ఏడును — చెక్కెను.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "జ్ఞానము"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "కట్టెను"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "తన ఇంటిని"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "చెక్కెను"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "తన స్తంభములను"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ఏడు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:42:57.153317300Z",
+  "model": "glm-5.3"
+}

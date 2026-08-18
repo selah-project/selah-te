@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "అమ్త్సీ కుమారుడు, బానీ కుమారుడు, షెమెర్ కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "అమ్త్సీ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "బానీ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "షెమెర్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:50.706602335Z",
+  "model": "glm-5.3"
+}

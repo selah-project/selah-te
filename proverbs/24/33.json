@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "కొంచం నిద్ర, కొంచం మగత, కొంచం చేతులు ముడుచుకొనుట పడుకొనుటకు",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "కొంచం"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "నిద్ర"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "కొంచం"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "మగత"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "కొంచం"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ముడుచుకొనుట"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "చేతులు"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "పడుకొనుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:51:41.903120263Z",
+  "model": "glm-5.3"
+}

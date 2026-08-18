@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "మరియు నోగా, మరియు నెఫెగ్, మరియు యాఫీయా.",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "మరియు నోగా"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "మరియు నెఫెగ్"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "మరియు యాఫీయా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:31:11.861528634Z",
+  "model": "glm-5.3"
+}

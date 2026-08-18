@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 16:1",
+  "book": "job",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "అప్పుడు యోబు జవాబిచ్చి ⟨ఇట్లు⟩ అనెను.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "జవాబిచ్చెను"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "యోబు"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "అనెను"
+    }
+  ],
+  "timestamp": "2026-08-18T02:09:09.087250041Z",
+  "model": "glm-5.3"
+}

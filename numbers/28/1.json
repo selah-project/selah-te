@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 28,
+  "translation": "యాహ్వే మోషేతో ఆజ్ఞాపించుచు ఉండెను — తద్వారా",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాటలాడెను\/ఆజ్ఞాపించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "తద్వారా\/సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T20:23:29.949040605Z",
+  "model": "glm-5.3"
+}

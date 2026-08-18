@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఒక విషయము అంతము దాని మొదటి కంటె మేలైనది; గర్విష్ఠ ⟨ఆత్మ⟩ కంటె ఓర్పు ఆత్మ మేలైనది.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మేలైనది"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "అంతము"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "విషయము"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "దాని మొదటి కంటె"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మేలైనది"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ఓర్పు"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ఆత్మ"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "గర్విష్ఠ… కంటె"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ఆత్మ"
+    }
+  ],
+  "timestamp": "2026-08-18T02:38:39.436466987Z",
+  "model": "glm-5.3"
+}

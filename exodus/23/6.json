@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "నీ దరిద్రుని తీర్పును అతని వ్యాజ్యంలో వంచవద్దు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "వంచ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "తీర్పును"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "నీ దరిద్రుని"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "అతని వ్యాజ్యంలో"
+    }
+  ],
+  "timestamp": "2026-08-17T17:49:55.054867753Z",
+  "model": "glm-5.3"
+}

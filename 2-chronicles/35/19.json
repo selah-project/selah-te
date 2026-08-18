@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 35,
+  "translation": "యోషియాహు రాజ్యమునకు పదునెనిమిదవ సంవత్సరములో ఈ పెసహు చేయబడెను.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "ఎనిమిది"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "సంవత్సరములో"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "రాజ్యమునకు"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "యోషియాహు"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "చేయబడెను"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "పెసహు"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    }
+  ],
+  "timestamp": "2026-08-18T04:06:34.468328873Z",
+  "model": "glm-5.3"
+}

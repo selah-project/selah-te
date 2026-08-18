@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "సైన్యముల ఎలోహీం యాహ్వే — యాహ్వే ఆయన స్మరణార్థము.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "సైన్యముల"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "ఆయన స్మరణార్థము"
+    }
+  ],
+  "timestamp": "2026-08-18T00:32:03.972578714Z",
+  "model": "glm-5.3"
+}

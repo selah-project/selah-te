@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "ఎల్లప్పుడు నీ వస్త్రములు తెల్లవి యుండునట్లు చేయుము, నీ శిరస్సుపై నూనె కొరవడ రాదు.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ఎల్లప్పుడు"
+    },
+    {
+      "surface": "עת",
+      "gloss": "సమయమున"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "యుండునట్లు చేయుము"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "నీ వస్త్రములు"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "తెల్లవి"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "మరియు నూనె"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "నీ శిరస్సు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "రాదు"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "కొరవడ"
+    }
+  ],
+  "timestamp": "2026-08-18T02:40:53.225341774Z",
+  "model": "glm-5.3"
+}

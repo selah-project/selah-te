@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "బాగా ఎక్కువ తేనె తినుట మంచిది కాదు; వారి మహిమను వెతుకుట — ⟨అదీ⟩ మహిమ కాదు.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "తినుట"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "తేనె"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "బాగా ఎక్కువ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "మరియు వెతుకుట"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "వారి మహిమ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "మహిమ కాదు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:53:59.994493158Z",
+  "model": "glm-5.3"
+}

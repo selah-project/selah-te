@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "⟨את⟩ హదోరామును, ⟨את⟩ ఉజాలును, ⟨את⟩ దిక్లాను.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "హదోరామును"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "హదోరాము"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ఉజాలును"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ఉజాలు"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "దిక్లాను"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "దిక్లా"
+    }
+  ],
+  "timestamp": "2026-08-17T17:09:30.247239838Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "హఫరాయిము, శియోను, అనాహరాతు.",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "మరియు హఫరాయిము"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "మరియు శియోను"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "మరియు అనాహరాతు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:47:54.367898523Z",
+  "model": "glm-5.3"
+}

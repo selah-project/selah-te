@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బేత్-లెఖెం ⟨మరియు⟩ నెతోఫా మనుషులు వంద ఎనభై ఎనిమిది మంది.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "మనుషులు"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "లెఖెం"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "వంద"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "వంద"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ఎనభై"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ఎనిమిది"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:58.599814889Z",
+  "model": "glm-5.3"
+}

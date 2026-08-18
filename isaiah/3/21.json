@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఉంగరములు, ముక్కు ఆభరణములు",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "ఉంగరములు"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "మరియు ఆభరణములు"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ముక్కు"
+    }
+  ],
+  "timestamp": "2026-08-18T05:34:10.198362557Z",
+  "model": "glm-5.3"
+}

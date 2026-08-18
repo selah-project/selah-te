@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 34:1",
+  "book": "job",
+  "lang": "te",
+  "chapter": 34,
+  "translation": "మరియు ఏలీహూ సమాధానమిచ్చి ⟨ఈలా⟩ అన్నాడు:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "సమాధానమిచ్చి"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "ఏలీహూ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "అన్నాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:18:35.858148621Z",
+  "model": "glm-5.3"
+}

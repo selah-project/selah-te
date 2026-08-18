@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "నేను నీకు ఇచ్చే ⟨את⟩ సాక్ష్యమును ఆరోనులో ఉంచవలెను.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "మరియు ఉంచవలెను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "లోనికి"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ఆరోను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "సాక్ష్యమును"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "సాక్ష్యము"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేనిని"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "నేను ఇచ్చునది"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "నీకు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:52:04.018643317Z",
+  "model": "glm-5.3"
+}

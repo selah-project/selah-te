@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "యువకులు రుబ్బురోలు మోపారు, బాలురు కట్టెల కింద తడబడి పడిపోయారు.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "యువకులు"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "రుబ్బురోలు"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "మోపారు"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "బాలురు"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "కట్టెల కింద"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "తడబడి పడిపోయారు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:05.066990806Z",
+  "model": "glm-5.3"
+}

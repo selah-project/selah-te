@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "మరియు మోషే యొక్క అత్తగారు అతనితో చెప్పెను — నీవు చేయుచున్న ⟨the⟩ మాట ⟨is⟩ మంచిది కాదు.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "మరియు...చెప్పెను"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "అత్తగారు"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే యొక్క"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "అతనితో"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ మాట"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "...చేయుచున్న"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవు"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేయు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:48:47.442287409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 72,
+  "translation": "ఙాషే యొక్క కుమారుడైన దావీదు ప్రార్థనలు సమాప్తమైనవి.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "సమాప్తమైనవి"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ప్రార్థనలు"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "దావీదు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడైన"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ఙాషే"
+    }
+  ],
+  "timestamp": "2026-08-18T01:12:52.524041716Z",
+  "model": "glm-5.3"
+}

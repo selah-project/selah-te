@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బంగారు కప్పె ఒకటి పది తులములు, ధూపముతో నిండినది.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "కప్పె"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది తులములు"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారు"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "నిండినది"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ధూపము"
+    }
+  ],
+  "timestamp": "2026-08-17T19:16:37.132497993Z",
+  "model": "glm-5.3"
+}

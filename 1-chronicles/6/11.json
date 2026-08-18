@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "ఎల్కానా — ⟨his sons⟩: ఎల్కానా, సోఫాయ్ తన కుమారుడు, మరియు నాఖత్ తన కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ఎల్కానా"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "తన కుమారుడు"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ఎల్కానా"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "సోఫాయ్"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "తన కుమారుడు"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "మరియు నాఖత్"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "తన కుమారుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:24.146560030Z",
+  "model": "glm-5.3"
+}

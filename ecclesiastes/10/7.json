@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "గుర్రాలపై సేవకులను, సేవకులవలె భూమిపై నడిచే అధికారులను నేను చూచితిని.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "నేను చూచితిని"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "సేవకులను"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "గుర్రాల"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "మరియు అధికారులను"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "నడిచే"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "సేవకులవలె"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:54.246996948Z",
+  "model": "glm-5.3"
+}

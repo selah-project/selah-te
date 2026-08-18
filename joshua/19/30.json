@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 19:30",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 19,
+  "translation": "ఉమ్మా, అపెకు, రెఖోబు — ఇరవై రెండు నగరములు వాటి గ్రామములతో.",
+  "tokens": [
+    {
+      "surface": "ועמה",
+      "gloss": "ఉమ్మా"
+    },
+    {
+      "surface": "ואפק",
+      "gloss": "అపెకు"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "రెఖోబు"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "నగరములు"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "రెండు"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "వాటి గ్రామములు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:48:05.714980389Z",
+  "model": "glm-5.3"
+}

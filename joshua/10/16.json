@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "ఆ ఐదుగురు రాజులు పారిపోయిరి, మఖేదాలో ఉన్న ⟨the⟩ గుహలో దాగిరి.",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "పారిపోయిరి"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "ఐదుగురు"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "రాజులు"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "దాగిరి"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "గుహలో"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "మఖేదాలో"
+    }
+  ],
+  "timestamp": "2026-08-18T05:06:38.440968931Z",
+  "model": "glm-5.3"
+}

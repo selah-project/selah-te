@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "షావుల్ మామయ్య — షమూఎల్ మీతో ఏమి చెప్పెనో నాకు చెప్పుము అని అడిగెను.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "అని అడిగెను"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "మామయ్య"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "షావుల్"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "చెప్పుము"
+    },
+    {
+      "surface": "נא",
+      "gloss": "బిక్షగా"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఏమి"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "చెప్పెను"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీతో"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "షమూఎల్"
+    }
+  ],
+  "timestamp": "2026-08-17T22:08:56.922618941Z",
+  "model": "glm-5.3"
+}

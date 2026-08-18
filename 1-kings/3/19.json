@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "రాత్రిన ఆమె పై పడుటచే ఈ స్త్రీ కుమారుడు మరణించెను.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "మరణించెను"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "స్త్రీ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ఈ తని"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "రాత్రిన"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "పడియున్నది"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "అతని పై"
+    }
+  ],
+  "timestamp": "2026-08-17T22:36:45.427736826Z",
+  "model": "glm-5.3"
+}

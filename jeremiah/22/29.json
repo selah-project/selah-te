@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "భూమి, భూమి, భూమి, యాహ్వే మాట వినుము.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "వినుము"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T23:42:57.824383009Z",
+  "model": "glm-5.3"
+}

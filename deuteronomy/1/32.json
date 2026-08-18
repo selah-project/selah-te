@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "అయితే ఈ సంగతిలో నీవులు యాహ్వే మీ ఎలోహీంపై విశ్వసించుటలేదు.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "అయితే ఈ సంగతిలో"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "నీవులు లేరు"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "విశ్వసించుటలో"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "యాహ్వేపై"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "మీ ఎలోహీం"
+    }
+  ],
+  "timestamp": "2026-08-17T20:42:58.682685150Z",
+  "model": "glm-5.3"
+}

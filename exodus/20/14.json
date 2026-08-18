@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 20,
+  "translation": "వ్యభిచారం చేయవద్దు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "వ్యభిచారం చేయ"
+    }
+  ],
+  "timestamp": "2026-08-17T17:46:30.301546590Z",
+  "model": "glm-5.3"
+}

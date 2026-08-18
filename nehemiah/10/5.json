@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "ఖత్తూష్, షెబన్యా, మల్లూక్,",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "ఖత్తూష్"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "షెబన్యా"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "మల్లూక్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:16.786319088Z",
+  "model": "glm-5.3"
+}

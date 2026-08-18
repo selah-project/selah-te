@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 22:17",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "యాహ్వే మోషేతో ఇలా పలికెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు పలికెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా చెప్పుచు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:26:13.632686790Z",
+  "model": "glm-5.3"
+}

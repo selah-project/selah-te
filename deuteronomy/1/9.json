@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "ఆ సమయంలో నేను మీతో ఇలా అన్నాను: నేను ఒంటరిగా మిమ్మల్ని ⟨את⟩ మోయలేను.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "మరియు అన్నాను"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "మీతో"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "సమయంలో"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా చెప్పుటకు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "నేను సమర్థించగలను"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "నేను ఒంటరిగా"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "మోయుటకు"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "మిమ్మల్ని"
+    }
+  ],
+  "timestamp": "2026-08-18T04:50:13.931347118Z",
+  "model": "glm-5.3"
+}

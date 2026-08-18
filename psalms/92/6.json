@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 92,
+  "translation": "యాహ్వే, నీ క్రియలు ఎంత గొప్పవి! నీ ఆలోచనలు చాలా లోతైనవి.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ఎంత"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "గొప్పవి"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "నీ క్రియలు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "చాలా"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "లోతైనవి"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "నీ ఆలోచనలు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:20:35.640861345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "నిజముగా మీరే ⟨the⟩ ప్రజ, మీతోనే జ్ఞానము మరణించును!",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "నిజముగా"
+    },
+    {
+      "surface": "כי",
+      "gloss": "నిశ్చయముగా"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "మీరే"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ప్రజ"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "మీతోనే"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "మరణించును"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "జ్ఞానము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:05:48.818982357Z",
+  "model": "glm-5.3"
+}

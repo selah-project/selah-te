@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 121,
+  "translation": "పగలు సూర్యుడు నిన్ను కొట్టడు, రాత్రి చంద్రుడు కూడా.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "పగలు"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "సూర్యుడు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "నిన్ను కొట్టడు"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "మరియు చంద్రుడు"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "రాత్రిలో"
+    }
+  ],
+  "timestamp": "2026-08-18T01:31:44.119293604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 32,
+  "translation": "మరియు ⟨అతడు⟩ చెప్పును — ఎక్కడ ⟨ఉన్నాయి⟩ వారి దేవులు, వారు నమ్మిన ⟨దేవుడు⟩ రాయి?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "మరియు చెప్పును"
+    },
+    {
+      "surface": "אי",
+      "gloss": "ఎక్కడ"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "వారి దేవులు"
+    },
+    {
+      "surface": "צור",
+      "gloss": "రాయి"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "వారు నమ్మిన"
+    },
+    {
+      "surface": "בו",
+      "gloss": "అతనియందు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:36:19.502521087Z",
+  "model": "glm-5.3"
+}

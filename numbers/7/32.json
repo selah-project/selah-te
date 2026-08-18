@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "పది షెకెలుల బంగారు అరచేతి-పాత్ర ఒకటి, ధూపద్రవ్యంతో నిండి ఉంది.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "అరచేతి-పాత్ర"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారు"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "నిండి ఉంది"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ధూపద్రవ్యం"
+    }
+  ],
+  "timestamp": "2026-08-18T04:36:17.866308712Z",
+  "model": "glm-5.3"
+}

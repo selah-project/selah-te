@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 119,
+  "translation": "తోవును ⟨את⟩ నా దాసునితో చేసావు, యాహ్వే, నీ మాట ప్రకారం.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "తోవు"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "చేసావు"
+    },
+    {
+      "surface": "עם",
+      "gloss": "తో"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "నీ దాసుడు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "నీ మాట ప్రకారం"
+    }
+  ],
+  "timestamp": "2026-08-18T01:30:53.112832340Z",
+  "model": "glm-5.3"
+}

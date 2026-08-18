@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "చాలా దినములు యెహోషువ ⟨את⟩ ఈ సమస్త రాజులతో యుద్ధము చేసెను.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "దినములు"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "చాలా"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "యెహోషువ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఈ సమస్త రాజులను"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్త"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "రాజులు"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "యుద్ధము"
+    }
+  ],
+  "timestamp": "2026-08-17T21:45:52.142615607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "అతనిపై ⟨את⟩ రొక్కమును ఉంచెను; రొక్కము యొద్ద ⟨את⟩ ఊరీంను ⟨את⟩ తుమ్మీంను ఉంచెను.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ఉంచెను"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "అతనిపై"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "రొక్కమును"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "రొక్కము"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ఉంచెను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "యొద్ద"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "రొక్కము"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఊరీంను"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ఊరీం"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "తుమ్మీంను"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "తుమ్మీం"
+    }
+  ],
+  "timestamp": "2026-08-17T18:12:02.455608660Z",
+  "model": "glm-5.3"
+}

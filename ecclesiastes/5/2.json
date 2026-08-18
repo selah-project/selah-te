@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "ఎందుకంటే కల వచ్చును అధిక పనులవలన, మరియు మూర్ఖుని స్వరం ⟨ఉండును⟩ అధిక మాటలలో.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "בא",
+      "gloss": "వచ్చును"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "కల"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "అధిక పనులవలన"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "పనులవలన"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "మరియు స్వరం"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "మూర్ఖుని"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "అధిక"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "మాటలలో"
+    }
+  ],
+  "timestamp": "2026-08-18T12:53:35.515868285Z",
+  "model": "glm-5.3"
+}

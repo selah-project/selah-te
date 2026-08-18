@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మీఖా, రెఖోబ్, ఖషబ్యా.",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "మీఖా"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "రెఖోబ్"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ఖషబ్యా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:15:32.135027440Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "పాటలలో పాట — అది షెలోమో యొక్కది.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "పాట"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "పాటలలో పాట"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "అది"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "షెలోమో యొక్కది"
+    }
+  ],
+  "timestamp": "2026-08-18T02:24:02.219522921Z",
+  "model": "glm-5.3"
+}

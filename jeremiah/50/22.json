@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 50,
+  "translation": "దేశంలో యుద్ధశబ్దం, మరియు గొప్ప విధ్వంసం.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "శబ్దం"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "యుద్ధ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "దేశంలో"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "మరియు విధ్వంసం"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "గొప్ప"
+    }
+  ],
+  "timestamp": "2026-08-17T23:59:05.400700143Z",
+  "model": "glm-5.3"
+}

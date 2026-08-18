@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 37,
+  "translation": "⟨the⟩ అంచునకు సమీపంగా ఆ వలయాలు ఉండెను, కడ్డీల కొరకు ⟨the⟩ ఇరుసులుగా, ⟨את⟩ ⟨the⟩ కడ్డీని మోయుటకు.",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "సమీపంగా"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "అంచు"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ఉండెను"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ఆ వలయాలు"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ఇరుసులు"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "కడ్డీల కొరకు"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "మోయుటకు"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ కడ్డీని"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "కడ్డీ"
+    }
+  ],
+  "timestamp": "2026-08-17T18:01:31.773569143Z",
+  "model": "glm-5.3"
+}

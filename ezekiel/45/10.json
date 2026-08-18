@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 45,
+  "translation": "నీతియైన త్రాసులు, నీతియైన ఏపా, నీతియైన బత్ మీకు ⟨ఉండాలి⟩.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "త్రాసులు"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "నీతియైన"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "మరియు ఏపా"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "నీతియైన"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "మరియు బత్"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "నీతియైన"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ఉండాలి"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "మీకు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:26:14.504887200Z",
+  "model": "glm-5.3"
+}

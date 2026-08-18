@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ప్రతిదానికి ⟨ఒక⟩ నియమిత సమయం ఉంది, ఆకాశము క్రింద ప్రతి కోరికకు ⟨ఒక⟩ సమయం ఉంది.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "ప్రతిదానికి"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "నియమిత సమయం"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "మరియు సమయం"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "కోరికకు"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "క్రింద"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ఆకాశము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:36:02.742249221Z",
+  "model": "glm-5.3"
+}

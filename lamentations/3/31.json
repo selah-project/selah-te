@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "ఎందుకంటే అదోనాయ్ ఎన్నటికిని త్రోసివేయడు.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "త్రోసివేయడు"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ఎన్నటికిని"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "అదోనాయ్"
+    }
+  ],
+  "timestamp": "2026-08-18T02:32:06.098413454Z",
+  "model": "glm-5.3"
+}

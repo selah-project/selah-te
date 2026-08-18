@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "వారు తమ నోరు నాపై తెరిచారు — సింహం విరిచి గర్జించేది.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "తెరిచారు"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "నాపై"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "తమ నోరు"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "సింహం"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "విరిచి"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "మరియు గర్జించేది"
+    }
+  ],
+  "timestamp": "2026-08-18T00:57:45.420196427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "ఎందుకంటే సంపద శాశ్వతం కాదు; మరియు ⟨ఉంటుందా⟩ కిరీటం తరం నుండి తరానికి?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "శాశ్వతంగా"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "సంపద"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "మరియు ⟨ఉంటుందా⟩"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "కిరీటం"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "తరం నుండి"
+    },
+    {
+      "surface": "דור",
+      "gloss": "తరానికి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:55:56.977265825Z",
+  "model": "glm-5.3"
+}

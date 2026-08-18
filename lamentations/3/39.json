@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "బ్రతికి ఉన్న మానవుడు ఎందుకు ఫుల్లగుతాడు? ఒక పురుషుడు తన పాపఫలము గురించి?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ఎందుకు"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "ఫుల్లగుతాడు"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మానవుడు"
+    },
+    {
+      "surface": "חי",
+      "gloss": "బ్రతికి ఉన్న"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ఒక పురుషుడు"
+    },
+    {
+      "surface": "על",
+      "gloss": "గురించి"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "తన పాపఫలము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:45.567073027Z",
+  "model": "glm-5.3"
+}

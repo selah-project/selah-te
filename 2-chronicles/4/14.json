@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "మరియు ⟨את⟩ ఆ పీఠములను చేసెను, మరియు ⟨את⟩ ఆ కుండలను ఆ పీఠములపై చేసెను.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "ఆ పీఠములను"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ఆ పీఠములను"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "ఆ కుండలను"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "ఆ కుండలను"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "చేసెను"
+    },
+    {
+      "surface": "על",
+      "gloss": "పైన"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ఆ పీఠముల"
+    }
+  ],
+  "timestamp": "2026-08-18T03:44:30.531127073Z",
+  "model": "glm-5.3"
+}

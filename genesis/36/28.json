@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 36,
+  "translation": "ఇవి దిషాన్ కుమారులు: ఉట్స్, మరియు అరాన్.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ఇవి"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "దిషాన్"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ఉట్స్"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "మరియు అరాన్"
+    }
+  ],
+  "timestamp": "2026-08-17T17:26:13.966219264Z",
+  "model": "glm-5.3"
+}

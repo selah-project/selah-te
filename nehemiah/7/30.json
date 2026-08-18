@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "రామా మరియు గెబా పురుషులు — ఆరు వందల ఇరవై ఒకరు.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "పురుషులు"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "రామా"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "మరియు గెబా"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "మరియు ఒకరు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:54.313349854Z",
+  "model": "glm-5.3"
+}

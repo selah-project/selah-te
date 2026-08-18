@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 81,
+  "translation": "కొత్త నెలలో బాకా ఊదండి; పున్నమి నాడు, మన పండుగ దినమున.",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "ఊదండి"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "కొత్త నెలలో"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "బాకా"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "పున్నమి నాడు"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "దినమున"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "మన పండుగ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:16:16.744731697Z",
+  "model": "glm-5.3"
+}

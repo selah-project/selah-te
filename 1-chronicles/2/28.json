@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఓనాము కుమారులు షమ్మాయి, యాదా; షమ్మాయి కుమారులు నాదాబు, అబీషూరు.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ఉండిరి"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ఓనాము"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "షమ్మాయి"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "యాదా"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "షమ్మాయి"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "నాదాబు"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "అబీషూరు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:35:02.796820457Z",
+  "model": "glm-5.3"
+}

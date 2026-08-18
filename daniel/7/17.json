@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఈ నాలుగు మహా జంతువులు నాలుగు రాజులు; అవి భూమినుండి లేవనెత్తును.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "జంతువులు"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "మహా"
+    },
+    {
+      "surface": "די",
+      "gloss": "అవి"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "అవి"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "నాలుగు"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "రాజులు"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "లేవనెత్తును"
+    },
+    {
+      "surface": "מן",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "భూమి"
+    }
+  ],
+  "timestamp": "2026-08-18T06:27:32.387381420Z",
+  "model": "glm-5.3"
+}

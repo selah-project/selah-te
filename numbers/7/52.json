@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మేకల ఒక్క మగపిల్ల పాప బలిగా ⟨ל⟩.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "మగపిల్ల"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "మేకల"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక్క"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "పాప బలిగా ⟨ל⟩"
+    }
+  ],
+  "timestamp": "2026-08-18T04:36:12.863503422Z",
+  "model": "glm-5.3"
+}

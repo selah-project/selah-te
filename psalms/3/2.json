@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "యాహ్వే, ఎంతగా పెరిగారు నా శత్రువులు! అనేకులు నాపై లేస్తున్నారు.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ఎంతగా"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "పెరిగారు"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "నా శత్రువులు"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "అనేకులు"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "లేస్తున్నారు"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "నాపై"
+    }
+  ],
+  "timestamp": "2026-08-18T00:53:04.705245651Z",
+  "model": "glm-5.3"
+}

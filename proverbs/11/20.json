@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 11:20",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "వక్రహృదయులు యాహ్వేకు అసహ్యం; నిర్మల మార్గస్థులు ఆయన సంతోషం.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "అసహ్యం"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వేకు"
+    },
+    {
+      "surface": "עקשי",
+      "gloss": "వక్ర"
+    },
+    {
+      "surface": "לב",
+      "gloss": "హృదయులు"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "కానూ ఆయన సంతోషం"
+    },
+    {
+      "surface": "תמימי",
+      "gloss": "నిర్మల"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "మార్గస్థులు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:44:11.873606270Z",
+  "model": "glm-5.3"
+}

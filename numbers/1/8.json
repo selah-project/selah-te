@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "యిస్సాషారు కొరకు — త్సూవారు కుమారుడు నెతనేలు.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "యిస్సాషారు కొరకు"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "నెతనేలు"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "త్సూవారు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:55:21.661355469Z",
+  "model": "glm-5.3"
+}

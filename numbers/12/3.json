@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "మరియు ఆ మనిషి మోషే భూమి మీది ముఖముపైనున్న సమస్త మానవులకంటే చాలా నిగర్వి.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "మరియు ఆ మనిషి"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "నిగర్వి"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "చాలా"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "…కంటే సమస్త"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "మానవుల"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…వారు"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ముఖముపై"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "భూమి"
+    }
+  ],
+  "timestamp": "2026-08-18T04:39:13.844993641Z",
+  "model": "glm-5.3"
+}

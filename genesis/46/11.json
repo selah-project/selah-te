@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 46,
+  "translation": "లేవీ కుమారులు — గెర్షోన్, కెహాత్, మరారీ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "లేవీ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "గెర్షోన్"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "కెహాత్"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "మరారీ"
+    }
+  ],
+  "timestamp": "2026-08-17T17:33:01.138241509Z",
+  "model": "glm-5.3"
+}

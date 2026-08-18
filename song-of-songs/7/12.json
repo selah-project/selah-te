@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "రా, నా ప్రియుడా, పొలానికి వెళ్దాం, గ్రామాల్లో రాత్రి గడుపుదాం.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "రా"
+    },
+    {
+      "surface": "దודי",
+      "gloss": "నా ప్రియుడా"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "వెళ్దాం"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "పొలానికి"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "రాత్రి గడుపుదాం"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "గ్రామాల్లో"
+    }
+  ],
+  "timestamp": "2026-08-18T02:27:43.922395281Z",
+  "model": "glm-5.3"
+}

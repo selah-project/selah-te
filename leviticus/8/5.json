@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మోషే సమాజము యొద్ద పలికెను — యాహ్వే చేయుటకు ఆజ్ఞాపించిన ⟨the⟩ మాట ⟨this⟩ ఇదే.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "పలికెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "యొద్ద"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "సమాజము"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ఇదే"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దేనిని"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ఆజ్ఞాపించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "చేయుటకు"
+    }
+  ],
+  "timestamp": "2026-08-17T18:12:02.454859602Z",
+  "model": "glm-5.3"
+}

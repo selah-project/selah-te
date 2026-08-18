@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "ఎందుకంటే పొలంలో దుప్పి కూడా కన్నది, ⟨దాన్ని⟩ వదిలివేసెను — ఎందుకంటే పచ్చిక ⟨లేదు⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "גם",
+      "gloss": "కూడా"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "దుప్పి"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "పొలంలో"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "కన్నది"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "వదిలివేసెను"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ఉండెను"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "పచ్చిక"
+    }
+  ],
+  "timestamp": "2026-08-17T23:40:26.705920968Z",
+  "model": "glm-5.3"
+}

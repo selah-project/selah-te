@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "యోహనాన్ ఎనిమిదవవాడు, ఎల్జాబాద్ తొమ్మిదవవాడు.",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "యోహనాన్"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ఎనిమిదవవాడు"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "ఎల్జాబాద్"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "తొమ్మిదవవాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:31:22.755077371Z",
+  "model": "glm-5.3"
+}

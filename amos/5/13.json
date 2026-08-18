@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "కాగా ఆ కాలమందు బుద్ధిమంతుడు మౌనియగును, ఎందుకంటే అది చెడు కాలము.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "కాగా"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "బుద్ధిమంతుడు"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "కాలమందు"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ఆ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "మౌనియగును"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "עת",
+      "gloss": "కాలము"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "చెడు"
+    },
+    {
+      "surface": "היא",
+      "gloss": "అది"
+    }
+  ],
+  "timestamp": "2026-08-18T00:38:36.343728317Z",
+  "model": "glm-5.3"
+}

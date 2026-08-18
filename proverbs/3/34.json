@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "అవమానించువారితో ఆయన అవమానించును; కాని దీనులకు కృపను ఇచ్చును.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "అయితే"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "అవమానించువారితో"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ఆయన"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "అవమానించును"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "కాని దీనులకు"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ఇచ్చును"
+    },
+    {
+      "surface": "חן",
+      "gloss": "కృపను"
+    }
+  ],
+  "timestamp": "2026-08-18T01:38:57.109474744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "యెదీయాల్ శిమ్రీ కుమారుడు, మరియు అతని సోదరుడు యోహా ⟨the⟩ తీజీయుడు,",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "యెదీయాల్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "శిమ్రీ"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "మరియు యోహా"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "అతని సోదరుడు"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "తీజీయుడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:14.888166828Z",
+  "model": "glm-5.3"
+}

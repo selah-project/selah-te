@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "చెడు చేయుటకు సంతోషించువారు, చెడు వక్రతలో ఉల్లసించువారు;",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "సంతోషించువారు"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "చేయుటకు"
+    },
+    {
+      "surface": "רע",
+      "gloss": "చెడు"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "ఉల్లసించువారు"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "వక్రతలో"
+    },
+    {
+      "surface": "רע",
+      "gloss": "చెడు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:38:41.443516705Z",
+  "model": "glm-5.3"
+}

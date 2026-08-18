@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "అగ్ని నిత్యము బలిపీఠముపై వెలగుతూ ఉండవలెను; ఆర్పబడకూడదు.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "అగ్ని"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "నిత్యము"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "వెలగవలెను"
+    },
+    {
+      "surface": "ఢל",
+      "gloss": "పైన"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "బలిపీఠము"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ఆర్పబడవలెను"
+    }
+  ],
+  "timestamp": "2026-08-17T18:06:58.249928189Z",
+  "model": "glm-5.3"
+}

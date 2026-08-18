@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "ఎలా శోధించబడెను ఏసావు! ఎలా కారిపోయెను అతని దాగిన నిధులు!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ఎలా"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "శోధించబడెను"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ఏసావు"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "కారిపోయెను"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "అతని దాగిన నిధులు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:37:31.045083996Z",
+  "model": "glm-5.3"
+}

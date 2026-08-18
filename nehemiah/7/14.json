@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "జక్కయ్ కుమారులు ఏడు వందల అరవై.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "జక్కయ్"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "మరియు అరవై"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:28.405409934Z",
+  "model": "glm-5.3"
+}

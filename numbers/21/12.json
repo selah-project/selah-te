@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "అక్కడ నుండి ప్రయాణమై జెరెద్ నాలుక వద్ద పాళయి వేసిరి.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "అక్కడ నుండి"
+    },
+    {
+      "surface": "ఠసడ... ఠ",
+      "gloss": ""
+    },
+    {
+      "surface": "వ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-17T19:56:48.364735154Z",
+  "model": "glm-5.3"
+}

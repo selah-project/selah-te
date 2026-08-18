@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "యాహ్వే మోషేతో సీనాయి పర్వతంపై మాటలాడెను, సెలవిచ్చెను —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాటలాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషేతో"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "పర్వతంపై"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "సీనాయి"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "సెలవిచ్చెను"
+    }
+  ],
+  "timestamp": "2026-08-18T04:28:37.503147359Z",
+  "model": "glm-5.3"
+}

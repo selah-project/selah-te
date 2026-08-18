@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఒక బంగారు కప్పెం, పది తులముల బరువు ⟨ఉంది⟩, ధూపద్రవ్యముతో నిండి ⟨ఉంది⟩.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "కప్పెం"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒక"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారు"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "నిండి"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ధూపద్రవ్యముతో"
+    }
+  ],
+  "timestamp": "2026-08-18T07:41:51.848566299Z",
+  "model": "glm-5.3"
+}

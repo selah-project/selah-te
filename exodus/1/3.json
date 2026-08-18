@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 1:3",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "యిస్సాస్కార్, జెబూలూన్ మరియు బెన్యామీన్.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "యిస్సాస్కార్"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "జెబూలూన్"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "మరియు బెన్యామీన్"
+    }
+  ],
+  "timestamp": "2026-08-17T17:37:02.403614530Z",
+  "model": "glm-5.3"
+}

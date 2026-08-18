@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "తన చెక్కటి రాళ్ళతో నా మార్గములను గోడ చుట్టెను; నా అద్దాలను వంకరపరచెను.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "గోడ చుట్టెను"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "నా మార్గములను"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "చెక్కటి రాళ్ళతో"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "నా అద్దాలను"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "వంకరపరచెను"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:46.812579494Z",
+  "model": "glm-5.3"
+}

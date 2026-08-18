@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "ఆజ్ఞను కాపాడువాడు చెడు విషయం ⟨ను⟩ తెలియడు; మరియు సమయం మరియు తీర్పును జ్ఞాని యొక్క హృదయం తెలియును.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "కాపాడువాడు"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ఆజ్ఞ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "తెలియును"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "విషయం"
+    },
+    {
+      "surface": "רע",
+      "gloss": "చెడు"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "మరియు సమయం"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "మరియు తీర్పు"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "తెలియును"
+    },
+    {
+      "surface": "లబ",
+      "gloss": "హృదయం"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "జ్ఞాని"
+    }
+  ],
+  "timestamp": "2026-08-18T02:39:55.425421934Z",
+  "model": "glm-5.3"
+}

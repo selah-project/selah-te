@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "యాకోవ్ వంటనూను వండెను; ఈసావు పొలము నుండి వచ్చెను, అతడు అలసిపోయినవాడు.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "వండెను"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "యాకోవ్"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "వంటనూను"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "వచ్చెను"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ఈసావు"
+    },
+    {
+      "surface": "מן",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "పొలము"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "అతడు"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "అలసిపోయినవాడు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:17:53.269667705Z",
+  "model": "glm-5.3"
+}

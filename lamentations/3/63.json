@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "వారి కూర్చుని ఉండటం మరియు వారి లేవటం — చూడు; నేను వారి పాటగా ఉన్నాను.",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "వారి కూర్చుని ఉండటం"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "మరియు వారి లేవటం"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "చూడు"
+    },
+    {
+      "surface": "אני",
+      "gloss": "నేను"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "వారి పాటగా"
+    }
+  ],
+  "timestamp": "2026-08-18T02:31:17.710059528Z",
+  "model": "glm-5.3"
+}

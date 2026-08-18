@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "అజ్నీ కు — అజ్నీయుల కుటుంబం; ఏరీ కు — ఏరీయుల కుటుంబం.",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "అజ్నీ కు"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "కుటుంబం"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "అజ్నీయుల"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "ఏరీ కు"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "కుటుంబం"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "ఏరీయుల"
+    }
+  ],
+  "timestamp": "2026-08-18T08:18:15.473651845Z",
+  "model": "glm-5.3"
+}

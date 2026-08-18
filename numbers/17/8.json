@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 17,
+  "translation": "మరియు మోషే ⟨మరియు⟩ అహరోను సమాగమ గుడారము ముందుకు వచ్చిరి.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "వచ్చిరి"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "మరియు అహరోను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపుకు"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ముందు"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "గుడారము"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "సమాగమ"
+    }
+  ],
+  "timestamp": "2026-08-18T08:11:48.563200125Z",
+  "model": "glm-5.3"
+}

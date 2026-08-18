@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మరియు ⟨את⟩ పీఠములు పది, మరియు ⟨את⟩ పీఠములపై కాళ్లు పది;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "పీఠములను"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "పీఠములను"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పది"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "మరియు ⟨את⟩",
+      "marks": "కాళ్లను"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "కాళ్లను"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "పది"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "పీఠముల"
+    }
+  ],
+  "timestamp": "2026-08-17T22:38:06.054571782Z",
+  "model": "glm-5.3"
+}

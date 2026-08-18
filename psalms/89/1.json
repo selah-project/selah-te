@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 89,
+  "translation": "బోధాత్మక గీతం, ఏతాన్ హాఎజ్రాహీ యొక్కది.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "బోధాత్మక గీతం"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ఏతాన్ కొరకు"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "హాఏజ్రాహీ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:19:23.577063272Z",
+  "model": "glm-5.3"
+}

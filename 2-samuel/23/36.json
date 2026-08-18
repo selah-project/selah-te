@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "యిగాల్ నాతాన్ కుమారుడు సోబా వాడు; బానీ గాదీ,",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "యిగాల్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "నాతాన్"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "సోబా వాడు"
+    },
+    {
+      "surface": "בני",
+      "gloss": "బానీ"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "గాదీ"
+    }
+  ],
+  "timestamp": "2026-08-17T22:33:44.430552975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మోషే ఫరోహు నుండి బయటకు వెళ్లి, యాహ్వేను వేడుకొనెను.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "మరియు బయటకు వెళ్ళెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ఫరోహు"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "మరియు వేడుకొనెను"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-17T17:42:45.427252070Z",
+  "model": "glm-5.3"
+}

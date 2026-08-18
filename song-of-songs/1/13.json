@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "నా ప్రియుడు నాకు మూర్ కట్టె; అది నా రొమ్ముల మధ్య రాత్రింబవులుగా ఉండును.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "కట్టె"
+    },
+    {
+      "surface": "המר",
+      "gloss": "మూర్"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "నా ప్రియుడు"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "בין",
+      "gloss": "మధ్య"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "రొమ్ముల"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "రాత్రింబవులుగా ఉండును"
+    }
+  ],
+  "timestamp": "2026-08-18T02:23:12.956402015Z",
+  "model": "glm-5.3"
+}

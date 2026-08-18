@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఇమ్మేరు కుమారులు — వెయ్యి యాభై ఇద్దరు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ఇమ్మేరు"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వెయ్యి"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "యాభై"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "మరియు ఇద్దరు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:13:00.526461408Z",
+  "model": "glm-5.3"
+}

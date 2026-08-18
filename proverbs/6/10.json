@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "కొంచెం నిద్ర, కొంచెం తూక్కు, కొంచెం చేతులు కలపడం పడుకొనుటకు —",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "కొంచెం"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "నిద్ర"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "కొంచెం"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "తూక్కు"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "కొంచెం"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "చేతులు కలపడం"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "చేతులు"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "పడుకొనుటకు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:41:04.250193205Z",
+  "model": "glm-5.3"
+}

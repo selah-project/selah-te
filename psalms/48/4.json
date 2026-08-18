@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 48:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 48,
+  "translation": "ఎలోహీం ఆమె అరమనలలో దుర్గముగా తెలియబడెను.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "בארמנותיה",
+      "gloss": "ఆమె అరమనలలో"
+    },
+    {
+      "surface": "נודע",
+      "gloss": "తెలియబడెను"
+    },
+    {
+      "surface": "למשגב",
+      "gloss": "దుర్గముగా"
+    }
+  ],
+  "timestamp": "2026-08-18T01:06:04.374417843Z",
+  "model": "glm-5.3"
+}

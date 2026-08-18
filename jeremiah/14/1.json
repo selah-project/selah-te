@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "యిర్మెయాహుకు బాదరధృష్టాల గురించి యాహ్వే ⟨నుండి⟩ వచ్చిన వాక్యము ఇది.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ఇది"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ఉండెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "వాక్యము"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపుకు"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "యిర్మెయాహు"
+    },
+    {
+      "surface": "על",
+      "gloss": "గురించి"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "విషయముల"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "బాదరధృష్టాల"
+    }
+  ],
+  "timestamp": "2026-08-17T23:42:00.365287133Z",
+  "model": "glm-5.3"
+}

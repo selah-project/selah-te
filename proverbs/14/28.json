@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "ప్రజల సమృద్ధియందు రాజు ⟨యొక్క⟩ గొప్పతనం; ప్రజ ⟨లేనిచో⟩ అధికారి యొక్క నాశనం.",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "సమృద్ధియందు"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ప్రజల"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "గొప్పతనం"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "⟨లేనిచో⟩"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "ప్రజ"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "నాశనం"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "అధికారి"
+    }
+  ],
+  "timestamp": "2026-08-18T01:46:14.959616314Z",
+  "model": "glm-5.3"
+}

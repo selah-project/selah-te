@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "మరల ఒకవేళ ఇద్దరు పడుకుంటే వారికి ఉష్ణం ఉంటుంది; ఒక్కడికి మాత్రం ఎలా ఉష్ణం ⟨పొందును⟩?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "మరల"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ఒకవేళ"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "పడుకుంటే"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ఇద్దరు"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ఉష్ణం ఉంటుంది"
+    },
+    {
+      "surface": "להם",
+      "gloss": "వారికి"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "ఒక్కడికి మాత్రం"
+    },
+    {
+      "surface": "איך",
+      "gloss": "ఎలా"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ఉష్ణం పొందును"
+    }
+  ],
+  "timestamp": "2026-08-18T02:36:09.435964003Z",
+  "model": "glm-5.3"
+}

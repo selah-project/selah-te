@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 50,
+  "translation": "యోసేఫు తన తండ్రి ముఖముపై పడి అతనికొరకు ఏడిసి అతనిని ముద్దాడెను.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "పడెను"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "యోసేఫు"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ముఖము"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "తన తండ్రి"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "మరియు ఏడిసెను"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "అతనికొరకు"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "మరియు ముద్దాడెను"
+    },
+    {
+      "surface": "לו",
+      "gloss": "అతనిని"
+    }
+  ],
+  "timestamp": "2026-08-17T17:36:51.594506044Z",
+  "model": "glm-5.3"
+}

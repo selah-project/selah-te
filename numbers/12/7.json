@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "అంత కాదు నా సేవకుడు మోషే; నా సమస్త గృహములో అతడు నమ్మకస్థుడు.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "כן",
+      "gloss": "అంత"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "నా సేవకుడు"
+    },
+    {
+      "surface": "משה",
+      "gloss": "מ౹שֶה"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "సమస్త...లో"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "నా గృహము"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "నమ్మకస్థుడు"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అతడు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:39:12.256889892Z",
+  "model": "glm-5.3"
+}

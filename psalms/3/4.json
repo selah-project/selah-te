@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "కానీ ⟨నీవే⟩, యాహ్వే, నా కవచం; నా మహిమ, మరియు నా తల ఎత్తువాడు.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "కానీ ⟨నీవే⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "కవచం"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "నా కోసం"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "నా మహిమ"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "మరియు ఎత్తువాడు"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "నా తల"
+    }
+  ],
+  "timestamp": "2026-08-18T00:53:04.705526832Z",
+  "model": "glm-5.3"
+}

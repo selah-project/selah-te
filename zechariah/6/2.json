@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 6,
+  "translation": "మొదటి రథములో ఎర్రని గుర్రములు, రెండవ రథములో నల్లని గుర్రములు.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "రథములో"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "మొదటి"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "గుర్రములు"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "ఎర్రని"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "మరియు రథములో"
+    },
+    {
+      "surface": "డהשנית",
+      "gloss": "రెండవ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "గుర్రములు"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "నల్లని"
+    }
+  ],
+  "timestamp": "2026-08-18T00:48:08.324921715Z",
+  "model": "glm-5.3"
+}

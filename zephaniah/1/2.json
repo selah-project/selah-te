@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "నేను సంహరిస్తూ సంహరించుదును భూమి మీది ముఖము నుండి సమస్తమును — యాహ్వే నిర్ణయం.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "సంహరిస్తూ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "సంహరించుదును"
+    },
+    {
+      "surface": "כל",
+      "gloss": "సమస్తమును"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "నుండి"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ముఖము"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "నిర్ణయం"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    }
+  ],
+  "timestamp": "2026-08-18T00:46:01.005960595Z",
+  "model": "glm-5.3"
+}

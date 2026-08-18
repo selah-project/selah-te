@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 22:23",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 22,
+  "translation": "మరియు యాహ్వే మాట నాయొద్దకు ఈ లేఖనంగా వచ్చెను:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు-వచ్చెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే-యొక్క"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాయొద్దకు"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఈ-లేఖనంగా"
+    }
+  ],
+  "timestamp": "2026-08-18T00:13:24.346863526Z",
+  "model": "glm-5.3"
+}

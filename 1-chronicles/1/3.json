@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 1:3",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "ఖనోక్, మెతూషేలఖ్, లెమెక్,",
+  "tokens": [
+    {
+      "surface": "חנוך",
+      "gloss": "ఖనోక్"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "మెతూషేలఖ్"
+    },
+    {
+      "surface": "למך",
+      "gloss": "లెమెక్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:35.096637826Z",
+  "model": "glm-5.3"
+}

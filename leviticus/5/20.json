@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "మరియు యాహ్వే మోషేతో ఇలా అని మాట్లాడాడు:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మరియు మాట్లాడాడు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా అని"
+    }
+  ],
+  "timestamp": "2026-08-17T18:06:38.930852436Z",
+  "model": "glm-5.3"
+}

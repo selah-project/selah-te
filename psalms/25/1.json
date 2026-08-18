@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 25,
+  "translation": "దావీదునకు. నీ వైపు, యాహ్వే, నా ప్రాణము ఎత్తుచున్నాను.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "దావీదునకు"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "నీ వైపు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "నా ప్రాణము"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ఎత్తుచున్నాను"
+    }
+  ],
+  "timestamp": "2026-08-18T00:59:27.011295074Z",
+  "model": "glm-5.3"
+}

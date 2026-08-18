@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 34,
+  "translation": "మూసిన దేవుళ్లను నీకు చేయవద్దు.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "దేవుళ్లను"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "మూసిన"
+    },
+    {
+      "surface": "לא",
+      "gloss": "వద్దు"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "చేయవద్దు"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:18:55.453136435Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "ఒక మనిషి ప్రాణ విమోచనా ధనము అతని సంపద; పేదవాడు మాత్రం బెదిరింపు వినడు.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "విమోచనా ధనము"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ప్రాణ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "అతని సంపద"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "మరియు పేదవాడు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "లేదు"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "వినడు"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "బెదిరింపు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:45:11.492970585Z",
+  "model": "glm-5.3"
+}

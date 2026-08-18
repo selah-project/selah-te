@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "మోషే ⟨it⟩ వినెను, మరియు తన ముఖముపై పడిపోయెను.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "మరియు వినెను"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "మరియు పడిపోయెను"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "తన ముఖము"
+    }
+  ],
+  "timestamp": "2026-08-18T04:41:44.726352623Z",
+  "model": "glm-5.3"
+}

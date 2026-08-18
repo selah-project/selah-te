@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నాది ⟨the⟩ వెండి, మరియు నాది ⟨the⟩ బంగారం — సైన్యముల యాహ్వే అను నిర్వచనం.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "నాది"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "⟨the⟩ వెండి"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "మరియు నాది"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "⟨the⟩ బంగారం"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "అను నిర్వచనం"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "సైన్యముల"
+    }
+  ],
+  "timestamp": "2026-08-18T00:45:54.910319075Z",
+  "model": "glm-5.3"
+}

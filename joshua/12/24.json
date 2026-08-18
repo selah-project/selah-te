@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "తిర్జా రాజు ఒకడు; మొత్తం రాజులు ముప్పై ఒకడు.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "తిర్జా"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "మొత్తం"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "రాజులు"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ముప్పై"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ఒకడు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:44:17.709352702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 124:2",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 124,
+  "translation": "యాహ్వే మనకు ఉండి ⟨ఉండకపోతే⟩, మనుషులు మనపై లేచినప్పుడు,",
+  "tokens": [
+    {
+      "surface": "לולי",
+      "gloss": "లేకపోతే"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ఉండియుండెడి"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "మనకు"
+    },
+    {
+      "surface": "בקום",
+      "gloss": "లేచినప్పుడు"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "మనపై"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "మనుషులు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:33:04.077103168Z",
+  "model": "glm-5.3"
+}

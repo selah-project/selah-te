@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "మరియు ⟨את⟩ బేత్-లెఖెమ్ ⟨את⟩ ఏతామ్ ⟨את⟩ తెకోవాను కట్టెను.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "మరియు కట్టెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "బేత్-లెఖెమ్"
+    },
+    {
+      "surface": "בית",
+      "gloss": "బేత్"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "లెఖెమ్"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ఏతామ్"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ఏతామ్"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "తెకోవా"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "తెకోవా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:47:16.913556595Z",
+  "model": "glm-5.3"
+}

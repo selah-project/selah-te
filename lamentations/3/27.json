@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "తన యవ్వనంలో నోకరిని మోసే వాడు పురుషునికి మంచిది.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "మంచిది"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "పురుషునికి"
+    },
+    {
+      "surface": "כי",
+      "gloss": "యెందునని"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "మోసే వాడు"
+    },
+    {
+      "surface": "על",
+      "gloss": "నోకరిని"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "తన యవ్వనంలో"
+    }
+  ],
+  "timestamp": "2026-08-18T02:32:27.625546413Z",
+  "model": "glm-5.3"
+}

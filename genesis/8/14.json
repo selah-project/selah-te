@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "రెండవ నెలలో, నెలకు ఇరవై ఏడవ దినమున, ⟨the⟩ భూమి పూర్తిగా ఎండిపోయెను.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "మరియు నెలలో"
+    },
+    {
+      "surface": "השני",
+      "gloss": "రెండవ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ఏడు"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ఇరవై"
+    },
+    {
+      "surface": "יום",
+      "gloss": "దినమున"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "నెలకు"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ఎండిపోయెను"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    }
+  ],
+  "timestamp": "2026-08-17T17:06:40.571597313Z",
+  "model": "glm-5.3"
+}

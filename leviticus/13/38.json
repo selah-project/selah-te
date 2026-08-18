@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "మరియు ఒక మనిషి లేదా ఒక స్త్రీ తమ శరీర చర్మములో మచ్చలు — తెల్లని మచ్చలు కలిగి ఉండగా,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "మరియు ఒక మనిషి"
+    },
+    {
+      "surface": "או",
+      "gloss": "లేదా"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ఒక స్త్రీ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఒకవేళ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ఉండగా"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "చర్మములో"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "తమ శరీర"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "మచ్చలు"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "మచ్చలు"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "తెల్లని"
+    }
+  ],
+  "timestamp": "2026-08-17T18:15:42.672337946Z",
+  "model": "glm-5.3"
+}

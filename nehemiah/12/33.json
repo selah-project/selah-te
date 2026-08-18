@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "మరియు అజర్యా, ఎజ్రా, మషుల్లాం",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "మరియు అజర్యా"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "ఎజ్రా"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "మరియు మషుల్లాం"
+    }
+  ],
+  "timestamp": "2026-08-18T03:17:53.078665721Z",
+  "model": "glm-5.3"
+}

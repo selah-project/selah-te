@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 58,
+  "translation": "వారి విషం ⟨ఉంది⟩ పాము విషము వలె; చెవిటి పామువలె అది తన చెవిని మూసికొనును.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "విషం"
+    },
+    {
+      "surface": "למו",
+      "gloss": "వారి"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "వలె"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "విషము"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "పాము"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "వలె"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "పాము"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "చెవిటి"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "మూసికొనును"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "తన చెవిని"
+    }
+  ],
+  "timestamp": "2026-08-18T01:08:30.103819211Z",
+  "model": "glm-5.3"
+}

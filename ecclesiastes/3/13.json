@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "మరియు ప్రతి మానవుడు తినుటయు, త్రాగుటయు, తన శ్రమంతటనించియు మేలు చూచుటయు — ఇది ఎలోహీం బహుమతి.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "మరియు...కూడా"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "మానవుడు"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "తినుట"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "త్రాగుట"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "చూచుట"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "మేలు"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "తటనించియు"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "తన శ్రమ"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "బహుమతి"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ఇది"
+    }
+  ],
+  "timestamp": "2026-08-18T06:19:20.500415152Z",
+  "model": "glm-5.3"
+}

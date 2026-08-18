@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "నీవు ప్రాణాసక్తి యజమానివైతే, నీ గొంతుకు ఒక కత్తిని పెట్టుకొనుము.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "మరియు పెట్టుకొనుము"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "కత్తి"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "నీ గొంతుకు"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ఐతే"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "యజమాని"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ప్రాణాసక్తి"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:52:39.851178813Z",
+  "model": "glm-5.3"
+}

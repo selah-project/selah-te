@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "యాహ్వే మీ పితృకులపై క్రోధించెను — క్రోధంతో.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "క్రోధించెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "మీ పితృకులపై"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "క్రోధంతో"
+    }
+  ],
+  "timestamp": "2026-08-18T00:46:34.445628904Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "te",
+  "chapter": 38,
+  "translation": "మరియు యాహ్వే ⟨את⟩ నుండి నీకు ఇది సూచన — యాహ్వే ⟨את⟩ ఈ మాటను తాను మాట్లాడినట్లు చేస్తాడు.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "మరియు ఇది"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "האות",
+      "gloss": "సూచన"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ నుండి"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఎవడు"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "చేస్తాడు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఈ మాట"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ఈ మాట"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ఈ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "దానిని"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట్లాడెను"
+    }
+  ],
+  "timestamp": "2026-08-17T23:20:36.416277883Z",
+  "model": "glm-5.3"
+}

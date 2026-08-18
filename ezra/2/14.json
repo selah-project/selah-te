@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "బిగ్వాయి కుమారులు వెయ్యి ఐబది ఆరుగురు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "బిగ్వాయి"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "వెయ్యి"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ఐబది"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "మరియు ఆరు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:11.953246394Z",
+  "model": "glm-5.3"
+}

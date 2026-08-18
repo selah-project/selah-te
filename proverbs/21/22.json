@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "బలవంతుల నగరమును జ్ఞాని ఎక్కి, దాని నమ్మకపు బలాన్ని కూల్చును.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "నగరమును"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "బలవంతుల"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ఎక్కి"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "జ్ఞాని"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "మరియు కూల్చును"
+    },
+    {
+      "surface": "עז",
+      "gloss": "బలాన్ని"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "దాని నమ్మకపు"
+    }
+  ],
+  "timestamp": "2026-08-18T01:49:47.090705030Z",
+  "model": "glm-5.3"
+}

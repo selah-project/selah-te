@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 42,
+  "translation": "పడమర దిశ వైపు తిరిగి, కొలిచెను — కొలత కర్రతో ఐదు వందల కర్రలు.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "తిరిగి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వైపు"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "దిశ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "పడమర"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "కొలిచెను"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ఐదు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "కర్రలు"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "కర్రతో"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "కొలత"
+    }
+  ],
+  "timestamp": "2026-08-18T00:25:18.687612588Z",
+  "model": "glm-5.3"
+}

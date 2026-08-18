@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 36,
+  "translation": "అతడు ⟨את⟩ ఐదు తెరలను ఒకటి ఒకటికి జోడించెను, మరియు ఐదు తెరలను ఒకటి ఒకటికి జోడించెను.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "జోడించెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ఐదు తెరలను"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ఐదు"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "తెరలను"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కి"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటికి"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "మరియు ఐదు"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "తెరలను"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "జోడించెను"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటి"
+    },
+    {
+      "surface": "אל",
+      "gloss": "కి"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ఒకటికి"
+    }
+  ],
+  "timestamp": "2026-08-18T04:18:50.686251015Z",
+  "model": "glm-5.3"
+}

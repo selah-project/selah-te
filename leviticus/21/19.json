@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 21,
+  "translation": "లేక కాలిలో విరిగినది గల మనిషి, లేక చేతిలో విరిగినది గలవాడు.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "లేక"
+    },
+    {
+      "surface": "איש",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఎవని"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ఉండును"
+    },
+    {
+      "surface": "בו",
+      "gloss": "అతనిలో"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "విరిగినది"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "కాలిలో"
+    },
+    {
+      "surface": "או",
+      "gloss": "లేక"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "విరిగినది"
+    },
+    {
+      "surface": "יד",
+      "gloss": "చేతిలో"
+    }
+  ],
+  "timestamp": "2026-08-17T18:32:19.359159572Z",
+  "model": "glm-5.3"
+}

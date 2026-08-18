@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "నా మార్గములను తప్పించెను, నన్ను చీల్చివేసెను; నన్ను నిర్జనుని చేసెను.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "నా మార్గములను"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "తప్పించెను"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "చీల్చివేసెను"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "నన్ను చేసెను"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "నిర్జనుని"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:46.815864303Z",
+  "model": "glm-5.3"
+}

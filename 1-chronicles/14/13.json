@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "మరల ప్లిష్తీయులు ⟨మరల⟩ లోయలో పుంజాలు పుంజాలుగా వ్యాపించిరి.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "మరల...చేసిరి"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "మరల"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ప్లిష్తీయులు"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "వ్యాపించిరి"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "లోయలో"
+    }
+  ],
+  "timestamp": "2026-08-18T06:34:25.072456444Z",
+  "model": "glm-5.3"
+}

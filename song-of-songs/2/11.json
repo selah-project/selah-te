@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఎంతకాలమో — ఇదిగో వర్షఋతువు దాటిపోయెను, వర్షము గడచిపోయెను, తనకు తానే పోయినది.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎంతకాలమో"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ఇదిగో"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "వర్షఋతువు"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "దాటిపోయెను"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "వర్షము"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "గడచిపోయెను"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "పోయెను"
+    },
+    {
+      "surface": "לו",
+      "gloss": "తనకు తానే"
+    }
+  ],
+  "timestamp": "2026-08-18T02:23:27.184141187Z",
+  "model": "glm-5.3"
+}

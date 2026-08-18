@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 13,
+  "translation": "మీ మధ్యను ఒక ప్రవక్త లేక కలలు కలిగినవాడు లేచి, మీకు ఒక సూచనను లేక అద్భుతమును ఇచ్చినయెడల",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎడల"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "లేచి"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "మీ మధ్యను"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ప్రవక్త"
+    },
+    {
+      "surface": "או",
+      "gloss": "లేక"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "కలలు కలిగినవాడు"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "కల"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "మరియు ఇచ్చిన"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "మీకు"
+    },
+    {
+      "surface": "אות",
+      "gloss": "సూచనను"
+    },
+    {
+      "surface": "או",
+      "gloss": "లేక"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "అద్భుతమును"
+    }
+  ],
+  "timestamp": "2026-08-17T21:10:17.452563280Z",
+  "model": "glm-5.3"
+}

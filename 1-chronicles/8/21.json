@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు అదాయా, మరియు బెరాయా, మరియు షిమ్రత్ — వీరు షిమ్ఈ కుమారులు.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "మరియు అదాయా"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "మరియు బెరాయా"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "మరియు షిమ్రత్"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "షిమ్ఈ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:24:49.006957777Z",
+  "model": "glm-5.3"
+}

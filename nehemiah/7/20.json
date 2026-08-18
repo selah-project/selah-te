@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "అదీను కుమారులు — ఆరు వందల యాభై ఐదుగురు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "అదీను"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ఆరు"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "వందల"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "యాభై"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "మరియు ఐదు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:33.748710971Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 128,
+  "translation": "చూడు, ఎందుకంటే యాహ్వేను భయపడు మనిషి ఇలాగే ఆశీర్వదించబడును.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "చూడు"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ఇలాగే"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ఆశీర్వదించబడును"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "మనిషి"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "భయపడు"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వేను"
+    }
+  ],
+  "timestamp": "2026-08-18T01:32:55.361069209Z",
+  "model": "glm-5.3"
+}

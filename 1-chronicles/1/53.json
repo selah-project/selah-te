@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "అలూఫు కెనజు, అలూఫు తెమాను, అలూఫు మిబ్త్సారు.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "అలూఫు"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "కెనజు"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "అలూఫు"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "తెమాను"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "అలూఫు"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "మిబ్త్సారు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:10.982077066Z",
+  "model": "glm-5.3"
+}

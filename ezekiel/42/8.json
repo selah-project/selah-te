@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 42:8",
+  "book": "ezekiel",
+  "lang": "te",
+  "chapter": 42,
+  "translation": "ఎందుకంటే బయటి ఆవరణానికి ఉన్న గదుల పొడవు యాభై మూలాలు, మరియు ఇదిగో ⟨the⟩ ఆలయం ముందు వంద మూలాలు.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "పొడవు"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "గదుల"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఉన్న"
+    },
+    {
+      "surface": "לחצר",
+      "gloss": "ఆవరణానికి"
+    },
+    {
+      "surface": "החצונה",
+      "gloss": "బయటి"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "యాభై"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "మూలాలు"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "మరియు ఇదిగో"
+    },
+    {
+      "surface": "על",
+      "gloss": "ఎదుట"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ముందు"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ఆలయం"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "వంద"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "మూలాలు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:25:09.167246323Z",
+  "model": "glm-5.3"
+}

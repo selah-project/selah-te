@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "రూబేన్, షిమ్యోన్, లేవీ మరియు యహూదా.",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "రూబేన్"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "షిమ్యోన్"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "లేవీ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "మరియు యహూదా"
+    }
+  ],
+  "timestamp": "2026-08-17T17:37:02.403500446Z",
+  "model": "glm-5.3"
+}

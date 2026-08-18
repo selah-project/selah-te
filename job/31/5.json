@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 31:5",
+  "book": "job",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "నేను వ్యర్థతతో నడిచిన, నా పాదము మోసమునకు తొందరపడిన యెడల —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ఒకవేళ"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "నడిచాను"
+    },
+    {
+      "surface": "עם",
+      "gloss": "తో"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "వ్యర్ధత"
+    },
+    {
+      "surface": "ותחש",
+      "gloss": "తొందరపడింది"
+    },
+    {
+      "surface": "על",
+      "gloss": "కు"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "మోసము"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "నా పాదము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:15:05.814299219Z",
+  "model": "glm-5.3"
+}

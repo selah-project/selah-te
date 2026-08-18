@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "పన్నెండవ రోజున, ఆషేర్ కుమారుల నాయకుడు, ఓక్రాన్ కుమారుడైన పగీయేల్.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "రోజున"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "పన్నెండవ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "יום",
+      "gloss": "రోజు"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "నాయకుడు"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "కుమారుల"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఆషేర్"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "పగీయేల్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ఓక్రాన్"
+    }
+  ],
+  "timestamp": "2026-08-18T04:35:57.443286995Z",
+  "model": "glm-5.3"
+}

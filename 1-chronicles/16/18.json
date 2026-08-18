@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "ఈలాగు — నీకు నేను కనాను దేశాన్ని, మీ స్వాస్థ్యమైన త్రాడు-భాగాన్ని ఇస్తాను.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "ఈలాగు"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ఇస్తాను"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "దేశాన్ని"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "కనాను"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "త్రాడు-భాగం"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "మీ స్వాస్థ్యం"
+    }
+  ],
+  "timestamp": "2026-08-18T03:31:30.605311914Z",
+  "model": "glm-5.3"
+}

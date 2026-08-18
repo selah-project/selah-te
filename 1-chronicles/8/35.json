@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మీఖా కుమారులు: పితోను, మెలెకు, తారెయా, అహాజు.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "మరియు కుమారులు"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "మీఖా"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "పితోను"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "మరియు మెలెకు"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "మరియు తారెయా"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "మరియు అహాజు"
+    }
+  ],
+  "timestamp": "2026-08-18T06:34:20.041953355Z",
+  "model": "glm-5.3"
+}

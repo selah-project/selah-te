@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "వివేచన నిన్ను కాపాడును, బుద్ధి నిన్ను రక్షించును.",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "వివేచన"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "కాపాడును"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "నిన్ను"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "బుద్ధి"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "రక్షించును"
+    }
+  ],
+  "timestamp": "2026-08-18T01:38:27.052542733Z",
+  "model": "glm-5.3"
+}

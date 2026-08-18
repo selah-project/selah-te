@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "మిష్మన్నాహు నాలుగవవాడు, యిర్మెయాహు ఐదవవాడు.",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "మిష్మన్నాహు"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "నాలుగవవాడు"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "యిర్మెయాహు"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "ఐదవవాడు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:28:57.682660849Z",
+  "model": "glm-5.3"
+}

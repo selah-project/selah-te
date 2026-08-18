@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "అదోనియా, బిగ్వయ్, అదీన్,",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "అదోనియా"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "బిగ్వయ్"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "అదీన్"
+    }
+  ],
+  "timestamp": "2026-08-18T03:16:28.913399590Z",
+  "model": "glm-5.3"
+}

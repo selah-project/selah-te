@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "నీతి మార్గములో జీవము ⟨ఉంది⟩, మరియు ఆ బాటలో మరణము ⟨లేదు⟩.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "మార్గములో"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "నీతి"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "జీవము"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "మరియు బాట"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ఆ బాట"
+    },
+    {
+      "surface": "אל",
+      "gloss": "మరణము ⟨లేదు⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "మరణము"
+    }
+  ],
+  "timestamp": "2026-08-18T01:45:26.662579533Z",
+  "model": "glm-5.3"
+}

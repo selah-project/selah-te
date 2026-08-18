@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "ఎందుకంటే దుర్మార్గాన్ని ఇష్టపడని ఏల్ నీవు; చెడు నీ దగ్గర బస చేయదు.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ఇష్టపడు"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "దుర్మార్గం"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "నీ దగ్గర బస చేయు"
+    },
+    {
+      "surface": "רע",
+      "gloss": "చెడు"
+    }
+  ],
+  "timestamp": "2026-08-18T00:52:17.012836614Z",
+  "model": "glm-5.3"
+}

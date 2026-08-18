@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మిక్మాస్ పురుషులు — వంద ఇరవై ఇద్దరు.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "పురుషులు"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "మిక్మాస్"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "వంద"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "మరియు ఇరవై"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "మరియు ఇద్దరు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:54.313491711Z",
+  "model": "glm-5.3"
+}

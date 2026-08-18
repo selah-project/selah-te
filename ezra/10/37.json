@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "మత్తన్యా, మత్తెనాయ్, యాషావు,",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "మత్తన్యా"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "మత్తెనాయ్"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "మరియు యాషావు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:05:23.849339349Z",
+  "model": "glm-5.3"
+}

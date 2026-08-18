@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "పడిపోయింది మన తలపై ⟨ఉన్న⟩ కిరీటం; ఆహా, ఇప్పుడు మనకు ఆపద — ఎందుకంటే మేము పాపం చేసాము.",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "పడిపోయింది"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "కిరీటం"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "మన తలపై"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ఆహా"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ఇప్పుడు"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "మనకు"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ఎందుకంటే"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "మేము పాపం చేసాము"
+    }
+  ],
+  "timestamp": "2026-08-18T02:35:05.067486407Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 10,
+  "translation": "బిన్యామిన్, మల్లూక్, షెమర్యా.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "బిన్యామిన్"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "మల్లూక్"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "షెమర్యా"
+    }
+  ],
+  "timestamp": "2026-08-18T03:05:50.270599360Z",
+  "model": "glm-5.3"
+}

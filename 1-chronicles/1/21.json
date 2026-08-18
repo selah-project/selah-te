@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "మరియు ⟨את⟩ హదోరామును ⟨את⟩ ఉజాలును ⟨את⟩ దిక్లాను",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "హదోరామును"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "హదోరామును"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ఉజాలును"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ఉజాలును"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "దిక్లాను"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "దిక్లాను"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:17.187963543Z",
+  "model": "glm-5.3"
+}

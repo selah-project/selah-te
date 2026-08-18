@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 23,
+  "translation": "మూషీ కుమారులు — మఖ్లీ, ఎదెర్, యెరెమోత్ — ముగ్గురు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "మూషీ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "మఖ్లీ"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ఎదెర్"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "యెరెమోత్"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ముగ్గురు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:37:52.184363571Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "బాధితుని రోజులన్నీ ⟨అని⟩ చెడ్డవి; మంచి హృదయం గలవాడికి ⟨అది⟩ నిరంతర విందు.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "అన్నీ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "రోజులు"
+    },
+    {
+      "surface": "עני",
+      "gloss": "బాధితుని"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "చెడ్డవి"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "మరియు మంచి"
+    },
+    {
+      "surface": "לב",
+      "gloss": "హృదయం"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "విందు"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "నిరంతరం"
+    }
+  ],
+  "timestamp": "2026-08-18T06:16:21.924451729Z",
+  "model": "glm-5.3"
+}

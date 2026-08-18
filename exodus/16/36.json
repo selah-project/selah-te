@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 16,
+  "translation": "మరియు ⟨the⟩ ఓమర్ ⟨is⟩ ⟨the⟩ ఏపా యొక్క పదవ భాగము.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "మరియు ⟨the⟩ ఓమర్"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "పదవ భాగము"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "⟨the⟩ ఏపా యొక్క"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అదే"
+    }
+  ],
+  "timestamp": "2026-08-17T17:46:41.374279186Z",
+  "model": "glm-5.3"
+}

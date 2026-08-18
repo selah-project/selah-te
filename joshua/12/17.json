@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 12,
+  "translation": "తప్పువాహ్ రాజు — ఒకడు; ఖెఫెర్ రాజు — ఒకడు;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "తప్పువాహ్"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ఖెఫెర్"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకడు"
+    }
+  ],
+  "timestamp": "2026-08-17T21:44:20.117894963Z",
+  "model": "glm-5.3"
+}

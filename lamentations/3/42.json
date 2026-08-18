@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "మేము అతిక్రమించెము, తిరుగుబాటు చేసెము — నీవు క్షమించలేదు.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "మేము"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "అతిక్రమించెము"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "తిరుగుబాటు చేసెము"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "నీవు"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "క్షమించితివి"
+    }
+  ],
+  "timestamp": "2026-08-18T06:19:17.992481991Z",
+  "model": "glm-5.3"
+}

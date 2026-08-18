@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 68,
+  "translation": "ఎలోహీం పర్వతము — బాషాను పర్వతము; శిఖరముల పర్వతము — బాషాను పర్వతము.",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "పర్వతము"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ఎలోహీం"
+    },
+    {
+      "surface": "הר",
+      "gloss": "పర్వతము"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "బాషాను"
+    },
+    {
+      "surface": "הר",
+      "gloss": "పర్వతము"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "శిఖరముల"
+    },
+    {
+      "surface": "הר",
+      "gloss": "పర్వతము"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "బాషాను"
+    }
+  ],
+  "timestamp": "2026-08-18T01:11:21.416825031Z",
+  "model": "glm-5.3"
+}

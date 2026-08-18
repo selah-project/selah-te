@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "రాజును హామానును రాణి ⟨את⟩ ఎస్తేరుతో పాటు త్రాగుటకు వచ్చిరి.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "వచ్చిరి"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "మరియు హామాను"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "త్రాగుటకు"
+    },
+    {
+      "surface": "עם",
+      "gloss": "తో"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ఎస్తేరు"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "రాణి"
+    }
+  ],
+  "timestamp": "2026-08-18T02:47:01.185781634Z",
+  "model": "glm-5.3"
+}

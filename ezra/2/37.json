@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "ఇమ్మేరు కుమారులు — వెయ్యి యాభై రెండు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ఇమ్మేరు"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "వెయ్యి"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "యాభై"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "రెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:37.351796516Z",
+  "model": "glm-5.3"
+}

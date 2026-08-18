@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 15,
+  "translation": "అమాం, మరియు షేమా, మరియు మోలాదా;",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "అమాం"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "మరియు షేమా"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "మరియు మోలాదా"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:30.366947036Z",
+  "model": "glm-5.3"
+}

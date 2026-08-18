@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "te",
+  "chapter": 3,
+  "translation": "మన శత్రువులందరూ మనపై తమ నోరు తెరిచిరి.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "తెరిచిరి"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "మనపై"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "వారి నోరు"
+    },
+    {
+      "surface": "כל",
+      "gloss": "అందరూ"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "మన శత్రువుల"
+    }
+  ],
+  "timestamp": "2026-08-18T02:30:57.477960014Z",
+  "model": "glm-5.3"
+}

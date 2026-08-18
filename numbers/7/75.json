@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 75,
+  "ref": "numbers 7:75",
+  "book": "numbers",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "ఒక ఆవు కోడెదూడ, ఒక పొట్టేలు, పొడిచిన వయస్సు గల ఒక గొర్రెపిల్ల — కాలార్పణగా.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ఆవు కోడెదూడ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక"
+    },
+    {
+      "surface": "בן",
+      "gloss": "—"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "గోవుల"
+    },
+    {
+      "surface": "איל",
+      "gloss": "పొట్టేలు"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "గొర్రెపిల్ల"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒక"
+    },
+    {
+      "surface": "בן",
+      "gloss": "పొడిచిన వయస్సు గల"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ఒక ఏడాది"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "కాలార్పణగా"
+    }
+  ],
+  "timestamp": "2026-08-17T19:26:02.886312620Z",
+  "model": "glm-5.3"
+}

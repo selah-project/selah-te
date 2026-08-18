@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 27,
+  "translation": "మరియు స్త్రీ అయితే, నీ అంచనా ⟨ఉండవలెను⟩ ముప్ఫై శేకెలులు.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "మరియు అయితే"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "స్త్రీ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ఆమె"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "మరియు ⟨ఉండవలెను⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "నీ అంచనా"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ముప్ఫై"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "శేకెలులు"
+    }
+  ],
+  "timestamp": "2026-08-18T04:30:40.659805636Z",
+  "model": "glm-5.3"
+}

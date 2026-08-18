@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "సొదోము రాజు అవ్రాం తో చెప్పెను — నాకు ప్రాణులను ఇవ్వు, సంపదను నీకు తీసుకొను.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "చెప్పెను"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "రాజు"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "సొదోము"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "అవ్రాం"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ఇవ్వు"
+    },
+    {
+      "surface": "לי",
+      "gloss": "నాకు"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ప్రాణులను"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "సంపదను"
+    },
+    {
+      "surface": "קח",
+      "gloss": "తీసుకొను"
+    },
+    {
+      "surface": "לך",
+      "gloss": "నీకు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:10:58.582864618Z",
+  "model": "glm-5.3"
+}

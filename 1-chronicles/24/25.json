@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 24,
+  "translation": "మీఖా సహోదరుడు యిష్షియా; యిష్షియా కుమారులకు జెఖర్యాహు.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "సహోదరుడు"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "మీఖా"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "యిష్షియా"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "కుమారులకు"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "యిష్షియా"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "జెఖర్యాహు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:36:30.908689744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "te",
+  "chapter": 26,
+  "translation": "గొయ్యి తవ్వేవాడు ⟨את⟩ దానిలోనే పడతాడు, రాయి దొర్లించేవాడికి అది తిరిగి వస్తుంది.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "తవ్వుతాడు"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "గొయ్యి"
+    },
+    {
+      "surface": "בה",
+      "gloss": "దానిలో"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "పడతాడు"
+    },
+    {
+      "surface": "కרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "—"
+    },
+    {
+      "surface": "בה",
+      "gloss": "—"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "—"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "మరియు దొర్లించేవాడు"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "రాయి"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "అతని వైపు"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "తిరిగి వస్తుంది"
+    }
+  ],
+  "timestamp": "2026-08-18T01:54:39.777212355Z",
+  "model": "glm-5.3"
+}

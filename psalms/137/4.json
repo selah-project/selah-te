@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 137,
+  "translation": "పరదేశ మట్టిమీద యాహ్వే పాటను ⟨את⟩ ఎలా పాడగలము?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "ఎలా"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "పాడగలము"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "పాటను"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "పాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "על",
+      "gloss": "మీద"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "మట్టి"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "పరదేశ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:35:09.276146478Z",
+  "model": "glm-5.3"
+}

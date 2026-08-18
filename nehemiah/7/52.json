@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "బేసయ్ కుమారులు, మెయూనీయుల కుమారులు, నెఫూషెసీం కుమారులు,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "బేసయ్"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "మెయూనీయుల"
+    },
+    {
+      "surface": "ఠనי",
+      "gloss": "",
+      "comment": "duplicate"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "నెఫూషెసీం"
+    }
+  ],
+  "timestamp": "2026-08-18T03:12:51.893419536Z",
+  "model": "glm-5.3"
+}

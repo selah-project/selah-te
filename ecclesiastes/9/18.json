@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "te",
+  "chapter": 9,
+  "translation": "యుద్ధ ఆయుధాల కంటే జ్ఞానం ⟨మిన్న⟩; ఒకే పాపి చాలా మంచిని నాశనం చేయును.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "⟨మిన్న⟩ మంచిది"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "జ్ఞానం"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "…ఆయుధాల కంటే"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "యుద్ధ"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "మరియు పాపి"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ఒకే ఒక్కడు"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "నాశనం చేయును"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "మంచిని"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "చాలా"
+    }
+  ],
+  "timestamp": "2026-08-18T02:37:55.121394488Z",
+  "model": "glm-5.3"
+}

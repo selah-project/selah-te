@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "చెలరేయండి, కూడ చెలరేయండి, ఓ ఆశించని జనాంగమా,",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "చెలరేయండి"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "కూడ చెలరేయండి"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ఓ జనాంగమా"
+    },
+    {
+      "surface": "לא",
+      "gloss": "కాదు"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ఆశించబడని"
+    }
+  ],
+  "timestamp": "2026-08-18T00:46:41.559671652Z",
+  "model": "glm-5.3"
+}

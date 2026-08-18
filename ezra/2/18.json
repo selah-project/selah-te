@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "యోరా కుమారులు — ఒక వంద పన్నెండుగురు.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "యోరా"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ఒక వంద"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "రెండు"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "పన్నెండు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:59:53.333755922Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "మరియు శ్లోమో ఖిరాము వద్దకు ఇలా చెప్పుకొని పంపెను:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "పంపెను"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "శ్లోమో"
+    },
+    {
+      "surface": "אל",
+      "gloss": "వద్దకు"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ఖిరాము"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా చెప్పుకొని"
+    }
+  ],
+  "timestamp": "2026-08-17T22:37:57.132529972Z",
+  "model": "glm-5.3"
+}

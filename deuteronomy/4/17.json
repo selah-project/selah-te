@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "భూమిపై ఉన్న ప్రతి జంతువు రూపం, ఆకాశంలో ఎగిరే ప్రతి రెక్కల పక్షి రూపం,",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "రూపం"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "జంతువు"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏదైనా"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "భూమిపై ఉన్న"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "రూపం"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ప్రతి"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "పక్షి"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "రెక్కల"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ఏదైనా"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "ఎగిరే"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ఆకాశంలో"
+    }
+  ],
+  "timestamp": "2026-08-17T20:52:25.133861281Z",
+  "model": "glm-5.3"
+}

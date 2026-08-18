@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 1,
+  "translation": "యితూర్, నాఫీష్, వకెదెమా — వీరే యిష్మాయేలు కుమారులు.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "యితూర్"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "నాఫీష్"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "వకెదెమా"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "వీరే"
+    },
+    {
+      "surface": "הם",
+      "gloss": "వీరే"
+    },
+    {
+      "surface": "בני",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "యిష్మాయేలు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:19:22.310757526Z",
+  "model": "glm-5.3"
+}

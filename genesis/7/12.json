@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 7,
+  "translation": "మరియు వర్షం ⟨ఉండెను⟩ భూమిపై నలభై దినములు మరియు నలభై రాత్రులు.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు ⟨ఉండెను⟩"
+    },
+    {
+      "surface": "హיהי הגשם",
+      "gloss": "వర్షం"
+    },
+    {
+      "surface": "על",
+      "gloss": "పై"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "భూమి"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "నలభై"
+    },
+    {
+      "surface": "יום",
+      "gloss": "దినములు"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "మరియు నలభై"
+    },
+    {
+      "surface": "లילה",
+      "gloss": "రాత్రులు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:06:17.974930936Z",
+  "model": "glm-5.3"
+}

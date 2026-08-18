@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "మరియు ⟨the⟩ పుష్పాలు, ⟨the⟩ దీపములు, ⟨the⟩ ములుములు — బంగారము; అది పరిపూర్ణ బంగారము.",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "మరియు పుష్పాలు"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "మరియు దీపములు"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "మరియు ములుములు"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారము"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "అది"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "పరిపూర్ణమైన"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "బంగారము"
+    }
+  ],
+  "timestamp": "2026-08-18T03:43:13.676416642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "te",
+  "chapter": 14,
+  "translation": "మరియు వస్త్రము యొక్క త్సారాఅత్ కు, మరియు ఇంటికి:",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "మరియు త్సారాఅత్ కు"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "ఆ వస్త్రము యొక్క"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "మరియు ఆ ఇంటికి"
+    }
+  ],
+  "timestamp": "2026-08-17T18:16:51.239469116Z",
+  "model": "glm-5.3"
+}

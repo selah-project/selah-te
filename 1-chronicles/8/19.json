@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 8,
+  "translation": "మరియు యాకీము, మరియు జిక్రీ, మరియు జబ్దీ.",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "మరియు యాకీము"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "మరియు జిక్రీ"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "మరియు జబ్దీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:25:52.083145448Z",
+  "model": "glm-5.3"
+}

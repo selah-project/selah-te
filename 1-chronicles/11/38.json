@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 11,
+  "translation": "యోఏల్ నాతాన్ సోదరుడు, మిబ్ఖార్ హగ్రీ కుమారుడు.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "యోఏల్"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "సోదరుడు"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "నాతాన్"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "మిబ్ఖార్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "హగ్రీ"
+    }
+  ],
+  "timestamp": "2026-08-18T03:27:19.953928472Z",
+  "model": "glm-5.3"
+}

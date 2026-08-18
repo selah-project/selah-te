@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "te",
+  "chapter": 5,
+  "translation": "అనోషు తొంభై సంవత్సరాలు జీవించెను, ⟨את⟩ కేనాన్‌ను జనింపజేసెను.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "జీవించెను"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "అనోషు"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "తొంభై"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "సంవత్సరాలు"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "జనింపజేసెను"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "కేనాన్‌ను"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "కేనాన్"
+    }
+  ],
+  "timestamp": "2026-08-17T17:05:18.927331297Z",
+  "model": "glm-5.3"
+}

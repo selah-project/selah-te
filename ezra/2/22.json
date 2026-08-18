@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "te",
+  "chapter": 2,
+  "translation": "నెతోపా పురుషులు యాభై ఆరుగురు.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "పురుషులు"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "నెతోపా"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "యాభై"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ఆరుగురు"
+    }
+  ],
+  "timestamp": "2026-08-18T02:58:17.524396118Z",
+  "model": "glm-5.3"
+}

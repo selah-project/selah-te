@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "te",
+  "chapter": 31,
+  "translation": "యాహ్వే మోషేతో ఇలా ఆడుకొనలేదు — యాహ్వే మోషేకు సెలవిచ్చెను ⟨ఇలా⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "మాట్లాడెను"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אל",
+      "gloss": "తో"
+    },
+    {
+      "surface": "משה",
+      "gloss": "మోషే"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ఇలా చెప్పుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T17:54:36.675883495Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "te",
+  "chapter": 4,
+  "translation": "మెషోబాబ్, యామ్లేక్, అమత్స్యాహు కుమారుడైన యోషాహ్ —",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "మరియు మెషోబాబ్"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "మరియు యామ్లేక్"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "మరియు యోషాహ్"
+    },
+    {
+      "surface": "בן",
+      "gloss": "కుమారుడు"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "అమత్స్యాహు"
+    }
+  ],
+  "timestamp": "2026-08-18T03:23:11.848477794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "te",
+  "chapter": 127,
+  "translation": "ఇదిగో, కుమారులు యాహ్వే సంపద; గర్భఫలము ⟨is⟩ ప్రతిఫలము.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ఇదిగో"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "సంపద"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "కుమారులు"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ప్రతిఫలము"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ఫలము"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "గర్భ"
+    }
+  ],
+  "timestamp": "2026-08-18T01:33:37.223965848Z",
+  "model": "glm-5.3"
+}

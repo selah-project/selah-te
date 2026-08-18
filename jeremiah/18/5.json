@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "మరియు యాహ్వే మాట నాయొద్దకు వచ్చెను, సెలవిచ్చుచు:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "మరియు వచ్చెను"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "మాట"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "యాహ్వే"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "నాయొద్దకు"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "సెలవిచ్చుచు"
+    }
+  ],
+  "timestamp": "2026-08-17T23:43:24.133219678Z",
+  "model": "glm-5.3"
+}

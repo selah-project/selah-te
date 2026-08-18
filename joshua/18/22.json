@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "te",
+  "chapter": 18,
+  "translation": "బేత్-హ-అరాబా, త్సెమరయీం, బేత్-ఏల్.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "మరియు బేత్"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "హ-అరాబా"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "మరియు త్సెమరయీం"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "మరియు బేత్"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ఏల్"
+    }
+  ],
+  "timestamp": "2026-08-17T21:46:41.570573144Z",
+  "model": "glm-5.3"
+}
