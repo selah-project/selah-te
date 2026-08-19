@@ -5,8 +5,43 @@
   "book": "leviticus",
   "lang": "te",
   "chapter": 9,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-17T18:12:16.083015466Z",
+  "translation": "మరియు ⟨את⟩ మాంసాన్ని ⟨את⟩ చర్మాన్ని శిబిరం వెలుపల అగ్నితో దహించెను.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "మాంసాన్ని"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "మాంసాన్ని"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "చర్మాన్ని"
+    },
+    {
+      "surface": "העור",
+      "gloss": "చర్మాన్ని"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "దహించెను"
+    },
+    {
+      "surface": "באש",
+      "gloss": "అగ్నితో"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "వెలుపల"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "శిబిరం"
+    }
+  ],
+  "timestamp": "2026-08-19T01:56:58.578731316Z",
   "model": "glm-5.3"
 }

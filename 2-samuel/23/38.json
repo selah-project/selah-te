@@ -5,21 +5,25 @@
   "book": "2-samuel",
   "lang": "te",
   "chapter": 23,
-  "translation": "ఇరా ⟨the⟩ యిత్రీయుడు, గారేబు ⟨the⟩ యిత్రీయుడు.",
+  "translation": "ఇరా యిత్రీయుడు, గారేబు యిత్రీయుడు.",
   "tokens": [
     {
       "surface": "עירא",
       "gloss": "ఇరా"
     },
     {
-      "surface": "గרב היתרי היתרי",
-      "gloss": ""
+      "surface": "היתרי",
+      "gloss": "యిత్రీయుడు"
     },
     {
-      "surface": "",
-      "gloss": ""
+      "surface": "גרב",
+      "gloss": "గారేబు"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "యిత్రీయుడు"
     }
   ],
-  "timestamp": "2026-08-17T22:33:34.226073061Z",
+  "timestamp": "2026-08-19T01:35:39.176385816Z",
   "model": "glm-5.3"
 }
