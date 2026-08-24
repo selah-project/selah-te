@@ -5,29 +5,29 @@
   "book": "habakkuk",
   "lang": "te",
   "chapter": 1,
-  "translation": "హబక్కూకు ప్రవక్త చూసిన ⟨the⟩ భారము.",
+  "translation": "హబక్కూకు ప్రవక్త చూసిన ⟨the⟩ భారం",
   "tokens": [
     {
       "surface": "המשא",
-      "gloss": "భారము"
+      "gloss": "భారం"
     },
     {
       "surface": "אשר",
-      "gloss": "దేనిని"
+      "gloss": "దేనినో"
     },
     {
       "surface": "חזה",
-      "gloss": "చూచెను"
+      "gloss": "చూసిన"
     },
     {
       "surface": "חבקוק",
       "gloss": "హబక్కూకు"
     },
     {
-      "surface": "הנביא",
+      "surface": "హנביא",
       "gloss": "ప్రవక్త"
     }
   ],
-  "timestamp": "2026-08-18T00:43:38.327996046Z",
+  "timestamp": "2026-08-24T13:14:23.533024609Z",
   "model": "glm-5.3"
 }

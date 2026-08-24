@@ -5,43 +5,43 @@
   "book": "daniel",
   "lang": "te",
   "chapter": 3,
-  "translation": "Shadrach, Meshach, Abed-Nego లు సమాధానమిచ్చి రాజు అయిన Nebuchadnezzar తో ⟨అన్నారు⟩ — ఈ మాటకు మేము ⟨నీకు⟩ సమాధానమివ్వవలసిన అవసరం ⟨లేదు⟩.",
+  "translation": "షద్రాక్, మేషాక్, అబేద్-నేగో ప్రత్యుత్తరమిచ్చి రాజును — నెబూకద్నెస్సర్ — ఇట్లు అనిరి: ఈ విషయమై నీకు ప్రత్యుత్తరమివ్వడం మాకు అవసరం ⟨లేదు⟩.",
   "tokens": [
     {
       "surface": "ענו",
-      "gloss": "సమాధానమిచ్చి"
+      "gloss": "ప్రత్యుత్తరమిచ్చి"
     },
     {
       "surface": "שדרך",
-      "gloss": "Shadrach"
+      "gloss": "షద్రాక్"
     },
     {
       "surface": "מישך",
-      "gloss": "Meshach"
+      "gloss": "మేషాక్"
     },
     {
       "surface": "ועבד",
-      "gloss": "మరియు Abed"
+      "gloss": "మరియు అబేద్-"
     },
     {
       "surface": "נגו",
-      "gloss": "Nego"
+      "gloss": "నేగో"
     },
     {
       "surface": "ואמרין",
-      "gloss": "మరియు ⟨అన్నారు⟩"
+      "gloss": "అనిరి"
     },
     {
       "surface": "למלכא",
-      "gloss": "రాజు తో"
+      "gloss": "రాజును"
     },
     {
       "surface": "נבוכדנצר",
-      "gloss": "Nebuchadnezzar"
+      "gloss": "నెబూకద్నెస్సర్"
     },
     {
       "surface": "לא",
-      "gloss": "లేదు"
+      "gloss": "అవసరం ⟨లేదు⟩"
     },
     {
       "surface": "חשחין",
@@ -49,11 +49,11 @@
     },
     {
       "surface": "אנחנה",
-      "gloss": "మేము"
+      "gloss": "మాకు"
     },
     {
       "surface": "על",
-      "gloss": "కు"
+      "gloss": "గురించి"
     },
     {
       "surface": "דנה",
@@ -61,13 +61,13 @@
     },
     {
       "surface": "פתגם",
-      "gloss": "మాట"
+      "gloss": "విషయమై"
     },
     {
       "surface": "להתבותך",
-      "gloss": "నీకు సమాధానమివ్వ"
+      "gloss": "నీకు ప్రత్యుత్తరమివ్వడం"
     }
   ],
-  "timestamp": "2026-08-18T06:26:11.560941545Z",
+  "timestamp": "2026-08-24T13:24:23.691068677Z",
   "model": "glm-5.3"
 }

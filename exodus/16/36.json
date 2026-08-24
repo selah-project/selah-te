@@ -5,25 +5,25 @@
   "book": "exodus",
   "lang": "te",
   "chapter": 16,
-  "translation": "మరియు ⟨the⟩ ఓమర్ ⟨is⟩ ⟨the⟩ ఏపా యొక్క పదవ భాగము.",
+  "translation": "మరియు ⟨ఆ⟩ ఒమెరు ⟨అది⟩ ఏపాల పదిభాగములలో ఒకటి.",
   "tokens": [
     {
       "surface": "והעמר",
-      "gloss": "మరియు ⟨the⟩ ఓమర్"
+      "gloss": "మరియు ⟨ఆ⟩ ఒమెరు"
     },
     {
       "surface": "עשרית",
-      "gloss": "పదవ భాగము"
+      "gloss": "పదిభాగములలో ఒకటి"
     },
     {
       "surface": "האיפה",
-      "gloss": "⟨the⟩ ఏపా యొక్క"
+      "gloss": "ఏపా"
     },
     {
       "surface": "הוא",
-      "gloss": "అదే"
+      "gloss": "⟨అది⟩"
     }
   ],
-  "timestamp": "2026-08-17T17:46:41.374279186Z",
+  "timestamp": "2026-08-24T13:31:21.052523863Z",
   "model": "glm-5.3"
 }

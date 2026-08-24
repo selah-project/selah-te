@@ -5,33 +5,33 @@
   "book": "amos",
   "lang": "te",
   "chapter": 3,
-  "translation": "ఇద్దరు ఒకటిగా ఢలగిలేరు ఢיעג-ఢיעג ఢיןఢ-ఢ-ఢల ఢల-ఢలి?",
+  "translation": "ఇద్దరు ఏకముగా నడువుదురా? వారు కలిసి ఒప్పందము చేసుకొనక పోయితే ⟨unless⟩?",
   "tokens": [
     {
-      "surface": "ఢలగిలేరు",
-      "gloss": "ఢల-ఢలి"
+      "surface": "הילכו",
+      "gloss": "నడువుదురా?"
     },
     {
-      "surface": "ఢల-ఢలి",
-      "gloss": "ఢల-ఢలి"
+      "surface": "שנים",
+      "gloss": "ఇద్దరు"
     },
     {
-      "surface": "ఢలి",
-      "gloss": "ఢల-ఢలి"
+      "surface": "יחדו",
+      "gloss": "ఏకముగా"
     },
     {
-      "surface": "ఢలి",
-      "gloss": "ఢల-ఢలి"
+      "surface": "בלתי",
+      "gloss": "—"
     },
     {
-      "surface": "ఢײײఒ",
-      "gloss": "ఢల-ఢలి"
+      "surface": "אם",
+      "gloss": "—"
     },
     {
-      "surface": "ఢײఢ",
-      "gloss": "ఢల-ఢలి"
+      "surface": "נועדו",
+      "gloss": "ఒప్పందము చేసుకొనక"
     }
   ],
-  "timestamp": "2026-08-18T00:35:41.362056467Z",
+  "timestamp": "2026-08-24T13:13:31.356312816Z",
   "model": "glm-5.3"
 }

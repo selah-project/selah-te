@@ -5,25 +5,25 @@
   "book": "numbers",
   "lang": "te",
   "chapter": 7,
-  "translation": "పాప బలిగా ⟨for⟩ మేకలలో ఒక్క మేకపోతు —",
+  "translation": "ఒక మేకపిల్లను పాపార్పణ కోసం అర్పించారు.",
   "tokens": [
     {
       "surface": "שעיר",
-      "gloss": "మేకపోతు"
+      "gloss": "మేకపిల్ల"
     },
     {
       "surface": "עזים",
-      "gloss": "మేకలలో"
+      "gloss": "మేకల"
     },
     {
       "surface": "אחד",
-      "gloss": "ఒక్క"
+      "gloss": "ఒక్కటి"
     },
     {
       "surface": "לחטאת",
-      "gloss": "పాప బలిగా"
+      "gloss": "పాపార్పణ కోసం"
     }
   ],
-  "timestamp": "2026-08-18T04:35:55.020028487Z",
+  "timestamp": "2026-08-24T13:31:53.874952007Z",
   "model": "glm-5.3"
 }
