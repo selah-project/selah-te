@@ -61,3 +61,8 @@ Git చరిత్ర తెరిచిన రికార్డును, స
 అంగీకరించవచ్చు, మీతో కలిసి పరిష్కరించవచ్చు, మరింత ఆధారం కోసం
 వేచి ఉండవచ్చు, లేదా కారణంతో తిరస్కరించవచ్చు. పాఠ్యాన్ని పరిశీలించండి,
 వ్యక్తిని కాదు.
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
