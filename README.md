@@ -73,3 +73,9 @@
 పాఠకులు, హీబ్రూ విద్యార్థులు, అనువాదకులు, తెలుగు మాట్లాడేవారు —
 అందరికీ స్వాగతం. సమస్యను నివేదించే ముందు లేదా సవరణ సూచించే ముందు
 [CONTRIBUTING.md](CONTRIBUTING.md) చదవండి.
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
