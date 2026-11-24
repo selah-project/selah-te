@@ -66,7 +66,7 @@
 
 ఈ అనువాదం CC BY-SA 4.0 క్రింద తెరిచి ఉంది. ఈ పని ఉపయోగకరమైతే,
 అనువాదంలో, సవరణలో, ప్రచురణలో, అభివృద్ధిలో సహాయం చేయాలనుకుంటే
-[selahproject.com/support](https://selahproject.com/support) చూడండి.
+[s33k3r.com/learn/support](https://s33k3r.com/learn/support) చూడండి.
 
 ## సవరణలో పాల్గొనడం
 
@@ -76,6 +76,6 @@
 
 ## Selah
 
-- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
-- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
-- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
+- The languages of Selah — every chair, native name and status: https://s33k3r.com/learn/languages/index
+- How the renderings are made — the process, the discipline, the receipts: https://s33k3r.com/learn/data-sources/selah-renderings
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://s33k3r.com/learn/data-sources/oshb-wlc

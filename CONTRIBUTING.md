@@ -12,7 +12,7 @@
   తెరవండి.
 - తప్పూ దాని సవరణా రెండూ స్పష్టమైతే — **Pull request** తెరవండి.
 - సాఫ్ట్‌వేర్ సమస్య, లేదా భద్రత/ఖాతా/గోప్యత విషయమైతే
-  [Selah Support](https://selahproject.com/support) వాడండి.
+  [Selah Support](https://s33k3r.com/learn/support) వాడండి.
 
 ## ఏమి చేర్చాలి
 
